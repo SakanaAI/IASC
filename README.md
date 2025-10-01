@@ -1,5 +1,4 @@
-![Example
- Mon](https://github.com/SakanaAI/IASC/blob/main/iasc.png)
+<img src="https://github.com/SakanaAI/IASC/blob/main/iasc.png" alt="iasc" width="200"/>
 
 # IASC: Interactive Agentic System for ConLangs
 
