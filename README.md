@@ -116,6 +116,11 @@ A metascript `morphosyntax_0_0_0.sh` includes the following shell scripts (for n
 To run an evaluation,
 - `./modular_experiment_outputs_controlled/claude/french/metascripts/evaluation_0_0.sh`
 
+## The outputs
+- After you run `modular_experiment_outputs_controlled/claude/metascripts/word_order.sh`, you get the
+  intermediate output in `modular_experiment_outputs_controlled/claude/word_order_0_{j}/sentence_design_output.txt`.
+- The final output can be found in `modular_experiment_outputs_controlled/claude/`
+
 ## To run an experiment for all languages
 You can run an experiment across all the languages, including the evaluation step, by running the following command:
 - `./modular_experiments/controlled_morphosyntax/claude/all_languages.sh`
@@ -207,11 +212,6 @@ which uses the Latin script.
 - `**ERROR** in sample text in the user prompt: the sample text depends on the earlier morphosyntax outputs by Claude.
     If any of the preceding tasks did not run successfully, you do not get the output.
     Make sure that the preceding tasks are successfully executed.
-
-## The outputs
-- After you run `modular_experiment_outputs_controlled/claude/metascripts/word_order.sh`, you get the
-  intermediate output in `modular_experiment_outputs_controlled/claude/word_order_0_{j}/sentence_design_output.txt`.
-- The final output can be found in `modular_experiment_outputs_controlled/claude/`
 
 ## What we want to do from now
 The task we are implementing is to have LLMs construct a language that follows the instructions/specifications given by the user about the language.
