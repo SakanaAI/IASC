@@ -1,0 +1,14 @@
+<INSTRUCTIONS>
+
+I'd like you to write me {{number_of_sentences}} example English sentences that illustrate
+different PERSONS as SUBJECTS or OBJECTS of sentences.  Give examples with
+
+FIRST PERSON SINGULAR ("I"/"me")
+FIRST PERSON PLURAL ("we"/"us")
+SECOND PERSON SINGULAR ("thou"/"thee")
+SECOND PERSON PLURAL ("you"/"you")
+THIRD PERSON SINGULAR ("he"/"him", "she"/"her", "it"/"it")
+THIRD PERSON PLURAL ("they"/"them")
+
+{{general_guidelines}}
+</INSTRUCTIONS>

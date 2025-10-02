@@ -1,0 +1,46 @@
+sentence,label,prediction_example
+He is the smartest student in our school.,he be student smart SUP in school we.,be student REL be smartest in school we-GEN.
+The new phone is twice as expensive as the old model.,phone new be expensive twice as model old.,be phone REL be new expensive twice as as model REL be old.
+Today is the hottest day of the year so far.,today be day hot SUP year so far.,be day REL be hottest of year so far today.
+This exercise is the easiest one in the whole book.,exercise this be easy SUP in book whole.,be exercise REL be this one REL be easiest in book REL be whole.
+This is the most delicious cake I've ever tasted.,this be cake delicious SUP I taste.,be cake REL be most delicious ever taste-PERF.
+The leaves fall from the trees in autumn.,leaf fall from tree in autumn.,fall leaf from tree in autumn.
+The children played in the park.,child play in park.,play child in park.
+The wind blows strongly today.,wind blow strongly today.,blow wind strongly today.
+He lent his bicycle to his cousin.,he lend bicycle he to cousin he.,lend bicycle he-GEN to cousin he-GEN.
+The movie starts at eight o'clock.,movie start at o'clock eight.,start movie at o'clock eight.
+"We're going on vacation next week, so the office will be closed.","we go on vacation next week, so office closed.","go on vacation next week, so be office closed."
+We've decided to go with a different contractor for this project.,we decide go with contrctor different for project this.,decide-PERF to go-INF with contractor REL be different for project this.
+Our country needs to address climate change together.,country our need adress change climate together.,need country we-GEN to address-INF change climate together.
+"We're moving to a new office, but your department will stay here.","we move to office new, but department you stay here.","move to office REL be new, but stay department you-GEN here."
+"We're going to the movies later, want to join us?","we go to movie later, want join we?","go to movie later, want to join-INF we-ACC?"
+She doesn't like spicy food.,she NEG like food spicy.,NEG like she food REL be spicy.
+He isn't interested in playing sports.,he NEG interested in play sport.,NEG be he interested in play-INF sport.
+I can't swim very well.,i NEG can swim very well.,NEG can swim i very well.
+The cat won't eat its food.,cat NEG eat food it.,NEG will eat cat food it-GEN.
+The plants don't get enough sunlight here.,plant NEG get sunlight enough here.,NEG get plant sunlight enough here.
+The leaves rustled in the wind.,leaf rustle in wind.,rustle leaf in wind.
+Many flowers bloom in the garden.,flower many bloom in garden.,bloom flower many in garden.
+We bought two loaves of bread.,we buy two loaf bread.,buy loaf two of bread.
+The stars twinkled in the night sky.,star twinkle in sky night.,twinkle star in sky REL be night.
+We planted two tomato plants in the garden.,we plant two plant tomato in garden.,plant plant two tomato in garden.
+We found a treasure map in the attic.,we find map treasure in attic.,find map REL be treasure in attic.
+She wrote the letter with a blue pen.,she write letter with pen blue.,write she letter with pen REL be blue.
+They built the sandcastle with plastic shovels.,they build sandcastle with shovel plastic.,build they sandcastle with shovel REL be plastic.
+The old man lived in a small cottage.,man old live in cottage small.,live man REL be old in cottage REL be small.
+We had a picnic in the sunny meadow.,we have picnic in meadow sunny.,have picnic in meadow REL be sunny.
+"The children built a snowman, and it melted the next day.","child build snowman, and it melt day next.","build child snowman, and melt it day REL be next."
+"Thou art a true friend, always there when I need thee.","thou be friend true, always there when i need thou.","be thou friend REL be true, always there when need i thou-ACC."
+The cat chased the mouse until it ran into a small hole.,cat chase mouse until it run into hole small.,chase cat mouse until run it into hole REL be small.
+We saw them at the grocery store while shopping for vegetables.,we see they at store grocery while shop for vegetable.,see they-ACC at store REL be grocery while shop for vegetable.
+They invited us to their house for a delicious dinner party.,they invite we to house they for party dinner delicious.,invite they we-ACC to house they-GEN for party REL be dinner REL be delicious.
+I have been waiting for the bus for 30 minutes.,i wait for bus for 30 minutes.,be-PERF wait for bus for minute 30.
+I am going to start a new job next month.,i start job new month next.,go to start-INF job REL be new next month.
+I used to play the piano when I was younger.,i play piano when i young more.,use to play-INF piano when be younger.
+We went to the movies last night.,we go to movie last night.,go to movie last night.
+They are playing soccer in the park.,they play soccer in park.,be play they soccer in park.
+A new species of frog was discovered by the scientist.,scientist discover species new frog.,be species REL be new of frog discover by scientist.
+The teacher graded the tests last night.,teacher grade test night last.,grade teacher test last night.
+The dog buried the bone in the backyard.,dog bury bone in backyard.,bury dog bone in backyard.
+Sarah baked a delicious cake for the party.,Sarah bake cake delicious for party.,bake Sarah cake REL be delicious for party.
+The students elected Sarah as class president.,student elect Sarah as president class.,elect student Sarah as president class.

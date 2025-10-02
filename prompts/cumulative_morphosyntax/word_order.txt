@@ -1,0 +1,124 @@
+<INSTRUCTIONS>
+<!--
+
+In this version we attempt to cumulate the morphosyntactic information, starting
+with word order.
+
+Rather than try to do the transformations in one step, ask the model to do one
+thing at a time --- manipulate the word order, add case marking, and so forth.
+
+Each time we give instructions about starting with an English original, and
+transforming it into the structure of the target language. For all subsequent
+steps beyond the first step, we feed it the original English text, and the most
+recent transformation, and tell it to construct its updated translation on the
+basis of the most recent transformation.
+
+-->
+
+We are going to develop a 'translator' for our ConLang, which will 'translate'
+from English sentences into an abstract language that has English content words,
+but may mark them with additional morpholosyntactic information, and where the
+English phrases may be reordered.
+
+<subject_object_verb>
+We start with word order, where we will consider the main order of the sentence
+in terms of Subject (S), Object (O) and Verb (V).
+
+If the original English sentence is
+
+"Animals drink water"
+
+then depending on the word order specification in the lefthand column, one would
+transform the sentence as in the righthand column:
+
+VSO: "drink animals water"
+SVO: "animals drink water"
+SOV: "animals water drink"
+VOS: "drink water animals"
+OVS: "water drink animals"
+OSV: "water animals drink"
+</subject_object_verb>
+
+<noun_adjective>
+Next, we consider the order of adjectives and nouns, which may be Noun-Adjective
+("NA") or Adjective-Noun ("AN"). If the original English phrase is
+
+"red book"
+
+then depending on the word order specification in the lefthand column, one would
+transform the sentence as in the righthand column:
+
+NA: "book red"
+AN: "red book"
+</noun_adjective>
+
+<possessivepronoun_noun>
+Next, we consider the order of possessive pronouns and nouns, which may be
+Possessive Pronoun-Noun ("PossN") or Noun-Possessive Pronoun ("NPoss").
+If the original English phrase is
+
+"my book"
+
+then, depending on the word order specification in the lefthand column, one would
+transform the sentence as in the right column:
+
+PossN: "my book"
+NPoss: "book my"
+</possessivepronoun_noun>
+
+<numeral_noun>
+Next, we consider the order numerals and nouns, which may be
+Numeral-Noun ("NumN") or Noun-Numeral ("NNum").
+If the original English phrase is
+
+"three books"
+
+then, depending on the word order specification in the lefthand column, onw would
+transform the sentence as in the right column:
+
+NumN: "three books"
+NNum: "books three"
+</numeral_noun>
+
+<adposition_noun>
+Finally we consider the ordering of adpositions and nouns, which may be
+Preposition-Noun ("PN") or Noun-Postposition ("NP").  If the original English
+phrase is
+
+"in Paris"
+
+then depending on the word order specification in the lefthand column, one would
+transform the sentence as in the righthand column:
+
+PN: "in Paris"
+NP: "Paris in"
+</adposition_noun>
+
+The language we want to develop has:
+
+"{{main_word_order}}" main word order.
+"{{adj_noun_word_order}}" adjective-noun word order.
+"{{posspron_noun_word_order}}" possessive pronoun-noun word order.
+"{{numeral_noun}}" numeral-noun word order.
+"{{adposition_noun_word_order}}" adposition-noun word order.
+
+Your task is to 'translate' the text under SAMPLE TEXT below reordering words
+and phrases as needed to match the word order specifications given above.
+
+Place a period at the end of each sentence, as in the original text. Don't
+forget to translate the title, if there is one. Downcase all content words,
+except proper names, which are to be left capitalized. Thus "Man" would become
+"man", "We" would become "we", but "John" would remain "John".
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE SAMPLE TEXT. THAT
+IS IF THE SAMPLE TEXT HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES,
+AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN
+THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+# SAMPLE TEXT BEGINS
+{{original_text}}
+# SAMPLE TEXT ENDS
+
+Please put your response within <OUTPUT></OUTPUT> tags.
+
+</INSTRUCTIONS>

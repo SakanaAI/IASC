@@ -1,0 +1,22 @@
+In section {section_number} we will consider classifiers that go with numbers,
+and mark the type of noun associated with the number.
+
+There are a variety of classifier systems, with some languages like Japanese, or
+Chinese, having dozens of classifiers. Classifiers are usually semantically
+based, depending on visual or taxonomic features of the noun's meaning.
+
+A typical classifier system might include:
+
+CLFLAT:	  Used with flat objects like paper:		  three CLFLAT paper   "3 pieces of paper"
+CLROUND:  Used with round objects like coins:		  twenty CLROUND coin  "20 coins"
+CLLONG:	  Used with long objects like string, or rivers:  one CLLONG string "1 piece of string"
+CLANIMAL: Used with animals:				  two CLANIMAL cow  "2 cows"
+
+Since the set of possible classifiers is rather open ended, I am simply going to
+tell you if our language (a) HAS_CLASSIFIERS or (b) NONE (= no classifiers). If
+it HAS_CLASSIFIERS, then you should make up reasonable classifiers to use when
+nouns are modified by numbers. Base your classifier system on what you know
+about classifiers in languages that you have read about. The classifier should
+be introduced between the noun and the number in your translation.
+
+For our language: "{{numeral_classifier}}".

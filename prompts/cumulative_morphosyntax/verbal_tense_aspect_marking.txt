@@ -1,0 +1,81 @@
+<INSTRUCTIONS>
+<!--
+
+In this version we attempt to cumulate the morphosyntactic information, starting
+with word order.
+
+Rather than try to do the transformations in one step, ask the model to do one
+thing at a time --- manipulate the word order, add case marking, and so forth.
+
+Each time we give instructions about starting with an English original, and
+transforming it into the structure of the target language. For all subsequent
+steps beyond the first step, we feed it the original English text, and the most
+recent transformation, and tell it to construct its updated translation on the
+basis of the most recent transformation.
+
+-->
+
+We are going to develop a 'translator' for our ConLang, which will 'translate' from English sentences into an abstract language that has English content words, but may mark them with additional morphosyntactic information, and where the English phrases may be reordered.
+
+Morphosyntactic markers may show up as affixes or separate words. For affixes, our convention for marking suffixes is to place a dash before the affix, and for prefixes to place a dash after the affix:
+
+"-XXX" is a suffix: when one attaches "-XXX" to "word" one gets "word-XXX"
+"XXX-" is a prefix: when one attaches "XXX-" to "word" one gets "XXX-word"
+
+In this stage we will consider the verbal (verb) category of tense and aspect.
+
+In the description below we will use suffixes for the sake of example, but a language may use either suffixes or prefixes to mark this information.
+
+On the tense front, languages may distinguish the following:
+
+PRES:    Present tense. E.g. "goes" -> "go-PRES"
+PAST:    Past tense. E.g. "went" -> "go-PAST"
+FUT:	 Future tense. E.g. "will go" -> "go-FUT"
+IMPERF:  Imperfect tense. E.g. "was going" or "used to go" -> "go-IMPERF"
+NPAST:   Non-past tense. E.g. "goes" or "will go" (not past) -> "go-NPAST"
+IMMPAST: Immediate past. E.g. "went (just now)" -> "go-IMMPAST"
+RECPAST: Recent past. E.g. "went (recently)" -> "go-RECPAST"
+REMPAST: Remote past. E.g. "went (a long time ago)" -> "go-REMPAST"
+
+When it comes to aspect, languages may not mark aspect at all, or they may distinguish between Perfective and Imperfective aspect:
+
+IMPF: Imperfective.	       E.g. "goes" -> "go-IMPF"
+PERF: Perfective.	       E.g. "has gone" -> "go-PERF"
+
+A language may have both tense and aspect marking, in which case you should mark both on the verb. For example,
+
+"will have gone" -> "go-FUT-PERF"
+"had gone"       -> "go-PAST-PERF"
+"will go"        -> "go-FUT-IMPF
+
+A language may also not mark for tense or aspect at all. Even in such a case, make sure to output the translation in the lemma form. For example, if a language does not mark tense or aspect, the translation for "John went" should be "John go".
+
+Our language marks "{{tense_aspect}}", and they are marked by "{{tense_aspect_marking_strategy}}".
+
+If the above specification for tense/aspect is not "NONE", then be sure to pay attention to whether the tense/aspect markers are specified as prefixes or suffixes.
+
+Your task is to 'translate' the text under SAMPLE TEXT below. This text is itself a translation of an original text that you did on the previous round. This original text is given under ORIGINAL TEXT for your reference, but you should use the SAMPLE TEXT as the starting point.
+
+Any verbs you mark for tense should have tense information removed and thus appear in their lemma form, except that you shouldn't remove negative affixes like "n't" from modal verbs!  Thus "ate-PAST" would become "eat-PAST".
+
+<!-- TODO(rws): Possibly omit the following instruction. -->
+<!-- (ct): Ommited.
+Do not mark the articles "the" or "a" but rather omit these entirely.
+-->
+Do not change any affixes that have been added on a previous phase.
+
+Place a period at the end of each sentence, as in the original text. Don't forget to translate the title, if there is one. Downcase all content words, except proper names, which are to be left capitalized. Thus "Man" would become "man", "We" would become "we", but "John" would remain "John".
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE SAMPLE TEXT. THAT IS IF THE SAMPLE TEXT HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES, AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+# ORIGINAL TEXT BEGINS
+{{original_text}}
+# ORIGINAL TEXT ENDS
+
+# SAMPLE TEXT BEGINS
+{{previous_translation}}
+# SAMPLE TEXT ENDS
+
+Please put your response within <OUTPUT></OUTPUT> tags.
+
+</INSTRUCTIONS>

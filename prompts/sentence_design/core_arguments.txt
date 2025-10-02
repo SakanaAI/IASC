@@ -1,0 +1,17 @@
+<INSTRUCTIONS>
+
+I'd like you to write me {{number_of_sentences}} example English sentences that illustrate
+basic core grammatical relations, namely SUBJECT, OBJECT and INDIRECT
+OBJECT. Use a variety of both TRANSITIVE and INTRANSITIVE verbs.
+
+An example that illustrates SUBJECT, OBJECT and INDIRECT OBJECT in a TRANSITIVE
+sentence might be:
+
+"John gave the book to Mary."
+
+An example with an INTRANSITIVE sentence might be:
+
+"John left yesterday."
+
+{{general_guidelines}}
+</INSTRUCTIONS>

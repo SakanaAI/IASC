@@ -1,0 +1,4545 @@
+l o ʊ ³ ³ m o ʊ ʔ ³ ¹ </s>
+s a ³ ³ s ə ³ ³ m o ŋ ⁵ ² </s>
+o ⁵ ² t ʃ ʰ a m ³ ¹ t ʃ u ³ ³ </s>
+l o ʊ ³ ³ s i m ⁵ ⁵ </s>
+i ³ ³ l u ɔ ̯ ⁵ ⁵ </s>
+t ʃ i o ʊ ³ ³ </s>
+m o i ⁵ ² </s>
+k o ʊ ³ ³ l ə ³ ³ k o ʊ ³ ¹ </s>
+t ʰ a ŋ ³ ³ </s>
+a ³ ³ ʃ u ɔ ̯ ⁵ ² </s>
+s e i ³ ³ </s>
+k ʰ o ʊ ³ ³ k ʰ o ʊ ʔ ³ ³ </s>
+m a ʔ ³ ² k ʰ a ³ ¹ </s>
+t ʃ i ³ ³ ɲ u ³ ¹ </s>
+t ʃ ɛ ɪ ³ ¹ </s>
+k o ʊ ʔ ³ ³ i ɛ ̯ ³ ¹ </s>
+k ʰ ɔ n ³ ¹ j a ³ ¹ p a ɪ ³ ¹ </s>
+t a p ³ ¹ t i k ³ ¹ </s>
+l ɔ ŋ ³ ³ t ə ³ ³ s a ŋ ³ ³ </s>
+k ɔ ŋ ³ ³ m a ɪ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ t u ʔ ³ ³ i ɛ ̯ ⁵ ² </s>
+h a ³ ³ t ʰ o ʊ ³ ¹ </s>
+a ³ ³ l i ʊ ³ ³ l i ʊ ⁵ ² </s>
+ʃ ʰ a i ⁵ ⁵ </s>
+ɲ e i ʔ ³ ¹ </s>
+t a ŋ ³ ³ h o i ³ ¹ h e u ³ ¹ </s>
+a ŋ ³ ³ ɛ m ⁵ ⁵ ɲ u ³ ³ </s>
+t ə ³ ³ k a ŋ ³ ³ k a ŋ ³ ³ </s>
+m i u ̯ ³ ³ </s>
+k u m ³ ³ n ɔ ɪ ³ ³ </s>
+ʃ ʰ a ʔ ³ ¹ </s>
+k o ʊ ³ ³ ɲ i ³ ³ </s>
+o u ʔ ³ ² l o u ̯ ³ ¹ p u i ̯ ³ ³ </s>
+n ə ³ ³ i u ̯ ³ ³ </s>
+t e i ³ ¹ t h i ʔ ³ ¹ k ü ³ ³ h e i ⁵ ⁵ k o ⁵ ⁵ </s>
+i ɛ ̯ ³ ³ ʃ i p ³ ¹ </s>
+t ə ³ ³ t s u p ³ ³ t s u p ³ ¹ </s>
+k o ʊ ʔ ³ ³ t a ŋ ³ ³ ŋ a ⁵ ² </s>
+a ³ ³ p ɔ ɪ ³ ³ ʃ a ⁵ ⁵ </s>
+a ³ ³ k ɔ ɪ ³ ³ ʃ a ŋ ³ ³ </s>
+y a ³ ³ </s>
+h u ɔ ̯ ³ ³ </s>
+m u o ̯ ³ ³ l i ³ ³ t ʃ a m ³ ¹ </s>
+h ɛ ʊ ³ ³ p ʊ a ³ ³ ɲ u ³ ³ </s>
+m o ŋ ³ ³ t s u a ̯ ³ ³ </s>
+l a ŋ ⁵ ² k ʰ u ʔ ³ ¹ i ɛ ̯ ³ ³ </s>
+ʃ a ⁵ ⁵ i e ⁵ ² </s>
+a ³ ³ p u ɔ ̯ ⁵ ⁵ t ʃ ʰ i ŋ ³ ¹ </s>
+m ə ³ ³ k o ŋ ³ ³ s o i ̯ ʔ ³ ³ s o i ̯ ʔ ³ ³ </s>
+t ʰ a ŋ ³ ¹ </s>
+a ³ ³ p a ʊ ³ ³ t s a ŋ ³ ³ h a ɪ ⁵ ⁵ </s>
+ɲ o u ̯ ʔ ³ ² s ə ³ ¹ s u p ³ ² </s>
+w a m ³ ³ l o u ʔ ³ ¹ </s>
+a ³ ³ s i ŋ ³ ³ t ʃ ʰ ə ³ ³ l a m ⁵ ⁵ </s>
+l i ŋ ⁵ ² </s>
+ɲ u ³ ³ k a u ̯ ʔ ³ ³ </s>
+t ʃ u m ³ ¹ </s>
+n o ŋ ³ ¹ t ʃ ʰ a i ̯ ³ ³ l ɛ ⁵ ⁵ </s>
+n ə ³ ³ v ɛ i ̯ ³ ³ </s>
+t ə ³ ³ m e i ⁵ ² </s>
+l ɛ ɪ ʔ ³ ³ p a ŋ ³ ³ </s>
+a ³ ³ </s>
+i ɛ ̯ ³ ³ t s ʰ o ʊ ³ ¹ m ə ³ ¹ l ɔ ŋ ³ ¹ </s>
+k ʰ a m ³ ³ p ɔ ŋ ³ ³ </s>
+t s i m ³ ³ t o k ³ ¹ </s>
+t ə ³ ³ h u m ³ ³ h u m ³ ¹ </s>
+t ʃ ʰ u ³ ³ l u ⁵ ² </s>
+l o ʊ ³ ³ t ə ⁵ ⁵ </s>
+l ɔ h ³ ³ v a ⁵ ² </s>
+t s i ɛ ʔ ³ ³ t s u i ³ ³ t ʃ a m ⁵ ² </s>
+v ɛ ʊ ³ ³ l u i ³ ³ k ʰ u p ³ ³ </s>
+k ʰ ə ³ ³ m i a ̯ m ³ ¹ t a ʊ ³ ¹ p u ɔ ̯ ³ ³ </s>
+k o ʊ ³ ³ t ʰ a ŋ ³ ³ </s>
+t ʰ i ŋ ³ ³ </s>
+t ʃ i ʔ ³ ³ t ʰ i ɛ ̯ ʔ ³ ³ </s>
+t a i ³ ¹ ɲ u ³ ³ </s>
+i ʔ ³ ¹ t i ɛ ̯ ³ ¹ </s>
+l ə ³ ³ k i ʊ ³ ³ t s i ɛ ̯ ³ ¹ ɲ u ³ ³ </s>
+k a ŋ ³ ³ k a ŋ ⁵ ² </s>
+t ʰ a ³ ³ k i u ʔ ³ ¹ </s>
+m i ʔ ³ ³ t ʰ o ʔ ³ ³ t ʃ a m ³ ³ </s>
+l i ʊ ³ ³ s i a ̯ m ⁵ ⁵ </s>
+t ʃ ɛ ʊ ³ ¹ </s>
+s ə ³ ³ m ɑ ɪ ³ ³ </s>
+t ʃ ʰ u ³ ³ l a k ³ ³ t ʃ ə ³ ³ t ʃ u ɔ ̯ ⁵ ⁵ </s>
+l ɪ ɑ m ³ ¹ </s>
+t i e ⁵ ² p o ŋ ³ ¹ ɲ u ³ ³ </s>
+n ə ³ ³ . t s ɑ ʔ ³ ³ </s>
+t ʃ ʰ ɛ ʔ ³ ³ t ʃ ʰ ɛ ʔ ³ ³ </s>
+l a ŋ ⁵ ² </s>
+m ə ³ ³ t i u ̯ ⁵ ⁵ i u ̯ ʔ ³ ³ p a i ̯ ⁵ ² </s>
+a ³ ³ . k ʰ o u ³ ³ . s ʰ a ʔ ³ ³ </s>
+l u ɔ ̯ ⁵ ² t i ŋ ³ ¹ </s>
+m o ŋ ⁵ ² ɲ u ³ ¹ </s>
+a ³ ³ l i m ³ ¹ i ɛ ̯ ³ ³ </s>
+l a ŋ ³ ³ m ɔ ŋ ³ ³ ɲ u ³ ³ </s>
+a ³ ³ t ʃ a ⁵ ⁵ i ɛ ̯ ⁵ ² </s>
+t ʃ ʰ a ɪ ⁵ ⁵ t u ɔ ̯ ³ ³ ʃ ɛ ɪ ⁵ ² </s>
+k ʰ ə ³ ¹ l i ɛ ̯ ʔ ³ ¹ t ʰ s ɔ u ³ ¹ </s>
+ɑ u ³ ³ s ɑ m ⁵ ⁵ </s>
+m ə ³ ³ j o ³ ³ ɲ u ³ ¹ k ʰ ɛ u ̯ ³ ³ t s a u ̯ ʔ ³ ² </s>
+n ə ³ ³ p u a ̯ ⁵ ⁵ t s ʰ i a ̯ m ⁵ ² </s>
+k ɑ ⁵ ⁵ </s>
+t ʃ a ŋ ³ ¹ . k ɒ ³ ³ </s>
+k ʰ a ʊ ³ ³ k ʰ a ʊ ³ ¹ </s>
+t a ⁵ ² t ʰ i ʔ ³ ¹ n y u ³ ¹ </s>
+t ʃ u ³ ¹ </s>
+a ³ ³ k i ŋ ³ ³ </s>
+u ³ ¹ k o ³ ³ </s>
+t ʰ a m ³ ³ t ʰ a u ³ ¹ h e u ³ ¹ </s>
+k ʰ ɛ ʊ ³ ¹ ɲ ɔ ʔ ³ ¹ l ɔ ³ ¹ h ɛ ʊ ³ ¹ </s>
+t ʃ i ʊ ⁵ ² t ʃ i ʊ ⁵ ² t s ʰ o ʊ ³ ¹ </s>
+ɲ o u ̯ ʔ ³ ³ t ʰ ɛ u ̯ ³ ³ </s>
+m i ɛ ̯ ³ ³ t u a ̯ m ³ ³ </s>
+a ³ ³ s i u ̯ ³ ³ t ʃ ʰ a m ³ ¹ l a ɪ ³ ¹ </s>
+t ʃ ʰ i u ̯ ³ ¹ t ʰ i ɛ ̯ ʔ ³ ² ʃ o ŋ ³ ³ ɲ u ³ ¹ </s>
+l i a ̯ m ⁵ ² t ʃ ʰ i ɛ ̯ h ³ ¹ </s>
+i ɛ ³ ³ l ɔ ŋ ³ ³ s a ŋ ³ ³ k ʰ ɛ ʊ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ s a ŋ ³ ³ </s>
+n o k ³ ³ ʃ i ŋ ⁵ ² p o u ̯ ³ ¹ </s>
+ɲ ə ³ ³ </s>
+t ʃ i ³ ³ ɲ u ³ ³ </s>
+t ʃ ʰ a ɪ ⁵ ⁵ i ɛ ̯ ⁵ ² </s>
+t ə ³ ³ m u ³ ³ </s>
+m o ŋ ³ ³ t s o u ̯ ⁵ ⁵ i ɛ ̯ n o k ³ ² </s>
+t e i ʔ ³ ¹ </s>
+a ³ ³ ʃ a ⁵ ⁵ t ʰ u ⁵ ² </s>
+a ³ ³ h i ɛ ̯ ³ ¹ m a k ³ ² t ʃ ʰ a ɪ ³ ¹ </s>
+m o i ̯ ³ ³ l o ŋ ³ ³ </s>
+m i ⁵ ² m u o ̯ ʔ ³ ² </s>
+t ʃ i ɛ ̯ ³ ¹ ɲ u ³ ³ i ʊ ʔ ³ ¹ </s>
+m o u ̯ ³ ³ t s ʰ a ŋ ⁵ ⁵ </s>
+k ə ³ ³ h a ⁵ ⁵ </s>
+a ³ ³ k o ʊ ³ ³ </s>
+a ³ ³ h a n ʔ ³ ¹ k ü ³ ¹ h a ³ ³ </s>
+l o ʊ ³ ³ s a ŋ ³ ³ </s>
+l ɔ ŋ ³ ³ u ³ ³ l a m ³ ³ k a m ³ ³ </s>
+l ə ³ ³ ʃ i ʊ ³ ³ m ɔ ŋ ⁵ ² </s>
+t s ʰ u a ³ ¹ t s u m ³ ¹ </s>
+o u ̯ ³ ³ ʃ i ɛ ̯ ʔ ³ ² </s>
+l ə ³ ³ k ɒ u ³ ³ </s>
+t ʰ a i ³ ³ ʃ ʰ i e ʔ ³ ¹ </s>
+k o ʊ ʔ ³ ³ t s i ʔ ³ ³ </s>
+k i ɛ ̯ ³ ³ h ɛ ʊ ³ ¹ ŋ a ³ ¹ </s>
+a ³ ³ t s ɪ ³ ³ n o i ³ ³ </s>
+ɲ u ³ ³ a ŋ ³ ³ </s>
+a ³ ³ m a ɪ ³ ³ p u ɔ ̯ ³ ³ </s>
+l i a ̯ m ⁵ ² v a ʊ ³ ³ </s>
+t ʃ ʰ ʊ a ⁵ ⁵ </s>
+a ³ ³ l i a ̯ m ³ ¹ t ʰ i ŋ ³ ³ h a ɪ ⁵ ⁵ </s>
+t ʰ ə ³ ³ ʃ ʰ a ʔ ³ ³ </s>
+u ³ ³ t ʰ o ʔ ³ ³ </s>
+l a k ³ ³ t ʰ ʊ a m ⁵ ⁵ </s>
+t ʃ ʰ i ʔ ³ ³ </s>
+t a u ̯ ³ ¹ ʃ u a ̯ ⁵ ⁵ </s>
+k ʰ u ɪ ³ ³ ɲ u ³ ¹ </s>
+k ʰ a ʊ ³ ¹ v ɛ ʊ ³ ¹ </s>
+o ⁵ ² l ɛ u ̯ ³ ¹ t i ŋ ³ ³ </s>
+i ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ¹ u ³ ¹ l o ŋ ³ ¹ </s>
+k ʰ u ɔ ̯ ³ ¹ p ʰ a ʔ ³ ¹ l ə ³ ³ s ɛ m ³ ³ </s>
+t ʃ ə ³ ³ t ʃ u ɔ ̯ ⁵ ⁵ j a ŋ ³ ³ j a ŋ ³ ³ ɲ u ³ ³ </s>
+ɲ ə ³ ¹ o ʔ ³ ² n o ³ ³ </s>
+k ʰ ɛ m ³ ¹ l o ʊ ʔ ³ ¹ </s>
+u m ³ ³ k i ³ ³ a u ̯ ³ ¹ </s>
+ɲ a ⁵ ² ʃ u o ̯ ³ ¹ h ɛ u ̯ ³ ¹ </s>
+l ʊ a ³ ³ t ʰ ɔ ³ ³ </s>
+u ⁵ ² </s>
+m o ŋ ³ ³ t ɛ m ⁵ ² </s>
+a ³ ³ t ʃ i ɛ ̯ ʔ ³ ³ t ɛ ʊ ³ ¹ </s>
+t ʰ ə ³ ³ m i ³ ³ l a k ³ ³ k i ³ ³ </s>
+a ³ ³ ʃ a ʊ ³ ³ h i ɛ ̯ ³ ¹ h a ɪ ³ ³ </s>
+a ³ ³ k i ɛ ̯ ³ ¹ t ʃ ʰ u a ̯ ³ ¹ ɲ u ³ ³ </s>
+t ɛ u ³ ¹ </s>
+m u i ̯ ³ ³ t ʃ i ⁵ ² </s>
+a ³ ³ h o ʊ ʔ ³ ³ </s>
+ʃ ɑ ŋ ³ ³ o ⁵ ² </s>
+k a n ³ ¹ j u ³ ³ o ⁵ ² u ʔ ³ ¹ </s>
+m ə ³ ³ j o ⁵ ² p o ŋ ³ ¹ t s ʰ o u ̯ ³ ¹ </s>
+a ³ ³ n u ɔ ̯ ʔ ³ ³ ʃ i ³ ³ </s>
+a ³ ³ k ʰ ə ³ ¹ t ʃ ʰ o ŋ ³ ³ </s>
+u ʔ ³ ³ t i u ³ ¹ m o ŋ ³ ³ </s>
+k i a ̯ p ³ ³ l ɔ ³ ³ </s>
+a ³ ³ p a ɪ ⁵ ⁵ s ə ³ ³ p a ɪ ⁵ ⁵ </s>
+ɲ i ʔ ³ ² ʃ i ɛ ̯ ³ ¹ </s>
+l o ʊ ³ ³ t s ʰ ə ³ ³ ɲ i ɛ ̯ ³ ³ </s>
+l ɔ ŋ ³ ³ t ʃ ʰ ɛ ʊ ⁵ ⁵ t ʰ a ³ ¹ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ ɲ a p ³ ³ </s>
+ɲ u ³ ³ l a ʔ ³ ³ l ɔ ŋ ³ ¹ </s>
+l a ŋ ³ ³ h ɛ ʊ ³ ¹ </s>
+i ɛ ̯ ³ ³ ʃ ɔ ⁵ ⁵ </s>
+ɲ u ³ ³ k ʰ ɛ u ̯ ³ ¹ ɲ u ³ ³ </s>
+k ʰ i ŋ ³ ¹ p u ʔ ³ ¹ </s>
+t ʰ o ⁵ ⁵ t ʰ i u ⁵ ⁵ </s>
+j a ŋ ⁵ ² . l a i ³ ¹ . k e i ³ ³ </s>
+a ³ ³ l i a ̯ ŋ ³ ³ ʃ i ³ ³ s ə ³ ³ m a ɪ ³ ³ </s>
+k ʊ a ³ ³ p i ɛ ̯ ⁵ ² </s>
+t ʰ ə ³ ³ k o u ³ ¹ t a ³ ³ </s>
+k ʰ ɔ ³ ³ t ʃ u m ³ ¹ n i ɛ ̯ ³ ³ </s>
+y a k ³ ³ . y a k . ³ ³ </s>
+l a ŋ ⁵ ² k i ɛ ̯ ³ ¹ p ɔ ŋ ³ ³ </s>
+l o ʊ ³ ³ ɲ i ʔ ³ ³ l ə ³ ³ h u m ⁵ ⁵ </s>
+l ə ³ ³ k a ³ ³ </s>
+l o ʊ ³ ³ t a ŋ ³ ³ </s>
+k ʰ i ɑ m ³ ³ ɲ u ⁵ ⁵ ŋ n ⁵ ⁵ ˈ n ɑ ³ ³ . ɡ ə ³ ³ </s>
+k i ɛ ̯ ⁵ ² ʃ i ³ ³ </s>
+k o ʊ ʔ ³ ³ l i ŋ ³ ³ v ɛ ʊ ³ ¹ </s>
+t ʰ i u ³ ³ t ʰ i u ³ ¹ </s>
+h e u ̯ ³ ³ t ʰ i ɛ ̯ ʔ ³ ³ h ɛ u ̯ ³ ³ </s>
+l i ³ ³ t ɛ ʊ ³ ³ </s>
+l ɔ ʔ ³ ³ s a ŋ ³ ³ </s>
+n o ŋ ³ ¹ k ə ³ ³ n a i ̯ ⁵ ⁵ o ʔ ⁵ ⁵ </s>
+a ³ ³ h a ³ ¹ t s ʰ o ʊ ³ ¹ </s>
+ɲ u ³ ³ k ʰ o ³ ¹ </s>
+t ʰ ə ³ ³ o i ³ ³ </s>
+t ʃ u ³ ³ h i ʔ ³ ¹ </s>
+h o k ³ ³ s i u ʔ ³ ³ </s>
+k ʰ j ɑ m ³ ³ . ɲ u ⁵ ⁵ . ŋ a ⁵ ⁵ </s>
+i ɛ ̯ ³ ¹ k ʰ i a ̯ m ³ ³ </s>
+a ³ ³ a ʊ ʔ ³ ³ </s>
+t ʰ i ɛ ̯ ʔ ³ ³ k ə ³ ³ m ɛ i ̯ ⁵ ² k ə ³ ¹ h o ³ ¹ </s>
+l a ʊ ³ ³ t ʃ ʰ u m ³ ³ t s ʰ ɔ ɪ ³ ¹ </s>
+a ³ ³ p ʰ i ŋ ³ ³ </s>
+t ʃ u ³ ³ t ʃ a ɪ ³ ³ </s>
+h o k ³ ³ s a ³ ³ </s>
+m i o ̯ ⁵ ² h i ɛ ̯ ³ ¹ l ə ³ ¹ t s ʰ i ³ ¹ </s>
+o ŋ ³ ¹ </s>
+a ³ ³ ɲ a i ̯ ⁵ ⁵ ʃ i ʊ ⁵ ² </s>
+t ʃ ə ³ ³ k a ʊ ³ ¹ k i ³ ³ </s>
+h a ʊ ³ ¹ t ʰ a ɪ ³ ¹ k u m ³ ¹ k u m ³ ³ ɲ u ³ ³ </s>
+t ə ³ ³ l a i ³ ³ l a i ʔ ³ ³ </s>
+h ɔ k ³ ³ k ʰ ɔ ³ ¹ v e m ³ ¹ </s>
+t ʰ i ŋ ³ ¹ t e u ³ ¹ </s>
+m i ɛ ̯ ³ ³ ʃ u i ̯ ⁵ ⁵ </s>
+o u ̯ ³ ³ k o ŋ ³ ³ </s>
+ʃ ʰ i u ⁵ ² u ³ ³ </s>
+l o ʊ ³ ³ p i o ̯ ³ ³ </s>
+k o ʊ ʔ ³ ³ l ʊ ɪ ⁵ ⁵ m ə ³ ³ k ɔ ŋ ⁵ ² </s>
+t ʃ ʰ i ʊ ³ ¹ t s ʰ o ʊ ³ ¹ </s>
+a ³ ³ ɲ a ʊ ʔ ³ ³ t ʰ i p ³ ³ t ʃ a ŋ ⁵ ² </s>
+m ə ³ ³ ʃ u ³ ¹ t ʃ ʰ u ³ ¹ k i a ̯ ŋ ³ ¹ </s>
+v i ³ ³ </s>
+t ʃ a ɪ ³ ³ </s>
+n o u ̯ ³ ³ t ʃ a u ̯ ³ ³ </s>
+t ʃ ʰ i ⁵ ⁵ t ʃ ʰ i ⁵ ⁵ h a ɪ ⁵ ⁵ </s>
+a ³ ³ l ɛ ɪ ʔ ³ ² ɲ u ³ ¹ ʃ i ɛ ̯ ʔ ³ ² </s>
+k ʰ i a ̯ m ³ ¹ p ʊ a ³ ³ ɲ u ³ ³ </s>
+t ʰ a i ³ ³ s a m ³ ³ t ʃ a m ³ ³ p a i ⁵ ⁵ </s>
+a ³ ³ k a ³ ³ t ʃ ə ⁵ ⁵ n ɔ ⁵ ² </s>
+l ʊ a p ³ ³ l i a ̯ m ⁵ ² </s>
+t ʰ a i ³ ³ l u i ⁵ ⁵ p i k ⁵ ⁵ t a u ³ ¹ p u o ³ ³ </s>
+o ŋ ³ ³ p ʰ o ŋ ³ ³ </s>
+h o ʊ ³ ³ k i k ³ ³ </s>
+m i ɛ ̯ ³ ³ t s ʰ o u ̯ ³ ³ h a i ̯ ⁵ ⁵ ʃ ɛ u ̯ ³ ¹ t i ɛ ̯ ³ ¹ </s>
+k o ʊ ³ ³ k ʰ o ʊ ʔ ³ ¹ </s>
+l u ɑ p ³ ³ </s>
+ɲ ə ³ ³ t ʃ ʰ u ³ ³ </s>
+l ɔ ŋ ³ ³ ɲ u ³ ³ k i ɛ ̯ ³ ³ </s>
+t ʃ i ɛ ̯ ⁵ ² k ʰ ɛ ʊ ³ ¹ k a m ³ ³ </s>
+h i ɛ ̯ ³ ³ . ʃ a ⁵ ⁵ </s>
+t s i k ³ ³ t s i k ³ ³ </s>
+l ɛ ʊ ³ ¹ h ɔ ³ ¹ l ɛ ʊ ³ ¹ h ɔ ³ ¹ </s>
+a ³ ³ l i ŋ ³ ³ i ʔ ³ ³ </s>
+ɲ i ɛ ̯ ³ ³ l u m ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+t ʃ ʰ a m ³ ³ t a ŋ ³ ¹ t ʃ a m ³ ³ </s>
+l i ³ ³ t ɛ ʊ ³ ³ k ə ³ ³ k i ⁵ ⁵ </s>
+t ʃ ʰ i ɛ ̯ ³ ¹ t ʰ ɛ ʊ ³ ¹ h a ɪ ³ ³ </s>
+v e u ³ ¹ n y e i h ³ ¹ p ə ³ ³ i u ʔ ³ ¹ c h i ʔ ³ ¹ </s>
+l i ɛ ̯ ⁵ ² </s>
+l u m ⁵ ² </s>
+l i k ³ ³ </s>
+ɲ u ³ ³ t s u m ⁵ ⁵ l a i ̯ ³ ³ </s>
+a ³ ³ s a ŋ ³ ³ </s>
+k ɛ ɪ ³ ³ h u ³ ³ </s>
+t ʃ a ³ ³ m o ŋ ⁵ ² h a ɪ ³ ³ </s>
+t ʃ i ɛ ̯ ⁵ ² </s>
+t ʰ a ³ ³ k i u ̯ ³ ³ </s>
+a ŋ ³ ³ t s o ³ ³ u m ³ ³ h i ɛ ̯ ³ ¹ </s>
+h u ɪ ³ ³ </s>
+m ə ³ ³ t s ʰ o i ̯ ³ ³ t s ʰ o i ̯ ³ ³ k i ŋ ³ ³ </s>
+ɲ ə ³ ³ t s a ʔ ³ ² </s>
+a ɪ ʔ ³ ¹ k ɔ ³ ¹ </s>
+t ʃ a ŋ ³ ³ ɔ ŋ ⁵ ² </s>
+t ʃ ɔ k ³ ¹ </s>
+m i ʔ ³ ³ s a u ̯ ³ ¹ </s>
+k o ʊ ʔ ³ ³ m ɔ ŋ ⁵ ² </s>
+ɲ i ɛ ̯ ³ ³ i p ³ ³ </s>
+t ʰ ɛ u ³ ³ </s>
+l i a ̯ m ⁵ ² a ³ ³ </s>
+n o u ̯ ³ ³ p o ŋ ³ ³ </s>
+t ʰ ə ³ ³ t ʰ e u ⁵ ⁵ </s>
+l i a ̯ ŋ ³ ³ h ɔ ɪ ³ ¹ </s>
+v ɛ u ̯ ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+v i ³ ³ t ʃ i e ̯ ʔ ³ ³ </s>
+m i u ̯ ³ ³ p a i ̯ ⁵ ² </s>
+l ɔ ŋ ⁵ ² t a ɪ ³ ³ </s>
+k ʰ a k ³ ³ </s>
+a ³ ³ m u ɔ ̯ ⁵ ⁵ ʃ a ʔ ⁵ ⁵ k i ɛ ̯ ⁵ ² </s>
+l i ɛ ̯ ³ ³ t ʰ i ʊ ⁵ ⁵ </s>
+t ʰ o ³ ¹ ŋ m ³ ¹ </s>
+l i ʊ ³ ³ h ʊ a m ⁵ ⁵ p o ʊ ³ ³ </s>
+t ʃ ʰ i k ³ ³ </s>
+t ʃ a m ³ ³ k ɛ ɪ ³ ¹ ɲ ɔ ³ ³ </s>
+k a m ³ ³ l u o ʔ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ ɛ p ³ ³ </s>
+a ³ ³ l a ʔ ³ ³ h ɔ k ³ ³ t ʃ ɔ ŋ ³ ³ </s>
+h ɛ ʊ ⁵ ⁵ t s o ʊ ³ ³ k a m ³ ³ </s>
+a ³ ³ ʃ o ŋ ³ ³ m a k ³ ¹ t ʃ ʰ a ɪ ³ ¹ i ʊ ʔ ³ ¹ </s>
+k ʰ r ī s ³ ³ t ā ³ ³ </s>
+t ʃ i ³ ³ m u ɪ ³ ³ m ə ³ ³ s i a ̯ ŋ ³ ³ </s>
+k ʰ i a m ³ ³ p ɔ ŋ ⁵ ² </s>
+ʃ ʰ a ³ ¹ t ʃ i e ʔ ³ ¹ </s>
+t ʃ i ³ ³ l ə ³ ³ k i ŋ ³ ³ </s>
+l ɔ ŋ ³ ³ k ʰ i ʊ ³ ¹ t ʰ ɛ ʊ ³ ¹ </s>
+t a ʊ ³ ³ t a ʊ ³ ³ k o ³ ³ </s>
+ɲ u ³ ³ p o ŋ ³ ³ t ʃ a m ³ ³ ʃ a ʔ ³ ² </s>
+t s u o ³ ³ l o ŋ ³ ³ m a k ³ ³ t ʃ ʰ a i ³ ¹ i u ʔ ³ ¹ </s>
+ɲ a u ̯ ³ ³ t ʰ i ŋ ³ ¹ </s>
+a ³ ³ ʃ a ʔ ³ ³ </s>
+l a ʊ ⁵ ² l a ʊ ⁵ ² </s>
+i ʊ ʔ ³ ³ p ʰ ɛ ʊ ³ ¹ </s>
+ɲ u ³ ³ t ʃ ʰ i ɛ ̯ ³ ¹ t ʃ ə ³ ³ j a ŋ ⁵ ² </s>
+l o ʊ ³ ³ ŋ o i ³ ³ </s>
+o ŋ ⁵ ⁵ k o ⁵ ² </s>
+m ə ³ ³ t ʰ a i ̯ ³ ¹ ɲ u ³ ¹ </s>
+a ³ ³ t ʃ a ɪ ⁵ ² l ɛ ³ ¹ </s>
+j o ³ ³ u p ³ ² p a i ³ ² </s>
+l i ʊ ³ ¹ l ə ³ ³ h a ɪ ⁵ ⁵ </s>
+t ʃ ʰ a ʔ ³ ³ </s>
+ɛ m ⁵ ² </s>
+ɲ a u ̯ ʔ ³ ³ ɲ a u ̯ ʔ ³ ² </s>
+k ʰ ɛ ʊ ³ ³ m a ɪ ⁵ ² </s>
+t a ʔ ³ ² </s>
+t s ʰ ə ³ ¹ s i e ³ ³ </s>
+a ³ ³ h ɔ ⁵ ⁵ t ʃ ʰ u ³ ¹ t ʃ i n ³ ³ </s>
+p a ⁵ ⁵ </s>
+a ³ ³ k u ʔ ³ ³ s ə ³ ³ j o ⁵ ² </s>
+l ɛ m ³ ³ s a ŋ ³ ³ </s>
+k ʰ a ʊ ³ ³ a m ³ ³ h i ɛ ̯ ³ ¹ </s>
+t ʃ ʰ u ³ ³ k i a ̯ ŋ ³ ¹ </s>
+k ʰ i m ³ ³ ɲ u ³ ¹ </s>
+t ʰ ə ³ ³ j a m ³ ³ </s>
+t ʃ ʰ ɔ ʔ ³ ³ </s>
+l ɔ ŋ ³ ³ m i ɛ ̯ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+h o ʊ ³ ³ ɲ ɛ p ³ ³ </s>
+ɲ i ɛ ̯ ʔ ³ ² </s>
+m ə ³ ³ t s ʰ o i ̯ ³ ³ </s>
+t s ʰ ə ³ ³ p u ʔ ³ ¹ </s>
+ɲ a m ³ ³ t ʃ ə ³ ³ m ɛ i ̯ ⁵ ² </s>
+j a p ³ ¹ t s u a ⁵ ² </s>
+v e u ³ ³ ʃ ʰ i ʔ ³ ³ l o ŋ ³ ³ l o ŋ ³ ³ ɲ u ³ ¹ </s>
+t ʃ ʰ i ⁵ ⁵ k ʰ ɛ ʊ ³ ¹ ɲ o ʔ ³ ¹ </s>
+k i o ̯ ³ ³ v a k ³ ¹ </s>
+k i a ̯ p ³ ³ </s>
+t ʃ ʰ ə ³ ³ l a m ⁵ ⁵ t ʰ ɛ ʊ ³ ³ ɲ u ⁵ ⁵ </s>
+ʃ ɑ ŋ ³ ³ l u ³ ³ </s>
+o u ̯ ³ ³ h u i ̯ ³ ³ ŋ a ⁵ ⁵ </s>
+a ³ ³ k a ŋ ⁵ ⁵ </s>
+k i ³ ³ k a m ³ ³ </s>
+i ɛ ̯ ³ ³ ɲ a ʊ ³ ³ t s ʰ o ɪ ⁵ ² </s>
+l a ŋ ⁵ ² v ɛ ʊ ³ ³ </s>
+a ³ ³ l i ŋ ³ ³ ʃ a ʔ ³ ³ </s>
+v e u ³ ³ . k ʰ i a m ⁵ ⁵ </s>
+l i a ̯ m ³ ¹ k a m ³ ³ </s>
+k ʰ ə ³ ³ t ʃ ʰ ɔ ɪ </s>
+h ɔ k ³ ³ p a m ³ ¹ a ʊ ³ ³ </s>
+l u ɪ ⁵ ² u ³ ¹ </s>
+k ʰ a ʊ ³ ³ k ʰ ɛ ʊ ⁵ ⁵ </s>
+n o k ³ ³ ʃ i ŋ ⁵ ² ɲ u ³ ¹ </s>
+o ⁵ ² ɲ u ³ ¹ </s>
+t ʃ ə ³ ³ m i ɛ ̯ ³ ³ </s>
+ɲ ɛ m ³ ³ a ³ ³ m ɛ i ̯ ⁵ ² </s>
+o ⁵ ² i ʔ ³ ² </s>
+l ɔ ⁵ ⁵ l u ɔ ̯ ʔ ⁵ ⁵ </s>
+k ʰ ə ³ ³ ʃ i ɛ ̯ ³ ³ </s>
+t ʃ ʰ i ⁵ ⁵ s ə ³ ³ j o ⁵ ² </s>
+l a m ³ ¹ ɲ u ³ ¹ </s>
+t a i ³ ³ t e u ³ ³ </s>
+l ɛ m ³ ³ l ɔ ³ ³ m a ɪ ⁵ ² </s>
+h ɒ k ³ ³ </s>
+l a ɪ ⁵ ² </s>
+o u ̯ ³ ³ h u i ̯ ³ ³ a ³ ³ l a m ⁵ ² </s>
+ʃ a m ³ ³ </s>
+k ʰ u ɪ ⁵ ⁵ </s>
+t ʰ i ŋ ³ ³ p i o ³ ³ </s>
+h a ŋ ⁵ ⁵ </s>
+y o ʔ ³ ¹ </s>
+k i a ̯ ³ ³ m o ʊ ³ ³ </s>
+l ə ³ ³ v ɔ k ³ ¹ </s>
+h a ɪ ⁵ ⁵ </s>
+l i ⁵ ⁵ t ʰ ə ³ ³ a m ³ ³ </s>
+k ʰ ə ³ ³ t ʰ ɔ ³ ¹ h o ʊ ³ ³ </s>
+k ʰ ɛ ɪ ³ ¹ k ə ³ ¹ t s ə ³ ³ ɲ i ɛ ̯ ʔ ³ ¹ </s>
+l ɔ ŋ ³ ³ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+t ʰ o ʔ ³ ³ ʃ ʰ a ⁵ ⁵ </s>
+m a u ̯ ³ ³ l o ŋ ³ ³ l o ŋ ⁵ ² ɲ u ³ ¹ </s>
+i ɛ ̯ ³ ³ l a m ⁵ ⁵ t a ʊ ³ ³ p u ɔ ̯ ³ ³ </s>
+t u o ⁵ ² k i ŋ ³ ³ </s>
+m o ŋ ⁵ ² t s a m ³ ¹ </s>
+t s ʰ ɪ ɛ ³ ¹ k ə ³ ¹ l ə ³ ³ v ɒ k ³ ³ </s>
+t a ŋ ³ ³ k ə ³ ³ h u o ³ ¹ ɲ u ³ ¹ </s>
+a ³ ³ t ʃ ʊ a p ³ ³ k ɛ ɪ ³ ¹ k ʰ ɛ ʊ ⁵ ⁵ ɲ o ʔ ³ ¹ </s>
+h ɔ k ³ ³ k ʰ ɔ ³ ¹ p a ʊ ³ ¹ </s>
+a ³ ³ k i ɛ ̯ ³ ¹ t s ʰ o ʊ ³ ¹ </s>
+l a m ³ ¹ </s>
+t ʃ ɛ ɪ ⁵ ² k ɔ ³ ¹ </s>
+k a ʊ ʔ ³ ³ ɛ m ³ ¹ </s>
+k i ɛ ̯ ⁵ ² t ʰ i ʊ ³ ¹ </s>
+k a m ³ ³ t ɛ ʊ ³ ³ </s>
+ɲ u ³ ³ t ʰ i ³ ¹ t i ɛ ̯ ³ ¹ </s>
+h a i ̯ ³ ¹ l i a ̯ m ³ ¹ </s>
+h ɔ k ³ ³ n i ŋ ³ ¹ </s>
+k a p ³ ³ p i ŋ ³ ³ </s>
+t e i ³ ¹ t s ə ³ ¹ k o ³ ³ </s>
+l ɔ ŋ ³ ³ k u ɪ ³ ³ </s>
+m ə ³ ³ j o ⁵ ² </s>
+w a ³ ³ v a ⁵ ² </s>
+a ³ ³ l a m ⁵ ⁵ t ʰ i ʊ ⁵ ⁵ </s>
+o u ̯ ʔ ³ ³ m i u ̯ ³ ³ </s>
+m o ŋ ⁵ ² p ʰ i k ³ ² p ʰ i k ³ ³ </s>
+ɲ u ⁵ ² t ɛ u ̯ ³ ¹ </s>
+t ʃ a ŋ ³ ³ t ɛ m ³ ³ m ɔ ŋ ⁵ ² </s>
+a ³ ³ k a m ³ ¹ h i ɛ ̯ ³ ¹ </s>
+a ³ ³ h ɔ k ³ ³ p o ʊ ʔ ³ ² t ʃ ʰ i ʊ ³ ¹ </s>
+v i k ³ ³ </s>
+k a ʊ ³ ³ p o ʊ ³ ¹ k a ʊ ³ ³ ɲ u ³ ¹ t s ʰ o ʊ ³ ¹ </s>
+k ɛ ʊ ⁵ ² </s>
+s ɑ ŋ ³ ¹ k o u h ³ ¹ t s i e ³ ¹ </s>
+a ³ ³ l a ʊ ³ ³ </s>
+l i ɛ ̯ ⁵ ⁵ l u ɔ ʔ ⁵ ⁵ </s>
+l ɔ ŋ ³ ³ ɲ u ³ ¹ </s>
+l ʊ a ³ ³ v a ⁵ ² </s>
+a ³ ³ i ʊ ʔ ³ ³ </s>
+l i a ̯ m ³ ³ k i ŋ ³ ³ t ʰ a ŋ ³ ³ </s>
+t ʃ i ŋ ³ ³ </s>
+a ³ ³ k u a ̯ ɪ ³ ³ h i ɛ ̯ ³ ¹ </s>
+t i m ³ ¹ i e ³ ³ </s>
+o u ʔ ³ ³ k a u ̯ ʔ ³ ² </s>
+a ³ ³ a ⁵ ⁵ </s>
+t ʃ i ŋ ³ ³ k ʰ u ɔ ̯ ³ ¹ </s>
+t ʃ ɔ ŋ ³ ³ k u ɔ ̯ ³ ³ </s>
+t ʰ e u ³ ³ t ʰ o ⁵ ⁵ </s>
+k i a ̯ ŋ ³ ³ </s>
+k ʰ u ɔ ³ ³ s ɔ ɪ ³ ³ </s>
+k o ʊ ³ ³ i ɛ ̯ ³ ¹ </s>
+t ʃ a p ³ ³ l i a ̯ p ³ ¹ </s>
+l o u ³ ³ ɲ a p ³ ¹ </s>
+k ɛ ɪ ³ ³ j ɔ ³ ³ </s>
+m i o ̯ ⁵ ² t s a ŋ ³ ³ </s>
+h ʊ a ³ ¹ m o ʊ ³ ¹ </s>
+m a u ̯ ³ ³ s i ŋ ⁵ ⁵ t s ʰ o u ̯ ³ ³ </s>
+t ʃ u ɔ ̯ ʔ ³ ¹ t i e ̯ ³ ¹ ɲ a p ³ ² t i e ̯ ³ ¹ </s>
+i ⁵ ² t ʰ a ³ ³ </s>
+i ɛ ̯ ³ ³ t s ʰ ɔ ³ ¹ </s>
+ɲ u ³ ³ t ʰ i ɛ ̯ ʔ ³ ² </s>
+a ³ ³ l ɛ ɪ ʔ ³ ² t ʃ ʰ a ɪ ³ ³ </s>
+t ʰ i p ³ ³ </s>
+i ɛ ̯ ʔ ³ ¹ </s>
+a ³ ³ k ʰ i ³ ³ k ʰ i ³ ¹ </s>
+ɲ o u ̯ ³ ³ t s ʰ i ʔ ³ ³ t a u ̯ ³ ³ p u o ̯ ³ ³ </s>
+m a ³ ³ l i ³ ¹ a m ³ ³ </s>
+t ʰ a u ʔ ³ ³ m a i ³ ¹ </s>
+a ³ ³ k a m ³ ¹ ʃ ɛ ʊ ³ ³ </s>
+t ʃ ʰ u ɔ ̯ ʔ ³ ³ ɲ o ʔ ³ ¹ </s>
+a ³ ³ s i a ̯ m ³ ³ t a ʊ ³ ³ p u ɔ ̯ ³ ³ </s>
+t a ⁵ ² t s ʰ ʔ ə ³ ¹ ɲ i ʔ ³ ¹ </s>
+l u ɪ ⁵ ² k ʰ ɔ ³ ¹ </s>
+n ə ³ ³ h a ⁵ ⁵ </s>
+k u ɔ ̯ ³ ³ t u ɔ ̯ ³ ³ </s>
+t s i ɛ ³ ³ t s i e ³ ³ </s>
+a ³ ³ l u m ³ ¹ ʃ i ³ ³ </s>
+o ⁵ ² t a u ̯ ³ ³ t ʃ ə ³ ³ t ʃ ʰ i ɛ ̯ ³ ³ </s>
+m a i ̯ ³ ³ h i u ̯ ʔ ³ ³ h i u ̯ ʔ ³ ³ ɲ u ³ ¹ </s>
+p i k ³ ³ t ʰ u ³ ¹ </s>
+l u ³ ³ l a ³ ³ </s>
+a ³ ³ ʃ i ʊ ³ ³ v a ³ ³ </s>
+n o k ³ ¹ ʃ a ʊ ʔ ³ ¹ </s>
+j u o ʔ ³ ³ </s>
+k ʊ a p ³ ³ t s ɛ ɪ ʔ ³ ³ </s>
+l a ʊ ³ ³ i ɛ ̯ ⁵ ² </s>
+k ɛ ɪ ʔ ³ ³ t s o ʊ ⁵ ² </s>
+k u ³ ³ t ʰ i ɛ ʔ ³ ³ </s>
+t ʃ a m ³ ³ k ʰ ɛ ʊ ³ ¹ p a ɪ ³ ³ </s>
+t ɛ i ̯ ⁵ ² </s>
+p ʰ ɔ ʔ ³ ³ k ʰ ɔ ³ ¹ v e m ³ ¹ </s>
+t ʃ ʰ ə ³ ³ u ⁵ ² </s>
+l i a ̯ m ³ ³ k i ŋ ³ ³ </s>
+k ʰ i k ³ ¹ </s>
+i ³ ¹ t ʰ ɔ ³ ³ </s>
+ɲ a m ³ ³ k ʰ i a ̯ m ⁵ ⁵ </s>
+t ʰ a m ³ ³ </s>
+u ³ ³ t o ŋ ³ ³ </s>
+a ³ ³ i ³ ¹ l a ʔ ³ ² </s>
+k ʰ ə ³ ¹ v i ɛ ̯ ³ ³ </s>
+m ə ³ ³ ʃ u ³ ¹ h a i ̯ ³ ¹ m ɛ i ̯ ³ ³ </s>
+t ʃ a ŋ ⁵ ² m ə ³ ³ k ʰ ɔ ³ ³ k ʰ ɔ ³ ¹ ɲ u ³ ¹ </s>
+k o ʊ ʔ ³ ³ ʃ a ʔ ³ ² ɲ u ³ ¹ </s>
+n ə ³ ³ l o h ʔ ³ ³ t s ʰ ə ³ ³ p i o ̯ h ʔ ³ ² </s>
+h ʊ a m ³ ¹ ɲ u ³ ¹ p ə ³ ¹ t s ʰ i ⁵ ⁵ t s ʰ o ʊ ³ ¹ </s>
+ɲ u ³ ¹ m i ɛ ̯ ³ ³ ʃ u a ̯ ³ ³ </s>
+m u i ⁵ ² </s>
+n ɛ u ̯ ⁵ ² </s>
+l a ŋ ³ ³ l u ɔ ʔ ³ ³ </s>
+m a u ̯ ³ ³ ɲ o ʔ ³ ² </s>
+k i ŋ ³ ³ </s>
+m ə ³ ³ t a ŋ ³ ³ </s>
+m i ɛ ̯ ³ ³ t ʃ i ɛ ̯ ʔ ³ ² </s>
+ɲ u ³ ³ a ŋ ⁵ ² k a ŋ ³ ³ m a i ̯ ³ ³ </s>
+h ɛ ʊ ³ ³ </s>
+a k ³ ³ i ³ ³ </s>
+h a ʊ ³ ³ v i ³ ¹ </s>
+m ə ³ ³ t ʰ i a ̯ m ³ ³ </s>
+t ʃ ʰ i ɛ ̯ ³ ³ k i k ³ ³ </s>
+k h ɛ ʊ ³ ¹ u ʔ ³ ¹ </s>
+h ɛ ɪ ³ ³ </s>
+t ʰ o i ³ ¹ ʃ ʰ a ³ ³ </s>
+h a p ³ ³ h a p ³ ³ </s>
+k ʰ j ʊ ³ ¹ </s>
+t ʰ e u ³ ³ m e ɪ ⁵ ² k i u ʔ ³ ¹ </s>
+a ŋ ³ ³ ɛ ɪ ʔ ³ ³ p ə ³ ³ j o ³ ³ </s>
+v e u ³ ³ a p ³ ² </s>
+n o i ̯ ³ ¹ </s>
+t a ŋ ³ ³ ʃ ʰ a u ʔ ³ ¹ </s>
+a ³ ³ m i o ̯ ³ ³ v a ⁵ ² </s>
+ʃ a ŋ ³ ¹ </s>
+l ɛ ɪ ³ ³ s a ŋ ³ ³ t s i ʊ ⁵ ² n i ɛ ̯ ³ ¹ </s>
+a ³ ³ ʃ a ʊ ³ ³ t ʃ ə ³ ³ n ɔ ⁵ ⁵ </s>
+l u m ⁵ ⁵ </s>
+t a u ³ ³ t ʰ ɪ u ⁵ ⁵ </s>
+a ³ ³ i ɛ ̯ ⁵ ⁵ l u m ³ ³ </s>
+a ³ ³ h u m ³ ³ t ʰ a ɪ ³ ³ s a m ³ ³ </s>
+t ʰ ə ³ ³ l e u ³ ³ </s>
+ɲ a m ³ ³ t ʃ ʰ a ʔ ³ ³ t ʃ ʰ i ʔ ³ ³ </s>
+m ə ³ ³ s a ⁵ ⁵ </s>
+k u ɪ ³ ¹ </s>
+l a ʔ ³ ³ </s>
+m a u ³ ³ . t ʃ a m ⁵ ⁵ </s>
+t ʃ ʊ a ³ ¹ </s>
+l i ŋ ⁵ ⁵ </s>
+t i ŋ ³ ³ t i ŋ ³ ³ </s>
+v e ʊ ³ ¹ l ə ³ ³ p u i ̯ ³ ³ </s>
+n i ɛ ̯ ³ ¹ </s>
+ʃ ɑ ŋ ³ ³ m o ŋ ⁵ ⁵ </s>
+t ɛ i ̯ ³ ¹ k ə ³ ¹ l i ³ ³ k o ³ ³ </s>
+l o ʊ ³ ³ ɲ o h ʔ ³ ¹ </s>
+o u ̯ ʔ ³ ³ i ŋ ⁵ ² </s>
+t ʰ o u ³ ¹ </s>
+n ə ³ ³ k o n ³ ³ t s ə ³ ³ </s>
+l a ŋ ³ ³ l ɛ ɪ ⁵ ² s i ɛ ̯ ʔ ³ ¹ </s>
+ɲ a m ⁵ ² t ʰ o ³ ¹ </s>
+k o ʊ ³ ³ k ʰ a ³ ³ ɲ u ³ ¹ </s>
+k o ʊ ʔ ³ ³ t ɔ ŋ ⁵ ² </s>
+k a ʊ ⁵ ² a ³ ³ t a p ³ ³ </s>
+t ʃ a ŋ ⁵ ² k ʰ ɛ ʊ ³ ¹ </s>
+p e i ⁵ ⁵ k e i ⁵ ⁵ </s>
+a ³ ³ k a ʊ ³ ³ k u ɪ ³ ¹ </s>
+n a ŋ ³ ³ n a ŋ ³ ³ </s>
+t ʃ ʰ a m ³ ¹ v i ³ ¹ h a ɪ ³ ³ </s>
+h ɛ ʊ ³ ³ t ʰ i ɛ ̯ ʔ </s>
+h i a ŋ ³ ¹ </s>
+ɲ u ³ ³ k a ³ ³ k ɛ i ̯ ³ ¹ l i a ̯ m ³ ³ </s>
+i ʔ ³ ¹ t a ⁵ ² </s>
+p ʰ ə ³ ³ t a p ³ ¹ u ³ ¹ </s>
+i ɛ ³ ³ t s ʰ o ʊ ³ ¹ t ʰ a m ³ ¹ t s a ɪ ⁵ ² </s>
+n o u ̯ ³ ³ t ʰ i k ³ ² </s>
+m i ɛ ̯ ³ ³ p ɛ m ³ ¹ </s>
+l a ŋ ³ ³ k ʰ o ʊ ³ ¹ t ʃ ə ³ ¹ t ʃ u ɔ ̯ ³ ³ </s>
+ʃ ʰ a ŋ ³ ³ u </s>
+a ³ ³ k a m ³ ³ t ʰ a ŋ ³ ³ </s>
+ɲ u ³ ³ s i u ̯ ³ ³ i ɛ ̯ ⁵ ² </s>
+k ʰ ə ³ ³ l i o ̯ ³ ¹ p a ɪ ³ ³ </s>
+n ə ³ ³ t ʃ ʰ i ŋ ³ ¹ </s>
+p ʰ ə ³ ³ k a u ʔ ³ ¹ </s>
+t ʃ ʰ ɔ ³ ³ l ɔ ʔ ³ ³ </s>
+l i ʊ ⁵ ² j ɔ ³ ¹ </s>
+l i ŋ ³ ³ s i ŋ ³ ³ </s>
+u o ⁵ ² p o ŋ ³ ¹ </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ a ʊ ³ ³ </s>
+t ʰ ə ³ ³ j a m ³ ³ k o ³ ³ </s>
+t s i ³ ³ </s>
+i ³ ³ </s>
+l u ³ ³ t a m ³ ³ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+ʃ ɑ ŋ ³ ³ m a ³ ³ p a i ⁵ ² </s>
+l a ŋ ³ ³ ʃ a ⁵ ⁵ </s>
+h a ɪ ³ ¹ l u ɔ ³ ³ </s>
+l o ʊ ³ ³ p i k ³ ¹ </s>
+t ʃ ɔ ŋ ³ ³ p ʰ ɛ ʊ ³ ¹ </s>
+n ə ³ ³ i u ̯ ³ ³ k i m ³ ¹ </s>
+l ɛ ɪ ʔ ³ ³ k i ŋ ³ ³ </s>
+l o ʊ ³ ³ p ɛ m ³ ³ </s>
+a ³ ³ t s i ³ ³ n a p ⁵ ² l i a m ³ ¹ p ʰ i ⁵ ⁵ </s>
+l ɔ ³ ³ </s>
+t ʃ ʰ i ʊ ³ ¹ p u ɔ ̯ ³ ³ l ə ³ ³ k i ʊ ⁵ ² </s>
+t s i k ³ ³ k o i ⁵ ² </s>
+n o u ̯ ³ ³ k u ³ ³ </s>
+l o ʊ ³ ³ m ɔ ŋ ³ ³ </s>
+a ³ ³ t ʃ ʰ i ⁵ ⁵ k i ʊ ʔ ⁵ ⁵ t ʃ ə ³ ³ n o ⁵ ² </s>
+j o ³ ³ t s u ʔ ³ ² </s>
+t s u i ⁵ ⁵ ɲ u ³ ³ </s>
+k i ʊ ³ ³ s ə ³ ³ j ɔ ⁵ ² ɛ ³ ¹ m i ɛ ̯ ³ ³ </s>
+t ʰ o k ³ ³ </s>
+h i a ̯ m ³ ³ t s i ŋ ³ ³ t s i ŋ ³ ³ </s>
+l i a ̯ m ⁵ ² k a m ³ ¹ </s>
+s a ŋ ³ ³ t s u ̯ i ⁵ ² </s>
+l ɔ ŋ ³ ³ k a ʊ ʔ ³ ¹ v ɛ ʊ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+t ʃ ʰ a m ³ ³ ʃ a ʔ ³ ¹ h a ɪ ³ ³ </s>
+ɲ a p ³ ² l o u ̯ ʔ ³ ² </s>
+u o ⁵ ² t s e m ³ ¹ p a i ³ ³ </s>
+h ɔ ³ ³ </s>
+h o ʊ ³ ³ ʃ i ʔ ³ ¹ </s>
+a ɪ ³ ³ m o ŋ ⁵ ² </s>
+n o k ³ ³ t ʰ a ŋ ³ ³ h ɛ u ̯ ³ ³ </s>
+ʃ ʰ a ŋ ⁵ ² </s>
+l i ŋ ³ ³ t s o ʊ ³ ³ </s>
+m i h ʔ ³ ³ t ʰ o ʔ ³ ³ </s>
+k o ʊ ³ ³ l ə ³ ³ k i a ̯ ŋ ³ ³ ʃ i ɛ ʔ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ l i ³ ³ u ³ ³ l i ³ ¹ t ʰ a ŋ ³ ¹ </s>
+a n ³ ³ j a ʊ ³ ¹ </s>
+t ʰ i ŋ ³ ³ k ʰ e u ⁵ ⁵ </s>
+v a ⁵ ² </s>
+j o ³ ³ l e u ³ ² u i ³ ³ </s>
+l a ŋ ⁵ ² j ɛ ʊ ³ ³ </s>
+h ɔ ŋ ⁵ ⁵ </s>
+h o ʊ ³ ³ t s a ʊ ʔ ³ ³ </s>
+k ʰ ə ³ ³ t s ʰ ʊ a ⁵ ² k i ³ ³ </s>
+t a ŋ ³ ³ k ə ³ ³ h o i ³ ¹ </s>
+l ɔ ŋ ³ ³ ʃ a ʊ ³ ³ </s>
+l a k ³ ³ t ʰ ɛ ʊ ³ ³ p a ⁵ ⁵ </s>
+v e u ³ ¹ . t ʰ a i ³ ¹ ɲ u ³ ¹ </s>
+l i p ³ ¹ ɲ u ³ ¹ </s>
+h ɔ ɪ ⁵ ⁵ s ə ³ ³ i ɛ ̯ ⁵ ² </s>
+u o ʔ ³ ¹ </s>
+l i ʊ ³ ¹ s ə ³ ¹ p a ɪ ³ ¹ </s>
+t s ʰ ə ³ ³ . ɲ ɪ ɛ ʔ ³ ³ </s>
+i m ⁵ ² </s>
+ɲ a ʔ ³ ² </s>
+h ɔ k ³ ³ p i k ³ ³ </s>
+t ʃ ʰ i ³ ³ k a m ³ ³ t ʃ a m ⁵ ² </s>
+m i ɛ ̯ ⁵ ² </s>
+t s ʰ ə ³ ³ . l a ɪ ʔ ³ ¹ </s>
+l ə ³ ³ p ɔ ɪ ʔ ³ ¹ </s>
+a ³ ³ h i ɛ ̯ ³ ³ ʃ a ⁵ ⁵ </s>
+k i ɛ ̯ ⁵ ² t s ʰ u ɔ ̯ ³ ¹ </s>
+a ³ ³ k i ɛ ̯ ³ ¹ k i ɛ ̯ ³ ¹ ɲ u ³ ¹ ʃ ɛ ɪ ⁵ ² </s>
+t ʃ a ŋ ⁵ ² ɲ a ʊ ʔ ³ ¹ </s>
+k ʰ ɛ ɪ ³ ¹ k ə ³ ¹ m ə ŋ ³ ³ o ʊ ³ ³ </s>
+k ʰ u ɔ ̯ ³ ¹ s a ³ ¹ s a ³ ³ </s>
+t ʰ a ŋ ³ ¹ m i ŋ ³ ³ </s>
+l i ʊ ⁵ ² k ʰ o ʊ ³ ¹ </s>
+n ə ³ ³ p ʰ u p ³ ³ </s>
+n i u ̯ ³ ³ ɲ a u ̯ ʔ ³ ² t s ʰ o u ̯ ³ ¹ </s>
+l u ɪ ⁵ ² </s>
+t ə ³ ³ k ʰ e u ³ ³ k ʰ e u ⁵ ⁵ </s>
+j ɔ ³ ¹ t s o u ⁵ ² </s>
+k ɛ ɪ ʔ ³ ³ </s>
+m o u ̯ ³ ¹ h i u ̯ ʔ ³ ² h i ɛ ̯ ³ ¹ v ɛ u ̯ ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+t h a ŋ ³ ³ v a ³ ³ </s>
+v e u ³ ³ . t ʰ i ʔ ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ k i a ̯ ŋ ³ ¹ </s>
+k ʰ a u ³ ³ . t s a u ʔ ³ ³ . s i ɛ ⁵ ² </s>
+a ³ ³ k a m ³ ³ ʃ i ⁵ ⁵ </s>
+k ʰ ə ³ ³ m i ŋ ⁵ ² </s>
+o u ʔ ³ ² l o u ̯ ³ ¹ k i o ̯ ʔ ³ ² </s>
+t ʃ a ɪ ³ ³ t ʰ ɛ ʊ ³ ³ p a ɪ ³ ³ </s>
+m i o ̯ ³ ¹ </s>
+t ʰ ɒ ³ ¹ </s>
+ɲ u ³ ³ s a ŋ ³ ³ </s>
+t ʃ ʰ a m ³ ³ h ɔ ŋ ³ ³ t ʰ u ɔ ̯ ³ ³ </s>
+t ʃ ʰ a ɪ ⁵ ⁵ p a ʊ ³ ³ t s a ŋ ³ ³ h a ɪ ⁵ ⁵ </s>
+v e u ³ ³ i e ³ ³ </s>
+t ʃ a m ³ ³ p a ʊ ³ ³ t s a ŋ ³ ³ </s>
+t ʃ i ³ ³ p o ʊ ³ ³ </s>
+h ɑ ⁵ ⁵ </s>
+k ʰ i p ³ ³ k ʰ i p ³ ³ </s>
+ɲ u ³ ³ h o k ³ ² </s>
+i ⁵ ² k ʰ ɛ ʊ ³ ¹ </s>
+ɲ u ³ ³ h ɛ u ̯ ³ ³ </s>
+l o ʊ ³ ³ t ʰ a m ⁵ ⁵ </s>
+k o ʊ ʔ ³ ³ k ʰ a ʊ ³ ¹ </s>
+k ʰ i ɛ ̯ ³ ¹ </s>
+l o ʊ ³ ³ k a p ³ ¹ </s>
+t ʰ o ŋ ³ ¹ </s>
+k ʰ a m ⁵ ⁵ t ɛ ʊ ³ ³ </s>
+h i ŋ ⁵ ⁵ </s>
+h ɔ ɪ ⁵ ⁵ </s>
+a ³ ³ l u m ³ ³ t ʃ a m ³ ¹ </s>
+k ʰ u ɪ ³ ¹ n u ɪ ³ ¹ </s>
+k ɛ ɪ ³ ³ k ʊ a m ³ ³ </s>
+t ʃ ʰ i ɛ ̯ ³ ³ p ʰ i ³ ³ </s>
+n i ŋ ³ ³ </s>
+ɲ o u ̯ ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ l i ŋ ⁵ ⁵ </s>
+t ʃ ɔ k ³ ³ l o ³ ¹ </s>
+m o ŋ ⁵ ² t ʃ ə ³ ¹ l i ŋ ⁵ ² </s>
+v e u ³ ³ h a k ³ ² </s>
+k o ʊ ³ ¹ l ɛ ³ ³ </s>
+h ɔ ŋ ⁵ ⁵ h ɔ ɪ ⁵ ⁵ </s>
+t ʃ ʰ a m ³ ¹ </s>
+m o ŋ ³ ³ t ʰ a m ³ ³ </s>
+l ɔ ŋ ³ ¹ </s>
+o u ̯ ʔ ³ ³ p u i ̯ ³ ³ </s>
+a ³ ³ k i ŋ ⁵ ⁵ t i ŋ ³ ³ </s>
+ɲ u ³ ³ h o i ̯ ³ ³ </s>
+t ʰ a i ³ ³ k i o ʔ ³ ¹ </s>
+k ʰ i ŋ ³ ³ u n ³ ¹ j a m ³ ³ </s>
+t ʃ i k ³ ³ t ʃ i k ³ ³ </s>
+v e m ³ ² v e m ³ ³ </s>
+t i ³ ³ t ʰ a m ³ ³ h e u ³ ¹ </s>
+a ³ ³ l a p ³ ³ </s>
+k u ɔ ̯ ³ ³ v a ⁵ ² </s>
+a ³ ³ h ɔ k ³ ³ </s>
+k a ɪ ³ ³ </s>
+a ³ ³ k a ɪ ³ ¹ </s>
+ɲ ə ³ ³ m u o ̯ ʔ ³ ² </s>
+n ə ³ ³ ʃ a ŋ ⁵ ² </s>
+t ʰ a p ³ ³ </s>
+m o u ̯ ³ ¹ </s>
+k o i ³ ³ l i u ⁵ ⁵ t o ŋ ⁵ ² </s>
+k ʰ i a ̯ m ³ ³ t ʃ ʊ o ³ ³ </s>
+t ʃ ʰ a m ³ ³ l ʊ a p ³ ¹ </s>
+t ʃ a k ³ ³ p u ɔ ̯ ³ ³ </s>
+n o i ̯ ³ ³ k ʰ a m ³ ¹ </s>
+a ³ ³ ɲ i ³ ³ h i ³ ³ </s>
+t ʰ o ʔ ³ ³ i e ⁵ ² </s>
+l i ɛ ̯ ⁵ ² t ʰ i u ̯ ³ ³ </s>
+u i ⁵ ² </s>
+l i a ̯ m ³ ³ k i ɛ ̯ ³ ³ </s>
+a ³ ³ p a ɪ ⁵ ⁵ t s o ʔ ⁵ ⁵ </s>
+k ʰ i a ̯ m ³ ³ k u ɪ h i o ̯ </s>
+t ʃ u ɔ ̯ ʔ ³ ¹ </s>
+t ʰ u o ³ ³ l o u ʔ ³ ¹ </s>
+ɲ u ⁵ ² k ʰ ɛ u ̯ ³ ¹ </s>
+i ɛ ̯ ³ ³ k u a ̯ m ³ ³ </s>
+k ʰ ɑ u ³ ¹ </s>
+k ʰ i a ̯ m ³ ³ p i ŋ ³ ¹ </s>
+k i ŋ ⁵ ⁵ p a ʊ ³ ³ </s>
+ɲ o u ̯ ʔ ³ ³ t a i ̯ ³ ³ </s>
+k ʰ ɛ m ³ ³ t ʃ ɛ ɪ ʔ ³ ¹ </s>
+l ə ³ ³ p a ɪ ³ ³ ɲ u ³ ³ h ɛ ʊ ³ ¹ </s>
+t ʃ a m ³ ³ k ʰ ɛ ʊ ³ ¹ h i ɛ ̯ ³ ¹ </s>
+n o ŋ ³ ³ n o ŋ ⁵ ² </s>
+t ʰ ə ³ ³ t ʰ o ⁵ ⁵ </s>
+l ɑ ʔ ³ ³ </s>
+l o ʊ ³ ³ t s a ʊ ³ ³ </s>
+t ʃ ʰ a ɪ ³ ¹ u ³ ¹ t ʰ ɛ ʊ ³ ¹ k ʰ a ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ t ʃ ʊ a p ³ ¹ ʃ i ɛ ̯ ⁵ ² </s>
+l ə ³ ³ k i ʊ ⁵ ² s u ɔ ̯ ³ ³ </s>
+l ɔ ŋ ³ ³ k ʰ i ʊ ³ ¹ </s>
+t a ³ ³ v a ⁵ ² </s>
+l o ʊ ³ ³ l a ʊ ³ ³ </s>
+u o ³ ³ ʃ a ŋ ³ ³ </s>
+m i ɛ ̯ ³ ³ ʃ ɛ u ̯ ³ ³ </s>
+k i o ̯ ³ ¹ </s>
+l a m ⁵ ² t ʰ ɛ ʊ ³ ¹ </s>
+s e m ³ ³ s e i ⁵ ² </s>
+h a ʊ ³ ¹ t ʰ a ʔ ³ ¹ </s>
+o ³ ³ n o u ̯ ³ ³ t ʃ i ɛ ̯ ⁵ ² </s>
+t ʃ i ³ ³ </s>
+p ʰ ɔ ʔ ³ ³ k ʰ ɔ ³ ¹ p a u ³ ¹ </s>
+a ³ ³ m i ʊ ⁵ ⁵ h a ɪ ⁵ ⁵ </s>
+t s ʰ ɪ ɛ ³ ¹ k ə ³ ¹ s ə ³ ³ m ɪ ɛ ʔ ³ ³ </s>
+l u ɔ ̯ ³ ³ t s ə ʔ ³ ³ </s>
+a ɪ ³ ³ k u a ̯ m ³ ¹ l a ŋ ³ ³ </s>
+t a ʊ ³ ³ k i ʔ ³ ³ </s>
+m i a ̯ m ³ ¹ </s>
+m ə ³ ³ l a ʔ ³ ² </s>
+t ʃ a m ³ ³ s i ʊ ʔ ³ ³ h a ɪ ⁵ ⁵ </s>
+k ʰ ɛ ɪ ³ ¹ k ə ³ ¹ l ə ³ ³ m i ɛ ̯ ʔ </s>
+p o ŋ ³ ³ i ɛ ̯ ³ ¹ </s>
+ʃ ʰ a ʔ ³ ³ </s>
+s ɑ ŋ ³ ³ k ʰ o u ʔ ³ ³ </s>
+a ³ ³ t ʃ i ɛ ̯ ʔ ³ ³ t ʰ ʊ a m ⁵ ⁵ </s>
+t ʃ i ³ ³ m ə ³ ³ k i a ʊ ⁵ ⁵ </s>
+m o u ̯ ³ ¹ i u ̯ ʔ ³ ² k ɛ u ̯ ⁵ ² </s>
+s ɑ ŋ ³ ³ k ə ³ ³ t ʰ o ŋ ³ ¹ </s>
+a ³ ³ ŋ a ⁵ ² </s>
+n ɛ u ̯ ³ ³ ɲ u ³ ³ </s>
+t s ʰ u p ³ ³ . k ə ³ ³ t e u ³ ¹ k o ³ ³ </s>
+k ʰ i a ̯ m ³ ³ l i m ³ ¹ </s>
+i ɛ ̯ ³ ³ k ʰ a ʊ ⁵ ⁵ m ɛ m ³ ¹ l a ŋ ³ ¹ p ɔ ŋ ³ ¹ </s>
+k ʰ i a ̯ m ³ ¹ p i ʊ ³ ³ </s>
+m u o ̯ ³ ³ ʃ i ³ ³ </s>
+t ʰ a p ³ ³ l o u ʔ ³ ¹ </s>
+t ʰ o ŋ ³ ³ i e ⁵ ⁵ </s>
+a ɪ ³ ³ n i ³ ³ l e </s>
+m o ŋ ⁵ ² t o k ³ ² </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ l ə ³ ³ k i ŋ ³ ³ </s>
+t ə ³ ³ l a k ³ ³ l a k ³ ¹ </s>
+k a m ³ ³ ʃ u ɪ ⁵ ⁵ </s>
+m o ŋ ⁵ ² s ɛ u ̯ ³ ¹ </s>
+a ³ ³ l u m ⁵ ² p ʰ ə ³ ¹ l ɔ ɪ ³ ³ </s>
+t ʃ ʰ u ʔ ³ ³ ɲ i ⁵ ² </s>
+u ³ ³ p u a ³ ³ i u ʔ ³ ³ </s>
+a ³ ³ l i ŋ ⁵ ⁵ m ɛ ɪ ⁵ ² </s>
+m i ɛ ̯ ³ ³ l o u ̯ ³ ¹ </s>
+w a p ³ ¹ </s>
+h u ɑ ³ ³ </s>
+k ʰ ə ³ ³ t ʃ ʰ i ɛ ̯ ³ ³ t ʃ i ɛ ̯ ³ ¹ m ɔ ŋ ⁵ ² </s>
+k ʰ ɛ ɪ ⁵ ⁵ t ʰ i ʊ ⁵ ⁵ </s>
+v e u ³ ¹ ʃ ɔ ³ ¹ ʃ a ³ ³ </s>
+ʃ a m ³ ³ ʃ a m ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ t i ŋ ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ t a ʊ ³ ¹ p u ɔ ̯ ³ ³ </s>
+k o ʊ ʔ ³ ³ k ʰ ɛ ʊ ³ ¹ s a ŋ ³ ³ </s>
+h o ʊ ³ ³ t s a ʊ ʔ ³ ³ m u ɔ ̯ ³ ³ l i ⁵ ² </s>
+t ʰ i ŋ ³ ³ n o i ³ ³ </s>
+k ʰ ə ³ ³ u ɪ ³ ¹ </s>
+u o ̯ ³ ¹ </s>
+t ʰ o i ³ ³ s ʰ o ʔ ³ ¹ t a u ³ ¹ p u o ³ ³ </s>
+p ɑ ³ ³ t s ʰ ɒ ⁵ ⁵ n o k ³ ³ k i ŋ ³ ³ </s>
+t s u ³ ³ t o ŋ ³ ³ k o u ʔ ³ ¹ k ʰ e m ³ ¹ </s>
+t ʃ a k ³ ¹ l o ʊ ʔ ³ ¹ </s>
+a ³ ³ ʃ i ʊ ⁵ ⁵ k a m ⁵ ⁵ </s>
+a ³ ³ l i a ̯ ŋ ³ ³ ʃ i ³ ³ </s>
+t s i ɛ ³ ³ p i k ³ ³ </s>
+t i ŋ ³ ¹ ɲ u ³ ¹ </s>
+l i a ̯ m ⁵ ² l i a ̯ m ⁵ ² </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ p a ɪ ⁵ ² p u ɔ ̯ ³ ³ </s>
+o ⁵ ² n i ɛ ̯ ³ ¹ </s>
+k ʰ ə ³ ¹ w a ³ ³ k ɔ ³ ³ </s>
+m a ⁵ ² p ʰ i ŋ ³ ¹ </s>
+t a ʊ ³ ³ p ʊ o ³ ³ l a k ³ ³ </s>
+m ə ³ ³ ɲ i ʔ ³ ² t ʰ ɛ u ̯ ³ ¹ k ə ³ ¹ ɲ i ʔ ³ ² </s>
+k ʊ a m ³ ¹ </s>
+t ʃ i ɛ ̯ ⁵ ² k ʰ ɛ m ³ ¹ </s>
+k o ʊ ʔ ³ ³ </s>
+ʃ ʰ i ŋ ⁵ ² m u i ³ ¹ </s>
+k ʰ u ³ ³ m i a ̯ m ³ ³ ɲ u ⁵ ⁵ </s>
+h ɛ ʊ ³ ³ t ʃ ʰ ɛ ɪ ʔ ³ ³ ŋ o ʊ ʔ ³ ¹ </s>
+s a ŋ ³ ³ t s ʰ i u ̯ ʔ ³ ¹ t a u ³ ¹ p u o ³ ³ </s>
+n i u ̯ ⁵ ² l u ³ ³ </s>
+t ʃ ɪ ³ ³ k ʰ ɔ k ³ ¹ </s>
+l i a ̯ m ³ ¹ p i k ³ ¹ v a ³ ¹ </s>
+n o k ³ ³ m ɛ i ̯ ⁵ ² </s>
+w a ⁵ ² </s>
+k a ɪ ³ ¹ </s>
+k ʰ ɔ ŋ ⁵ ⁵ t ʃ ʰ a m ³ ¹ </s>
+t ʰ i e ³ ¹ </s>
+l i m ⁵ ² </s>
+ʃ ɑ ŋ ³ ³ k ʰ o u ʔ ³ ³ l o ŋ ³ ¹ </s>
+h ɛ ʊ ³ ¹ m u ɪ ³ ¹ </s>
+m a ⁵ ² ʃ i ʔ ³ ² l a m ³ ³ </s>
+a ³ ³ i ʔ ³ ³ </s>
+m ə ³ ³ t s i ³ ³ k ʰ ɛ u ̯ ³ ³ </s>
+i ɛ ̯ ³ ³ m o ɪ ³ ³ </s>
+t ʃ a ŋ ⁵ ² t ʃ ɔ ŋ ³ ³ </s>
+l o ʊ ³ ³ s a ŋ ⁵ ⁵ </s>
+t ʰ i o ŋ ³ ³ </s>
+v e u ³ ³ t s u m ³ ³ </s>
+t ʃ a p ³ ³ t ʃ a p ³ ³ </s>
+t ʃ ʰ i ʊ ³ ³ t ʃ ʰ a ʔ ³ ³ v a ⁵ ² k i ³ ³ </s>
+t ʃ ʰ a m ³ ³ t ʰ ʊ a m ⁵ ⁵ </s>
+k ʰ ɛ m ³ ¹ </s>
+h ɔ k ³ ³ j ɔ ŋ ³ ³ </s>
+i ɛ ̯ ³ ³ k i ɛ ̯ ⁵ ² </s>
+h i ʔ ³ ³ h o ŋ ⁵ ⁵ </s>
+ɲ a m ³ ³ k o k ³ ² s a ŋ ³ ¹ </s>
+m ɛ ʔ ³ ³ </s>
+h a ɪ ³ ³ m ɛ ɪ ³ ³ ɲ u ³ ³ </s>
+t ʃ ɔ ŋ ³ ³ t ʃ ʰ u ʔ ³ ³ </s>
+h ɔ k ³ ³ l o ʊ ʔ ³ ¹ </s>
+t ʰ a ³ ³ y o ⁵ ² </s>
+a ³ ³ ɲ i ɛ ̯ ³ ³ t ʃ u a ̯ ³ ³ </s>
+e m ³ ¹ </s>
+t ʃ ʰ u ³ ¹ </s>
+m a u ̯ ³ ³ m a u ̯ ʔ ³ ² </s>
+a ³ ³ h a ʊ ³ ¹ t ʰ a h ʔ ³ ² </s>
+k ʰ a ʊ ³ ³ t s ʰ ɔ ³ ¹ ʊ a p ³ ¹ l a ŋ ⁵ ² </s>
+l o ʊ ³ ³ k ʰ a p ³ ³ </s>
+m o ŋ ³ ³ m ɛ i ̯ ⁵ ² </s>
+l i a ̯ m ⁵ ² t s ɔ ⁵ ⁵ t s ʰ o ɪ ³ ¹ </s>
+l a ŋ ³ ³ k ʰ o ʊ ³ ¹ </s>
+t s i m ³ ³ p ʰ u i ³ ¹ </s>
+ɲ u ³ ³ i ɛ ̯ ³ ³ ɲ u ³ ¹ </s>
+m i ɛ ̯ ³ ³ t s ʰ i k ³ ³ </s>
+m o u ̯ ³ ³ l ɛ p ³ ² k ʰ u p ³ ² </s>
+ŋ ɑ ³ ³ </s>
+l o ʊ ʔ ³ ³ i ʊ ³ ¹ </s>
+o ⁵ ² k i ɛ ̯ ⁵ ² </s>
+a ³ ³ k i ŋ ³ ³ h a ɪ ⁵ ⁵ </s>
+h i a ̯ m ³ ³ k a ɪ ³ ¹ h ɛ ʊ ³ ¹ </s>
+a ɪ ʔ ³ ² l o ʊ ʔ ³ ² </s>
+l u m ³ ³ t s ʰ o ʊ ³ ¹ t s ɔ ³ ¹ m ɛ ɪ ³ ³ </s>
+t s o u ³ ³ . k u m ³ ³ </s>
+n o u ̯ ³ ³ t o ŋ ³ ³ </s>
+ʃ ɑ ŋ ³ ³ l o ŋ ³ ¹ m o ŋ ³ ³ </s>
+l ə ³ ³ k ʰ u ɔ ̯ ³ ¹ ɲ u ³ ¹ k ʰ i a ̯ m ³ ¹ </s>
+k ʰ a ³ ¹ t ʰ ʊ a p ³ ¹ </s>
+t ʃ ʰ i ɛ ̯ ³ ³ t ʃ ʰ a ɪ ⁵ ⁵ m ɔ k ³ ³ t s i o ̯ ʔ ³ ¹ </s>
+l u ɔ ̯ ³ ³ t s ʰ o ʊ ³ ¹ t s ɔ ʔ ³ ¹ </s>
+l ə ³ ³ k i ɛ ̯ ³ ³ t s ʰ ɔ ɪ ⁵ ⁵ </s>
+o ³ ³ ʃ ɛ i ̯ ³ ³ ʃ i p ³ ² </s>
+m ə ³ ³ t i ŋ ³ ³ k ʰ e u ̯ ³ ³ </s>
+j a p ³ ² </s>
+k ʰ ə t ʃ ʰ ɔ ɪ ³ ³ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+t ʃ ʰ i ³ ³ m ʊ a ³ ³ </s>
+i ⁵ ² h u ɔ ̯ ³ ³ k ʰ a ⁵ ² </s>
+ɲ u ³ ³ ŋ ɛ m ³ ³ k i u ̯ ʔ ³ ² t ʃ ə ³ ³ h a i ̯ ⁵ ⁵ </s>
+h ɑ ʔ ³ ³ </s>
+t a ⁵ ² l u ³ ³ </s>
+ʃ ɑ u ʔ ³ ¹ </s>
+n o ŋ ³ ³ </s>
+k o ʊ ʔ ³ ³ ɲ u ³ ¹ t s ʰ u ɪ ³ ¹ </s>
+o ⁵ ² ʃ ɛ i ̯ ³ ³ t s ʰ o i ̯ ⁵ ² </s>
+t ʃ ɔ ŋ ³ ³ m ɔ ³ ³ n ɔ k ³ ¹ </s>
+s a ʊ ʔ ³ ³ </s>
+k ə ³ ³ t ə ³ ³ t ə ⁵ ⁵ </s>
+a ³ ³ . t ʃ ʰ a ³ ³ </s>
+t ʃ ʰ i ʊ ³ ¹ t ʰ i ɛ ̯ ʔ ³ ¹ k ʰ i a ̯ m ³ ¹ l a m ³ ³ </s>
+t ʃ ɔ k ³ ³ t ʃ ʰ i ɛ ̯ ³ ³ t a ʊ ³ ³ p u ɔ ̯ ³ ³ </s>
+h ɔ k ³ ³ l i a ̯ m ⁵ ² </s>
+m a ⁵ ² </s>
+o ŋ ⁵ ² </s>
+ʃ a ³ ³ k ʰ i a p ³ ³ </s>
+m o ʊ ³ ³ m o ʊ ³ ³ </s>
+ɲ i ⁵ ² h i ³ ³ </s>
+t a ŋ ³ ¹ s ə ³ ¹ l a ŋ ³ ¹ </s>
+a ³ ³ k i o ̯ ʔ ³ ³ </s>
+v e u ³ ³ t ʃ a ³ ³ </s>
+i ɛ ̯ ⁵ ² ʃ i ʊ ³ ¹ </s>
+h ɛ ʊ ³ ³ t ʃ ʰ ɛ ̯ i ʔ ³ ³ l ə ³ ³ k i ʊ ⁵ ² </s>
+a ³ ³ p ə ³ ³ </s>
+t ʃ ʰ a ɪ ⁵ ⁵ s ə ³ ³ u ⁵ ² </s>
+v ɛ u ³ ³ k o i ̯ ³ ³ s i u ̯ ʔ ³ ³ i ɛ ⁵ ² </s>
+l i ʊ ³ ³ ɔ ³ ³ </s>
+k ʰ ɔ ŋ ³ ³ </s>
+k i ŋ ³ ³ k u m ³ ³ </s>
+i ⁵ ² l i ⁵ ² </s>
+a ³ ³ p ɛ m ³ ¹ a ɪ ʔ ³ ¹ k ɔ ³ ¹ </s>
+l ʊ a p ³ ¹ ʃ i ɛ ̯ ʔ ³ ¹ t s ʰ ɔ ɪ ³ ¹ </s>
+m i ŋ ³ ³ t s i u ̯ ³ ³ </s>
+l ɛ m ⁵ ⁵ </s>
+t ʃ i ʊ ³ ¹ </s>
+t ʃ ʰ i ɛ ̯ ³ ¹ </s>
+l ɔ ³ ³ ɛ m ³ ³ </s>
+t ʰ u o ³ ¹ l e u ³ ³ </s>
+ɲ a m ³ ³ k o i ̯ ³ ³ </s>
+k ʰ ə ³ ³ i ɛ ̯ ⁵ ² . t ʃ ə ³ ¹ n a p ³ ¹ </s>
+t ʰ a ŋ ⁵ ⁵ </s>
+a ³ ³ l i ³ ³ l ə ³ ¹ n ɔ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ t u ɔ ̯ ³ ³ </s>
+l a ⁵ ² l ə ³ ¹ k ʰ ʊ a ³ ³ </s>
+ʃ ʰ a i ³ ¹ </s>
+t ʃ a ŋ ³ ³ p i ⁵ ² </s>
+o u ̯ ³ ¹ v a ³ ³ </s>
+k a ³ ³ t s ʰ i a ̯ p ³ ³ </s>
+h ɔ k ³ ³ p ʰ u p ³ ³ t ʃ ʰ i ʊ ³ ³ h a ɪ ⁵ ⁵ </s>
+t i k ³ ³ t i k ³ ³ t s ʰ o u ³ ¹ </s>
+i ʔ ³ ³ l o ʊ ʔ ³ ¹ t ʃ e ³ ¹ ɲ ɔ ɪ ³ ³ </s>
+l o ʊ ³ ³ m i a ̯ m ³ ³ </s>
+i ɛ ̯ ³ ³ t ʰ a ŋ ⁵ ⁵ ɲ ɔ ʔ ⁵ ² </s>
+t a ŋ ³ ³ m o ŋ ³ ³ p o u ³ ³ ɲ u ³ ¹ k i ŋ ³ ³ </s>
+o ³ ³ t s i ³ ³ a u ̯ ³ ³ t ʃ ʰ o ⁵ ⁵ </s>
+ʃ a ʔ ³ ³ t s ʰ u i ⁵ ⁵ </s>
+i ⁵ ² h u ɔ ̯ ³ ³ k i ³ ³ </s>
+k o ʊ ³ ³ k i a ̯ ŋ ³ ³ </s>
+t ʃ i ŋ ³ ³ p a ɪ ⁵ ² </s>
+t ʃ ʰ i ŋ ³ ³ </s>
+l i ³ ³ ɲ i ⁵ ⁵ t i ⁵ ² </s>
+p ʰ ɔ ʔ ³ ³ k ʰ ɔ ³ ¹ t s ʰ o u ³ ¹ </s>
+ɲ u ³ ³ t ʰ i ³ ¹ i ɛ ̯ ³ ¹ t ʃ a m ³ ³ </s>
+k ʰ a ʊ ³ ¹ ɲ u ³ ¹ t s o ʊ ³ ¹ </s>
+ɲ ə ³ ³ m o ʔ ³ ³ </s>
+m u o ̯ ³ ³ l i ³ ³ u ³ ¹ </s>
+ɲ i ɛ ̯ ³ ¹ </s>
+t ʰ o i ³ ³ k i ŋ ³ ¹ </s>
+v o ŋ ³ ³ v o ŋ ³ ³ t a ³ ³ </s>
+v i u ³ ³ h e u ³ ³ t ʃ i e ʔ ³ ¹ </s>
+t ʃ ʰ i ⁵ ⁵ l ə ³ ³ t i o ̯ ³ ³ </s>
+o ⁵ ² u ʔ ³ ² t s ʰ i ɛ ̯ ³ ³ t s i u ̯ ⁵ ² </s>
+ɲ u ³ ³ t ʰ a p ³ ³ </s>
+u ⁵ ² t s o ³ ³ </s>
+t ʰ u o ³ ¹ k o ³ ¹ </s>
+t ʃ e ɪ ³ ³ p o ³ ³ k o ³ ³ </s>
+m ɛ i ̯ ⁵ ² </s>
+t ɛ i ̯ ⁵ ² s ə ³ ¹ n i u ̯ ⁵ ² </s>
+ɲ ə ³ ³ t ʃ ʰ o ³ ¹ k i ɛ ̯ ⁵ ² </s>
+ɲ u ³ ³ s i ɛ ̯ ³ ³ </s>
+k ʰ ə ⁵ ⁵ l i m ⁵ ⁵ t s ʰ ɔ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+ɲ u ³ ³ ŋ a u ̯ ʔ ³ ² t ʃ ɛ u ̯ ʔ ³ ² </s>
+h i a ̯ ŋ ³ ³ </s>
+k ʰ u p ³ ³ </s>
+l ə ³ ³ s o ʊ ³ ³ </s>
+t i ŋ ³ ³ t ʰ i ³ ¹ </s>
+t ʃ ə ³ ³ h i ³ ¹ p o ʊ ³ ¹ </s>
+n o ŋ ³ ¹ t a u ̯ ³ ³ n a i ̯ ⁵ ⁵ o ʔ ³ ² </s>
+o ³ ¹ </s>
+a ³ ³ s a ɪ ³ ¹ </s>
+n i k ³ ³ n i k ³ ³ </s>
+h o ŋ ⁵ ⁵ k ə ³ ³ l ɛ ɪ ³ ³ </s>
+v e u ³ ³ t ʃ a k ³ ³ i e ⁵ ² </s>
+l ə ³ ³ k a ʊ ³ ¹ </s>
+ɲ i ³ ³ l o u ̯ ʔ ³ ³ </s>
+t ʃ ʰ a m ³ ³ ʃ a ʔ ³ ¹ k i ɛ ̯ ³ ¹ </s>
+m ə ³ ³ ʃ i a ̯ ŋ ⁵ ⁵ </s>
+a ³ ³ h a ³ ¹ </s>
+n ə ³ ³ ɲ i ʔ ³ ³ </s>
+l ɛ m ⁵ ² </s>
+ɲ u ³ ³ t ʃ ʰ i ɛ ̯ ⁵ ⁵ </s>
+t s i ³ ¹ </s>
+p ə ³ ³ t ʃ ɛ ʔ ³ ³ </s>
+k ʰ a p ³ ³ ʃ i ³ ³ </s>
+n o k ³ ³ k ʰ ɛ u ̯ ³ ¹ ʃ i u ̯ ³ ³ </s>
+i ɛ ̯ ³ ³ l ɔ ³ ³ t a ʊ ³ ³ p u ɔ ̯ ³ ³ </s>
+k i ɛ ̯ ³ ³ p a ³ ³ </s>
+n i u ³ ³ </s>
+t a ŋ ³ ³ h i u ³ ³ m a u ³ ³ h i u ³ ¹ k a p ³ ¹ </s>
+ɲ a k ³ ³ ɲ a k ³ ³ </s>
+h ɛ ʊ ³ ³ l ɔ ⁵ ⁵ </s>
+m i ɛ ̯ ³ ³ p ʰ ɛ u ̯ ³ ¹ </s>
+t a u ̯ ³ ³ p u o ̯ ³ ³ t ʃ ʰ ə ³ ³ u m ³ ¹ </s>
+t ʰ ə ³ ³ p ʰ i a k ³ ³ p ʰ i a k ³ ³ </s>
+k ʰ ə t ³ ³ t s i k ³ ³ </s>
+n o ŋ ³ ¹ p ʰ i ʔ ³ ³ </s>
+k a p ³ ³ </s>
+l ə ³ ³ k ɛ ɪ ³ ³ l u ɔ ̯ ⁵ ⁵ </s>
+k ʊ a m ³ ³ </s>
+k ʰ ɛ ʊ ³ ¹ s i ʊ ⁵ ⁵ </s>
+t ʃ i ŋ ³ ³ l ɔ ³ ³ </s>
+s e m ⁵ ² p o ³ ³ </s>
+o ⁵ ² l i ɛ ̯ ³ ³ </s>
+t s i ʔ ³ ³ i e ⁵ ² k o ³ ¹ </s>
+a ³ ³ ɲ a ɪ ³ ³ ŋ a ɪ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+i ɛ ̯ ³ ³ t ʰ a ŋ ⁵ ⁵ v ɛ ʊ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+a ³ ³ h u m ³ ¹ k ʰ a ³ ¹ </s>
+i ɛ ̯ ³ ³ l ɛ ɪ ⁵ ² </s>
+i ³ ³ t s i a ̯ p ³ ³ </s>
+u o ⁵ ² i u ³ ¹ m o ŋ ³ ³ </s>
+n ə ³ ³ h o ŋ ⁵ ⁵ </s>
+t ʃ ʰ a ɪ ⁵ ⁵ </s>
+k o ʊ ʔ ³ ³ p a ɪ ʔ ³ ³ </s>
+l a m ³ ³ </s>
+k ʰ i a ̯ p ³ ³ t s ʰ o u ̯ ³ ³ t ʃ i ⁵ ² </s>
+h ɑ ³ ¹ </s>
+ɲ o u ̯ ⁵ ² </s>
+t ʃ ʰ a ɪ ³ ³ t s i ɛ ̯ ⁵ ⁵ p a ʊ ³ ³ </s>
+t ʃ ʰ a m ³ ³ t a k ³ ³ l ə ³ ³ k i ʊ ³ ³ </s>
+a ³ ³ ʃ ɛ ʊ ⁵ ² a ³ ³ t s ɪ ³ ³ n o i ̯ ³ ³ </s>
+o u ̯ ³ ³ p a ³ ³ </s>
+t ʃ a m ³ ³ t ʰ a ŋ ³ ³ </s>
+m a i ̯ ⁵ ² </s>
+t ʰ u a ̯ m ⁵ ⁵ </s>
+ɲ u ³ ³ ʃ o ³ ¹ t a u ̯ ³ ¹ p u o ̯ ³ ³ </s>
+v i e ³ ³ i e ³ ³ </s>
+m o ŋ ⁵ ² t ʃ u ʔ ³ ² </s>
+t ʃ a ŋ ⁵ ² t ʰ a ɪ ³ ¹ ɲ u ³ ¹ i ʊ ʔ ³ ¹ </s>
+v e u ³ ³ . n y u ³ ³ </s>
+k ʰ a ŋ ⁵ ² k ʰ a ŋ ⁵ ² </s>
+p ə ³ ³ l ɪ ə ³ ³ </s>
+l o ʊ ³ ³ t ʃ a ŋ ³ ³ </s>
+i ʊ ʔ ³ ³ ɲ i ɛ ̯ ⁵ ² </s>
+t ʃ ʰ a m ³ ³ t ʃ ɛ ɪ ³ ³ ɲ u ³ ³ </s>
+i ɛ ̯ ³ ³ l ɔ ³ ³ ɲ u ³ ³ </s>
+ɲ ə ⁵ ² k o ŋ ³ ¹ k o ŋ ³ ¹ t s ʰ o u ̯ ³ ¹ p a i ̯ ⁵ ² </s>
+j ɔ ³ ¹ </s>
+k ʊ a p ³ ³ t ʰ u ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ t ʰ a m ³ ¹ </s>
+a ³ ³ m ɛ ɪ ⁵ ² l u ³ ³ k o ³ ³ </s>
+h ɔ k ³ ³ k ɔ ʔ ³ ¹ </s>
+o ³ ³ p i ŋ ³ ³ </s>
+m ə ³ ³ s i m ³ ³ </s>
+l ə ³ ³ k i ʊ ³ ³ ʃ a ʊ ³ ³ h ɛ ʊ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+a ³ ³ l u ɪ ³ ³ t ʃ u ɪ ⁵ ² </s>
+a ³ ³ ʃ o ⁵ ⁵ ʃ i ʊ ⁵ ⁵ </s>
+a ³ ³ t ʃ i ɛ ̯ ʔ ³ ³ </s>
+ɲ a m ³ ³ l i ŋ ³ ³ l i ŋ ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+n o u ̯ ³ ³ a ŋ ³ ³ </s>
+l ɔ ŋ ³ ³ k ʰ ɔ ɪ ³ ¹ </s>
+a ³ ³ t ʃ u ɔ ̯ ⁵ ² i ɛ ̯ ³ ¹ </s>
+n ə ³ ³ h ɛ i ̯ ⁵ ⁵ </s>
+t ʃ ʰ a ɪ ⁵ ⁵ l a ŋ ³ ³ p ɔ ŋ ³ ³ </s>
+u o ³ ³ h ɑ ʔ ³ ³ </s>
+y a ŋ ³ ¹ </s>
+o u ʔ ³ ³ t ʰ i ŋ ³ ¹ k ʰ ɛ u ̯ ʔ ³ ² </s>
+h ɛ ʊ ³ ³ i ɛ ̯ ³ ³ </s>
+h i a ̯ m ³ ³ p ʰ a ɪ ⁵ ⁵ </s>
+k ə ³ ³ l ɔ k ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ¹ l i a ̯ m ³ ¹ </s>
+t ʃ ʰ ɛ ʊ ³ ³ </s>
+ɲ u ³ ³ ŋ o u ̯ ʔ ³ ² </s>
+l ə ³ ³ s a ŋ ³ ³ </s>
+h a ʊ ³ ³ l i ɛ ̯ ⁵ ² </s>
+m o ʊ ³ ³ </s>
+t ʃ ə ³ ³ t ʃ u ɔ ̯ ⁵ ⁵ </s>
+h u ɔ ̯ ³ ¹ t u ɔ ̯ ³ ¹ ɲ u ³ ¹ </s>
+p ɑ t s ʰ ɒ ɲ u </s>
+t s u i ³ ³ k u m ³ ³ </s>
+t s i m ³ ³ t o k ³ ¹ k ʰ a m ³ ¹ t o k ³ ¹ </s>
+m ə ³ ³ ʃ u ³ ¹ p ə ³ ¹ t s ʰ i a ̯ m ³ ¹ </s>
+a ³ ³ i h ʔ ³ ³ l ɔ ³ ¹ ʃ ɛ ʊ ʔ ³ ² t s u m ³ ¹ </s>
+t e i ³ ¹ l ə ³ ¹ k ə ³ ³ h ɔ ³ ¹ </s>
+ʃ ɑ ŋ ³ ³ ʃ ɑ ŋ ³ ³ ʃ ʰ o ³ ³ ʃ ʰ o ⁵ ² </s>
+h ɔ k ³ ³ t ʃ u m ³ ¹ n i ɛ ̯ ³ ³ </s>
+t ʃ ə ³ ³ ʃ a m ³ ³ </s>
+a ³ ³ s h i ³ ³ k a m ³ ³ </s>
+n ə ³ ³ t ʃ ʰ a i ̯ ³ ³ </s>
+w a m ³ ³ </s>
+a ɪ ³ ³ n a ³ ³ </s>
+t ɛ m ³ ³ k ɛ u ⁵ ² h e u ³ ¹ t s ʰ o u ³ ¹ </s>
+k o ʊ ³ ³ s a ⁵ ⁵ </s>
+m i ⁵ ² </s>
+a ³ ³ ʃ i ³ ³ </s>
+t ʰ a ³ ³ ʃ ʰ i m ³ ³ </s>
+ɲ o u ̯ ʔ ³ ³ p ʰ i k ³ ³ </s>
+o ⁵ ² ʃ a ³ ³ </s>
+h a k ³ ³ </s>
+n o u ̯ ³ ¹ h a i ̯ ³ ³ </s>
+t s i m ³ ³ t ɔ ŋ ³ ³ </s>
+t ʰ o ⁵ ⁵ l u ³ ³ ɲ u ³ ³ </s>
+k ɔ ɪ ⁵ ² </s>
+m o ŋ ⁵ ² a u ̯ ³ ¹ ɲ u ³ ³ </s>
+l a k ³ ³ k ʰ i ³ ¹ </s>
+t ʰ o ³ ¹ l o ʊ ̯ ʔ ³ ² </s>
+t e i ³ ¹ </s>
+a ³ ³ l i ³ ¹ i ɛ ̯ ³ ³ ʃ i ³ ³ </s>
+l ɔ ŋ ³ ³ t ʰ ɛ ʊ ³ ¹ h a ɪ ³ ³ </s>
+t s ʰ o ³ ³ </s>
+k ʰ a ʊ ³ ³ s i ŋ ³ ³ s i ŋ ³ ³ </s>
+s ɑ ŋ ³ ³ k ʰ e u ³ ¹ </s>
+o ³ ³ m o k ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ t s i ³ ³ </s>
+t ʰ a m ³ ³ t s a i ̯ ⁵ ² </s>
+t s u o ³ ³ ³ ¹ </s>
+ɲ a m ³ ³ p a k ³ ³ </s>
+k ʰ a ŋ ⁵ ² </s>
+l ɔ ŋ ³ ³ u ³ ³ l a m ³ ³ </s>
+a ³ ³ k ɛ ɪ ³ ¹ h a ɪ ³ ³ </s>
+k ʰ ə ³ ¹ j a ŋ ³ ¹ </s>
+a ɪ ³ ³ m o ŋ ³ ¹ </s>
+k ʰ j u ³ ¹ ɲ o ʔ ³ ¹ </s>
+ɲ u ³ ³ ʃ i ʔ ³ ³ </s>
+n u a ̯ ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ m ə ³ ¹ l ɛ ɪ ʔ ³ ¹ </s>
+l a p ³ ¹ ʃ i ³ ¹ </s>
+a ³ ³ m ɛ ɪ ³ ³ i ɛ ̯ ³ ¹ l o ʊ ʔ ³ ¹ </s>
+u ³ ³ k ʰ i a m ³ ¹ h e u ³ ¹ </s>
+t ʃ ʰ a p ³ ³ t ʃ ʰ u ʔ ³ ³ </s>
+ɲ i ŋ ³ ³ t o ŋ ³ ³ </s>
+l i ŋ ⁵ ² ɲ u ³ ¹ </s>
+ɲ a u ̯ ³ ³ m i ɛ ̯ ⁵ ² </s>
+n o k ³ ² u ʔ ³ ² </s>
+t ʰ ə ³ ³ t ʰ i u ⁵ ⁵ </s>
+t ʃ ʰ ə ³ ³ l ɑ m ⁵ ⁵ </s>
+a ³ ³ p a ʔ ³ ³ </s>
+t ʃ ʰ a m ³ ³ t s o ʊ ³ ³ l ə ³ ³ k ʰ u ɔ ̯ ³ ¹ ɲ u ³ ¹ </s>
+h o ʊ ³ ³ p ʰ a ʔ ³ ¹ l a p ³ ¹ k i ɛ ̯ ⁵ ² </s>
+t ʃ ɔ ŋ ³ ³ k ɔ ɪ ⁵ ² </s>
+h ʊ a m ³ ¹ p ə ³ ¹ t s ʰ i ⁵ ⁵ k i ³ ³ k a m ³ ³ </s>
+a ³ ³ l i a ̯ m ³ ³ t ʃ a ŋ ³ ¹ k ɔ ³ ³ </s>
+t ʰ ə ³ ³ ŋ ɔ ³ ³ t ʃ i ⁵ ⁵ </s>
+k ʰ ə ³ ¹ l a m ³ ³ </s>
+k i ʊ ʔ ³ ¹ h ɔ ³ ¹ i ɛ ̯ ³ ³ </s>
+w a ³ ³ s e m ³ ³ </s>
+k a ʊ ⁵ ² t ʰ i ʊ ³ ³ </s>
+t ʰ a ŋ ³ ¹ l o u ʔ ³ ¹ </s>
+o ⁵ ² t s i ³ ³ l o ³ ³ </s>
+t ʰ a i ³ ³ l u i ⁵ ⁵ p i k ⁵ ⁵ p a i ⁵ ² </s>
+a ɪ ⁵ ² i ʊ ʔ ³ ² </s>
+t ʃ a m ³ ³ s i ʊ ʔ ³ ³ k i ɛ ̯ ⁵ ² </s>
+ɲ u ³ ³ i ɛ ̯ ³ ³ </s>
+k ʰ ɛ ʊ ³ ¹ ɲ ɔ ʔ ³ ¹ t ʃ i n ⁵ ² j u ³ ¹ </s>
+t ʃ ɔ ŋ ³ ³ k u ɔ ̯ ³ ³ k ʰ ɛ ʊ ³ ¹ t s a ɪ ³ ¹ </s>
+k o ʊ ³ ³ </s>
+a ³ ³ h ɔ ⁵ ⁵ t ʃ ʰ u ʔ ³ ² </s>
+t ə ³ ³ k ʰ i a m ³ ³ k ʰ i a m ³ ¹ </s>
+m i ɛ ̯ ³ ³ w a m ³ ³ w a m ⁵ ² ɲ u ³ ¹ </s>
+m a u ³ ³ ʃ u ʔ ³ ¹ </s>
+t ʃ ʰ o k ³ ³ p u a ̯ ³ ¹ </s>
+a ³ ³ l i a ̯ m ³ ¹ t ʰ i ŋ ³ ³ t ʃ a m ⁵ ⁵ </s>
+k ɔ ŋ ³ ¹ ɲ u ³ ³ </s>
+k o ʊ ʔ ³ ³ p a ʊ ³ ¹ </s>
+t ʰ o i ³ ¹ h o ŋ ³ ³ </s>
+n a ⁵ ² </s>
+m a ⁵ ² p ʰ i ŋ ³ ¹ t a u ̯ ³ ¹ p u o ̯ ³ ³ </s>
+t ʃ ɔ ŋ ³ ³ l i ʊ ³ ³ </s>
+k ʰ ɛ ʊ ³ ³ v i ³ ¹ </s>
+t ʃ a ³ ³ m ɔ ŋ ³ ³ ɲ u ³ ¹ </s>
+k ʰ o ʊ ³ ³ ʃ a k ³ ³ </s>
+a ³ ³ t ʃ ʰ u m ³ ³ </s>
+m o ŋ ⁵ ² s o ³ ¹ </s>
+m o u ̯ ³ ³ t ʰ i ³ ³ k ə ³ ³ j ɛ u ̯ ʔ ³ ² </s>
+a ³ ³ ʃ i ʊ ⁵ ⁵ </s>
+v i e ³ ³ </s>
+k o ʊ ʔ ³ ³ ʃ ə ³ ¹ l a ɪ ʔ ³ ¹ </s>
+m o ŋ ³ ³ </s>
+t ʃ a m ³ ³ t a m ⁵ ⁵ </s>
+a ³ ³ t ʃ u ɔ ̯ ³ ³ i ɛ ̯ ³ ¹ h o k ³ ¹ p a m ³ ¹ </s>
+s a ŋ ³ ³ t ʰ e u ̯ ³ ³ ɲ u ⁵ ⁵ </s>
+a ³ ³ l i ³ ¹ v a ³ ³ </s>
+h ʊ a ⁵ ⁵ l o ʊ ʔ ⁵ ⁵ </s>
+l i ʊ ³ ³ </s>
+h i ɛ ̯ ³ ³ ɲ i ³ ³ ɲ i ⁵ ² </s>
+t ʃ ɔ ŋ ³ ³ k u ɔ ̯ ³ ³ l ə ³ ³ t ɔ ɪ ³ ¹ t ɔ ɪ ³ ³ </s>
+a ³ ³ k i p ³ ³ ʃ a ⁵ ⁵ t ʃ ə ⁵ ⁵ n o ⁵ ² </s>
+k ɔ u ³ ³ t ʰ a ³ ¹ </s>
+l ɔ ŋ ³ ³ p ʊ a ³ ³ m ɔ ŋ ⁵ ² </s>
+o ⁵ ² k o ³ ¹ </s>
+a ³ ³ h i ʔ ³ ³ i ɛ ̯ ⁵ ² </s>
+l u p ³ ³ </s>
+l ɛ m ³ ³ i ɛ ̯ ³ ³ </s>
+u ⁵ ² m i ³ ¹ </s>
+l ɛ ɪ ⁵ ² t ʰ u ɔ ̯ ³ ³ </s>
+n o k ³ ³ k ʰ ɛ u ̯ ³ ¹ k a m ³ ³ </s>
+a ³ ³ l a ʊ ⁵ ² l o ʊ ʔ ³ ² </s>
+a ³ ³ m a ɪ ⁵ ² </s>
+h a ³ ³ n ɔ ŋ ⁵ ⁵ </s>
+t a ʊ ³ ³ p u o ³ ³ t s i e ⁵ ⁵ h a i ⁵ ⁵ </s>
+m ə ³ ³ l o ŋ ³ ³ </s>
+a ³ ³ l i a ̯ m ⁵ ² </s>
+l ə ³ ³ k i ʊ ⁵ ² </s>
+h i ʊ ʔ ³ ³ </s>
+ɛ m ³ ³ . t ʰ ɑ ʔ ³ ¹ </s>
+v ɛ u ³ ³ k o i ̯ ³ ³ t ʰ i n ŋ ³ ³ </s>
+t ʃ ʰ i ³ ³ k a m ³ ³ k ʰ ɛ ʊ ³ ¹ </s>
+n o u ̯ ³ ³ k u ³ ³ ʃ a k ³ ² t s ʰ o u ̯ ³ ¹ </s>
+l u ³ ³ t ʃ i ³ ³ p a ɪ ⁵ ² </s>
+l o ʊ ³ ³ ɲ i ʔ ³ ³ </s>
+ʃ a ʔ ³ ³ t a ⁵ ² </s>
+t ʃ i ⁵ ² </s>
+ɲ u ³ ³ </s>
+t s ʰ e p ³ ³ </s>
+t ʃ ʰ i ³ ³ t ʰ a ʔ ³ ¹ </s>
+a ³ ³ p ɛ m ³ ¹ l i ʔ ³ ¹ </s>
+t ʃ i ŋ ³ ³ k a ŋ ³ ³ </s>
+l a ɪ ³ ¹ v a ³ ³ </s>
+k ʰ ɛ ɪ ⁵ ⁵ </s>
+t ʰ i ³ ¹ t i e ³ ¹ h i e ³ ¹ </s>
+a ³ ³ n ɔ k ³ ³ ɲ u ³ ¹ </s>
+k ʰ ə ³ ¹ ŋ o ʊ ³ ¹ </s>
+t ʃ ə ³ ³ p ʰ ɔ ɪ ⁵ ⁵ </s>
+t ʃ ə ³ ³ m u ɔ ̯ ³ ³ </s>
+ɲ u ³ ³ t a u ̯ ³ ³ t u m ³ ³ </s>
+t ʰ u i ̯ ʔ ³ ³ </s>
+t a ³ ³ l a m ⁵ ² </s>
+t ʰ a u ³ ¹ </s>
+ɲ o ʔ ³ ¹ </s>
+e i ̯ ³ ¹ </s>
+k ʰ ɛ ʊ ³ ¹ ʃ a ³ ³ </s>
+j ɔ ³ ³ ʃ ʰ u o ³ ¹ </s>
+a ³ ³ m o ŋ ⁵ ² s ɛ ʊ ʔ ³ ² ɲ u ³ ³ </s>
+k ʰ ɛ ʊ ³ ¹ ɲ ɔ ʔ ³ ¹ t s ʰ o ʊ ³ ¹ </s>
+o u ̯ ³ ³ k i k ³ ² m o ŋ ³ ¹ </s>
+l ɛ m ³ ³ l ɔ ³ ³ </s>
+t u a ⁵ ² . t ʰ i ʔ ³ ¹ </s>
+o u ̯ ³ ³ k i ŋ ³ ³ t ʃ ʰ a ʔ ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ t ʰ a ŋ ³ ¹ </s>
+t ʰ u a ̯ m ³ ¹ a ʔ ³ ¹ </s>
+h a ɪ ³ ³ m ɛ ɪ ³ ³ s a ŋ ³ ³ </s>
+a ³ ³ k ʰ ə ³ ¹ l i p ³ ² t s ʰ o ʊ ³ ¹ </s>
+t ʰ ə ³ ³ k ʰ u ³ ³ </s>
+k ʰ ɛ p ³ ³ l ɔ ³ ³ </s>
+t s ʰ ə ³ ³ p u ʔ ³ ¹ k i ŋ ³ ¹ </s>
+l ɔ ŋ ³ ³ k i k ³ ¹ m ɔ ŋ ³ ¹ </s>
+k a ŋ ³ ³ t a ɪ ⁵ ² </s>
+a ³ ³ i ɛ ̯ ⁵ ² </s>
+o ⁵ ² t s i ³ ³ t s u a ⁵ ² p ʰ o u ʔ ³ ¹ </s>
+k ʰ ʊ a ³ ³ m i ɛ ̯ ³ ³ </s>
+l i a ̯ m ⁵ ² l u ³ ³ </s>
+l a ŋ ⁵ ² o ʊ ³ ³ h ɛ ʊ ³ ¹ </s>
+h o ʊ ³ ¹ ɲ i ³ ¹ </s>
+s a ⁵ ² </s>
+t ʰ o i ³ ¹ k ʰ u a ³ ³ </s>
+a ³ ³ t ʃ u ɔ ̯ ʔ ³ ³ </s>
+a ³ ³ n ɔ k ³ ³ ɲ u ³ ¹ k a m ³ ³ </s>
+v ɛ u ̯ ³ ¹ </s>
+k ʰ ɛ ʊ ³ ¹ t ʰ i ɛ ̯ ³ ¹ l u ³ ³ </s>
+l a ³ ³ k ʰ i a ̯ ŋ ³ ¹ </s>
+l o ʊ ³ ³ t s ʰ ə ³ ¹ n i k ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ¹ u ³ ¹ ʃ u a ̯ ⁵ ² </s>
+k o ʊ ʔ ³ ³ ɔ ⁵ ² ɲ u ³ ¹ k ʰ ə ³ ¹ i ɛ ̯ ⁵ ² </s>
+a ³ ³ ʃ ɛ ʊ ³ ³ t ɛ ʊ ³ ³ t ʃ ə ⁵ ⁵ h a ɪ ⁵ ⁵ </s>
+k ʰ ɛ p ³ ³ </s>
+t ʃ a m ³ ³ m ɔ ŋ ⁵ ² </s>
+a ³ ³ m a ʊ ³ ¹ </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ p a ɪ ⁵ ² </s>
+k ʰ a ʊ ³ ¹ ɲ u ³ ¹ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+k u ɪ ⁵ ² </s>
+k ʰ u ɔ ̯ ³ ³ i ɛ ⁵ ² </s>
+i ɛ ̯ ³ ³ ʃ u ⁵ ⁵ p a ɪ ⁵ ² </s>
+m o ŋ ⁵ ² l u a ̯ ³ ¹ </s>
+t a ŋ ³ ³ ʃ e p ³ ³ </s>
+o u ̯ ʔ ³ ³ k ʰ ɛ u ̯ ³ ¹ </s>
+k a ŋ ³ ³ t s ʰ a ʊ ³ ¹ </s>
+o ³ ³ ɲ u ³ ³ </s>
+k ʰ ɔ ³ ¹ p i a ̯ m ³ ¹ </s>
+a ³ ³ k ʰ u ³ ³ s ə ³ ³ ʃ i ⁵ ² </s>
+l ə ³ ³ l u ɔ ̯ ³ ³ p a ɪ ³ ³ </s>
+a ³ ³ p o ŋ ⁵ ² v a ⁵ ² ɲ u ³ ³ </s>
+t ə ³ ³ v e i ³ ³ v e i ⁵ ⁵ </s>
+n ə ʔ ³ ³ </s>
+a ³ ³ l ɛ ɪ ʔ ³ ² l i ŋ ³ ³ </s>
+u ʔ ³ ³ k u a p ³ ³ h a i ⁵ ⁵ </s>
+ɛ m ³ ³ . h ɪ ɛ ³ ¹ </s>
+a ³ ³ p ʰ a ŋ ⁵ ⁵ </s>
+s ɑ ŋ ³ ³ k ʰ ɑ u ⁵ ⁵ </s>
+k o ʊ ³ ³ t s ʊ a ³ ³ </s>
+ɲ i ŋ ⁵ ² </s>
+ɲ u ³ ³ a u ̯ ³ ³ t ʰ i ³ ³ </s>
+ʃ a ŋ ⁵ ⁵ </s>
+n u m ³ ³ n u m ³ ³ </s>
+a ³ ³ m o ³ ¹ </s>
+a ³ ³ p ɛ ɪ ³ ¹ k o ʊ ³ ¹ k i a ̯ ŋ ³ ³ </s>
+k ʰ ʊ a m ⁵ ⁵ l i ʊ ³ ³ </s>
+t ʰ i ŋ ³ ³ m i e ³ ³ t s i ³ ¹ ʃ a ŋ ³ ³ </s>
+k ɔ ɪ ³ ³ k ɔ ɪ ³ ³ </s>
+m a u ̯ ³ ³ t i ŋ ³ ³ t i ŋ ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+i ʔ ³ ¹ w a ³ ¹ </s>
+l ɛ m ³ ³ t ʃ a k ³ ³ </s>
+t ʰ u a ̯ p ³ ³ ʃ ʰ o ŋ ³ ³ </s>
+ɲ i ɛ ̯ ³ ³ ɲ i ɛ ̯ ³ ³ </s>
+l i a ̯ m ³ ¹ t ʰ i u ̯ ³ ³ </s>
+m o ŋ ⁵ ² l a ŋ ³ ¹ t ʰ i u ̯ ³ ³ </s>
+t ʃ a m ³ ³ t s i m ⁵ ² m ə ³ ¹ k ʰ ɔ ³ ³ k ʰ ɔ ³ ¹ ɲ u ³ ¹ </s>
+t a ŋ ³ ³ k ə ³ ³ h u o ³ ¹ t ʃ i ⁵ ² </s>
+ɲ u ³ ³ h a p ³ ³ </s>
+t ʃ a ɪ ³ ³ t ʃ a ɪ ³ ³ h u a ̯ ⁵ ⁵ t i ɛ ̯ ³ ³ </s>
+a ³ ³ l ə ³ ³ p u ɪ ³ ³ </s>
+y o ³ ³ . k a u ⁵ ⁵ </s>
+ɲ u ³ ³ t ʰ u o ̯ ³ ¹ p i ŋ ³ ³ </s>
+o u ̯ ³ ³ t ʰ ɛ u ̯ ³ ³ t s ʰ o i ̯ ³ ¹ </s>
+h ɛ ʊ ³ ³ m o ŋ ³ ³ m ɛ ɪ ⁵ ² </s>
+m i ɛ ̯ ³ ³ k u a ̯ i ̯ ⁵ ² </s>
+t ʃ i ³ ³ k ʰ ɔ k ³ ¹ k i ɛ ̯ ⁵ ² </s>
+t ʃ a ŋ ³ ³ t ɛ m ³ ³ t s ʰ ɔ ɪ ³ ¹ </s>
+t ʃ ʰ ɔ ɪ ⁵ ⁵ ɲ a m ³ ³ </s>
+m o ŋ ³ ³ l u a ̯ ⁵ ² </s>
+t i e ⁵ ² </s>
+j ɔ ⁵ ² </s>
+k u ɪ ³ ¹ t s ʰ o ʊ ³ ¹ i ʊ ʔ ³ ¹ </s>
+a ³ ³ p a ʊ ³ ³ t s a ŋ ³ ³ t ʃ i ⁵ ⁵ </s>
+t s u i ³ ¹ </s>
+a ³ ³ ɲ i ³ ³ l i a ̯ m ³ ¹ k i ³ ³ </s>
+k a m ³ ³ t ʰ i ʊ ⁵ ⁵ </s>
+n i u ̯ ⁵ ² p ʰ i ³ ³ </s>
+t ʃ a ŋ ⁵ ² ʃ a ŋ ³ ¹ h i ɛ ̯ ³ ¹ k i ³ ³ </s>
+h ʊ a ³ ³ k ʰ ə ³ ³ k ʰ i ŋ ³ ¹ </s>
+l i a ̯ ŋ ³ ³ l u ³ ³ </s>
+t ʃ a m ³ ³ t s i m ³ ³ </s>
+t s u i ⁵ ⁵ t a i ³ ³ p a u ³ ³ </s>
+o u ̯ ʔ ³ ³ i ɛ ̯ ³ ³ </s>
+h ɔ ⁵ ⁵ </s>
+k o u ³ ³ k ʰ a ³ ³ </s>
+o u ̯ ʔ ³ ³ k i k ³ ² </s>
+h ɛ ⁵ ² </s>
+k ɔ ɪ ³ ³ t a m ³ ³ l ə ³ ³ t s ʰ i ³ ¹ ɲ u ³ ¹ </s>
+t u p ³ ¹ t u p ³ ¹ </s>
+a ³ ³ ɔ k ³ ³ </s>
+ɲ a ³ ³ k i ŋ ³ ¹ </s>
+a ³ ³ . t ʃ ʰ a ³ ¹ </s>
+t ʃ i ³ ³ s a ŋ ³ ³ p i ŋ ³ ¹ </s>
+a ³ ³ t ʰ ə ³ ³ ŋ o ³ ³ </s>
+n o k ³ ³ k ʰ ɛ u ̯ ³ ¹ k a m ³ ¹ ɲ u ³ ³ </s>
+h a ŋ ³ ¹ </s>
+k ʰ ɛ ʊ ³ ³ ɲ u ³ ¹ k a m ³ ³ </s>
+ɲ a m ³ ³ k o k ³ ¹ t ʰ ɛ u ̯ ³ ¹ </s>
+a ³ ³ u ʔ ³ ³ a ³ ³ t s ɪ ³ ³ n o i ̯ ³ ³ </s>
+h ɔ k ³ ³ ŋ a m ³ ³ </s>
+a ³ ³ k u ɪ ³ ³ </s>
+k a ⁵ ⁵ p a ⁵ ⁵ </s>
+k i ɛ ̯ ³ ³ </s>
+i m ³ ¹ </s>
+a ³ ³ i ʔ ³ ³ a ³ ³ </s>
+t ʰ ə ³ ³ v a ⁵ ² </s>
+a ³ ³ ʃ o ⁵ ² ʃ i ʊ ⁵ ² </s>
+t ʃ ʰ a ³ ³ t ʰ i ʊ ³ ¹ </s>
+s e m ⁵ ⁵ </s>
+t s u i ³ ³ m e i ³ ³ </s>
+a ³ ³ m o ŋ ³ ³ p e m ³ ¹ </s>
+k ʰ ɛ m ⁵ ⁵ </s>
+v e u ³ ³ t i ŋ ³ ³ </s>
+l a k ³ ³ t s ʊ a m ⁵ ² </s>
+u ʔ ³ ³ k u m ³ ³ </s>
+o i ̯ ³ ¹ </s>
+t ʃ i ³ ³ t s ʊ a ⁵ ⁵ </s>
+m i o ̯ ³ ³ l a ʔ ³ ³ </s>
+p ɛ ̯ i ⁵ ² </s>
+ɲ a p ³ ² k ə ³ ¹ m a i ̯ ⁵ ² </s>
+h i a ̯ m ³ ³ k a ɪ ³ ¹ </s>
+a ³ ³ ʃ o ⁵ ⁵ </s>
+n o k ³ ³ v i ɛ ̯ ³ ³ </s>
+a ³ ³ l i ʊ ⁵ ⁵ </s>
+l i a ̯ ŋ ³ ³ </s>
+l a k ³ ³ l ʊ a ⁵ ² </s>
+o u ̯ ³ ³ h ɛ u ̯ ⁵ ⁵ </s>
+ɲ u ³ ³ t s o u ̯ ³ ³ </s>
+i ³ ³ h u ɔ ̯ ³ ³ h ɔ ɪ ⁵ ⁵ </s>
+k ʰ ɔ k ɔ </s>
+m o ŋ ³ ³ l a m ³ ³ </s>
+h ə ³ ³ . h ɛ ̯ i ⁵ ² </s>
+h o ʊ ⁵ ⁵ t ʃ i ŋ ³ ³ i ɛ ̯ ³ ³ </s>
+k a p ⁵ ⁵ k a p ⁵ ⁵ t s ʰ o ʊ ³ ³ </s>
+ɲ i ɛ ̯ ³ ³ v a ⁵ ² </s>
+k i ŋ ³ ³ ʃ ʊ a ³ ³ </s>
+v a u ³ ³ </s>
+l o ʊ ³ ³ k ʰ i a ̯ m ⁵ ⁵ </s>
+a ³ ³ p a ʊ ³ ³ t s a ŋ ³ ³ h ɔ ɪ ⁵ ⁵ </s>
+t a u ³ ³ l ɒ u ʔ ³ ³ </s>
+l ɔ ³ ³ ɔ ³ ³ t s i ³ ³ t s ʰ o ʊ ³ ¹ </s>
+a ³ ³ k i ³ ³ t ʰ a ŋ ³ ³ </s>
+h ɔ ɪ ³ ¹ k a m ³ ¹ </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ ʃ a ŋ ³ ³ k i ɛ ⁵ ² </s>
+ɲ o i ̯ ³ ³ i ɛ ̯ ⁵ ² </s>
+m o ŋ ³ ³ k a u ̯ ³ ³ p a i ̯ ⁵ ² </s>
+t ʃ ɑ ŋ ⁵ ² </s>
+u ³ ¹ t ə ³ ¹ t ʃ i ŋ ³ ³ k o ³ ³ </s>
+i ʊ ʔ ³ ³ t s i k ³ ³ </s>
+ʃ ʰ a i ⁵ ² </s>
+a ³ ³ n i ɛ ̯ ⁵ ⁵ </s>
+m ə ³ ³ t i u ̯ ⁵ ² </s>
+m i a k ³ ³ m i a k ⁵ ² </s>
+t ʰ u o ³ ³ n o k ³ ³ ɲ u ³ ¹ </s>
+t ʃ ʰ i ɛ ʔ ³ ³ </s>
+t ʃ ə ³ ³ l i a ̯ m ³ ³ k ʰ i ³ ¹ </s>
+k ʊ a ³ ³ l o ʊ ³ ³ </s>
+l ɔ ɪ ³ ³ </s>
+v i ³ ¹ ʃ ʰ a ³ ³ k i u ʔ ⁵ ² </s>
+t a ³ ¹ l i u ̯ ³ ³ </s>
+k ʰ a ʊ ³ ¹ k ɛ ɪ ³ ¹ k ɛ ɪ ³ ¹ </s>
+t ə ³ ³ p ʰ o k ³ ³ p ʰ o k ³ ³ </s>
+l i ŋ ³ ³ k ɔ ³ ³ </s>
+t s ʰ a ɪ ³ ³ t ʃ ʰ i ɛ ̯ ⁵ ⁵ k o ʊ ³ ³ t ʃ a m ³ ³ </s>
+t ʰ o ⁵ ⁵ ʃ ʰ a ⁵ ⁵ </s>
+k o ʊ ʔ ³ ³ ɔ ⁵ ² v ɛ ʊ ³ ¹ p ɔ ŋ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+n a p ³ ² </s>
+a ³ ³ m ɛ ʊ ³ ¹ v a ³ ³ l o ʊ ʔ ³ ¹ </s>
+l i ŋ ³ ³ j ɔ ³ ³ </s>
+ɲ u ³ ³ t ʰ ɛ u ̯ ³ ³ </s>
+m e u ³ ¹ </s>
+o ⁵ ² t s i ³ ³ t a ⁵ ² k u m ³ ¹ </s>
+a ³ ³ i ⁵ ⁵ ʃ i ³ ³ </s>
+a ³ ³ l o ʊ ³ ³ l i a ̯ ŋ ⁵ ⁵ </s>
+t ʃ ʰ i ʊ ³ ³ ɲ u ³ ¹ </s>
+t ʰ a ŋ ³ ¹ p o ŋ ³ ¹ </s>
+t i a m ³ ¹ t s o ʔ ³ ¹ </s>
+k ʰ ɛ ɪ ³ ¹ k ə ³ ¹ s ə ³ ³ m i ɛ ̯ ʔ ³ ³ </s>
+m o ŋ ⁵ ² k i k ³ ² </s>
+k ɔ k ³ ³ t i m ³ ¹ </s>
+v e u ³ ³ . p ɔ ̯ ŋ ³ ³ ɲ u ³ ³ s ʰ e p ³ ¹ p a i ̯ ³ ¹ </s>
+n ə ³ ³ t ʰ a ŋ ⁵ ⁵ </s>
+p ʰ u ʔ ³ ³ </s>
+m o ŋ ³ ³ t s o u ̯ ⁵ ⁵ </s>
+j o ³ ³ t h i e ³ ² </s>
+h i k ³ ³ l i ʊ ⁵ ² </s>
+k ʰ i a ̯ m ³ ¹ k ʰ ɛ ʊ ³ ¹ k ʰ a ⁵ ⁵ </s>
+a ³ ³ k a m ³ ³ </s>
+t ʰ o ʔ ³ ³ l o u ʔ ³ ¹ </s>
+i ʊ ³ ¹ l o ³ ³ </s>
+m ə ³ ³ s i a ̯ ŋ ³ ³ </s>
+v a u ³ ³ h i e ³ ² </s>
+ɲ u ³ ³ h a p ³ ³ t s ə ʔ ³ ³ k o </s>
+m i ɛ ̯ ³ ³ h u o ̯ ⁵ ⁵ s ə ³ ³ t a i ̯ ʔ ³ ² </s>
+t ʰ a ⁵ ⁵ s a i ʔ ⁵ ⁵ </s>
+m o u ̯ ³ ³ t ʰ i ³ ³ </s>
+ɲ u ³ ³ p i k ³ ² </s>
+k i ŋ ³ ³ k ʰ ɛ m ³ ¹ </s>
+i ɛ ̯ ³ ³ ɲ a ɪ ³ ³ </s>
+m i a ̯ m ³ ³ s ə ³ ³ m o u ̯ ³ ³ </s>
+a ³ ³ l a ʔ ³ ³ n o ʊ ³ ³ k ʊ a p ³ ³ </s>
+t s i ɛ ³ ¹ </s>
+h a ʊ ³ ³ h u ɪ ³ ³ </s>
+l a p ³ ³ l a p ³ ¹ </s>
+ɲ u ³ ³ l a ŋ ³ ³ </s>
+t a i ʔ ³ ¹ t a i ʔ ³ ¹ </s>
+t ə ³ ³ ɲ i ³ ³ </s>
+h ɛ ʊ ³ ³ i ³ ³ k a m ³ ³ </s>
+ʃ ɑ ŋ ³ ³ p o i ³ ³ </s>
+t ʰ o ³ ¹ l o ʊ ̯ ʔ ³ ¹ i e ⁵ ² </s>
+l ɔ ŋ ³ ¹ h ʊ a ³ ³ t i ɛ ̯ ³ ³ </s>
+k a m ⁵ ² a ɪ ʔ ³ ¹ </s>
+l ɔ ŋ ³ ³ ʃ a m ³ ³ </s>
+l o ʊ ³ ³ h ɛ ɪ ⁵ ⁵ l o ʊ ³ ³ </s>
+n o ŋ ² ¹ k o u ̯ ³ ¹ a i ̯ ³ ¹ k o ³ ¹ </s>
+v i ³ ¹ </s>
+t ə ³ ³ ʃ u a p ³ ³ ʃ u a p ³ ³ </s>
+a ³ ³ p a m ³ ³ </s>
+h ɔ k ³ ³ k ʰ a ʊ ³ ¹ </s>
+k ɔ ɪ ³ ³ p ə ⁵ ⁵ t s i ³ ³ t s ʰ o ʊ ³ ³ </s>
+k ʰ i o ̯ ³ ³ </s>
+l ə ³ ³ ɲ a k ³ ¹ ɲ i ⁵ ² </s>
+k i ⁵ ⁵ i ʊ ʔ ⁵ ² </s>
+t s i ɛ ̯ ⁵ ⁵ </s>
+l ə ³ ³ t s ʰ i ³ ¹ n ɔ k ³ ¹ </s>
+t u o ⁵ ² </s>
+t ʰ a ³ ¹ </s>
+t a ŋ ⁵ ² t a ŋ ⁵ ² </s>
+l i ʊ ³ ³ t s ʰ o ʊ ³ ¹ m ɔ k ³ ¹ t s i o ̯ ʔ ³ ¹ </s>
+k ɔ ³ ³ h i ɛ ̯ ³ ³ </s>
+h u ɪ ⁵ ⁵ </s>
+k ʰ i a ̯ m ³ ³ t ʃ ʰ i ³ ¹ l ɔ ŋ ³ ¹ l ɔ ŋ ³ ³ ɲ u ³ ³ </s>
+l i ³ ³ l u ɔ ̯ ʔ ³ ³ </s>
+t ʰ i ŋ ³ ³ m ə ³ ³ t ʃ a ⁵ ⁵ </s>
+t ʰ a ³ ³ ʃ ə ³ ³ t ʰ o ŋ ³ ³ </s>
+ɲ a m ⁵ ² </s>
+t s ʰ i k ³ ³ </s>
+t ə ³ ³ </s>
+l i ɛ ̯ ⁵ ² p u ɔ ̯ ³ ³ p a ɪ ⁵ ² </s>
+m ə ³ ³ t s i u ̯ ʔ ³ ³ l o ŋ ³ ³ h i ʔ ³ ³ </s>
+k ʰ a ʊ ³ ³ t s ʰ ə ³ ³ p u ʔ ³ ¹ </s>
+k ʰ i a ̯ m ³ ³ ʃ i ʊ ⁵ ² </s>
+l ɛ ɪ ⁵ ² t ɔ ŋ ³ ³ </s>
+l a ⁵ ² l ə ³ ¹ m ɔ ŋ ³ ³ </s>
+a ³ ³ m a ɪ ³ ¹ v a ³ ³ </s>
+t ʰ a ⁵ ⁵ n i ɛ ̯ ³ ¹ </s>
+t a ⁵ ² k a p ³ ¹ p a i ⁵ ² </s>
+t i a m ³ ³ t i a m ³ ³ </s>
+k ʰ ə ³ ³ m ɛ ɪ ³ ³ ʃ i ³ ³ m ɛ ɪ ³ ³ </s>
+k i ʊ ³ ¹ h ɔ ³ ¹ </s>
+t ʃ i ⁵ ² s ə ³ ¹ w a p ³ ¹ </s>
+l a m ⁵ ² ʃ ɔ ŋ ⁵ ² </s>
+k ʰ i ɑ m ³ ³ . ɲ u ⁵ ⁵ . ŋ n ⁵ ⁵ </s>
+k ʰ ə ³ ³ t i ŋ ³ ³ </s>
+m i ɛ ̯ ³ ³ p o ŋ ³ ¹ </s>
+t ə ³ ³ p a ŋ ³ ³ p a ŋ ³ ³ </s>
+s a ³ ³ s a u ̯ ³ ³ </s>
+a ³ ³ l ɛ ʊ ⁵ ² </s>
+i ʊ ʔ ³ ¹ o ³ ¹ h i ɛ ̯ ³ ¹ </s>
+ɲ u ³ ³ t s o u ̯ ʔ ³ ³ </s>
+t ʃ ʊ a p ³ ¹ </s>
+a ³ ³ k a m ³ ³ t ʃ ə ³ ¹ ʃ i ⁵ ⁵ </s>
+t ʃ ə ³ ³ t s ʰ i ʔ ³ ³ i ɛ ⁵ ² </s>
+t ʃ ʰ a ɪ ³ ³ l i ³ ³ k ʰ e ʊ ³ ³ ɲ o ʔ ³ ¹ </s>
+h a ʊ ³ ¹ t ʰ a i ³ ¹ </s>
+n a ŋ ³ ³ n a ŋ ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+n o ŋ ³ ³ k ʰ o ³ ¹ k o ³ ¹ </s>
+h ə ³ ³ n i ³ ³ </s>
+i ʊ ʔ ³ ¹ </s>
+s e m ³ ³ </s>
+p ʰ ə ³ ³ t a p ³ ¹ </s>
+v e u ³ ³ h i ɛ ̯ ³ ² k ʰ a ʊ ³ ² </s>
+k ɛ ʊ ³ ³ t s o ʊ ⁵ ² </s>
+l o ʊ ³ ³ l a ʔ ³ ³ </s>
+m o ŋ ⁵ ² t ʃ ə ³ ¹ t ʰ o ʔ ³ ² </s>
+s e u ⁵ ⁵ </s>
+i ɛ ̯ ³ ³ p u ɔ ̯ ³ ³ </s>
+i ɛ ̯ ³ ³ n o ɪ ³ ³ k i ɛ ̯ ⁵ ² </s>
+l ɛ ʊ ʔ ⁵ ⁵ n ɔ ³ ¹ </s>
+s ɑ ŋ ³ ³ k ʰ ɑ u ⁵ ⁵ l i ʔ ³ ³ </s>
+k o ʊ ³ ³ l ə ³ ³ k o ʊ ʔ ³ ¹ </s>
+ɲ u ³ ³ t ʃ a ŋ ³ ³ </s>
+t ʃ u ɪ ³ ³ </s>
+u ³ ³ i e ⁵ ² </s>
+k ʊ a p ³ ³ u ³ ¹ </s>
+a ³ ³ s i ³ ³ s i ⁵ ⁵ l a k ³ ¹ </s>
+ʃ a ³ ³ k i k ³ ¹ </s>
+a ³ ³ k ʰ u ʔ ³ ³ </s>
+m i ɛ ̯ ³ ³ p ʰ ɛ u ³ ¹ m a i ̯ ³ ³ </s>
+h i ɛ ̯ ³ ¹ t s i k ³ ¹ </s>
+k i m ³ ¹ </s>
+t ʃ a m ³ ³ k i ³ ³ </s>
+l i a ̯ k ³ ³ ɲ i k ³ ¹ </s>
+p a u ³ ¹ </s>
+k ʰ a ʊ ³ ³ t s a ʊ ʔ ³ ³ </s>
+m i e ̯ ³ ³ l o u ̯ ³ ³ t s ʰ o u ³ ¹ </s>
+a ³ ³ t ʃ i ʊ ⁵ ⁵ </s>
+a ³ ³ k i ³ ³ </s>
+h i ɛ ̯ ³ ³ </s>
+t ə ³ ³ ʃ ʰ o k ³ ³ ʃ ʰ o k ³ ³ </s>
+k o ŋ ⁵ ² </s>
+n ə ³ ³ p u a ̯ ⁵ ⁵ </s>
+t ʰ a i ³ ³ m o ŋ ³ ³ n i u ⁵ ² t s ʰ o u ʔ ³ ¹ </s>
+t a ŋ ⁵ ² </s>
+n ɒ k ³ ¹ </s>
+l a k ³ ³ t s ʰ o ʊ ³ ³ </s>
+k ʰ ɛ ʊ ³ ¹ l i ŋ ³ ³ </s>
+h ɔ k ³ ³ p a m ³ ¹ </s>
+t s i m ³ ³ k ʰ i ŋ ³ ¹ </s>
+k ʰ o ʊ ³ ¹ </s>
+a ³ ³ t ʃ i ⁵ ² </s>
+l i ʊ ⁵ ² t s u p ³ ¹ </s>
+k ʰ a m ⁵ ⁵ </s>
+t ʃ ʰ ɛ ʊ ⁵ ⁵ </s>
+m ə ³ ³ ʃ u ³ ¹ ʃ o ʔ ³ ² h i ɛ ̯ ³ ¹ l a ŋ ³ ³ </s>
+h ɛ ʊ ³ ³ k ɔ k ³ ¹ </s>
+t ʃ ʰ a m ³ ³ t a m ³ ³ ʃ i ɛ ̯ ʔ ³ ³ t s ʰ o ʊ ³ ³ </s>
+t ʃ i ɛ ̯ ʔ ³ ³ </s>
+t a i ̯ ³ ³ </s>
+l o ʊ ³ ³ t s i ʔ ³ ³ </s>
+ŋ o ʊ ʔ ³ ³ p u ɔ ̯ ³ ³ </s>
+a ³ ³ s a ɪ ʔ ³ ³ t a ʊ ³ ³ </s>
+a ³ ³ t ʃ ʰ i ɛ ̯ ³ ³ i ɛ ̯ ⁵ ⁵ </s>
+l i ³ ³ l ʊ a m ³ ¹ </s>
+l i ³ ¹ </s>
+t ʰ o ŋ ³ ³ ɲ u ³ ¹ t ʰ o ŋ ³ ³ </s>
+a ³ ³ ɲ ɔ h ʔ ³ ³ </s>
+t s i m ³ ³ l i e ⁵ ⁵ ɲ a ⁵ ² </s>
+h a ɪ ³ ³ h ɔ ɪ ⁵ ⁵ </s>
+a ɪ ³ ³ t ʃ i ʊ ⁵ ² </s>
+o ⁵ ² v ɛ m ³ ¹ </s>
+k ɔ ŋ ³ ³ k ɛ ɪ ʔ ³ ³ ɲ u ³ ³ </s>
+n a ɪ ⁵ ⁵ o ʔ ⁵ ⁵ j o ⁵ ² k o ³ ¹ </s>
+i ɛ ̯ ³ ³ k ʰ a ʊ ⁵ ² t ʰ i ŋ ³ ¹ </s>
+t ʃ u ɪ ³ ¹ t ʃ u ɪ ³ ¹ k ɔ ³ ³ </s>
+l a ʊ ⁵ ² t ɛ ʊ ³ ¹ </s>
+t a ³ ³ k a p ³ ¹ k a p ³ ¹ ɲ u ³ ¹ </s>
+h ɛ ʊ ³ ³ ŋ a ³ ³ </s>
+a m ³ ³ s ə ³ ³ k ʰ a m ⁵ ⁵ </s>
+ɲ u ³ ³ l i a ̯ m ³ ³ </s>
+h o ʊ ³ ¹ ɲ a ɪ ³ ¹ </s>
+t ʃ ɔ k ³ ³ t ʃ ʰ i ɛ ̯ ³ ³ l ə ³ ³ t ʃ ʰ i ɛ ̯ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ k ʰ u ³ ¹ </s>
+l ɔ ŋ ³ ³ s ɔ ³ ³ </s>
+k ɔ ɪ ³ ³ </s>
+i ³ ³ s u ɔ ̯ ⁵ ⁵ ʃ ə ³ ³ h ɔ ɪ ⁵ ⁵ </s>
+u ʔ ³ ³ . t ʃ i u ³ ³ </s>
+n o i ̯ ³ ¹ l o u ̯ ʔ ³ ² </s>
+l o ³ ³ l e u ³ ¹ </s>
+l a ʊ ⁵ ² </s>
+t ʃ a m ³ ³ ʃ ɛ ɪ ³ ¹ </s>
+l ɔ ŋ ³ ³ t ʰ ɔ ŋ ³ ¹ </s>
+l i ʊ ⁵ ² t ʰ ɛ ʊ ³ ³ </s>
+ʃ a i ³ ¹ l o ³ ¹ </s>
+t ʃ u ³ ³ t ʃ i ɛ ̯ ³ ³ </s>
+t ʃ i ɛ ̯ ³ ³ k ʰ ɛ ʊ ³ ¹ l a ŋ ⁵ ² </s>
+t ʃ a m ³ ³ ŋ u ³ ¹ </s>
+ʃ ɑ ŋ ³ ³ t e u ³ ³ </s>
+j o ³ ³ k ʰ e u ³ ² t ʃ ə k a ³ ³ i ʊ ʔ ³ ² </s>
+a ³ ³ s i ŋ ³ ³ p a ʊ ³ ¹ </s>
+t ʃ a ŋ ⁵ ² k ʰ o ʊ ³ ¹ </s>
+t ʃ a ŋ ⁵ ² t s ʰ o ʊ ³ ¹ </s>
+t ʃ ʰ a ɪ ⁵ ⁵ n ə ³ ³ k o ŋ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+l a k ³ ³ l ɔ ³ ³ m ɔ ŋ ⁵ ² </s>
+l ɑ ʔ ³ ¹ </s>
+ɲ i ³ ³ ɲ i ³ ³ </s>
+ɲ u ³ ³ v ɛ i ̯ ³ ³ ɲ u ³ ¹ </s>
+h ʊ a ʔ ³ ³ </s>
+a m ³ ³ </s>
+k ʊ a ³ ¹ </s>
+t ʃ ʊ a p ³ ¹ t ʃ ʊ a p ³ ¹ k ɔ ³ ¹ </s>
+k ʰ ə ³ ¹ m a ʊ ʔ ³ ¹ </s>
+h o k ³ ³ k h o ³ ¹ </s>
+a ³ ³ ʃ i ʊ ⁵ ² u p ³ ¹ </s>
+l o ʊ ³ ³ t s ə ³ ³ n o ɪ ³ ¹ k ə ³ ³ t a ʔ ⁵ ⁵ </s>
+m a ³ ³ ʃ i ʔ ³ ² l a m ³ ³ t s ʰ o u ̯ ³ ¹ i u ̯ ʔ ³ ² </s>
+t ʃ ʰ a m ³ ¹ k u ɔ ̯ ³ ³ k u ɔ ̯ ³ ³ v ɛ ʊ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+a ³ ³ l ʊ a ³ ³ t ʃ a k ³ ¹ </s>
+a ³ ³ k u ʔ ³ ³ l u m ⁵ ² </s>
+ɲ a m ³ ³ k o k ³ ² </s>
+t ʃ u ³ ³ </s>
+a ³ ³ k ʰ ɛ ʊ ʔ ³ ³ h a ŋ ⁵ ⁵ </s>
+ɲ u ³ ³ h ɛ u ̯ ³ ³ ʃ ɛ u ̯ ⁵ ⁵ </s>
+m ə ³ ³ ɲ i u ̯ ʔ ³ ² </s>
+v ɛ u ̯ ⁵ ² t s ʰ o u ̯ ³ ¹ </s>
+a ³ ³ h u ³ ³ ɲ u ⁵ ⁵ </s>
+ɲ u ³ ³ ŋ ɛ m ³ ³ t ʃ a m ³ ¹ </s>
+a ³ ³ i ɛ ⁵ ⁵ t s ɔ h ʔ ⁵ ⁵ </s>
+a ³ ³ s h i ⁵ ⁵ l u ³ ³ </s>
+m ə ³ ³ k o k ³ ³ k i ŋ ⁵ ⁵ </s>
+o ⁵ ² t s o ŋ ³ ¹ t s ʰ o u ̯ ³ ¹ </s>
+ɲ o u ̯ ʔ ³ ³ k ʰ ɛ u ̯ ³ ³ ɲ u ³ ¹ </s>
+a ³ ³ ʃ a ɪ ⁵ ⁵ l ɔ ³ ³ </s>
+i ɛ ̯ ³ ³ k ʰ a ʊ ⁵ ² t ʰ i ŋ ³ ¹ t a ʊ ³ ¹ p u ɔ ̯ ³ ³ </s>
+t ʃ i ³ ³ m ə ³ ³ h i a ̯ ŋ ³ ¹ </s>
+k i ŋ ⁵ ⁵ i ɛ ̯ ⁵ ² </s>
+k ʰ ʊ a m ³ ¹ </s>
+a ³ ³ ɲ o ³ ³ ʃ a ³ ³ </s>
+a ³ ³ ʃ i ³ ¹ t i ŋ ³ ³ </s>
+ɲ o u ̯ ʔ ³ ³ t s ɛ m ⁵ ² </s>
+a ³ ³ ʃ i ɛ ̯ ⁵ ⁵ l o ʊ ʔ ⁵ ⁵ </s>
+t ʃ ə ³ ³ l i ⁵ ⁵ o ʊ ʔ ³ ³ ɲ u ³ ¹ </s>
+k a m ³ ³ ʃ a ⁵ ⁵ </s>
+n o k ³ ³ t ʰ o ʔ ³ ³ </s>
+h a ʊ ³ ¹ t ʰ a ɪ ³ ¹ k a p ³ ¹ k a p ³ ³ ɲ u ³ ¹ </s>
+a ³ ³ t ʃ a ɪ ⁵ ² </s>
+k ʰ i a ̯ m ³ ¹ s i ŋ ⁵ ² </s>
+t ʰ u o ³ ³ </s>
+l a ʊ ³ ¹ p a ɪ ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ t s ʊ a ⁵ ² </s>
+k o ʊ ʔ ³ ³ t ʃ a m ³ ³ </s>
+ɲ u ³ ³ u ³ ³ t ʃ ʰ a m ³ ³ </s>
+k ʰ a ʊ ³ ³ k ʰ a ⁵ ⁵ </s>
+i ɛ ̯ ³ ³ k ʰ a ʊ ʔ ³ ³ l ɔ ŋ ³ ¹ </s>
+n ə ³ ³ k o ŋ ³ ³ k o ŋ ³ ³ ɲ u ³ ¹ </s>
+t ʃ u ³ ³ l ə ³ ³ h i k ³ ³ </s>
+h a ʊ ³ ³ ʃ ʊ a ⁵ ² l o ʊ ʔ ³ ¹ </s>
+k ə ³ ³ h a ⁵ ⁵ t s u m ³ ³ </s>
+h ɛ u ̯ ³ ³ t ʃ i m ³ ³ </s>
+l a k ³ ³ k i ³ ³ </s>
+a ³ ³ m ɛ ɪ ³ ³ t ʃ ə ³ ¹ m ɛ ɪ ³ ³ </s>
+a ³ ³ p ɛ m ³ ¹ </s>
+m i ɛ ̯ ³ ¹ </s>
+h i ʔ ³ ³ </s>
+n ə ³ ³ t ʃ ʰ ɛ i ̯ ʔ ³ ³ </s>
+t ʃ ʰ a m ³ ¹ t s ʰ o ʊ ³ ¹ i ɛ ̯ ³ ³ h ɔ ɪ ⁵ ⁵ </s>
+k ʰ i a ̯ m ³ ³ l ɔ ʔ ³ ³ </s>
+i ɛ ̯ ³ ³ ʃ u ⁵ ⁵ </s>
+ʃ ɑ ŋ ³ ³ p u o ³ ³ i e ³ ³ l e i ⁵ ² </s>
+a ³ ³ a ŋ ³ ³ t s ɔ ³ ³ k i ʊ ʔ ³ ² </s>
+m u o ̯ ³ ³ l i ³ ³ t o k ³ ² </s>
+k i ɛ ̯ ³ ¹ ɲ u ³ ³ i ʊ ʔ ³ ¹ </s>
+m u a ̯ ³ ³ i ʔ ³ ³ </s>
+t ʃ a m ³ ³ k ɛ ɪ ³ ¹ t ɛ ʊ ³ ¹ t ʃ a m ⁵ ⁵ </s>
+k ʰ ɛ ʊ ³ ¹ t ʰ i ŋ </s>
+ɲ a m ³ ³ t ʃ ʰ a ʔ ³ ³ </s>
+t ʃ ɔ k ³ ¹ t s i ³ ¹ k ʰ ɛ ʊ ³ ¹ </s>
+l a m ³ ³ t ʰ i ʊ ⁵ ⁵ </s>
+h a ʊ ³ ³ p i ŋ ³ ³ </s>
+h ɔ k ³ ³ p ʰ u p ³ ³ </s>
+t s i ɛ ³ ³ k ʰ o ʊ ³ ³ </s>
+ɲ o u ̯ ʔ ³ ³ t ʃ ʰ i ³ ¹ ɲ u ³ ¹ </s>
+t ʃ ɔ ŋ ³ ³ h ɔ ɪ ³ ³ </s>
+o ⁵ ² t ʰ i ɛ ̯ ʔ ³ ² </s>
+t i ŋ ³ ³ t ʰ o ³ ¹ </s>
+a ³ ³ l i ŋ ⁵ ⁵ t ɛ ʊ ³ ³ </s>
+a ³ ³ n ɔ ɪ ³ ¹ h o ³ ¹ </s>
+p ɑ ³ ³ t s ʰ ɒ ⁵ ⁵ </s>
+a ŋ ³ ³ a m ⁵ ⁵ ŋ a ʊ ³ ³ </s>
+a ³ ³ p ɔ ŋ ³ ¹ </s>
+k o ʊ ʔ ³ ³ t ʃ ʰ ɛ ʊ ⁵ ⁵ </s>
+i ⁵ ² h a ʔ ³ ¹ </s>
+t u a ³ ³ </s>
+v e i ³ ³ p e m ³ ² </s>
+a ³ ³ . t ʃ ʰ ɪ ⁵ ⁵ . l ə ³ ³ t i o ³ ³ </s>
+l ʊ a ⁵ ² </s>
+n ə ³ ³ o u ̯ ³ ³ </s>
+k i ³ ³ k ɔ ⁵ ⁵ </s>
+l ɔ ŋ ³ ³ t i ŋ ³ ³ ɲ u ³ ³ </s>
+u m ³ ³ t ʃ a ³ ³ </s>
+h ɛ m ³ ³ p i ŋ ⁵ ⁵ </s>
+k ʰ i a ̯ m ³ ³ s a ŋ </s>
+a ³ ³ p ɔ ɪ ⁵ ⁵ </s>
+l ɔ ŋ ³ ³ k a ³ ³ h ɛ ʊ ³ ³ </s>
+n u m ³ ³ </s>
+t s u o ʔ ³ ³ t s u o ʔ ³ ³ </s>
+i ɛ ̯ ³ ³ </s>
+k ʰ i ɛ ̯ ³ ³ n i ɛ ̯ ⁵ ² </s>
+u ⁵ ⁵ l e ³ ³ </s>
+n ə ³ ³ t ʰ i ɛ ̯ ʔ ³ ³ a u ̯ ³ ³ t ʰ i ɛ ̯ ʔ ³ ³ </s>
+ɲ o u ̯ ʔ ³ ³ l o ŋ ³ ¹ ʃ o ŋ ³ ³ </s>
+t ʃ ʰ i ³ ¹ </s>
+a ³ ³ p a ʊ ³ ¹ u ³ ³ </s>
+a ³ ³ l i ʔ ³ ³ ɲ i ⁵ ² </s>
+v a i ³ ³ v a i ⁵ ² </s>
+l ɔ ŋ ³ ¹ t ʰ ɔ ɪ ³ ¹ i ɛ ̯ ³ ¹ </s>
+l o ʊ ³ ³ ʃ i ʊ ³ ³ </s>
+t ʃ ʰ a ɪ ⁵ ⁵ l i ³ ¹ i ɛ ̯ ³ ³ </s>
+h a m ⁵ ² </s>
+k ʰ j e u ³ ³ . p a ŋ ³ ³ </s>
+ɲ a m ³ ³ t a u ̯ ³ ³ k ʰ i u ̯ ³ ¹ </s>
+k ʰ a ɪ ⁵ ⁵ </s>
+t u a ⁵ ² ʃ ə ³ ¹ l u a ⁵ ² </s>
+a ³ ³ ʃ i ³ ³ ʃ a ³ ¹ </s>
+t s i ɛ ³ ³ t s o ʔ ³ ³ </s>
+ʃ a ʔ ³ ³ t e u ³ ¹ </s>
+l a ŋ ³ ³ t ʰ i ʊ ⁵ ⁵ </s>
+k o ʊ ʔ ³ ³ s i ŋ ³ ³ s ə ³ ³ t a ɪ ʔ ³ ¹ </s>
+t ʰ i k ³ ³ ʃ ʰ i e ³ ³ </s>
+h u ɪ ³ ¹ </s>
+l o ʊ ³ ³ s i ɛ ̯ ⁵ ⁵ k ɔ ³ ³ </s>
+k o ʊ ʔ ³ ³ p a ʊ ³ ¹ h a ɪ ³ ³ </s>
+ɲ u ³ ³ ɲ o ʔ ³ ² </s>
+o ⁵ ² t s i ³ ³ p ʰ i u ̯ ⁵ ⁵ </s>
+k i ɛ ̯ ³ ³ t s a ⁵ ⁵ t ʰ a m ³ ³ t s a ɪ ⁵ ² </s>
+ɲ u ³ ³ t s u m ⁵ ⁵ </s>
+k ɔ ŋ ³ ³ k ɔ ŋ ³ ³ m ɔ k ³ ³ t s ɪ ɔ ʔ ³ ¹ </s>
+k ɑ ³ ³ </s>
+a ³ ³ k ʰ u ʔ ³ ² t ɛ ³ ¹ </s>
+p ɑ u ³ ³ </s>
+k ɛ ʊ ³ ³ t ɔ ŋ ³ ³ m ɔ ŋ ⁵ ² </s>
+k a ʊ ³ ³ s a ɪ ³ ³ </s>
+l a u ³ ³ t o k ³ ³ </s>
+u m ³ ³ h i e ³ ¹ </s>
+t ʃ ʰ ɔ ŋ ³ ³ t ʃ ʰ ɔ ŋ ³ ¹ </s>
+l i ʊ ³ ³ m ɛ ɪ ³ ³ t s ʰ ɔ ɪ ⁵ ² </s>
+h a ʊ ³ ³ t ʰ i ʊ ³ ¹ </s>
+t ʰ i k ³ ³ l i k ³ ¹ </s>
+t ʰ i ŋ ³ ³ m i e ³ ³ </s>
+i ³ ¹ t ʃ ɛ ɪ ʔ ³ ¹ </s>
+i ʊ ʔ ³ ³ p ʰ ɔ ŋ ³ ¹ </s>
+k ʰ ʊ a m ³ ¹ i ʊ ³ ¹ t a ⁵ ² </s>
+l a k ³ ³ m i o ̯ ʔ ³ ¹ </s>
+l u ⁵ ² </s>
+t ʰ u m ³ ¹ </s>
+a ³ ³ t ʃ ʰ i ³ ³ t ʃ ʰ i ⁵ ⁵ t s ʰ o ʊ ³ ¹ </s>
+v e u ³ ³ . p o k ³ ³ s h i ʔ ³ ³ </s>
+ɲ a u ̯ ʔ ³ ³ ʃ u a ̯ ⁵ ² </s>
+i ³ ³ h u ɔ ̯ ³ ³ k i ³ ³ </s>
+l i a ̯ m ⁵ ² k ʰ i ŋ ³ ¹ </s>
+k ʰ u k ʰ i ŋ ³ ¹ n u m ³ ³ </s>
+a ³ ³ p ʰ i ʊ ³ ³ k i ʊ ʔ ³ ¹ </s>
+i ɛ ̯ ³ ³ t s ʰ o ʊ ³ ¹ k ʰ i a ̯ m ³ ¹ m ə ³ ¹ l ɔ ŋ ³ ¹ </s>
+l ɑ k ³ ¹ </s>
+l a ³ ³ i ʊ ʔ ³ ¹ </s>
+m ə ³ ³ l a ŋ ⁵ ² </s>
+a ³ ³ ɲ ɔ ³ ³ k ɛ ɪ ³ ¹ </s>
+ʃ ɑ ŋ ³ ³ k ʰ o u ʔ ³ ³ k i o ʔ ³ ¹ </s>
+l ʊ a p ³ ¹ </s>
+s ɑ ŋ ³ ³ k i e ³ ³ </s>
+ɲ a m ³ ³ t s ɛ i ̯ ʔ ³ ² k ʰ i a ̯ m ³ ¹ </s>
+a ³ ³ l a ŋ ³ ¹ i ɛ ̯ ³ ³ </s>
+ɲ u ³ ³ s i u ̯ ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ l i ³ ³ ʃ a ⁵ ⁵ </s>
+t ʃ ɔ ŋ ³ ³ t ʰ ɔ ŋ ³ ¹ </s>
+t i ⁵ ² </s>
+t ʃ ʰ a m ³ ³ p a ʔ ³ ¹ t s ʰ o ʊ ³ ¹ </s>
+t ʰ ə ³ ³ p e m ³ ³ </s>
+h i ɛ ̯ ³ ³ . t ɛ ̯ u ³ ³ </s>
+m o ŋ ⁵ ² t s u i ̯ ³ ³ </s>
+t i e ʔ ³ ¹ t i e ʔ ³ ¹ </s>
+m ə ³ ³ k ʰ o ³ ³ k ʰ o ³ ¹ ɲ u ³ ¹ </s>
+l i ʊ ⁵ ² t ʃ ʰ u m ³ ¹ </s>
+t ʰ i ŋ ³ ³ t o k ³ ¹ h a i ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ t ʰ i ɛ ʔ ³ ¹ v a ⁵ ² </s>
+a ³ ³ l i ɛ ̯ ³ ³ l a ŋ ³ ¹ p ɔ ŋ ³ ¹ </s>
+k i ŋ ³ ³ k ʰ ɛ ʊ ³ ³ </s>
+ɲ u ³ ³ u ³ ³ </s>
+o ⁵ ² t ʃ i ɛ ̯ ʔ ³ ² </s>
+o ⁵ ² t s i ³ ³ l a m ⁵ ² h i ɛ ̯ ³ ¹ </s>
+l ɛ ɪ ⁵ ² </s>
+t s a ʔ ³ ¹ </s>
+k ʰ ə ³ ³ t s a ŋ ³ ³ k i ³ ³ </s>
+k a ³ ³ t ʃ u ɔ ̯ ʔ ³ ³ </s>
+t ʃ i ŋ ⁵ ² p ʰ u ³ ³ </s>
+l i ŋ ³ ³ ɲ u ³ ³ </s>
+k ʰ i a ̯ m ³ ³ l i a ̯ m ⁵ ² </s>
+l i a ̯ ŋ ³ ³ l o ʊ ʔ ³ ¹ a ³ ¹ </s>
+h o ʊ ³ ³ k i o ̯ ʔ ³ ³ s a ŋ ⁵ ² </s>
+t a i ³ ³ v a ⁵ ² </s>
+k a ³ ³ ʃ u ɪ ⁵ ⁵ </s>
+k ɔ ŋ ³ ³ m a ŋ ³ ³ ɲ u ³ ³ </s>
+h ɔ ɪ ³ ³ t ʰ a m ⁵ ⁵ </s>
+k ɔ ɪ ³ ³ s ə ³ ³ p a ɪ ³ ³ </s>
+m i ɛ ̯ ³ ¹ ʃ i ŋ ³ ¹ k ʰ a ³ ¹ </s>
+l ə ³ ³ ʃ i ŋ ⁵ ² </s>
+l i a ̯ m ³ ³ ʃ u ɪ ³ ³ t s ʰ ɔ ɪ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ t ʰ i ɛ ̯ ʔ ³ ¹ </s>
+m o ŋ ⁵ ² t s o u ̯ ³ ³ </s>
+t a u ³ ³ . p u ə ³ ³ </s>
+a ³ ³ ɲ a m ⁵ ⁵ </s>
+t u m ³ ³ t u m ⁵ ² </s>
+t ʃ a m ³ ³ k u m ³ ¹ </s>
+t ʰ i ŋ ³ ³ m i e ³ ³ ʃ a ŋ ³ ³ </s>
+a ³ ³ l a ʔ ³ ³ l o ŋ ³ ¹ </s>
+t ʰ a ŋ ³ ¹ k i ŋ ³ ¹ </s>
+k ʰ a ³ ³ k ʰ a ⁵ ⁵ </s>
+l i ŋ ³ ³ p ɔ ŋ ³ ¹ t s ʰ o ʊ ³ ¹ k ɔ ɪ ³ ³ </s>
+u ʔ ³ ³ h o u ³ ³ </s>
+l ə ³ ³ p i ʊ ⁵ ⁵ l i ʊ ³ ³ </s>
+k u m ³ ¹ </s>
+m ə ³ ³ l i a ̯ ŋ ³ ³ </s>
+a ³ ³ h u ʔ ³ ³ </s>
+a ³ ³ l u m ³ ¹ </s>
+o ⁵ ² t s i ³ ³ ʃ i u ̯ ⁵ ⁵ </s>
+t ə ³ ³ k e m ³ ³ k u ³ ¹ </s>
+ɲ o u ̯ ʔ ³ ³ h y o ³ ³ </s>
+l a ŋ ⁵ ² k ə ³ ¹ h o ɪ ³ ¹ p a ɪ ³ ³ </s>
+h ɔ k ³ ³ t ʰ ʊ a m ⁵ ⁵ </s>
+l i ʊ ⁵ ⁵ </s>
+i ɛ ̯ ³ ³ k ʰ a ʊ ⁵ ⁵ </s>
+t ʃ ɛ p ³ ³ </s>
+m u o ̯ ³ ³ ʃ i ³ ³ p ə ³ ³ i u ̯ ʔ ³ ² </s>
+k ʰ ə ³ ³ m ɛ ɪ ³ ³ </s>
+k ʰ ə ³ ³ t s ʰ ʊ a ⁵ ² k i ³ ³ m ɔ ŋ ⁵ ² </s>
+a ³ ³ h a ŋ ⁵ ⁵ ʃ i ³ ³ </s>
+l ɔ ʔ ³ ³ </s>
+k ʰ ɛ m ³ ³ k u ³ ³ </s>
+h ɛ ʊ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+v i ³ ³ t a u ³ ³ </s>
+t ʃ ɔ ŋ ³ ³ </s>
+m o ŋ ³ ³ s a i ̯ ³ ³ </s>
+k o ʊ ³ ³ t a ŋ ³ ³ m ɔ ŋ ⁵ ² </s>
+m ə ³ ³ k o ŋ ⁵ ² </s>
+a ³ ³ ɔ ³ ³ l o ʊ ʔ ³ ² </s>
+a ³ ³ k ɛ m ⁵ ⁵ </s>
+k i ʊ ʔ ³ ¹ </s>
+a k ³ ³ i ³ ³ t s u m ³ ³ t s a k ³ ³ t ʃ u ɔ ̯ ⁵ ² i ɛ ̯ ³ ¹ </s>
+t ʰ i ʔ ³ ³ a ʔ ³ ¹ v a ³ ¹ </s>
+m o ŋ ³ ³ j ɛ u ̯ ³ ³ ʃ o ŋ ⁵ ² </s>
+m i ɛ ̯ ³ ³ l i ɛ ̯ ⁵ ² </s>
+o ŋ ⁵ ² l o i ̯ ³ ³ p o ŋ ³ ¹ </s>
+t ʰ a k ³ ³ </s>
+a ³ ³ h ɔ ʔ ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ ɲ u ³ ¹ </s>
+i ɛ ̯ ⁵ ² </s>
+k ʰ ɛ ɪ ³ ¹ k ə ³ ¹ l ə ³ ³ v ɔ k ³ ¹ </s>
+i ʔ ³ ¹ t s i ɛ ̯ ³ ¹ </s>
+k ʰ ə ³ ³ a ɪ ³ ¹ </s>
+a ³ ³ k i o ̯ ³ ¹ </s>
+ɲ a ⁵ ² ŋ o k ³ ² </s>
+a ³ ³ k i ʔ ³ ³ </s>
+n o k ³ ³ k u m ³ ¹ </s>
+i ⁵ ² h u ɔ ̯ ³ ³ p i ⁵ ² </s>
+t ʃ ʰ i ⁵ ⁵ l i a ̯ m ⁵ ² </s>
+a ³ ³ m o ʊ ³ ³ t ʰ i ³ ³ </s>
+k ʰ ə ³ ³ m i a ̯ m ³ ¹ </s>
+k u ʔ ³ ¹ l ə ³ ¹ m ɛ ɪ ³ ³ k ɔ ³ ³ </s>
+ʃ a ³ ³ p a ʊ ³ ³ </s>
+k ʰ ʊ a m ³ ¹ i ʊ ³ ¹ </s>
+k ʰ ə ³ ³ t ʃ a ɪ ³ ¹ </s>
+t s ʰ ə ³ ³ p u ʔ ³ ¹ n i e ʔ ³ ¹ </s>
+p ʰ ə ³ ³ ʃ ʰ ŋ ³ ³ u ³ ¹ </s>
+t i u ³ ¹ </s>
+k ʰ ə ³ ³ w a ³ ¹ </s>
+h a ³ ¹ . k ə ³ ¹ . t i ³ ³ </s>
+k o u ³ ³ m e i ⁵ ² </s>
+t a i ³ ³ t s ʰ ə ³ ³ n i k </s>
+t ʃ a m ³ ¹ v i ³ ¹ </s>
+m ə ³ ³ k o k ³ ³ </s>
+k ʰ ɛ ʊ ³ ¹ t s o ʊ ʔ ³ ¹ </s>
+i ɛ ³ ³ k ʰ a ʊ ⁵ ² p a ɪ ⁵ ² </s>
+a ³ ³ l i ⁵ ⁵ </s>
+ŋ o ʊ ʔ ³ ¹ </s>
+n o u ̯ ³ ³ k ʰ ɛ u ̯ ³ ³ </s>
+t ʃ ɔ k ³ ³ ʃ i ɛ ̯ ʔ ³ ¹ m ɔ ŋ ³ ¹ </s>
+ɲ i ɛ ̯ ³ ³ l u m ³ ¹ k i u ̯ ʔ ³ ² </s>
+h ɔ k ³ ³ t ʰ i ɛ ̯ ³ ¹ </s>
+t a i ³ ³ m i e ³ ³ </s>
+s e i ⁵ ⁵ m o u ʔ ³ ¹ </s>
+ɲ a m ³ ³ p a ŋ ³ ³ </s>
+u o ³ ¹ t s ʰ o u ³ ¹ </s>
+t ʃ i ʊ ³ ³ t i ⁵ ² </s>
+l a ŋ ⁵ ² t a ŋ ³ ¹ k ə ³ ³ t ʃ ʰ i ³ ¹ </s>
+i ŋ ⁵ ² </s>
+k i ŋ ³ ³ ɲ u t ʰ a ³ ³ l i ʊ ³ ³ </s>
+s a ³ ³ s i ŋ ⁵ ⁵ </s>
+v ē u ³ ³ h ī u ³ ³ t s ú ⁵ ⁵ t s ʰ ò u ³ ² </s>
+t ʰ a ³ ³ t ʰ o ŋ ³ ³ </s>
+m ə ³ ³ l i o ̯ ⁵ ⁵ </s>
+u i ⁵ ² t ʃ ʰ i u ³ ¹ </s>
+k i ³ ³ </s>
+ŋ a ⁵ ² t ʰ u o ̯ ³ ³ </s>
+k ɒ u ³ ³ . ɲ u ³ ³ . t s ʰ u ɪ ³ ¹ </s>
+v e u ³ ³ s ʰ e u ⁵ ⁵ </s>
+m i ɛ ̯ ³ ³ v i ³ ³ </s>
+u ³ ³ t s e i ̯ ³ ³ k i o ̯ ʔ ³ ³ </s>
+l ɛ ɪ ³ ³ p a ŋ ³ ³ p a ŋ ³ ³ </s>
+t ʃ ʰ i ʊ ³ ³ </s>
+t e i ³ ¹ t s ə ³ ¹ t e i ³ ¹ </s>
+ɲ a ⁵ ² p ʰ a ŋ ³ ³ </s>
+o ⁵ ² </s>
+l u ɪ ⁵ ² ʃ i ʔ ³ ¹ </s>
+ɲ o u ̯ ʔ ³ ² k ʰ ɛ u ̯ ³ ¹ p u m ⁵ ² </s>
+s ʰ a ŋ ³ ³ t o ŋ ³ ³ k ʰ e u ³ ¹ </s>
+l a ŋ ⁵ ² p ə ³ ¹ t s i ³ ³ </s>
+t ʃ ʰ a m ³ ³ t a ³ ³ m o ŋ ³ ³ </s>
+k o ʊ ³ ³ t ʃ a m ³ ³ t s ʔ i ʔ ³ ³ </s>
+k ʰ ɛ ɪ ³ ¹ k ə ³ ¹ p ə ³ ³ t ʃ ɛ ɪ ʔ ³ ¹ </s>
+k ʰ ʊ ɔ ³ ¹ s a ³ ³ t s i ɛ ³ ³ </s>
+t ʃ ʊ a ³ ³ </s>
+k ʰ u ɔ ̯ ³ ¹ t ʰ i ɛ ̯ ʔ ³ ¹ </s>
+k ʊ a ³ ¹ v a ³ ³ </s>
+ʃ ʰ a ʔ ³ ³ t ʃ a ³ ³ </s>
+n o i ̯ ³ ³ a u ̯ ³ ³ l ɛ u ̯ ³ ³ ɲ u ³ ³ </s>
+ɲ a i ̯ ³ ³ </s>
+m ə ³ ³ l ɛ i ̯ ʔ ³ ² </s>
+n i ŋ ³ ³ n i ŋ ³ ³ </s>
+m i ʔ ³ ² </s>
+l ɔ ŋ ³ ³ ʃ a ʔ ³ ¹ k i ɛ ̯ ³ ¹ </s>
+a ³ ³ n i ŋ ³ ¹ </s>
+k u m ⁵ ² k u m ⁵ ² </s>
+m a u ³ ³ ʃ a ŋ ⁵ ² </s>
+n o k ³ ³ k ʰ ɛ u ̯ ³ ¹ l a m ⁵ ² </s>
+s e m ³ ³ p a i ⁵ ² </s>
+k ʰ ə ³ ¹ t s i ⁵ ⁵ u ɔ ̯ ŋ ⁵ ² h i a ŋ ³ ¹ ɲ u ⁵ ⁵ </s>
+m ɛ i ̯ ³ ³ l u ³ ³ k o ³ ³ </s>
+m i ɛ ̯ ³ ³ o u ̯ ³ ¹ </s>
+m a ŋ ⁵ ² </s>
+m i ɛ ̯ ³ ³ i ʔ ³ ² </s>
+a ³ ³ h a ŋ ³ ¹ </s>
+h a ŋ ³ ¹ l ɔ ³ ¹ v a ³ ³ </s>
+t u o ³ ³ ʃ ʰ e i ⁵ ² </s>
+m o k ³ ² l u o ̯ ʔ ³ ² </s>
+k ʰ ɛ ʊ ³ ³ k i ŋ ³ ³ </s>
+t ʃ i ³ ³ l ɛ ɪ ³ ³ t a ʊ ³ ³ p u ɔ ̯ ³ ³ </s>
+o ³ ³ l u ⁵ ² </s>
+t ə ³ ³ k u ³ ³ k u ³ ¹ </s>
+l u ʔ ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ t ʃ ʰ i ɛ ̯ ⁵ ⁵ u ⁵ ² t ʃ ʰ i ɛ ̯ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+t s u ⁵ ² k e i ʔ ³ ¹ </s>
+n o k ³ ³ t i k ³ ² k a m ³ ³ </s>
+m a u ̯ ³ ³ t ʰ a m ³ ³ </s>
+v ɛ u ̯ ³ ¹ t s ī e ̯ ³ ³ </s>
+a ³ ³ l a ʔ ³ ³ </s>
+w a m ³ ³ . w a m ³ ³ </s>
+k a p ³ ³ t ʃ ʰ a ɪ ³ ¹ </s>
+t ʃ ʰ ə ³ ³ p ɔ k ³ ¹ ɲ u ³ ¹ </s>
+a ³ ³ l o ʊ ³ ³ a ʔ ³ ¹ p a ʊ ³ ¹ </s>
+v e i ³ ³ m u ³ ³ </s>
+t ʃ ʰ u ɔ ̯ ³ ³ h i a ̯ ŋ ³ ³ </s>
+k ɛ ɪ ³ ³ k ɛ ɪ ³ ³ </s>
+t ʃ a m ³ ³ t ʃ a m ³ ³ k ʰ u ɔ ̯ ³ ¹ </s>
+v ē u ³ ³ h o k ³ ³ ɲ i k ³ ² </s>
+k ʰ ɛ ʊ ³ ³ k ʰ u o ³ ¹ </s>
+t ʃ ʰ a ⁵ ⁵ </s>
+l ɔ ³ ³ l ɔ ³ ³ </s>
+n o k ³ ³ ɲ u ³ ¹ t ʰ a ŋ ³ ¹ </s>
+s a ŋ ³ ³ t s ʰ e i ʔ ³ ³ </s>
+l o k ³ ³ </s>
+k ʰ i ɛ ̯ ⁵ ⁵ i ɛ ̯ ⁵ ² </s>
+a ³ ³ k i p ³ ³ ʃ a ⁵ ⁵ </s>
+l i a ̯ m ⁵ ² p a ʊ ³ ¹ ɲ u ³ ³ h ɛ ʊ ³ ¹ </s>
+t ʰ a m ⁵ ⁵ </s>
+l ɛ ɪ ⁵ ² t ʃ ɛ p ³ ¹ </s>
+t s i e ̯ ⁵ ⁵ h i e ̯ ³ ¹ </s>
+t s u ³ ³ t s ʰ o ŋ ⁵ ⁵ o ⁵ ² u ʔ ³ ¹ </s>
+t ʰ o ŋ ³ ³ k o i ³ ³ i e ⁵ ² ɲ u ³ ¹ </s>
+i ɛ ̯ ³ ³ k ʰ ɛ ʊ ³ ³ n o ɪ ³ ³ </s>
+n o k ³ ³ h a ⁵ ⁵ </s>
+a ³ ³ k i ŋ ³ ¹ h i ɛ ̯ ³ ¹ m ə ³ ¹ l a m ³ ³ </s>
+h o ʊ ³ ³ t s ʰ i ʊ ³ ¹ </s>
+n o ŋ ³ ¹ ɛ m ³ ³ k o ⁵ ⁵ </s>
+o ⁵ ² l a m ³ ³ </s>
+k ɔ k ³ ¹ </s>
+n o k ³ ³ n y u ³ ¹ </s>
+a ³ ³ l a m ⁵ ⁵ </s>
+k ʰ a ʊ ³ ³ s o ³ ³ s a ⁵ ⁵ </s>
+l i ŋ ³ ³ t ʰ ɛ ʊ ³ ¹ </s>
+l i ŋ ³ ¹ s ə ³ ³ j ɔ ⁵ ² </s>
+h a ʔ ³ ³ t ʰ a ʔ ³ ³ </s>
+l ə ³ ³ v o k ³ ² ɲ i ʔ ³ ² </s>
+t i u ³ ³ t ʰ u a p ³ ¹ </s>
+v ɛ u ³ ³ ɲ u ³ ³ t s o u ̯ ³ ³ l i ³ ³ </s>
+k ʰ i ³ ³ s i ŋ ³ ³ </s>
+t s ʰ ə ³ ³ s ʰ o ʔ ³ ¹ i e ⁵ ² </s>
+o u ⁵ ⁵ </s>
+s e u ³ ³ </s>
+t ʃ i ŋ ³ ³ k ʰ u ʔ ³ ¹ </s>
+k i ɛ ̯ ³ ³ ʃ ə ³ ³ ɲ u ³ ³ </s>
+t ʃ a m ⁵ ² p u ɔ ̯ ³ ³ </s>
+a ³ ³ ʃ ɛ ɪ ³ ³ t s ʰ ɔ ɪ ⁵ ⁵ t s ʰ o ʊ ³ ¹ </s>
+ʃ i ɛ ̯ ³ ¹ </s>
+o u ʔ ³ ³ p ʰ a u ̯ ³ ¹ </s>
+k ʰ ɛ ʊ ³ ³ u ³ ¹ </s>
+l ɛ ɪ ʔ ³ ³ t s ʰ i ʊ ³ ³ t s ʰ i ʊ ⁵ ⁵ ɲ u ³ ¹ </s>
+k ʰ ə ³ ³ t ʃ ʰ i m ³ ¹ </s>
+v a i ³ ³ l i a ŋ ³ ³ </s>
+a ³ ³ k ʰ ɛ m ³ ¹ k i ʊ ʔ ³ ² </s>
+l a ŋ ³ ³ k ɔ ŋ ⁵ ² </s>
+i ɛ ̯ ³ ³ h i ŋ ⁵ ⁵ ɲ u ³ ¹ </s>
+t ʰ a ʔ ³ ³ l o u ʔ ³ ¹ </s>
+t ʃ ʰ ɔ ŋ ³ ³ t ʃ ʰ ɔ ŋ ³ ¹ v ɛ ʊ ³ ¹ k o ʊ ʔ ³ ¹ </s>
+t ɛ m ³ ³ k ɛ u ⁵ ² </s>
+t e i ³ ¹ t s o u ³ ³ e ³ ¹ </s>
+a ³ ³ ɲ u ⁵ ⁵ a ŋ ⁵ ² </s>
+t ʃ ə ³ ³ h ɔ k ³ ³ ɲ u ³ ¹ </s>
+h ɛ m ³ ³ ʃ u ³ ³ </s>
+p h ɒ ʔ ³ ³ </s>
+m i u ̯ ⁵ ² </s>
+t ʰ a i ³ ³ t ʰ u m ³ ¹ </s>
+t ʰ i ŋ ³ ³ k ʰ e u ʔ ³ ³ </s>
+l ɔ ⁵ ² </s>
+a ³ ³ l i k ³ ³ t a ʔ ⁵ ⁵ </s>
+l ɔ ŋ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+j o ³ ³ t s a u ʔ ³ ² h e u ³ ² </s>
+m o ŋ ⁵ ² p a i ̯ ³ ³ h a u ̯ ³ ¹ i ɛ ̯ ³ ¹ </s>
+k a p ³ ³ ʃ a ʔ ³ ¹ k ɔ ³ ¹ </s>
+i ʔ ³ ¹ l ɔ ³ ¹ </s>
+j ɔ ʔ ³ ¹ t ʃ a m ³ ¹ </s>
+o ⁵ ² ʃ ə ³ ¹ l a p ³ ² </s>
+t ʃ ʰ ə ³ ³ u m ³ ¹ l a ŋ ³ ³ </s>
+k ʰ a p ³ ³ k ʰ a p ³ ³ </s>
+t ə ³ ³ m a ŋ ³ ³ m a ŋ ³ ³ </s>
+n o k ³ ³ ʃ ɛ u ̯ ³ ³ k i ŋ ³ ³ </s>
+k a ʊ ʔ ³ ³ t ʊ a ⁵ ² </s>
+l i ɛ ̯ ³ ³ </s>
+k ʰ i ŋ ³ ³ t ʃ a ɪ ³ ³ </s>
+h ɔ ɪ ⁵ ⁵ ɲ u ³ ³ </s>
+i ʊ ⁵ ⁵ </s>
+i ɛ ̯ ³ ³ l ɛ ɪ ⁵ ² t s o ʊ ⁵ ² </s>
+j ɔ ³ ³ ɲ u ³ ¹ </s>
+t ʰ o i ³ ³ </s>
+n ə ³ ³ </s>
+m ə ³ ³ </s>
+t ɛ u ⁵ ² </s>
+k u ɪ ³ ³ k a ʊ ʔ ³ ³ k a ʊ ʔ ³ ³ </s>
+i p ³ ¹ </s>
+m a u ̯ ⁵ ² h i u ̯ ³ ¹ </s>
+t ʃ u ³ ³ t ʃ a ³ ³ </s>
+u ³ ³ t s e i ³ ³ </s>
+k i a ʊ ⁵ ² k i a ʊ ⁵ ² </s>
+h ʊ a ³ ³ h i ³ ¹ </s>
+n ə ³ ³ t s a ʔ ³ ³ ʃ a ʔ ³ ² </s>
+t ʃ ʰ i ʊ ³ ³ n i ɛ ̯ ʔ ³ ¹ </s>
+v e u ³ ³ . p ɔ ̯ ŋ ³ ³ t s ʰ o u ³ ¹ </s>
+a ŋ ³ ³ ɛ m ⁵ ⁵ </s>
+t ʰ i ŋ ³ ³ t s i u ʔ ⁵ ⁵ </s>
+v i ³ ¹ ʃ ʰ a ³ ³ </s>
+t a ŋ ³ ³ m o ŋ ³ ³ </s>
+t ʰ a ŋ ³ ³ k i ŋ ⁵ ⁵ </s>
+a ³ ³ ɲ u ³ ³ v ɛ ɪ ⁵ ² </s>
+a ³ ³ ʃ o ŋ ³ ³ h a ɪ ³ ³ </s>
+m i ⁵ ⁵ a u ̯ ⁵ ⁵ </s>
+u p a ʔ ³ ³ </s>
+t ʃ ə ³ ³ t i ɛ ̯ ³ ³ </s>
+n i ɛ ̯ ³ ¹ ʃ i ɛ ̯ ³ ¹ </s>
+a ³ ³ t ʃ ʰ ɛ ɪ ³ ³ t i ɛ ̯ ³ ³ </s>
+v e u ³ ³ k u a p ³ ³ </s>
+ɲ u ³ ³ t ʰ a p ³ ³ t ʃ ə t ʰ o ³ ¹ </s>
+n ɛ u ̯ ³ ¹ </s>
+l ɛ i ʔ ³ ³ p a ɪ ⁵ ⁵ </s>
+k ʰ i a ̯ m ³ ³ t ʰ u ³ ¹ </s>
+a ³ ³ m o ŋ ³ ³ k i ʊ ʔ ³ ¹ </s>
+l u ɪ ⁵ ² m a ɪ ³ ¹ </s>
+i ɛ ̯ ³ ³ m a ʔ ³ ¹ k i ɛ ̯ ³ ¹ </s>
+l o ʊ ³ ³ l i a ̯ ŋ ⁵ ⁵ </s>
+n ə ³ ³ ʃ i u ̯ ⁵ ⁵ a u ̯ ³ ³ </s>
+t ʃ i ³ ³ s a ŋ ³ ³ t ʰ a m ³ ³ t s a ɪ ⁵ ² </s>
+t ʃ ɔ ŋ ³ ³ t i ɛ ̯ ³ ³ </s>
+m o ŋ ³ ³ t s ʰ i u ̯ ³ ¹ l a h ʔ ³ ² </s>
+o ³ ³ t s i ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ v ɛ ʊ ³ ¹ </s>
+ɲ o u ̯ ³ ³ p a i ̯ ⁵ ² </s>
+ʃ ʰ i u ³ ³ . m e i ³ ³ </s>
+k ɛ ɪ ⁵ ² </s>
+i ɛ ̯ ⁵ ² t ʃ u a ̯ p ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ l i ³ ³ u ³ ³ l i ʔ ³ ¹ t ʃ a m ³ ¹ </s>
+l a ³ ³ k ʰ ɛ ʊ ⁵ ⁵ a ʊ ³ ³ </s>
+k ɔ ɪ ³ ³ k ɔ ɪ ³ ³ i ɛ ̯ ³ ³ </s>
+j a ŋ ⁵ ² ɲ u ³ ¹ ɲ ɛ m ³ ³ </s>
+k ʰ ɔ ³ ¹ l ɛ ʔ ³ ³ </s>
+h o ʊ ³ ³ h ɛ ʊ ⁵ ⁵ </s>
+ɲ a u ̯ ³ ³ t ɛ m ⁵ ² </s>
+l o ʊ ³ ³ l u ɔ ̯ ʔ ³ ¹ </s>
+ʃ ɑ ŋ ³ ³ l o ŋ ³ ¹ ŋ a ³ ³ </s>
+v o ŋ ³ ³ t a ³ ³ </s>
+t s u i ³ ³ t ʃ ʰ o ŋ ³ ³ </s>
+k a m ³ ³ t ʃ ʰ a m ³ ¹ </s>
+l o ʊ ³ ³ p a ɪ ⁵ ⁵ </s>
+h i ɛ ̯ ⁵ ⁵ </s>
+o ⁵ ² ɲ u ³ ¹ n o k ³ ² </s>
+t ʃ ə ³ ³ t ʃ ɔ ŋ ³ ³ </s>
+k ʰ ə ³ ¹ l ɛ m ³ ¹ </s>
+k ʰ ɔ ³ ³ k ʰ ɔ ³ ¹ </s>
+m i ʔ ³ ³ k ʰ ɛ m ³ ¹ </s>
+t ʃ ɛ ʊ ³ ³ k ʊ a m ³ ³ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+k i ɛ ̯ ³ ³ h ɛ ʊ ³ ¹ m ɔ ŋ ³ ¹ </s>
+v e u ³ ³ . o ³ ³ k u m ⁵ ² </s>
+s ə ³ ³ . t a i ʔ ³ ¹ </s>
+t e i ³ ¹ t s ə ³ ¹ m o ŋ ⁵ ² k o ³ ¹ </s>
+t ʰ u a ̯ m ³ ¹ t ʰ u a ̯ m ³ ¹ </s>
+t s ʰ i ɛ ̯ ³ ¹ </s>
+m i o ̯ ⁵ ² t a ³ ³ </s>
+ʃ ɑ ŋ ³ ³ p i k ³ ³ </s>
+a ³ ³ n ɔ ɪ ³ ¹ t ʃ a m ³ ¹ p a ɪ ³ ³ </s>
+l a ŋ ⁵ ² ŋ o ʊ ³ ³ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+m a i ̯ ³ ¹ ɲ u ³ ³ </s>
+l a k ³ ³ p ʊ a ⁵ ² </s>
+h ɔ k ³ ³ s i p ³ ³ </s>
+h a ³ ³ </s>
+t ʰ a i ³ ³ t ʰ a i ⁵ ⁵ </s>
+n o u ̯ ³ ³ </s>
+m ə ³ ³ l i ʔ ³ ² </s>
+a ³ ³ k ʰ ʊ a p ³ ³ </s>
+a ³ ³ m o ŋ ³ ³ l a m ⁵ ² </s>
+t ʃ ʰ a ɪ ³ ³ l i ³ ³ </s>
+k ʰ ʊ a p ³ ³ l ʊ a m ⁵ ² </s>
+k ʊ a p ³ ¹ </s>
+t i p ³ ¹ </s>
+k o ʊ ³ ³ k ʰ o ʊ ʔ ³ ¹ t s o ʊ ⁵ ² </s>
+m i ɛ ̯ ³ ³ t ʃ i ɛ ̯ ʔ ³ ¹ t a u ̯ ³ ¹ p u o ̯ ³ ³ </s>
+a ɪ ³ ³ ʃ a ɪ ³ ³ </s>
+m i ɛ ̯ ³ ³ t i ɛ ̯ ³ ³ </s>
+h ɛ ʊ ³ ³ ɲ i m ³ ³ </s>
+l a ŋ ³ ³ m ɔ ŋ ³ ³ </s>
+l a ŋ ⁵ ² ŋ o ʊ ³ ³ </s>
+o ⁵ ² t s i ³ ³ ʃ o u ̯ ³ ¹ </s>
+k i ŋ ³ ³ v ɛ m ³ ³ </s>
+h a ʔ ³ ³ k i a ̯ m ⁵ ⁵ </s>
+t ʃ ə ³ ³ t ʃ u ɔ ̯ ⁵ ⁵ i ɛ ̯ ⁵ ² k ɔ k ³ ¹ </s>
+k ʰ i a ̯ m ³ ¹ k ʰ ɛ ɪ ³ ³ n a p ⁵ ⁵ </s>
+n ə ³ ³ t ʃ ʰ i u ̯ ³ ¹ h a i ̯ ³ ³ </s>
+k ʰ a ⁵ ⁵ </s>
+k ʰ i a ̯ m ³ ³ l a m ³ ³ m i ŋ ⁵ ² </s>
+t ʃ a m ³ ³ t ʰ i ʊ ³ ¹ </s>
+k u h ʔ ³ ³ m ɛ ɪ ⁵ ² </s>
+t ʃ ʰ a ɪ ³ ³ t s i ɛ ̯ ⁵ ⁵ t ʃ a m ⁵ ² </s>
+k ʰ i ŋ ³ ¹ </s>
+t ʃ ʰ u ³ ³ a ŋ ³ ³ p a ɪ ⁵ ² </s>
+ɲ u ³ ³ t ʰ i ³ ³ </s>
+m o u ̯ ³ ³ k i e ̯ ³ ³ a u ̯ ³ ¹ </s>
+a ³ ³ k ʰ a ʊ ʔ ³ ³ </s>
+t ʰ ə ³ ³ v a u ⁵ ² </s>
+k o ʊ ³ ³ ɲ u ³ ¹ </s>
+l a ʔ ³ ³ s i ŋ ⁵ ⁵ t s ʰ o ʊ ³ ³ </s>
+n i u ̯ ⁵ ² t ʰ u m ³ ¹ </s>
+t s u i ³ ³ n a p ³ ³ </s>
+k ʰ ɛ ʊ ³ ¹ k ʰ a m ³ ¹ </s>
+o u ̯ ³ ³ h u i ̯ ³ ³ m o ŋ ⁵ ⁵ </s>
+t ʃ ʰ a m ³ ³ l a ɪ ³ ³ i ɛ ̯ ³ ³ k ʰ a ʊ ⁵ ² </s>
+m a u ̯ ³ ¹ </s>
+k o ʊ ʔ ³ ³ ŋ a m ³ ¹ </s>
+t ʰ a u ³ ³ </s>
+t ʰ a ⁵ ⁵ t ʰ u m ⁵ ⁵ </s>
+n ə ³ ³ t ʰ u o ̯ ⁵ ⁵ </s>
+n o i ̯ ³ ³ </s>
+m o ŋ ⁵ ² p i ³ ³ </s>
+k a ɪ ³ ³ j o ʔ ³ ¹ </s>
+k ʊ a ɪ ⁵ ² </s>
+o ⁵ ² t s i ³ ³ t s u a ̯ ⁵ ² </s>
+n o k ³ ³ p ə ³ ¹ t s ʰ i ³ ¹ </s>
+ɲ a ŋ ⁵ ⁵ </s>
+t s ʰ u a ³ ¹ t ʃ ʰ i ³ ¹ k i e ⁵ ² </s>
+ɲ u ³ ³ t ʰ a p ³ ³ t ɛ u ̯ ³ ¹ </s>
+l ə ³ ³ m u ɔ ̯ ³ ³ k i ŋ ⁵ ⁵ </s>
+a ³ ³ l i ɛ ̯ ³ ³ l i ɛ ̯ ⁵ ² </s>
+a ³ ³ k u a ̯ ɪ ³ ³ t i ɛ ̯ ³ ¹ </s>
+ɲ i ŋ ⁵ ² p a u ̯ ³ ¹ </s>
+t u p ³ ³ t u p ³ ³ </s>
+t u a ⁵ ² l u ³ ³ </s>
+l o ʊ ³ ³ t ʃ u ³ ³ </s>
+t i ŋ ³ ³ k a m ³ ³ </s>
+t i k ³ ¹ </s>
+n ə ³ ³ k o k ³ ² ʃ a ʔ ³ ² </s>
+l ɛ m ⁵ ⁵ l u ³ ³ </s>
+a ³ ³ l a ʊ ³ ³ k ɛ ɪ ³ ³ </s>
+k ʰ ɛ p ³ ³ l i ʔ ³ ¹ </s>
+v i a ŋ ³ ³ t ʰ a ʔ ³ ¹ </s>
+t ʃ i ³ ³ l a ŋ ³ ³ l ə ³ ³ t s ʰ i ³ ¹ </s>
+t ʃ ʰ a ʊ ³ ¹ </s>
+k o ʊ ³ ³ l a ŋ ³ ³ ʃ i ɛ ⁵ ² </s>
+t s ʰ ə ³ ¹ . ɲ ɪ ʔ ³ ¹ t ʰ a i ³ ³ p i k ³ ¹ t s ʰ o u ³ ¹ </s>
+u ³ ¹ t e u ³ ³ </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ ʃ i ³ ³ ʃ ɛ ɪ ⁵ ⁵ p a ɪ ⁵ ² </s>
+n i u ̯ ³ ³ l u ³ ³ t s u i ̯ ⁵ ⁵ </s>
+k a m ³ ³ ʃ i ŋ ³ ³ </s>
+k ɔ ɪ ³ ³ l i a ̯ m ³ ³ </s>
+l i ³ ³ v a ⁵ ² </s>
+t ʃ ɔ ŋ ³ ³ k ʰ ɔ ɪ ⁵ ⁵ </s>
+a ³ ³ t ʃ ʰ i m ³ ¹ h ɔ ɪ ³ ³ </s>
+a ³ ³ l a k ³ ³ n ə ³ ³ k o ŋ ³ ³ </s>
+k ʰ a ʊ ³ ³ ŋ a ʊ ³ ³ k i ŋ ⁵ ⁵ </s>
+n o ŋ ³ ¹ n a i ̯ ³ ³ o ʔ ⁵ ² </s>
+t ʃ ʰ i ʊ ³ ¹ t ʰ i ɛ ̯ ʔ ³ ¹ t ʃ ʰ ɔ ɪ ³ ³ </s>
+m i ŋ ³ ³ t s ʰ o u ̯ ³ ¹ ʃ i u ̯ ³ ³ </s>
+l o ʊ ³ ³ ɲ ɔ ³ ³ </s>
+n u a ̯ m ³ ¹ </s>
+a ³ ³ ʃ a ŋ ³ ³ l a k ³ ³ </s>
+t ə ³ ³ t ʃ ʰ u o ³ ³ t ʃ ʰ u o ³ ³ </s>
+k a ʊ ʔ ³ ¹ </s>
+ʃ a ³ ¹ </s>
+t u a ⁵ ⁵ </s>
+t ə ³ ³ t s i ŋ ³ ³ t s i ŋ ³ ³ </s>
+m ə ³ ³ t i a ̯ m ³ ³ s ə ³ ³ t i a ̯ m ⁵ ² </s>
+k i k ³ ¹ </s>
+t u o ̯ ³ ³ l e i ̯ ʔ ³ ¹ l e i ʔ ³ ² </s>
+t ʃ ɛ m ⁵ ⁵ </s>
+t ʃ i ³ ³ t ʃ ʰ ɔ ɪ ³ ³ </s>
+ʃ a n ³ ³ ɲ u ³ ¹ </s>
+ɲ u ³ ³ s i ɛ ̯ ⁵ ⁵ </s>
+n o k ³ ³ v e m ³ ¹ </s>
+t s ʰ ə ³ ³ v a u ³ ³ . l ɛ ɪ ʔ ³ ³ ŋ ɔ ɪ ⁵ ² </s>
+t ʃ ʰ i m ³ ¹ </s>
+v i u ³ ³ k i ³ ³ k a m ³ ³ </s>
+t ʃ i ³ ³ t ʃ ʰ a ɪ ⁵ ⁵ i ɛ ̯ ⁵ ² </s>
+j a m ³ ³ s ə ³ ³ m o ŋ ⁵ ⁵ </s>
+a ³ ³ s a ɪ ʔ ³ ³ n ə ³ ³ k ɔ ŋ ³ ³ </s>
+m i ŋ ⁵ ² </s>
+j a u ³ ³ l a i ⁵ ⁵ </s>
+l ɔ ŋ ³ ¹ t ʃ a m ³ ³ </s>
+t a m j e ⁵ ⁵ </s>
+h ɛ ʊ ³ ³ ʃ i ŋ ³ ³ ʃ u ⁵ ² </s>
+ə ³ ³ k ʰ u p ³ ³ </s>
+t a ʊ ³ ¹ </s>
+ʃ a h ³ ³ </s>
+ɲ a ⁵ ² ɲ u ³ ³ </s>
+s ɑ ŋ ³ ³ k ʰ o u ʔ ³ ³ p a i ⁵ ² </s>
+t ə ³ ³ n u o ³ ³ n u o ³ ³ </s>
+ɲ u ³ ³ ŋ a u ̯ ʔ ³ ² m u o ̯ ³ ¹ l i ³ ³ </s>
+w a ⁵ ² t e m ³ ³ </s>
+t ʃ ɔ ŋ ³ ³ t ʃ a m ⁵ ⁵ </s>
+k ʰ u ³ ³ k ʰ ʊ a ⁵ ⁵ </s>
+l o k ³ ³ t s ʰ o ³ ¹ </s>
+n o u ̯ ³ ³ l a p ³ ³ </s>
+t ʃ ʰ i ɛ ̯ ³ ³ t ʃ ʰ a ɪ ⁵ ⁵ </s>
+t ʃ a ŋ ³ ³ t s o ʊ ⁵ ² </s>
+t ʃ i ŋ ³ ³ k ə ³ ³ l i ³ ³ </s>
+p ɑ ³ ³ . t s ʰ ɒ ⁵ ⁵ k ʰ i ɑ m ³ ³ . ɲ u ⁵ ⁵ . ŋ n ⁵ ⁵ </s>
+ɲ ɛ i ̯ ʔ ³ ³ t ʰ a m ⁵ ⁵ </s>
+k a ʊ ⁵ ² k ɔ ³ ¹ </s>
+a ³ ³ i ɛ ̯ ⁵ ⁵ v a ⁵ ² l ɔ ŋ ³ ¹ </s>
+v e u ³ ³ . k h o u ³ ³ </s>
+o ⁵ ² m a u ̯ ³ ¹ u ³ ³ </s>
+a ³ ³ t ʃ a ³ ³ t i ɛ ̯ ⁵ ⁵ t ʃ ə ⁵ ⁵ h a ɪ ⁵ ⁵ </s>
+i ³ ³ t ʰ a ŋ ³ ¹ </s>
+k i ³ ³ k ʰ e u ⁵ ⁵ </s>
+k i ɛ ̯ ⁵ ² t ʰ u ɔ ̯ ³ ¹ i ɛ ̯ ³ ¹ ʃ i ɛ ̯ ³ ³ i ɛ ̯ ⁵ ² </s>
+t ʃ ʰ u ³ ³ a ŋ ⁵ ² </s>
+t ʰ o k ³ ³ t ʰ o k ³ ³ m o ŋ ⁵ ² </s>
+k i ŋ ³ ³ m ɔ ŋ ³ ³ </s>
+m i ʔ ³ ³ t s a m ³ ¹ </s>
+i m ³ ³ l ɔ ³ ³ </s>
+ɲ a m ³ ³ t s u p ³ ² </s>
+a ³ ³ t ʃ u m ³ ¹ v a ³ ³ t ʃ ə ⁵ ⁵ n o ⁵ ² </s>
+k ʰ ɛ ɪ ³ ¹ </s>
+n o k ³ ³ t s ʰ o u ̯ ³ ³ </s>
+l a k ³ ³ p ʰ i ⁵ ⁵ </s>
+t ʃ a m ³ ³ p ʰ ɛ ʊ ³ ¹ </s>
+n ə ³ ³ o u ̯ ³ ³ k i ɛ ̯ ³ ³ </s>
+i ɛ ̯ ³ ³ t ʰ ɔ ɪ ⁵ ⁵ l ɔ ŋ ³ ¹ </s>
+l u ɪ ³ ¹ </s>
+a ³ ³ h a ŋ ³ ³ ʃ a ʊ ⁵ ² </s>
+k ʊ a p ³ ³ l i ʊ ³ ³ </s>
+a ³ ³ n ə ³ ³ </s>
+o ³ ³ k i ³ ³ </s>
+h o u ⁵ ⁵ </s>
+ɲ o u ̯ ³ ³ l o ŋ ³ ¹ ɲ a ³ ³ </s>
+l i a ̯ m ⁵ ² t s ʰ ɔ ɪ ³ ¹ </s>
+t ʃ u ɔ ̯ ⁵ ² </s>
+k o ʊ ³ ³ t ʃ a k ³ ³ </s>
+t e i ³ ¹ t s o ʔ ³ ¹ </s>
+k ʰ ɛ ʊ ³ ¹ k a ŋ ⁵ ⁵ </s>
+v a ʔ ³ ³ t e u ³ ¹ </s>
+h ɛ m ³ ¹ </s>
+n o ŋ ³ ¹ n i ³ ³ </s>
+k ʰ ɔ ³ ¹ p i a ̯ m ³ ¹ ɲ u ³ ³ </s>
+k i ŋ ³ ³ v a ⁵ ² k ɔ ³ ¹ </s>
+v a i ̯ ³ ³ l ɛ ³ ³ m i ɛ ̯ ³ ³ </s>
+o i ̯ ʔ ³ ² </s>
+u ʔ ³ ³ . l a ŋ ³ ³ m o ŋ ³ ³ </s>
+a ³ ³ i k ³ ³ ɲ a m ³ ³ </s>
+t a u ³ ³ s h ɑ ⁵ ⁵ </s>
+t ʃ ʰ u m ³ ³ </s>
+h ɔ k ³ ³ t i ŋ ³ ³ </s>
+ɲ u ³ ³ w ɛ i ̯ ⁵ ² </s>
+i ³ ³ k ʰ ɔ ³ ¹ </s>
+h ɛ ʊ ³ ¹ ɲ u ³ ¹ </s>
+v e u ³ ³ . s ʰ i ʔ ³ ³ </s>
+l i a ̯ m ⁵ ² k ʰ ɛ ɪ ³ ³ </s>
+h u m ⁵ ⁵ ʃ ɛ ʊ ⁵ ² </s>
+l a k ³ ³ ʃ a ɪ ⁵ ² </s>
+k a ŋ ⁵ ² </s>
+l i ⁵ ⁵ l i ⁵ ⁵ t s ʰ o ʊ ³ ³ </s>
+k ʊ a p ³ ³ m a ɪ ³ ¹ </s>
+j o k ³ ³ k ʰ i ³ ³ </s>
+l a ŋ ⁵ ² ʃ i ɛ ̯ ³ ¹ </s>
+m ə ³ ³ ɲ i ʔ ³ ² </s>
+t i e ⁵ ⁵ </s>
+v e u ³ ³ . p o k ³ ³ </s>
+h ɔ ŋ ³ ³ h ɔ ŋ ³ ³ </s>
+o ⁵ ² u ʔ ³ ² </s>
+a ³ ³ k o ɪ ³ ³ h ʊ a ³ ³ </s>
+t a ŋ ³ ³ k ə ³ ³ h u o ³ ¹ l i u ³ ¹ </s>
+a ³ ³ n ɔ ɪ ⁵ ² </s>
+t a p ³ ¹ </s>
+t ʃ a ŋ ⁵ ² k i ³ ³ k ʰ ɛ m ³ ¹ </s>
+ɲ u ³ ³ t ʰ a ŋ ³ ³ </s>
+k o ʊ ʔ ³ ³ ɔ ⁵ ² ɲ u ³ ¹ </s>
+l i ʊ ³ ³ h ʊ a m ⁵ ⁵ </s>
+m i ɛ ̯ ³ ³ t s i ɛ ̯ ⁵ ⁵ </s>
+k ʰ i ³ ¹ </s>
+a ³ ³ ʃ ɛ ʊ ʔ ³ ³ l i ʊ ⁵ ² </s>
+k ʰ ɛ ʊ ³ ³ i ʊ ⁵ ² l o ʊ ʔ ³ ¹ </s>
+k ʰ i a ̯ ³ ¹ m i ʊ ʔ ³ ¹ </s>
+u i ³ ³ v a ³ ³ </s>
+o ⁵ ² l ɛ m ³ ¹ l ɛ m ³ ³ </s>
+ɲ i ɛ ̯ ³ ³ ʃ a ʔ ³ ¹ t ʰ i u ³ ³ </s>
+t ʃ a ⁵ ⁵ i ɛ ̯ ⁵ ² </s>
+a ³ ³ m u ɪ ³ ¹ </s>
+k ʰ a ʊ ³ ³ t ʊ a m ³ ³ </s>
+ʃ ʰ o ³ ³ </s>
+l ə ³ ³ k i ŋ ³ ³ </s>
+p a ŋ ⁵ ² </s>
+a ³ ³ k ʰ u ɔ ̯ ³ ¹ l i ³ ³ </s>
+l i ŋ ³ ³ m u ɔ ̯ ³ ³ </s>
+o i ̯ ³ ³ </s>
+l i ɛ ̯ ⁵ ⁵ </s>
+a ³ ³ t ʃ ɛ ɪ ³ ¹ k a m ³ ¹ t ʰ a ŋ ³ ¹ </s>
+a ŋ ³ ³ i ³ ³ a ³ ¹ m ʊ a ³ ³ </s>
+k o ʊ ³ ¹ h ɔ ³ ¹ l ɛ ʊ ³ ¹ h ɔ ³ ¹ </s>
+n o k ³ ³ ʃ o ŋ ⁵ ² </s>
+h o k ³ ³ p ʰ o u ⁵ ⁵ </s>
+a ³ ³ p ɔ ɪ ³ ³ </s>
+ɲ i ɛ ̯ ⁵ ² </s>
+l i ŋ ³ ³ m ɔ ɪ ³ ³ </s>
+t ʃ ʰ a m ³ ³ t a ⁵ ² </s>
+a ³ ³ l u m ³ ³ h o k ³ ¹ p ʰ u p ³ ¹ </s>
+n u ⁵ ² </s>
+a ³ ³ p o ŋ ³ ³ a ³ ¹ ɲ i m ⁵ ² </s>
+l ə ³ ³ t s ʰ i ³ ¹ t s ʰ o u ³ ¹ </s>
+t ʰ a i ³ ³ k i o ʔ ³ ¹ ʃ ʰ i ³ ¹ </s>
+ɲ u ³ ³ u ³ ³ ɲ u ³ ³ </s>
+h i ŋ ³ ¹ h i ŋ ³ ³ </s>
+l ɔ ³ ³ p i ŋ ⁵ ⁵ </s>
+t ʃ ʰ i ɛ ̯ ³ ¹ t s i k ³ ¹ </s>
+l ɛ ɪ ⁵ ² l a ³ ¹ l a ⁵ ² </s>
+t ʃ ʰ a ɪ a ³ ³ k a ʊ ʔ ³ ³ </s>
+l i ʊ ⁵ ² </s>
+u ³ ¹ </s>
+h ɔ k ³ ³ t ʰ i ɛ ̯ ʔ ³ ³ </s>
+n o u ̯ ³ ³ t a u ̯ ³ ³ t a u ̯ ³ ³ p u o ̯ ³ ³ </s>
+h ɛ ɪ ⁵ ⁵ </s>
+u o ³ ³ j e u ³ ³ </s>
+t ʰ u o ³ ¹ </s>
+i ɛ ³ ³ t ʃ o ʊ ³ ¹ l ə ³ ¹ k ʰ u ɔ ̯ ³ ¹ ɲ u ³ ¹ </s>
+h u ɪ ʔ ³ ³ h u ɪ ʔ ³ ³ </s>
+t ə ³ ³ k ʰ u o ³ ³ k ʰ u o ³ ³ </s>
+ʃ ɑ ŋ ³ ³ ɲ a m ³ ³ ɲ u ³ ¹ </s>
+h ʊ a ³ ³ l ɔ ŋ ³ ³ </s>
+i ɛ ̯ ³ ³ t i p ³ ¹ k i ɛ ̯ ³ ¹ </s>
+t s ə ⁵ ² p ʰ e i ʔ ³ ¹ p a i ⁵ ² </s>
+m ə ³ ³ l o u ̯ ʔ ³ ² </s>
+k a ⁵ ² </s>
+o ³ ³ </s>
+m u a ̯ ³ ³ </s>
+a ³ ³ l ɛ ʊ ³ ³ l ə ³ ¹ n o ³ ¹ </s>
+a m ³ ³ t s a ŋ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+m u o ̯ ³ ³ l i ³ ³ i ɛ ̯ ⁵ ² </s>
+l ə ³ ³ m i ɛ ̯ ʔ ³ ³ </s>
+m u a ̯ ³ ¹ </s>
+t i u ⁵ ² o u ³ ¹ h e u ³ ¹ </s>
+t ʰ ə ³ ³ t ʰ a ŋ ⁵ ⁵ </s>
+l a ŋ ⁵ ² p a ɪ ⁵ ² ɲ u ³ ¹ </s>
+k ʰ ɛ ɪ ³ ¹ k ə ³ ¹ l ə ³ ³ k a ʊ ³ ¹ </s>
+a ³ ³ t ʃ ɛ ɪ ⁵ ⁵ l u ³ ³ </s>
+n ə ³ ³ t ʃ ʰ i u ̯ ³ ¹ </s>
+t ʰ ə ³ ³ </s>
+u m ³ ³ t ʰ e u ³ ¹ l i u ⁵ ² </s>
+l i a ̯ m ⁵ ² </s>
+k ʰ ɛ ʊ ³ ³ l ɔ ɪ ³ ³ </s>
+t s ʰ a ³ ¹ </s>
+a ³ ³ l ɛ ʊ ³ ¹ </s>
+a ³ ³ ʃ a ɪ ⁵ ⁵ t ʰ ɛ ʊ ³ ³ t ʰ o ⁵ ⁵ </s>
+ɲ u ³ ³ l i a ̯ k ³ ³ l ə ³ ³ m i ɛ ̯ ʔ ³ ³ </s>
+l a ŋ ³ ³ p ɔ ŋ ³ ³ </s>
+ʃ a i ³ ³ </s>
+t ʰ e u ³ ³ ʃ ʰ u a ³ ³ </s>
+i ɛ ̯ ⁵ ² ɲ u ³ ¹ </s>
+s e i ⁵ ² k o ³ ¹ </s>
+n o k ³ ³ k u m ⁵ ² </s>
+ʃ ʰ i ŋ ³ ³ k i ŋ ⁵ ⁵ u ³ ³ </s>
+m o ŋ ⁵ ² k i a ̯ p ³ ² </s>
+s ɑ ŋ ³ ³ l a u ³ ³ </s>
+t ʃ a ŋ ⁵ ² p ɔ ŋ ³ ¹ </s>
+ɲ ɛ i ̯ ʔ ³ ³ t a p ʔ ³ ¹ h a i ̯ ³ ³ </s>
+t ə ³ ³ p ʰ i a k ³ ³ p ʰ i a k ³ ³ </s>
+n i u ̯ ³ ³ h a i ̯ ³ ³ </s>
+h u ɪ ³ ³ t ʰ o ʔ ³ ¹ </s>
+t ʰ a i ³ ³ l o ŋ ³ ³ t s e u ʔ ³ ³ </s>
+m i ɛ ̯ ³ ³ u o ̯ ³ ¹ </s>
+v ɛ ʊ ³ ³ . k o i ³ ³ </s>
+a ³ ³ ʃ ʊ a ³ ³ k i ʊ ʔ ³ ¹ t ʃ ə ³ ³ n ɔ ⁵ ⁵ </s>
+ɛ m ³ ³ s h ɑ ː ³ ³ </s>
+l a ŋ ⁵ ² t ʰ i ŋ ³ ¹ a ŋ ⁵ ² </s>
+t ə ³ ³ n ə ³ ³ t ə ⁵ ⁵ </s>
+t ʃ ə ³ ³ l i ⁵ ⁵ </s>
+k ʰ ɔ ŋ ³ ³ k ʰ ɛ p ³ ³ k ə ³ ³ h a ⁵ ⁵ </s>
+m ə ³ ³ t s ʰ u o ̯ ʔ ³ ³ </s>
+t ʃ ʰ ə ³ ³ l a m ⁵ ⁵ t s u p ⁵ ⁵ </s>
+a ³ ³ ʃ a ʔ ³ ³ t ʃ ʰ a m ³ ³ </s>
+k o ʊ ʔ ³ ³ ɲ u ³ ¹ t s ʰ u ɪ ³ ¹ i ɛ ̯ ⁵ ² </s>
+l ə ³ ³ m u ɔ ̯ ³ ³ i ʊ ʔ ³ ¹ </s>
+n o k ³ ³ k ʰ ɛ u ̯ ³ ¹ l a ŋ ⁵ ² </s>
+l o ʊ ³ ³ t ʃ u ɔ ̯ ʔ ³ ¹ </s>
+h ʊ a ³ ³ k ʰ a ⁵ ⁵ </s>
+l a ³ ³ p a ɪ ⁵ ² </s>
+a ³ ³ k i ŋ ⁵ ⁵ t i ŋ ³ ³ a ³ ³ t ʃ u ³ ³ t ʃ i ɛ ̯ ³ ³ </s>
+l ɔ ŋ ³ ³ k ɔ ɪ ⁵ ² </s>
+a ³ ³ s a ŋ ³ ³ l u ³ ³ </s>
+k o ʊ ³ ³ k ʰ a ³ ³ t s ʰ o ʊ ³ ³ </s>
+i ɛ ̯ ³ ³ t ʰ ɔ ɪ ⁵ ⁵ k i ɛ ̯ ⁵ ² </s>
+a ³ ³ h ɔ k ³ ³ t s ɔ ʔ ⁵ ⁵ </s>
+k u i ³ ³ i e ³ ³ </s>
+l o ʊ ³ ³ s i ʊ ⁵ ⁵ </s>
+k ʰ ʊ a m ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ l ʊ a p ³ ³ </s>
+n o k ³ ³ ʃ i ŋ ⁵ ² </s>
+k a ŋ ⁵ ² l o ʊ ʔ ³ ¹ k i o ̯ ʔ ³ ¹ </s>
+l i a ̯ ŋ ³ ³ k i ʊ ʔ ³ ¹ </s>
+o u ̯ ʔ ³ ¹ l o ʊ ʔ ³ ¹ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+k i ʊ ³ ³ a ³ ¹ l ɛ ʊ ʔ ³ ³ ʃ ɛ ʊ ³ ³ a ³ ¹ l ɛ ʊ ʔ ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ </s>
+t ʃ ʰ a m ³ ¹ s ə ³ ¹ m ʊ a ³ ³ </s>
+h i ə ³ ³ l o u ʔ ³ ¹ </s>
+a ³ ³ ʃ i ʊ ⁵ ⁵ l o ʊ ʔ ⁵ ⁵ </s>
+a ³ ³ l u m ³ ³ k ʰ ɛ ʊ ³ ¹ ɲ o ʔ ³ ¹ </s>
+s a ʊ ʔ ⁵ ⁵ h i e ³ ¹ </s>
+a ³ ³ l i ɛ ̯ ⁵ ² </s>
+t e i ³ ¹ t a ³ ³ </s>
+t s i m ³ ¹ </s>
+l a ʊ ⁵ ² ʃ i ³ ³ </s>
+l ɔ ŋ ³ ³ k a p ³ ³ </s>
+ɲ ɛ m ³ ³ </s>
+ɲ a u ̯ ³ ³ k ʰ ɛ m ³ ¹ </s>
+m a ŋ ³ ³ </s>
+l a ŋ ³ ³ u ³ ³ ɲ u ³ ³ </s>
+t ʰ i a ³ ¹ m o u ³ ¹ </s>
+t ə ⁵ ⁵ t i ⁵ ² </s>
+t s i m ³ ³ l i e ⁵ ⁵ m o ŋ ⁵ ² </s>
+h ɛ ʊ ³ ³ t ʃ u ɔ ̯ ʔ ³ ¹ l a ŋ ³ ¹ </s>
+l ʊ a ³ ¹ p a ɪ ³ ³ </s>
+a ³ ³ h i ³ ³ i ɛ ̯ ⁵ ⁵ </s>
+t ʃ a ʔ ³ ³ </s>
+a ³ ³ . h u m ³ ³ </s>
+v e u ³ ² k h e u ⁵ ⁵ s u o ³ ³ </s>
+t s ɑ p ³ ¹ </s>
+t ʰ i k ³ ³ </s>
+h a ʊ ³ ¹ </s>
+k ʰ ʊ a m ⁵ ⁵ </s>
+a ³ ³ l i ⁵ ² </s>
+k i ʊ ³ ³ l i a ̯ m ⁵ ² t s ɔ ³ ³ </s>
+l a ŋ ³ ³ k i a ̯ m ³ ³ </s>
+t ʃ i ŋ ⁵ ² k a p ³ ¹ </s>
+t ə ³ ³ s i e ³ ³ s i e ³ ³ </s>
+k ʰ o ʊ ⁵ ⁵ </s>
+h ɔ k ³ ³ k ʰ ɔ ³ ¹ t ʰ k ³ ¹ </s>
+t ʰ a i ³ ³ p u m ³ ³ </s>
+t ʃ a ɪ ³ ³ k e ʊ ʔ ³ ³ </s>
+t ə ³ ³ t i ⁵ ² k ü ³ ¹ n a i ³ ³ t o ³ ³ </s>
+t ʃ ʰ a ŋ ⁵ ⁵ </s>
+a ³ ³ l u ɔ ̯ ³ ¹ ʃ i ³ ³ ɲ u ³ ³ </s>
+ɲ i ⁵ ² </s>
+s ɑ ŋ ³ ³ k ʰ o ŋ ³ ³ t ʰ o ŋ ³ ¹ a u ³ ¹ </s>
+ʃ ɑ ŋ ³ ³ p o i ³ ³ n a ʔ ³ ¹ ʃ ʰ i ³ ¹ </s>
+l u ɪ ⁵ ² k ʰ i a ̯ m ³ ¹ </s>
+t s ʰ ɪ ɛ ³ ¹ k ə ³ ¹ t s ʰ ə ³ ³ ɲ ɪ ɛ ʔ ³ ³ </s>
+ɲ u ³ ³ h ɛ u ̯ ³ ¹ </s>
+k i ɛ ̯ ³ ³ t i p ³ ¹ t s a p ³ ¹ </s>
+h ɔ k ³ ³ k ʰ ɔ ³ ¹ t ʰ a ³ ¹ </s>
+t e i ̯ ³ ¹ t s ə ³ ¹ n ə ³ ³ k o u ̯ ³ ¹ </s>
+ɲ u ³ ¹ </s>
+a ³ ³ k ʰ a k ³ ³ </s>
+t ʃ i ³ ³ ŋ ɔ ɪ ³ ³ k i ɛ ̯ ⁵ ² </s>
+h i ɛ ̯ ³ ³ ʃ i ʊ ⁵ ² </s>
+a ³ ³ i ɛ ̯ ⁵ ⁵ t ʰ a ⁵ ⁵ </s>
+k ɛ ʊ ³ ³ t ɔ ŋ ⁵ ² </s>
+ɲ u ³ ³ k ʰ ɛ m ³ ³ </s>
+v e i ³ ² ɲ u ³ ² </s>
+t ʃ ʰ i ʊ ³ ¹ l i ʊ ³ ³ ɲ u ³ ³ </s>
+l ɔ ³ ³ k i ɛ ̯ ⁵ ² </s>
+h i ɛ ̯ ³ ³ . ʃ i ³ ³ </s>
+k ʰ i a ̯ ŋ ³ ¹ k ʰ ɛ ʊ ³ ¹ h ɛ ʊ ³ ¹ </s>
+m u o ̯ ³ ³ p a ³ ³ h o k ³ ³ ɲ a p ³ ² </s>
+k ɔ ŋ ³ ³ k ʰ a ʊ ³ ¹ </s>
+t ʃ i ŋ ⁵ ² i ʊ ʔ ³ ¹ </s>
+t ə ³ ³ m o u ³ ¹ </s>
+k ʊ a m ⁵ ² </s>
+ɲ u a ̯ ⁵ ² </s>
+t ʰ a ³ ³ y o ⁵ ² l o ŋ ³ ¹ </s>
+t ɛ m ³ ³ s h i u ⁵ ² </s>
+ɲ i ³ ³ p a i ̯ ⁵ ² </s>
+t s ʰ u o ʔ ³ ³ t s ʰ u o ʔ ³ ³ n o ŋ ³ ¹ n o ŋ ⁵ ² </s>
+t ʃ ʊ a m ³ ³ t ɛ ʊ ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ s ə ³ ¹ p a ɪ ³ ¹ </s>
+t i a ̯ m ³ ¹ </s>
+i ɛ ̯ ³ ¹ t i o ̯ ʔ ³ ¹ t ʃ ʰ u ʔ ³ ¹ </s>
+ɲ ə ³ ³ p o i ̯ ʔ ³ ² t ʃ ə ³ ³ t ʃ u o ̯ ³ ³ </s>
+t ʃ a m ³ ³ t ʃ ʰ i ⁵ ⁵ </s>
+ɲ a i ̯ ³ ¹ </s>
+a ŋ ³ ³ u ³ ¹ t a ʔ ³ ¹ </s>
+h a ɪ ³ ³ m i ŋ ⁵ ² </s>
+i ɛ ̯ ³ ³ l a ŋ ³ ³ s a ŋ ³ ³ k ʰ ɛ ʊ ³ ¹ </s>
+v e i ⁵ ² </s>
+a ³ ³ k a p ³ ³ </s>
+t s u m ³ ¹ </s>
+h u ɔ ̯ ³ ³ l i ʊ ⁵ ⁵ </s>
+a ³ ³ t ʃ ʰ o ŋ ³ ¹ t i ŋ ³ ³ </s>
+k ʰ ɛ ʊ ³ ³ ʃ u ɔ ̯ ⁵ ² t ʃ ʰ ɔ ŋ ³ ¹ </s>
+l o ʊ ³ ³ ʃ u m ³ ³ </s>
+l a ŋ ³ ³ ɔ ³ ³ l i a ̯ m ⁵ ² t ʃ ɔ ŋ ³ ³ </s>
+t ʃ ə ³ ³ t ʃ ɔ ɪ ³ ³ </s>
+t ə ³ ³ ɲ i ⁵ ⁵ t s ʰ o u ³ ³ </s>
+o u ̯ ʔ ³ ² </s>
+ɲ u ⁵ ² </s>
+t e u ³ ¹ l o u ʔ ³ ¹ </s>
+m i u ̯ ⁵ ² l ɛ i ̯ ʔ ³ ² </s>
+k i ɛ ̯ ³ ³ t a p ³ ³ </s>
+t ə ³ ³ ɲ i ⁵ ⁵ t s ʰ o u ³ ³ t a u ³ ³ p u o ³ ³ </s>
+k u ɪ ³ ³ l u ɪ ³ ³ a ʊ ³ ³ l u ɪ ³ ³ </s>
+s e i ³ ³ s e i ³ ³ </s>
+t ʃ a ŋ ⁵ ² ʃ i ʔ ³ ¹ m ə ³ ³ k ɔ ŋ ⁵ ² </s>
+m a u ̯ ³ ¹ l ə ³ ¹ t ʃ u ʔ ³ ¹ </s>
+l i ʊ ³ ³ t ʃ i ɛ ̯ ʔ ³ ¹ </s>
+m i o ̯ ⁵ ² l i a ̯ m ³ ¹ </s>
+i ɛ ̯ ³ ³ p i ɛ ̯ ³ ³ </s>
+l ə ³ ³ k ʰ u ɔ ̯ ³ ¹ ɲ u ³ ¹ </s>
+t ʃ u ³ ³ t ʃ ɪ e ³ ³ l i a ̯ ŋ ³ ³ k o ⁵ ⁵ </s>
+s ɑ ŋ ³ ³ l ɑ u ³ ³ n o k ³ ³ i e ⁵ ² </s>
+i ɛ ̯ ³ ³ t ʰ i ʊ ³ ¹ </s>
+l i ³ ³ t ʰ i ʊ ⁵ ⁵ v a ⁵ ² </s>
+t ʃ i ɛ ̯ ʔ ³ ¹ l o ʊ ³ ¹ k u ³ ³ </s>
+l a ŋ ⁵ ² l ə ³ ³ ɲ a k ³ ¹ </s>
+k ʰ i ³ ³ </s>
+t a ŋ ³ ³ s o i ³ ³ </s>
+h ɛ ʊ ³ ¹ u ³ ¹ l i ʊ ³ ¹ </s>
+t s u ³ ³ t o ŋ ³ ³ h e u ³ ¹ ɲ u ³ ¹ </s>
+a ³ ³ k u m ³ ¹ </s>
+l o ʊ ³ ³ t s ʰ i k ³ ³ </s>
+k ʰ u ³ ³ i ɛ ̯ ⁵ ⁵ </s>
+t ʃ ɛ ɪ ³ ³ a ɪ ³ ³ </s>
+k o ʊ ³ ³ k ʰ ɛ m ³ ³ l i ʊ ³ ³ </s>
+n u o ̯ ³ ³ v a ⁵ ² </s>
+k o ʊ ʔ ³ ³ t ɛ ʊ ³ ¹ </s>
+v a ʔ ³ ³ t s u m ³ ³ </s>
+m o ŋ ⁵ ² t ʰ i e ̯ ʔ ³ ² </s>
+t s i ɛ ³ ³ t s u o ʔ ³ ³ </s>
+v ɛ ʊ ³ ³ . m a i ³ ³ </s>
+t ʃ i ³ ³ k a ʔ ³ ¹ u ʔ ³ ¹ </s>
+a ³ ³ l a m ³ ³ h ɛ ʊ ³ ¹ </s>
+t ʃ ʰ a ŋ ³ ³ k a ŋ ³ ³ k a ŋ ³ ³ </s>
+k ʰ ɛ ʊ ³ ³ ŋ a m ³ ¹ </s>
+a ³ ³ k a ʊ ʔ ³ ³ l ɛ ʔ ³ ² </s>
+ɲ u ³ ³ k ʰ u p ³ ³ </s>
+i ɛ ̯ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+t ʰ a ³ ³ k ʰ e u ³ ³ </s>
+t ʰ a ŋ ³ ¹ ŋ n ⁵ ⁵ t u a m ³ ³ </s>
+i ɛ ̯ ³ ¹ l o ʊ ³ ¹ ɲ i ɛ ̯ ʔ ³ ¹ t ʃ a m ³ ³ k ɛ ɪ ³ ¹ </s>
+t ʃ ɔ ŋ ³ ³ p ʰ i ɛ ̯ ³ ¹ </s>
+s a ŋ ³ ³ t ʰ e u ̯ ³ ³ t s ʰ o u ³ ¹ </s>
+n o k ³ ³ l ɛ m ⁵ ⁵ l i a ̯ m ⁵ ⁵ </s>
+a ³ ³ i ³ ³ t s i a ̯ p ³ ³ </s>
+u p ³ ¹ </s>
+k ə ³ ³ h a ʔ ³ ³ </s>
+h ɔ ŋ ³ ¹ k ɛ ɪ ³ ¹ </s>
+ɲ u ³ ³ k ʰ u p ³ ³ m a i ̯ ³ ¹ </s>
+a ³ ³ l i ³ ¹ </s>
+t s ʰ ə ³ ¹ . ɲ ɪ ʔ ³ ¹ t a u ³ ¹ p u o ³ ³ </s>
+a ɪ ³ ³ h a ³ ³ t s ʰ o ʊ ³ ¹ </s>
+t ʃ i ³ ³ n o ʊ ³ ³ t ʰ i k ³ ¹ s a ŋ ³ ¹ </s>
+u ³ ³ p a ʔ ³ ¹ . </s>
+l a ŋ ⁵ ² m ɔ k ³ ¹ t s i o ̯ ʔ ³ ¹ </s>
+n i ɛ ̯ ⁵ ⁵ t ʃ i ɛ ̯ ʔ ⁵ ⁵ k o ³ ¹ </s>
+t i u ⁵ ² </s>
+a ³ ³ ɔ ³ ³ l o ʊ ʔ ³ ² ɲ i ʔ ³ ² </s>
+l o ʊ ³ ³ ʃ u ɪ ⁵ ⁵ </s>
+t ʃ ɛ ʊ ³ ³ k ʰ ɛ ʊ ⁵ ² </s>
+ɲ ə ³ ³ k i ŋ ³ ¹ </s>
+o ³ ³ t s i ³ ³ t a u ̯ ³ ³ p u o ̯ ³ ³ </s>
+h ʊ a ³ ³ n u ʔ ³ ³ n u ʔ ³ ¹ </s>
+ɲ a m ³ ³ </s>
+u o ⁵ ² t s i m ⁵ ² </s>
+t ʃ u ³ ³ i ɛ ̯ ⁵ ² </s>
+a ³ ³ k u m ³ ³ v a ⁵ ² </s>
+t ʰ ə ³ ³ j e u ³ ³ </s>
+l i ŋ ³ ³ t ʰ u p ³ ³ t ʰ u p ³ ³ </s>
+m u o ̯ ³ ³ ʃ a ʔ ³ ³ </s>
+k a m ³ ¹ h i ɛ ̯ ³ ¹ </s>
+l ɔ ŋ ³ ³ p ʊ a ³ ³ </s>
+t ʰ a i ³ ³ t s ʰ i u ⁵ ⁵ </s>
+n ə ³ ³ p ʰ o ⁵ ⁵ </s>
+m o ŋ ⁵ ² s o ŋ ⁵ ² </s>
+h o ʊ ³ ³ k i p ³ ³ ɲ u ³ ¹ </s>
+a ³ ³ t ʃ ʰ ɔ ɪ ³ ¹ </s>
+k ʰ ɔ ³ ¹ k a p ³ ¹ </s>
+t a ⁵ ² ɲ u ³ ¹ </s>
+a ³ ³ l i ɛ ̯ ³ ³ v a ³ ³ n o ³ ³ </s>
+t ʃ ʰ a m ³ ³ n a ⁵ ² t ʃ a m ³ ¹ </s>
+t ʃ a ŋ ⁵ ² t s u m ³ ¹ </s>
+t ʃ ʰ u ɔ ̯ ʔ ³ ³ t ʰ ɛ ʊ ³ ³ </s>
+a ³ ³ k ʰ o ʊ ³ ¹ t ʃ a m ³ ³ </s>
+o ⁵ ² m ɛ i ̯ ⁵ ² </s>
+m ə ³ ³ l a i ̯ ³ ³ </s>
+l a ŋ ³ ³ l ɛ ɪ ⁵ ² </s>
+k ɔ ɪ ³ ³ ɲ u ³ ¹ </s>
+t ʃ a ŋ ⁵ ² t s ʰ i ʔ ³ ¹ </s>
+a ³ ³ a ʊ ʔ ³ ³ k ʰ ɛ ʊ ʔ ³ ³ </s>
+k ʰ ə ³ ³ t u ɔ ̯ ³ ³ </s>
+i ɛ ̯ ³ ³ l a m ⁵ ⁵ </s>
+t ʰ u ³ ¹ </s>
+k o ʊ ⁵ ⁵ </s>
+j a m ⁵ ⁵ </s>
+k ʰ ɛ ʊ ³ ³ l ɔ ʔ ³ ³ k i ɛ ̯ ⁵ ² </s>
+a ³ ³ k i o ̯ ʔ ³ ³ p a ʊ ³ ³ t s a ŋ ³ ³ </s>
+h ɛ ʊ ³ ³ h ɛ ʊ ⁵ ⁵ </s>
+l a ŋ ⁵ ² p ʰ ə ³ ¹ o ʊ ⁵ ² </s>
+s a ŋ ³ ³ t ʰ i ŋ ³ ¹ </s>
+t ʃ ɑ m ³ ³ </s>
+t a m ⁵ ² t a m ⁵ ² </s>
+ɲ u ³ ³ k ʰ a ³ ¹ </s>
+a ³ ³ o ʊ ³ ¹ n i ɛ ̯ ³ ³ </s>
+h u p ³ ³ </s>
+j o ³ ³ t ʰ i e ʔ ³ ³ </s>
+m ə ŋ ³ ³ o u ̯ ³ ³ ɲ i ʔ ³ ³ </s>
+a ³ ³ p ɛ m ⁵ ⁵ </s>
+t ʃ ʊ a ⁵ ² </s>
+t a ŋ ³ ³ </s>
+k ə ³ ³ t ə ³ ³ t ɔ ⁵ ⁵ </s>
+i ⁵ ² v i ³ ¹ </s>
+t ʃ a ³ ³ m ɔ ŋ ³ ³ p o ʊ ³ ¹ </s>
+t s ʰ o u ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ t ʃ ʊ a p ³ ¹ </s>
+t ə ³ ³ m i ŋ ³ ³ </s>
+l ɔ ⁵ ² l o ʊ ʔ ³ ¹ k ɔ ³ ³ </s>
+s a ŋ ³ ³ t s ʰ i u ̯ ʔ ³ ¹ </s>
+ʃ ʰ o ŋ ³ ³ </s>
+ɲ u ³ ³ t ʰ o ŋ ³ ³ </s>
+j a ŋ ³ ³ j a ŋ ³ ³ ɲ u ³ ³ </s>
+t ʃ i ɛ ̯ ⁵ ² t s i ³ ¹ </s>
+t s ə ³ ³ k i ³ ³ </s>
+k a ŋ ³ ³ k a ŋ ³ ³ l ə ³ ³ k i ʊ ³ ³ </s>
+ɲ u ³ ³ p o ŋ ³ ³ l o ŋ ³ ³ k ʰ i u ̯ ³ ¹ </s>
+s ɑ ŋ ³ ³ k ʰ ɑ u ⁵ ⁵ l o ŋ ³ ³ ʃ ʰ i ³ ³ ʃ ʰ ³ ³ t s ʰ o u ³ ¹ </s>
+t i m ³ ¹ </s>
+p ʰ ɔ ʔ ³ ³ m ɔ ŋ ⁵ ² </s>
+t ʃ a ɪ ³ ³ t ʃ a ɪ ³ ³ </s>
+n o ŋ ³ ¹ l i ³ ¹ k o ³ ³ </s>
+t s ʰ u p ³ ³ </s>
+i ɛ ʔ ³ ¹ s a ŋ ³ ¹ </s>
+v a i ³ ³ m u a ³ ³ </s>
+t ʃ ʰ a m ³ ³ t s a ⁵ ⁵ </s>
+n u p ³ ² </s>
+k a ɪ ³ ³ j a ŋ ³ ³ ɲ u ³ ³ </s>
+i ɛ ̯ ³ ³ t s ʰ o ʊ ³ ¹ n ɔ k ³ ¹ </s>
+m o ŋ ⁵ ² ʃ a u ̯ ³ ³ </s>
+ɲ u ³ ³ p o ŋ ³ ³ t ʃ a m ³ ³ </s>
+u i ³ ¹ </s>
+t ʃ a m ³ ³ t s ʰ o ʊ ³ ³ </s>
+k o ʊ ʔ ³ ³ ʃ i p ³ ³ </s>
+t ʰ ə ³ ³ n i e ʔ ³ ¹ </s>
+t ʃ ʰ o ŋ ⁵ ⁵ k ʰ a u ̯ ³ ¹ </s>
+l a ŋ ⁵ ² p ə ³ ¹ k ʰ o ʊ ³ ³ </s>
+k ʰ ə . ³ ³ l ɪ ɒ ³ ¹ . k ɪ ŋ ³ ³ </s>
+t u o ³ ³ k i ŋ ³ ³ </s>
+a ³ ³ ʃ ɛ ʊ ³ ³ t ɛ ʊ ³ ³ </s>
+t s i ɛ ³ ³ t ʰ a ʔ ³ ³ </s>
+v ɛ u ̯ ³ ³ t ʃ ɛ u ̯ ʔ ³ ¹ </s>
+a ³ ³ h ɛ ɪ ʔ ³ ³ </s>
+m u i ̯ ³ ¹ m i ŋ ³ ³ </s>
+a ³ ³ i k ³ ³ t s ə ʔ ³ ³ </s>
+ɛ m ³ ³ . k ɒ ³ ³ </s>
+ɲ o ³ ¹ v a ³ ³ </s>
+a ³ ³ l i ɛ ̯ ³ ³ ʃ i ʊ ³ ¹ </s>
+t ʰ o ʔ ³ ³ l ə ³ ³ k ʰ u a ̯ ⁵ ⁵ </s>
+l o ʊ ³ ³ m i ɛ ̯ ⁵ ² </s>
+m o ŋ ⁵ ² l o u ̯ ³ ¹ h a ³ ³ </s>
+m ə ³ ³ t ʃ u a ̯ ³ ³ m o ŋ ⁵ ⁵ </s>
+t s u i ⁵ ⁵ h o i ⁵ ⁵ </s>
+k o ʊ ʔ ³ ³ ɔ ⁵ ² </s>
+ɲ a i ̯ ⁵ ² </s>
+l o ʊ ³ ³ k ʊ a ɪ ³ ³ ² </s>
+h ɔ k ³ ³ t ɔ k ³ ¹ </s>
+l o ʊ ³ ³ a ⁵ ⁵ t s ɔ ʔ ⁵ ⁵ </s>
+k i ɛ ̯ ³ ³ s ɔ k ³ ¹ t i ɛ ̯ ³ ¹ </s>
+ɲ u ³ ³ j o ³ ³ </s>
+ɛ ³ ³ . m ɪ e ³ ³ </s>
+m o k ³ ³ t s i o ̯ ʔ ³ ² </s>
+m i ŋ ⁵ ² a u ̯ ³ ¹ l ɛ u ̯ ³ ³ </s>
+k ʰ ɛ ʊ ³ ³ </s>
+l o ʊ ³ ³ t s ʰ ə ³ ³ m ʊ a ³ ³ </s>
+i ɛ ̯ ³ ³ k ʰ a ʊ ⁵ ⁵ p a ʊ ³ ¹ ʃ ɔ ŋ ³ ³ ɲ u ³ ³ </s>
+w a m ⁵ ² </s>
+n o k ³ ¹ v e u ³ ¹ </s>
+k u m ⁵ ² </s>
+ʃ ɑ ŋ ³ ³ l o ŋ ³ ¹ h e u ³ ¹ t s ʰ o u </s>
+o i ̯ ³ ¹ h i ɛ ̯ ³ ¹ v a ³ ¹ </s>
+l ǜ m ì e </s>
+h a m ³ ³ </s>
+t ʃ ʰ ə ³ ³ l a m ⁵ ⁵ p i k ⁵ ⁵ </s>
+m o ŋ ⁵ ² ɛ m ³ ¹ </s>
+a ³ ³ l i a ̯ ŋ ⁵ ⁵ t i ⁵ ² </s>
+i n ³ ³ t ʃ i n ³ ³ </s>
+k o ʊ ʔ ³ ³ h ɛ ʊ ⁵ ⁵ ɲ u ³ ³ </s>
+v e u ³ ³ . p ɔ ŋ ³ ³ </s>
+ɲ a ⁵ ² t ʰ a m ³ ¹ </s>
+p ʰ a ʔ ³ ³ </s>
+a ³ ³ h i ŋ ⁵ ⁵ ʃ i ³ ³ </s>
+t a ⁵ ² u i ³ ³ </s>
+m ə ³ ³ ʃ u ³ ³ </s>
+a ³ ³ t s ʰ ʊ i ³ ¹ </s>
+l o ʊ ³ ³ p ɔ ŋ ³ ³ </s>
+t ʃ ʰ ə ³ ³ l a m ⁵ ⁵ ʃ i ʊ ʔ ³ ¹ </s>
+m a ʔ ³ ² t a ŋ ³ ¹ </s>
+t s ʰ ə ³ ¹ . ɲ ɪ ʔ ³ ¹ </s>
+t ʃ ʰ a m ³ ³ p a ʔ ³ ¹ </s>
+k ʰ o ʊ ʰ ³ ³ m ə ³ ³ l ɔ ŋ ³ ³ </s>
+m o ŋ ⁵ ² a ʔ ³ ² t ʰ a m ³ ³ </s>
+m ə ⁵ ² k u m ⁵ ² </s>
+t e i ³ ¹ l i ʔ ³ ³ </s>
+k ʰ i ŋ ⁵ ⁵ </s>
+c h a ³ ³ c h i ʊ ⁵ ² </s>
+a ³ ³ h a ʔ ³ ³ p i k ³ ² </s>
+k ʰ a ʊ ³ ³ t a ɪ ³ ³ </s>
+l ɔ ŋ ³ ³ t ʰ a m ³ ¹ ɲ u ³ ¹ </s>
+a ³ ³ s e i ⁵ ⁵ ɲ i ⁵ ² </s>
+t ʃ a k ³ ¹ </s>
+l ə ³ ³ n ɔ ³ ¹ </s>
+l a ŋ ³ ³ t s ɔ ⁵ ⁵ </s>
+n ə ³ ³ k o ŋ ³ ³ </s>
+t ʃ ʰ a ³ ¹ l ɔ ³ ¹ </s>
+t ʃ a ŋ ⁵ ² ɲ ɛ ɪ ʔ ³ ¹ </s>
+k i a ̯ m ³ ³ m ə ³ ³ ʃ i ʊ ³ ³ p a ɪ ⁵ ² </s>
+t ʰ e u ⁵ ⁵ </s>
+t s i m ³ ¹ s i e ³ ³ </s>
+k ʰ u m ³ ³ ɲ u ³ ¹ </s>
+k ɔ m ³ ³ ʃ i k ɔ ³ ³ </s>
+v i ³ ³ k ɔ ³ ³ </s>
+ɲ u o ̯ ³ ³ </s>
+a ³ ³ s i ŋ ³ ³ i ɛ ̯ ³ ¹ </s>
+a ³ ³ i ⁵ ² </s>
+t s i ɛ ʔ ³ ³ </s>
+l i a ̯ m ⁵ ² a ³ ³ t ʃ ʰ a m ³ ¹ </s>
+t ʃ a m ³ ³ l ɛ ʊ ³ ¹ ɲ u ⁵ ⁵ l i a ̯ m ⁵ ² </s>
+u ʔ ³ ³ ʃ ʰ a ³ ¹ j i ³ ³ </s>
+k u m ³ ³ n ɔ ŋ ³ ³ ɲ u ³ ³ </s>
+k i ɛ ̯ ³ ³ t s ʰ i ʊ ⁵ ⁵ </s>
+t ɛ u ³ ³ l o u ʔ ³ ³ k o ³ ¹ </s>
+a ³ ³ k ʰ ɛ ɪ ⁵ ⁵ </s>
+l ɔ ³ ³ v ɛ ʊ ³ ³ </s>
+t ʃ ə ³ ³ t ʃ u ɔ ̯ ⁵ ⁵ t ʃ ʰ u ³ ³ l a k ³ ³ ɲ u ³ ¹ </s>
+j ɔ ³ ³ ʃ i ɛ ̯ ³ ¹ l a k ³ ¹ </s>
+v ɛ u ³ ³ l i ʔ ³ ³ p ü ⁵ ⁵ i u ʔ ³ ¹ </s>
+n i ɛ ̯ ⁵ ² </s>
+ɛ m ³ ³ </s>
+k i ŋ ³ ³ ɲ u ³ ³ </s>
+t ʃ ɑ ⁵ ⁵ </s>
+a ³ ³ t ʃ u ³ ³ t ʃ i ɛ ̯ ³ ³ </s>
+k ʰ i a ̯ p ³ ³ </s>
+t ʃ ʰ i ʊ ³ ¹ k a ʊ ³ ³ </s>
+s e i ⁵ ² ʃ ʰ a ³ ³ </s>
+h ɔ k ³ ³ k ʰ ɔ ³ ¹ t ʃ i ɛ ̯ ʔ ³ ¹ </s>
+t ʃ ʰ a m ³ ³ t s a ⁵ ⁵ l i ʊ ⁵ ² </s>
+ɲ u ³ ³ l a ʔ ³ ³ </s>
+o u ̯ ʔ ³ ³ a m ⁵ ² </s>
+t ʃ ʰ i ⁵ ⁵ </s>
+ɲ o i ̯ ³ ³ k i u ̯ ʔ ³ ³ </s>
+h i a ̯ ³ ³ m i ɛ ̯ ³ ¹ </s>
+a ³ ³ t ʃ i ⁵ ⁵ ɲ a m ³ ³ </s>
+a ³ ³ m i ʊ ⁵ ⁵ </s>
+k ʰ i ŋ ³ ¹ ʃ a m ³ ¹ m i ³ ³ </s>
+k o ʊ ³ ³ k ʰ ə ³ ³ l i a ̯ m ⁵ ² </s>
+t ʰ a i ³ ³ ɲ i m ³ ³ </s>
+t ʰ u ³ ¹ ʃ ʰ a ³ ³ </s>
+a ³ ³ s i a ̯ m ³ ³ </s>
+t ʃ a ʊ ³ ¹ </s>
+s e u ʔ ³ ³ </s>
+m i o ̯ ⁵ ² k ʰ a ³ ¹ </s>
+a ŋ ³ ³ </s>
+l i ŋ ³ ³ p ɔ ŋ ³ ¹ t s ʰ o ʊ ³ ¹ </s>
+l ɔ ŋ ³ ¹ k a ŋ ³ ³ ɲ u ³ ³ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+a ³ ³ l a ʔ ³ ³ l ɛ ʔ ³ ² </s>
+m a u ̯ ³ ¹ k ʰ ɛ u ̯ ³ ¹ p u m ⁵ ² </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ l ə ³ ³ k ʰ u ɔ ̯ ³ ¹ ɲ u ³ ¹ </s>
+h ɔ k ³ ³ p ʰ u ³ ³ p a ʊ ³ ¹ </s>
+t ʰ i ŋ ⁵ ⁵ l e u ʔ ⁵ ⁵ </s>
+m i ɛ ̯ ³ ³ v i ³ ¹ </s>
+a ³ ³ a ŋ ⁵ ² </s>
+n o k ³ ³ k ʰ ɛ u ̯ ³ ¹ h ɛ u ̯ ³ ³ m o ŋ ³ ³ </s>
+v e u ³ ³ a m ³ ³ k o u h ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ t u ʔ ³ ³ </s>
+l o ʊ ³ ³ w a ³ ³ </s>
+a ³ ³ ɲ u ³ ³ k u ɔ ̯ ³ ³ p ə ³ ³ l i ɛ ̯ ³ ³ </s>
+t h a ŋ ³ ³ s ə ³ ³ i u ̯ ʔ ³ ² </s>
+t ʃ ʰ a ɪ ³ ³ t s ʰ o ŋ ³ ¹ </s>
+o u ̯ ʔ ³ ² l o u ̯ ³ ¹ k o ŋ ³ ³ </s>
+k i ŋ ⁵ ⁵ ʃ i ³ ³ </s>
+o ŋ ³ ³ k ʰ o ³ ¹ </s>
+m o ŋ ³ ³ l ə ³ ¹ t ɛ u ̯ ³ ¹ </s>
+t ʃ a ŋ ³ ³ </s>
+h ʊ a ³ ³ ʃ u ʔ ³ ¹ </s>
+l o ʊ ³ ³ s a ɪ ʔ ³ ¹ </s>
+h i k ³ ³ ʃ u ɪ ⁵ ⁵ </s>
+ɪ k ³ ³ </s>
+a ³ ³ m o ʊ ³ ³ t ʰ i ³ ³ a ³ ³ t s i ³ ³ k ʰ ɛ ʊ ⁵ ⁵ </s>
+t ʃ ʰ a ɪ ³ ³ t ʰ i ʊ ⁵ ⁵ </s>
+l i ʊ ³ ³ t ʃ ʊ a ³ ³ </s>
+a ³ ³ t ʃ ʰ i m ³ ¹ </s>
+l ʊ a ³ ¹ v a ³ ³ </s>
+i ʊ ʔ ³ ³ k ʰ u ɔ ̯ ʔ ³ ³ </s>
+t ʃ ʰ ɛ p ³ ³ </s>
+t ʰ u p ³ ³ t ʰ u p ³ ³ </s>
+k ʰ ɛ ʊ ³ ³ l ɔ ŋ ³ ¹ </s>
+t ə ³ ³ ɲ a m ³ ³ ɲ a m ⁵ ² </s>
+l ə ³ ³ m u ³ ³ </s>
+k u ɔ ̯ ⁵ ² ɲ ɔ ʔ ³ ¹ </s>
+k a ³ ³ s a ³ ³ </s>
+n o u ̯ ³ ³ k u ³ ³ s i ɛ ̯ ³ ³ </s>
+t ə ³ ³ ŋ a u ³ ³ ŋ a u ³ ³ </s>
+m o ŋ ⁵ ² l o u ̯ ʔ ³ ² </s>
+o ³ ¹ l o u ̯ ʔ ³ ² </s>
+t ə ³ ³ ɲ o ʔ ³ ¹ </s>
+k a ʊ ⁵ ² t ʰ i ɛ ̯ ʔ ³ ¹ </s>
+h i ³ ¹ </s>
+l i ŋ ³ ³ k ʰ ɛ ʊ ⁵ ⁵ </s>
+a ³ ³ ɲ a m ³ ³ t a ʊ ³ ¹ p u ɔ ̯ ³ ³ </s>
+k ɔ k ³ ³ k ɔ k ³ ³ </s>
+a ³ ³ i ʔ ³ ³ k ʰ a ʊ ʔ ⁵ ⁵ </s>
+w a k ³ ³ . w a k ³ ³ </s>
+k u ⁵ ² </s>
+m i ɛ ̯ ³ ³ ɲ u ³ ¹ t s ʰ ə ³ ¹ l ɛ m ³ ³ </s>
+k i ŋ ⁵ ⁵ h ɛ ʊ ³ ¹ </s>
+m ə ³ ³ t s ɛ u ̯ ⁵ ⁵ </s>
+k ʰ i ŋ ³ ¹ ʃ i m ³ ³ n i ɛ ̯ ³ ³ </s>
+i ɛ ̯ ³ ³ k ʰ a ʊ ⁵ ⁵ t a ʊ ³ ¹ p u ɔ ̯ ³ ³ </s>
+a ³ ³ k ə ³ ³ h a ŋ ³ ¹ k i ɛ ̯ ³ ¹ ʃ ə ³ ³ ɲ u ³ ³ </s>
+a ³ ³ p ʰ u ʔ ⁵ ⁵ </s>
+v a u ³ ³ i e ³ ³ </s>
+ɲ u ³ ³ l o u ̯ ³ ³ t s ʰ o u ̯ ⁵ ⁵ </s>
+k ʰ ɑ u ³ ³ </s>
+k ʰ ɛ ʊ ³ ³ k i ³ ³ </s>
+n ə ³ ³ a i ̯ ³ ³ </s>
+s e i ³ ³ ɲ i ³ ³ </s>
+t a i ³ ³ i e ⁵ ² </s>
+t ʃ ʰ i ³ ³ l a ɪ ³ ³ p ə ³ ³ t ʃ ʰ u ɔ ̯ ʔ ³ ³ t s ʰ o ʊ ³ ³ </s>
+l ʊ a m ³ ³ </s>
+k ʰ ə ³ ³ t ʰ ɔ ³ ³ </s>
+a ³ ³ p i ɛ ̯ ³ ³ ɲ u ³ ³ </s>
+k u m ⁵ ⁵ l ɛ ³ ³ </s>
+n ə ³ ³ n o i ̯ ³ ¹ </s>
+k ɔ ³ ³ k ɔ ⁵ ² k ə ³ ¹ </s>
+t ʃ ʰ i ɛ ̯ ⁵ ⁵ </s>
+i ɛ ̯ ³ ³ t ɔ ³ ¹ </s>
+m i ɛ ̯ ³ ³ l o ŋ ⁵ ⁵ </s>
+k a ³ ³ m ə ³ ³ t ʃ ʰ ɔ ɪ ⁵ ⁵ </s>
+t ʃ ʰ u ʔ ³ ³ </s>
+l ɔ ŋ ⁵ ² t s ɔ ³ ³ </s>
+t s ʰ ɪ ɛ ³ ¹ k ə ³ ¹ l ə ³ ³ m ɪ ʔ ³ ³ </s>
+o ³ ³ t s o u ̯ ³ ³ </s>
+ɲ u ³ ³ t a ŋ ³ ¹ t ʃ a m ³ ¹ </s>
+p o u ³ ¹ </s>
+t a ⁵ ² s i m ³ ³ </s>
+ɲ u ⁵ ² s o k ³ ² </s>
+h o ʊ ʔ ³ ³ s ə ³ ³ k ʰ a ŋ ³ ¹ </s>
+a ³ ³ k ʰ ɛ m ³ ³ </s>
+i ʊ ʔ ³ ³ k a m ³ ¹ </s>
+a ³ ³ ʃ i ɛ ̯ ³ ³ l o ʊ ʔ ³ ³ </s>
+a ³ ³ ʃ a ɪ ⁵ ⁵ t a ³ ³ </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ m ə ³ ³ l ɔ ŋ ³ ³ </s>
+t ʰ i ŋ ³ ¹ t s i u ʔ ³ ¹ t s u m ³ ¹ </s>
+ʃ ɑ ŋ ³ ³ ɲ o ³ ³ ɲ u ³ ³ </s>
+t ʃ ɔ ŋ ³ ³ p ʰ ɛ ʊ ³ ¹ k ʰ ɛ p ³ ¹ t i ɛ ̯ ³ ¹ </s>
+a ³ ³ k ʰ o ʊ ³ ¹ k i ɛ ̯ ³ ¹ ʃ ə ³ ³ ɲ u ³ ³ </s>
+ɲ i ⁵ ² l o u ̯ ʔ ³ ² </s>
+k ʰ i ʊ ³ ³ </s>
+h u ɔ ̯ ⁵ ⁵ </s>
+k ʰ a ʊ ³ ³ s i ŋ ⁵ ⁵ </s>
+ʃ a i ³ ³ a u ³ ³ </s>
+t s i m ⁵ ⁵ </s>
+ɲ u o ̯ ʔ ³ ² ɲ u o ̯ ʔ ³ ² </s>
+o ⁵ ² v a i ̯ ³ ¹ ɲ u ³ ³ </s>
+m o ŋ ³ ³ k a u ̯ ³ ³ </s>
+a ³ ³ h a ɪ ⁵ ⁵ </s>
+a ³ ³ p a ʊ ³ ³ u ³ ³ s ə ³ ³ m a ɪ ³ ³ </s>
+m ə ³ ³ ʃ i u ̯ ⁵ ² </s>
+n o k ³ ³ l i ⁵ ² </s>
+l i ʊ ³ ³ ʃ a ɪ ³ ³ </s>
+a ³ ³ m ɔ ɪ ⁵ ² </s>
+t s o u ̯ ⁵ ² </s>
+n u ʔ ³ ² </s>
+o ³ ³ o ʔ ⁵ ⁵ </s>
+l i ʊ ⁵ ² t s ʰ o ʊ ³ ¹ </s>
+l ɔ ŋ ³ ³ k a ³ ³ </s>
+t s u i ⁵ ⁵ </s>
+a ³ ³ l ɛ m ³ ³ t ʃ i ŋ ⁵ ² </s>
+t ʃ ʰ i ɛ ̯ ³ ³ t i o ̯ ʔ ³ ³ t s ʰ ɔ ɪ ³ ³ </s>
+t ə ³ ³ l i ʔ ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ k ʰ ɛ ɪ ³ ³ </s>
+m o i ̯ ʔ ³ ² </s>
+t s ʰ o ʊ ³ ¹ </s>
+h i ə ³ ³ . ʃ o ŋ ³ ³ </s>
+h a ɪ ³ ³ m ɛ ɪ ³ ³ p o ʊ ³ ³ </s>
+ɲ o u ʔ ³ ³ k ʰ a u ̯ ³ ³ </s>
+t ʃ ʰ ə ³ ³ l a m ⁵ ⁵ p u ɔ ̯ ³ ³ </s>
+l ɔ ³ ³ h i ɛ ̯ ³ ¹ </s>
+k ʰ ɛ ʊ ³ ³ i ʊ ⁵ ² </s>
+k i ɛ ̯ ⁵ ² l i ɛ ̯ ³ ³ </s>
+i ʔ ³ ¹ i ɛ ̯ ³ ¹ k u a ̯ m ³ ³ </s>
+n ə ³ ³ p o k ³ ³ p o k ³ ² ɲ u ³ ¹ </s>
+l ə ³ ³ m u ɔ ̯ ³ ³ h ɛ ʊ ³ ¹ ɲ u ³ ¹ </s>
+t ʰ a m t s a i ̯ ⁵ ² t ʃ a u ̯ ³ ¹ h a i ̯ ³ ³ </s>
+t a ŋ ³ ¹ l o ³ ³ </s>
+k a k ³ ³ k a k ³ ³ </s>
+n ə ³ ¹ </s>
+m ə ³ ³ k i k ³ ² </s>
+t s a k ³ ³ </s>
+l ə ³ ³ m u ɔ ̯ ³ ³ </s>
+k a ŋ ³ ³ t s ʰ a ʊ ³ ¹ k a m ³ ¹ </s>
+v e u ³ ¹ t i ŋ ³ ¹ ʃ ʰ o ŋ ³ ³ k u a p ³ ³ </s>
+a ŋ ³ ³ a m ⁵ ⁵ t ʰ i ʊ ⁵ ⁵ </s>
+l ə ³ ³ l u ɔ ̯ ³ ³ k i ŋ ⁵ ⁵ </s>
+t ʃ ə ³ ³ t s ʰ ɔ ɪ ³ ¹ </s>
+l i ³ ³ l i ʔ ³ ¹ </s>
+t ʃ ɔ k ³ ³ t a ɪ ³ ³ </s>
+m ə ³ ³ l a m ⁵ ⁵ </s>
+a ³ ³ l u m ⁵ ² k ʰ i ŋ ³ ¹ t ɛ ʊ ³ ¹ </s>
+ɲ u ³ ³ t s o u ̯ ⁵ ² </s>
+l ʊ a p ³ ³ l ɔ ³ ³ </s>
+h ɔ k ³ ³ h i ʊ ⁵ ⁵ </s>
+n o ŋ ³ ¹ ʃ i u ̯ ³ ³ k o ⁵ ² </s>
+t s i k ³ ¹ </s>
+t a ʊ ³ ³ k i a ̯ ŋ ³ ³ </s>
+t ʃ ʰ ʊ a ³ ¹ </s>
+m a u ̯ ³ ¹ t ʃ o ŋ ³ ¹ p ʰ ɛ u ̯ ³ ¹ </s>
+v a ⁵ ² k i u ʔ ³ ² </s>
+t a ⁵ ² </s>
+t ʃ i ³ ³ l i ɛ ̯ ³ ³ s i ɛ ̯ ³ ³ </s>
+n o k ³ ³ t ʰ a ŋ ³ ³ k i ŋ ⁵ ⁵ </s>
+t ʃ a ŋ ⁵ ² k i ³ ³ </s>
+ɲ a u ̯ ³ ³ h ɛ u ̯ ⁵ ⁵ </s>
+l ɛ ɪ ʔ ³ ¹ </s>
+a ³ ³ m u ɪ ³ ³ t s ʰ i a m ³ ¹ </s>
+t ʃ ʰ ə ³ ³ l a m ⁵ ⁵ k ʰ u p ³ ³ </s>
+k a m ³ ³ v a ³ ³ </s>
+ɲ a i ̯ ⁵ ² l i k ³ ² </s>
+a ³ ³ k ʰ ɛ ɪ ⁵ ⁵ t ʃ ʰ i ⁵ ⁵ </s>
+l o ʊ ³ ³ u ɪ ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ h i ɛ ̯ ³ ¹ </s>
+l o ʊ ³ ³ t s ɔ ʔ ³ ³ </s>
+h ɔ ɪ ³ ¹ i ɛ ̯ ³ ¹ t s u ɪ ³ ³ </s>
+t s ʰ ə ³ ¹ . ɲ ɪ ʔ ³ ¹ k ʰ a u ³ ³ </s>
+t s u i ³ ³ t a i ³ ³ </s>
+k ɔ ŋ ³ ³ k ɔ ŋ ⁵ ² </s>
+s e i ⁵ ⁵ </s>
+a ³ ³ p i ɛ ̯ ⁵ ⁵ </s>
+t ʃ ʰ a ³ ³ </s>
+i ³ ³ s u ɔ ̯ ⁵ ⁵ k ʰ r ī s ³ ³ t ā ³ ³ </s>
+v i a ̯ ŋ ³ ¹ </s>
+a ³ ³ k ʰ ɛ ʊ ³ ¹ n a p ³ ¹ k i ɛ ̯ ³ ¹ ʃ ə ³ ³ ɲ u ³ ³ </s>
+m u o ̯ ³ ³ </s>
+p ʰ ɔ ʔ ³ ³ k ʰ ɔ ³ ¹ ɲ u ³ ¹ </s>
+o u ̯ ʔ ³ ³ h u i ̯ ³ ³ m o ŋ ⁵ ⁵ </s>
+t ʃ a m ³ ³ k a m ³ ³ </s>
+k ʰ i a ̯ m ³ ³ j ɔ ³ ¹ </s>
+t ʃ ɔ ŋ ³ ³ o ³ ³ h ɛ ʊ ³ ¹ </s>
+l a ŋ ³ ³ l ɛ ɪ ⁵ ² s a ŋ ³ ¹ t s ʰ o ʊ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ s a ŋ ³ ³ h a ɪ ⁵ ⁵ </s>
+m i ɛ ̯ ³ ³ p ʰ i u ̯ ³ ³ </s>
+t ʃ a m ³ ³ t ʃ ɛ ɪ ³ ¹ </s>
+ɲ ə ³ ³ o ʔ ³ ³ n o ³ ³ </s>
+ɲ u ³ ³ m o ŋ ³ ³ s i ŋ ³ ³ t ʃ ʰ a m ³ ³ </s>
+t ʃ ʰ i ³ ³ l a ɪ ³ ³ </s>
+k ʰ a ³ ¹ k i k ³ ¹ </s>
+a ³ ³ ɲ i ³ ³ t s ʰ i ʔ ³ ¹ p a ⁵ ² </s>
+k ʰ ə ³ ³ t s ʰ u ɪ ⁵ ⁵ </s>
+m i ɛ ̯ ³ ³ </s>
+l ə ³ ³ k i ŋ ³ ³ t s o ʊ ³ ³ </s>
+k o ʊ ³ ³ k ʰ ʊ a p ³ ¹ </s>
+h ɔ k ³ ³ k ʰ ɔ ³ ¹ ɲ u ³ ¹ </s>
+k a p ³ ³ ʃ a ⁵ ⁵ </s>
+a ³ ³ h i ŋ ⁵ ⁵ i ɛ ̯ ⁵ ² </s>
+t ʰ i u ³ ³ i e ⁵ ² </s>
+a ³ ³ ʃ ɛ ʊ ʔ ³ ³ </s>
+k i ŋ ³ ³ l i a ̯ m ³ ³ </s>
+l i a ̯ m ⁵ ² ʃ u ɪ ³ ³ </s>
+k ʊ a p ³ ³ k ʊ a p ³ ³ ɲ u ³ ¹ </s>
+t ʃ u ³ ³ k a ³ ³ </s>
+h a ɪ ³ ¹ ɲ u ³ ¹ </s>
+l ɛ ɪ ³ ³ </s>
+a ³ ³ l i a ̯ ŋ ³ ³ t ɛ ʊ ³ ³ </s>
+ɲ o u ̯ ³ ³ ʃ i ɛ ̯ ʔ ³ ³ m o ŋ ⁵ ² </s>
+ɲ u ³ ³ t s i ³ ¹ </s>
+t ʰ a u ³ ³ p i ŋ ³ ³ </s>
+j o ³ ³ t s ʰ i ʔ ³ ³ l a k ³ ³ </s>
+a ŋ ³ ³ ɛ ɪ ʔ ³ ³ </s>
+a ³ ³ k a ³ ³ i ɛ ̯ ⁵ ⁵ </s>
+k ʰ i a ̯ m ³ ¹ k ʰ ɛ ʊ ³ ¹ </s>
+k o ʊ ʔ ³ ³ ɲ a ʊ ⁵ ² </s>
+i ⁵ ² </s>
+v a u ³ ³ i e ⁵ ² h i e ³ ² </s>
+t ʃ ʰ ə ³ ³ ɲ i ŋ ³ ³ </s>
+ɲ u ³ ³ k ʰ u p ³ ³ l ɛ p ³ ¹ s a ŋ ³ ¹ </s>
+a ³ ³ k ʰ ɛ m ³ ³ k u ³ ³ t ʃ a m ³ ³ </s>
+t ʰ e u ³ ¹ a ³ ³ m e i ³ ³ </s>
+t ʃ i ⁵ ⁵ t ʃ a m ⁵ ⁵ </s>
+n o ŋ ³ ¹ t a u ̯ ³ ³ k o ⁵ ² </s>
+a ³ ³ k ɔ ɪ ³ ³ t ʃ ʰ u ³ ¹ l a ŋ ³ ¹ </s>
+k ʰ a ʊ ³ ³ t s ʰ i ʔ ³ ³ h i ɛ ̯ ³ ³ </s>
+l ʊ a p ³ ³ t ʃ i p ³ ³ </s>
+t ʰ o u a ̯ ⁵ ² k o ⁵ ² </s>
+t ʃ ʰ a ɪ ³ ³ k a ʔ ³ ³ </s>
+m u ³ ³ t ʰ u a ̯ ³ ³ </s>
+o ⁵ ² ɛ m ³ ³ </s>
+k a ʊ ʔ ³ ¹ t s ɔ ʔ ³ ¹ </s>
+ʃ ɑ ŋ ³ ³ ʃ ɑ ŋ ³ ³ p u o ⁵ ⁵ </s>
+a ³ ³ h o ⁵ ⁵ </s>
+t ʰ o ŋ ⁵ ⁵ t ʰ i u ⁵ ⁵ </s>
+m ə ³ ³ t i a ̯ m ³ ³ o ³ ³ </s>
+h i a ̯ m ³ ¹ t ʰ ɛ ʊ ³ ¹ ɲ u ³ ³ </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ l ɛ m ³ ³ t ʃ ʰ i ŋ ³ ¹ </s>
+t ʃ i ŋ ⁵ ² </s>
+t s ʰ ɪ ɛ ³ ¹ k ə ³ ¹ l ə ³ ³ k a u ³ ¹ </s>
+ɲ u ³ ³ p o ŋ ³ ³ </s>
+t ʃ ʰ ɛ ʊ ³ ³ t ʃ ʰ ɛ ʊ ³ ¹ t ʰ a ŋ ³ ¹ </s>
+t s ʰ ə ³ ¹ . ɲ ɪ ʔ ³ ¹ t ʰ i e ³ ¹ ɲ u ³ ³ </s>
+ɲ a u ̯ ʔ ³ ³ k a p ³ ³ </s>
+t s i m ³ ³ k ʰ a u ³ ¹ </s>
+a ³ ³ p i ŋ ³ ³ ʃ o ³ ¹ </s>
+j ɔ ⁵ ² l i ɛ ̯ ³ ³ </s>
+l i m ³ ¹ </s>
+k ʰ ɛ ʊ ³ ¹ h i m ³ ¹ </s>
+k o u ³ ³ k a ŋ ³ ³ </s>
+t ʰ a ⁵ ⁵ k o ⁵ ⁵ </s>
+k ʰ i a ̯ m ³ ³ p i ŋ ³ ¹ t ʃ a m ³ ³ </s>
+o ⁵ ² m i u ̯ ³ ¹ m i u ̯ ³ ¹ </s>
+h ɔ k ³ ³ m ɔ ŋ ⁵ ² </s>
+l o ʊ ³ ³ ɲ ɛ m ³ ³ </s>
+h a ɪ ⁵ ⁵ l o ʊ ʔ ⁵ ⁵ </s>
+l ə ³ ³ k i ŋ ³ ³ t ʃ i ⁵ ² </s>
+ɲ a ⁵ ² ʃ u o ̯ ³ ¹ </s>
+t ʰ o ʔ ³ ³ t ʃ ʰ u ʔ ³ ³ </s>
+m ɑ ʔ ³ ¹ </s>
+i ʔ ³ ³ l o ʊ ʔ ³ ¹ </s>
+n o ŋ ⁵ ² i ɛ ̯ ³ ¹ l ə ³ ³ k ʰ u a ̯ ⁵ ⁵ </s>
+t ʃ ʰ o ŋ ⁵ ⁵ k ɛ ʊ ³ ³ </s>
+n u o ⁵ ² </s>
+l o ʊ ³ ³ t s i ŋ ⁵ ⁵ </s>
+t ʰ i u ³ ¹ </s>
+t ʃ i ʊ ⁵ ² l ɛ m ³ ³ </s>
+m ɒ ŋ ³ ³ l ɪ ŋ ³ ³ </s>
+k ʰ i ³ ³ t s o ʊ ⁵ ² </s>
+a ³ ³ l o ⁵ ⁵ t ɛ ʊ ³ ³ </s>
+h ɛ ʊ ³ ¹ l i ɛ ̯ ³ ¹ </s>
+t h a ŋ ³ ³ t u a m ³ ³ h e u ³ ¹ </s>
+ɲ u ³ ³ k ʰ u a ̯ i ̯ ³ ¹ </s>
+k a ³ ³ l i ɛ ̯ ⁵ ⁵ </s>
+h ɔ ʔ ³ ³ </s>
+k ʰ a ʊ ³ ³ l ɛ ɪ ⁵ ² ɲ ɔ ʔ ³ ¹ ɲ u ³ ³ </s>
+n u ³ ³ n a i ̯ ʔ ³ ¹ </s>
+s e i ³ ³ t ʰ o u ³ ³ </s>
+k a ³ ³ . k e i ³ ¹ </s>
+ʃ ʰ a ³ ¹ </s>
+o u ̯ ʔ ³ ³ t ʰ a u ̯ ³ ³ ɲ u ⁵ ⁵ </s>
+k i ³ ³ s ə ³ ³ n a p ³ ¹ </s>
+k ʰ a p ³ ³ </s>
+i ⁵ ² p o ʊ ʔ ³ ¹ </s>
+u ⁵ ² t a ³ ¹ </s>
+t ʃ i ɛ ̯ ³ ³ s i ŋ ³ ³ </s>
+k ʰ ɛ ʊ ³ ³ ʊ ʔ ³ ¹ k ʊ a p ³ ¹ t s ɔ ⁵ ⁵ </s>
+a m ³ ³ k ʰ a m ⁵ ⁵ </s>
+a ³ ³ p ʰ u ʔ ³ ³ </s>
+ɪ ³ ³ t ʰ o ʔ ³ ¹ </s>
+n o u ̯ ʔ ³ ² </s>
+t ʃ a ɪ ³ ³ t ʃ a ɪ ³ ³ k a p ³ ³ i ɛ ̯ ⁵ ² </s>
+t ʰ ə ³ ³ t ʰ i e ʔ ³ ³ </s>
+o u ³ ³ k ʰ u p ³ ³ t ʃ ʰ i ʊ ³ ¹ </s>
+m o ŋ ⁵ ² s a ŋ ³ ³ </s>
+l i ʊ ⁵ ² k ʰ i a ̯ m ³ ¹ </s>
+o ³ ³ ɲ o ³ ¹ v ɛ u ̯ ³ ¹ </s>
+t ʰ i e ⁵ ⁵ </s>
+m i o ̯ ⁵ ² </s>
+t ʃ i ³ ³ k ʰ u ɔ ̯ ⁵ ⁵ s h i ³ ³ p a ɪ ⁵ ² </s>
+u ³ ³ v a ³ ³ </s>
+l i ³ ³ </s>
+t s u p ³ ³ t s u p ³ ¹ </s>
+k i ŋ ³ ³ t a p ³ ³ </s>
+l ə ³ ³ k i ŋ ³ ³ t ʃ ʰ a ʔ ³ ³ </s>
+l ɛ ɪ ³ ³ l ɛ ɪ ³ ³ </s>
+t ʃ i ³ ³ l a ³ ³ l a ³ ³ t s ʰ o ʊ ³ ³ </s>
+t ʃ ʰ ə ³ ³ l a m ⁵ ⁵ p ɔ ŋ ³ ¹ ɲ u ³ ³ </s>
+k ʰ u ³ ¹ k i a ̯ ⁵ ⁵ </s>
+ɲ u ³ ³ t a ŋ ³ ³ s i ɛ ̯ ³ ¹ </s>
+m o ŋ ⁵ ² t ʰ a ʔ ³ ² </s>
+t ʰ i p ³ ³ a ʔ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ t ʰ a ʔ ³ ¹ </s>
+k a ³ ³ v a ⁵ ² </s>
+n o i ̯ ³ ³ t ʰ i u ̯ ⁵ ⁵ </s>
+k ɛ ʊ ³ ³ s ə ³ ³ p a ʊ ³ ¹ </s>
+k ʰ i a ̯ m ³ ³ a ɪ ³ ¹ </s>
+a ³ ³ m o ʊ ⁵ ⁵ </s>
+n ə ³ ³ k ʰ ɛ m ³ ¹ p a u ̯ ³ ¹ p o i ̯ ʔ ³ ² </s>
+k ʰ u ³ ³ l u ɔ ̯ ʔ ³ ¹ </s>
+t ʃ ʰ a m ³ ³ ʃ a ʔ ³ ¹ k i ɛ ̯ ³ ¹ ʃ ʊ a ⁵ ² </s>
+ɲ i ³ ³ k ʰ a ³ ¹ </s>
+t ʰ a m ⁵ ⁵ p a i ̯ ⁵ ⁵ </s>
+a ³ ³ t ʃ ʰ ɛ ʊ ³ ¹ ɲ u ³ ¹ </s>
+t ʰ ə ³ ³ t ʃ ʰ i k ³ ³ </s>
+k ʰ ɛ ʊ ³ ³ ɲ u ³ ¹ </s>
+t ʃ a k ³ ¹ ʃ a ʔ ³ ¹ k ɔ ³ ¹ </s>
+l a k ³ ³ t s ʊ a m ³ ³ t a ʊ ³ ¹ p ʊ ɔ ̯ ³ ³ </s>
+h ɔ ɪ ⁵ ⁵ t s ʰ i ʔ ³ ³ h i ɛ ̯ ³ ³ </s>
+h u ɪ ³ ³ l ɛ m ⁵ ⁵ </s>
+t s ʰ ə ³ ³ p u ʔ ³ ¹ l u a p ³ ¹ </s>
+a ³ ³ l ɛ ɪ ʔ ³ ² </s>
+l ɔ ŋ ⁵ ⁵ a ³ ³ </s>
+l ɔ ŋ ³ ³ t s o ŋ ³ ³ </s>
+k ʰ ɛ ʊ ³ ³ k i ɛ ̯ ⁵ ² </s>
+k ʰ i ŋ ³ ¹ t ɛ ʊ ³ ¹ </s>
+m o ŋ ⁵ ² </s>
+k a ³ ³ ʃ a ʔ ³ ³ </s>
+t ʰ e p ³ ³ t ʰ e p ³ ³ </s>
+ɲ a u ̯ ʔ ³ ² </s>
+n u o ³ ¹ </s>
+l u m ³ ¹ </s>
+a ³ ³ l i ŋ ⁵ ⁵ l i a ̯ m ³ ³ </s>
+m o ŋ ⁵ ² k i o ̯ ʔ ³ ² </s>
+t ʰ a ŋ ³ ³ k ə ³ ³ l u i ̯ ⁵ ⁵ </s>
+a ³ ³ t ʃ i k ³ ³ t s ʰ o ʊ ³ ¹ </s>
+h ɔ ⁵ ⁵ t ʃ ʰ u ʔ ³ ¹ </s>
+l i k ³ ³ l i ³ ¹ </s>
+k ʰ u ɔ ̯ ³ ³ p a m ³ ¹ </s>
+t ʃ i p ³ ³ </s>
+a ³ ³ k ʰ ɛ ʊ ³ ¹ </s>
+t ʰ a i ³ ¹ </s>
+v i ³ ³ t a ³ ³ </s>
+k i o ̯ ʔ ³ ¹ k i a ̯ p </s>
+h u ⁵ ⁵ </s>
+a ³ ³ ɲ i ʔ ³ ¹ t ʰ a ɪ ³ ¹ s a m ³ ³ </s>
+ɲ ɛ p ³ ³ s i u ³ ³ p a i ⁵ ² </s>
+t ʃ a m ⁵ ⁵ h a ɪ ⁵ ⁵ </s>
+t ʃ i ɛ ̯ ³ ³ t ʃ ʰ u ʔ ³ ³ </s>
+h a ³ ³ p i k ³ ¹ </s>
+j o ʔ ³ ³ l o u ̯ ³ ¹ </s>
+ɲ ɛ i ̯ ʔ ³ ³ t a p ³ ² </s>
+k ʰ u ɔ ̯ ʔ ³ ³ </s>
+h ɛ ʊ ³ ³ t ʃ o ŋ ³ ³ </s>
+w a ³ ³ . t s o u ³ ³ </s>
+t ʰ o i ³ ¹ </s>
+ɲ ə ³ ³ o ʔ ³ ³ </s>
+k a m ³ ³ v a ⁵ ² </s>
+k ʊ a m ⁵ ⁵ </s>
+o ³ ³ t ʰ o h ʔ ³ ² p a u ̯ ³ ¹ </s>
+l ɔ ⁵ ⁵ </s>
+s e i ⁵ ² </s>
+m ə ³ ³ l ɛ i ̯ ʔ ³ ² ʃ i ʔ ³ ² t s ʰ o u ̯ ³ ¹ </s>
+k a ʊ ʔ ³ ³ l a m ³ ³ </s>
+m ə ³ ³ t i u ̯ ⁵ ⁵ i u ̯ ʔ ⁵ ⁵ </s>
+ɲ a u ̯ ⁵ ² </s>
+a ³ ³ h i ɛ ̯ ³ ³ m i ŋ ³ ³ </s>
+l a ʊ ⁵ ² k i ʊ ʔ ³ ¹ </s>
+m o ŋ ⁵ ² k ʰ ɛ i ̯ ³ ³ m i ɛ ̯ ³ ³ k u a ̯ i ̯ ⁵ ² </s>
+t ʃ ʰ i ³ ³ t s o ³ ³ </s>
+l i a ̯ m ³ ¹ t ʰ i ŋ ³ ³ </s>
+o ³ ³ t s i ³ ³ p i k ⁵ ⁵ </s>
+t a ʊ ³ ³ l a ʊ ³ ³ p u o ̯ ⁵ ⁵ </s>
+a ³ ³ i ⁵ ⁵ </s>
+k ʰ u ɔ ̯ ³ ¹ </s>
+l ɛ m ³ ³ s ɔ ŋ ⁵ ⁵ t s ʰ ɔ ɪ ³ ¹ </s>
+m u o ̯ ³ ³ ʃ i ³ ³ t ʃ ʰ ə ³ ³ u m ³ ¹ </s>
+l a k ³ ³ p ɛ m ³ ¹ ɲ u ³ ³ </s>
+m a u ʔ ³ ¹ </s>
+t ʰ i ŋ ³ ¹ t e u ³ ¹ h e u ³ ¹ ɲ u ³ ¹ </s>
+l a m ⁵ ² p a ɪ ⁵ ² </s>
+ɲ a u ̯ ʔ ³ ³ t o ŋ ³ ³ </s>
+i ³ ³ k ʰ ɛ ʊ ³ ¹ t ʃ ɔ ŋ ³ ¹ k ʰ a ³ ³ </s>
+n u ³ ³ </s>
+k ʰ i ʊ ³ ¹ l ɔ ŋ ³ ¹ </s>
+h i ɛ ̯ ³ ³ m ɛ ɪ ³ ³ </s>
+l o ʊ ³ ³ ɲ a ɪ ³ ³ </s>
+l a ³ ³ </s>
+o u ̯ ʔ ³ ¹ m ə ³ ¹ t u m ³ ³ </s>
+a ³ ³ l i a ̯ m ³ ³ a ³ ³ </s>
+v o k ³ ¹ v o k ³ ¹ t a ³ ³ </s>
+k ʰ u ɪ ³ ¹ k i o ̯ ³ ¹ l i ŋ ³ ¹ </s>
+t ʃ ʰ a ³ ¹ p a ³ ¹ k a ⁵ ⁵ </s>
+o u ̯ ³ ³ p a ³ ³ t a u ̯ ³ ³ p u o ̯ ³ ³ </s>
+t ʰ i ³ ¹ t i e ³ ¹ </s>
+t ʃ ɔ ŋ ³ ³ k ʰ a ⁵ ⁵ </s>
+n o i ̯ ³ ³ k ʰ i ŋ ³ ¹ </s>
+p a u ³ ¹ s ü ³ ¹ p o u ³ ¹ </s>
+a ³ ³ i ɛ ̯ ⁵ ² k ɔ k ³ ² </s>
+a m ³ ³ t u ɔ ³ ³ t u ɔ ³ ¹ ɲ u ³ ¹ </s>
+k ʰ u m ³ ¹ </s>
+u o ⁵ ² </s>
+a ³ ³ t ʃ u ɔ ̯ ʔ ³ ³ a ³ ³ ɲ a p ³ ³ </s>
+l o ʊ ³ ³ t s u ɪ ⁵ ⁵ </s>
+ɲ i ⁵ ² m u a ̯ ³ ³ i ɛ ̯ ⁵ ² </s>
+k a ʊ ʔ ³ ³ </s>
+k ʰ ə ³ ³ k ʰ i ŋ ³ ¹ t s ɛ ɪ ⁵ ² </s>
+k a ʊ ʔ ³ ³ s i ʊ ʔ ³ ¹ </s>
+l a ŋ ³ ¹ i ɛ ̯ ³ ³ </s>
+t s ʰ u a ³ ¹ u p ³ ¹ p i k ³ ¹ </s>
+a ³ ³ t ʃ u ³ ³ t ʃ a ɪ ⁵ ² </s>
+i ɛ ̯ ⁵ ² p o ʊ ³ ¹ </s>
+t ʃ ʰ i ³ ³ k a m ³ ³ t ʰ a ŋ ³ ¹ </s>
+ɲ ɛ i ̯ ʔ ³ ³ t a p ʰ ³ ¹ t ʃ a m ³ ¹ </s>
+v e u ³ ³ l u i ³ ³ m o ŋ ⁵ ² ʃ ʰ o k ³ ¹ </s>
+a ŋ ³ ³ t s o ³ ³ k o ³ ³ </s>
+t ʃ i ³ ¹ </s>
+i ⁵ ² t ʃ u ɔ ̯ ³ ³ </s>
+ʃ a ʔ ³ ¹ </s>
+l ɛ m ³ ³ t ʃ ʰ i ŋ ³ ¹ </s>
+a ³ ³ t ʃ ʰ ɔ ŋ ³ ³ k a p ³ ³ n ɔ k ³ ³ ʃ i ŋ ⁵ ² h ɔ ɪ ³ ³ </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ t ʃ a ŋ ⁵ ² p i a ̯ k ³ ¹ i ʊ ʔ ³ ¹ </s>
+m o ŋ ⁵ ² i ʔ ³ ² </s>
+u o ⁵ ² t s i m ³ ³ h a i ³ ³ </s>
+l a ŋ ³ ³ s ʊ a p ³ ¹ </s>
+l a k ³ ³ s i ŋ ³ ³ </s>
+k ʰ a ʊ ³ ³ k ʰ ɛ ʊ ⁵ ⁵ t ɛ ʊ ³ ¹ m ɔ ŋ ³ ³ </s>
+k ʰ a ʊ ³ ³ p ə ³ ³ l o ʊ ʔ ³ ¹ </s>
+k ʰ i a ̯ m ³ ¹ k ʰ a ʊ ³ ¹ k a ³ ³ </s>
+h i a ̯ p ³ ³ </s>
+t ʰ u a ̯ m ³ ¹ k ü ³ ¹ k i u ʔ ³ ¹ </s>
+a ³ ³ s i ŋ ³ ³ a ³ ³ ɲ a ʊ ³ ³ k ʰ ɛ m ³ ¹ </s>
+a ³ ³ t ʃ ɛ ɪ ³ ³ a ɪ ³ ³ </s>
+t ə ³ ³ p u i ³ ³ p a u ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ k ʰ a ʊ ³ ¹ </s>
+k ʰ ɔ ŋ ³ ³ i ɛ ̯ ³ ³ t ʃ a ³ ³ </s>
+ɛ p ³ ³ . t ʃ u ³ ¹ </s>
+k ʰ u ³ ³ </s>
+k ʰ ɛ ʊ ³ ³ l i ³ ¹ </s>
+t s i a ̯ m ³ ³ </s>
+u ³ ³ k i ŋ ³ ³ </s>
+v ɛ u ³ ³ l i ŋ ³ ³ m o ŋ ³ ³ </s>
+a ʔ ³ ³ </s>
+t ʃ i ŋ ³ ¹ </s>
+ɲ ɛ i ̯ ʔ ³ ³ t s a i ̯ ³ ¹ k i ɛ ̯ ³ ³ </s>
+t ʰ i u ⁵ ⁵ </s>
+k o ʊ ʔ ³ ³ t ʰ ɛ ʊ ³ ³ </s>
+m i ɛ ̯ ³ ³ ʃ u a ̯ ³ ³ </s>
+t ʃ ʰ i ʊ ³ ¹ </s>
+l ʊ a ³ ³ t a m ³ ³ </s>
+t ʃ i ɛ ̯ ʔ ³ ¹ p i ŋ ³ ¹ </s>
+m o ŋ ³ ³ t s o u ̯ ⁵ ⁵ o ³ ¹ n o k ³ ² </s>
+k ʰ i a ̯ m ³ ¹ k ʰ ɛ ɪ ³ ³ k ʰ i ŋ ³ ¹ </s>
+t s u ³ ³ t s ʰ i ³ ¹ </s>
+a ³ ³ h u ɪ ⁵ ⁵ k a m ⁵ ⁵ t ʃ ə ⁵ ⁵ n o ⁵ ² </s>
+n ə ³ ³ t o ŋ ³ ³ h ɛ u ̯ ³ ¹ </s>
+k ʰ ɛ m ⁵ ⁵ l o ʊ ʔ ⁵ ⁵ </s>
+k ʰ ʊ a m ³ ³ k a ³ ³ </s>
+v i k ³ ³ v i k ³ ³ t a ³ ³ </s>
+t ʃ ʰ a m ³ ³ p ʊ a ³ ³ t a ʊ ³ ³ p u ɔ ̯ ³ ³ </s>
+t ʰ a ³ ³ m u i ³ ¹ </s>
+m o ŋ ⁵ ² t s ʰ i u ̯ ³ ¹ </s>
+k ɛ ʊ ³ ³ t ɔ ŋ ³ ³ t s ʰ ɔ ɪ ³ ¹ </s>
+a ³ ³ h a ʔ ³ ³ </s>
+t ʃ ʰ a i ³ ¹ </s>
+t ʰ a ⁵ ⁵ i e ⁵ ² </s>
+l u ɪ ⁵ ² s ɔ ³ ¹ </s>
+a ³ ³ i ɛ ̯ ³ ¹ </s>
+k a ŋ ³ ³ </s>
+a ³ ³ l ɛ ɪ ʔ ³ ² o ʊ ³ ¹ </s>
+t s i e ⁵ ⁵ </s>
+m o ŋ ⁵ ² a u ̯ ³ ¹ l ɛ u ̯ ³ ³ </s>
+t ʰ ə ³ ³ l o u ʔ ³ ¹ </s>
+u m ³ ¹ </s>
+t ʃ ʰ u ³ ³ l a k ³ ³ </s>
+t ʃ ʰ i ʊ ³ ³ t ʃ ʰ a ʔ ³ ³ </s>
+v a ʔ ³ ³ j a ⁵ ⁵ </s>
+n o u ̯ ³ ³ t ʰ i u ̯ ⁵ ⁵ t s ʰ o u ̯ ³ ¹ </s>
+h a ɪ ³ ³ t s ʰ i ʔ ³ ¹ </s>
+a ³ ³ p ʰ ɛ ʊ ⁵ ⁵ </s>
+l ʊ a n ³ ¹ j u ³ ³ </s>
+o u ̯ ʔ ³ ³ t a u ̯ ⁵ ⁵ </s>
+t ʃ a ŋ ³ ³ t ʰ u ɔ ̯ ⁵ ⁵ </s>
+t ʃ i ŋ ⁵ ² p ʰ u ³ ³ h ɛ ʊ ³ ³ m ɔ ŋ ³ ³ </s>
+l ə ³ ³ ɲ a k ³ ² </s>
+m u i ̯ ³ ³ p u a ̯ ³ ³ v ɛ u ̯ ³ ³ </s>
+k ɛ ɪ ³ ¹ </s>
+l a ɪ ³ ¹ k ɛ ɪ ³ ³ </s>
+t ʰ o ŋ ³ ¹ m i ³ ¹ l a k ³ ¹ k i ³ ³ t s ʰ o u ̯ ³ ³ </s>
+t ʰ i e ʔ ³ ³ </s>
+j â ŋ ³ ¹ . a m ³ ³ </s>
+i ⁵ ² p ɔ ŋ ³ ³ </s>
+l ə ³ ³ k i ŋ ³ ³ t ʃ a ʊ ³ ³ </s>
+o ⁵ ² t a u ̯ ³ ³ </s>
+o u ̯ ʔ ³ ³ k a ŋ ³ ³ t s i ɛ ̯ ³ ³ </s>
+t s ʰ ɪ ɛ ³ ¹ p ə ³ ³ l ɪ ə ³ ³ </s>
+t e m ³ ³ </s>
+t a ʊ ³ ¹ h o i ³ ³ i ʊ ʔ ³ ¹ p a i ̯ ⁵ ² </s>
+t ʃ ʰ ɔ ʔ ³ ³ i ɛ ̯ ⁵ ² </s>
+t u ʔ ³ ² </s>
+h u o ³ ¹ n e u ³ ¹ </s>
+u ³ ³ i e ³ ¹ ʃ ʰ a ³ ³ </s>
+l o ʊ ³ ³ t s u ɪ ⁵ ⁵ l o ʊ ³ ³ t s a ʊ ³ ³ </s>
+t ʃ a m ³ ³ s ə ³ ³ k o ʊ ʔ ³ ³ </s>
+l o ʊ ³ ³ ɲ i ɛ ̯ ʔ ³ ¹ </s>
+t ʰ a i ³ ³ p u a p ³ ¹ </s>
+k ʰ ə ⁵ ⁵ l ɔ ⁵ ⁵ p a ɪ ⁵ ² </s>
+t ʰ ə ŋ ³ ³ o ³ ³ </s>
+k ə ³ ³ </s>
+k o ʊ ³ ³ l a k ³ ¹ </s>
+m i ŋ ⁵ ⁵ m i ŋ ⁵ ⁵ ɲ u ³ ¹ </s>
+ɲ a u ̯ ʔ ³ ³ ʃ i ɛ ̯ ³ ³ </s>
+h u m ³ ¹ </s>
+ɛ m ³ ³ . s ʰ ɛ ɪ ³ ³ </s>
+k i ɛ ̯ ³ ¹ </s>
+t a ⁵ ² v e u ³ ¹ </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ j ɔ ʔ ⁵ ⁵ </s>
+k i ɛ ̯ ʃ i ʊ ³ ³ a ʔ t a ʊ ³ ³ p u ɔ ̯ </s>
+t s ʰ i a ̯ p ³ ³ </s>
+h ɔ ɪ ³ ¹ </s>
+l a ŋ ⁵ ² l ə ³ ¹ t s ʰ i ³ ¹ ɲ u ³ ¹ </s>
+l o ʊ ³ ³ t ʰ i ɛ ̯ ʔ ³ ³ </s>
+t ʃ a ɪ ⁵ ² </s>
+k ʰ ə ³ ¹ p i a ̯ m ³ ¹ </s>
+t ʰ u o ³ ¹ l o u ʔ ³ ¹ k o ³ ³ </s>
+k ʰ ɔ ³ ¹ k ʰ u ³ ¹ l ɔ ³ ³ </s>
+t ʰ a i ³ ³ t ʰ a ⁵ ⁵ </s>
+t ʃ i ɛ ̯ ³ ³ s i ŋ ³ ³ m ɔ ŋ ⁵ ² </s>
+h ʊ a ³ ³ t a ɪ ³ ³ </s>
+k a ³ ³ m a ŋ ³ ³ </s>
+a ³ ³ o ⁵ ² </s>
+l u ɔ ̯ ³ ¹ l u ɔ ̯ ³ ¹ k ɔ ³ ³ </s>
+ɲ ə ³ ³ p o i ̯ ʔ ³ ² </s>
+h u ⁵ ⁵ k a ʔ ³ ¹ k o ³ ¹ </s>
+m i o ̯ ʔ ³ ² </s>
+t s ʰ ə ³ ³ v a u ³ ³ </s>
+t ʃ ɔ ŋ ³ ³ t ʃ a m ⁵ ⁵ l a ŋ ⁵ ² </s>
+t ʰ a m ³ ³ t ʰ a u ³ ¹ </s>
+a ŋ ³ ³ t s o ³ ³ </s>
+t ʃ ʰ ə ³ ³ l a m ⁵ ⁵ t s ʰ i a ̯ m ³ ³ </s>
+a ³ ³ k u m ³ ³ i ɛ ̯ ³ ¹ </s>
+m a k ³ ³ t ʃ ʰ a i ̯ ³ ¹ i u ̯ ʔ ³ ² </s>
+k ʰ i a ̯ m ³ ³ l ɔ ³ ³ </s>
+k ʰ ə ³ ³ . n u ⁵ ² </s>
+k ʰ ɛ ʊ ⁵ ⁵ </s>
+s ə ³ ³ m ɪ ə ʔ ³ ³ </s>
+m o ŋ ⁵ ² k ʰ ɛ m ³ ¹ </s>
+h i ŋ ³ ¹ </s>
+h a p ³ ³ </s>
+n o u ̯ ³ ³ t a u ̯ ³ ³ </s>
+k ʰ ɛ m ³ ¹ v a ⁵ ² i ʔ ³ ¹ </s>
+a ³ ³ t ʃ ʰ a ʔ ³ ³ </s>
+t ʰ a ʔ ³ ³ </s>
+s a ʊ ʔ ³ ³ h i e ³ ³ </s>
+t ʃ ʰ a m ³ ³ </s>
+l ə ³ ³ t s ʰ i ³ ¹ </s>
+a ³ ³ t s ɪ ³ ³ k e i ³ ³ </s>
+a ³ ³ . t ʃ ʰ u ⁵ ⁵ </s>
+a ³ ³ s i a ̯ m ³ ³ s i ɛ ̯ ⁵ ⁵ </s>
+m o ŋ ³ ³ ʃ a i ̯ ³ ³ </s>
+t ʰ o ³ ¹ ʃ ʰ i ⁵ ⁵ </s>
+t ʰ a ³ ³ ʃ a i ʔ ³ ³ </s>
+a ³ ³ n o ʊ ³ ³ k ʰ a ³ ³ </s>
+k u ɪ ³ ³ k u ɪ ³ ³ k ɔ ³ ³ </s>
+l i ŋ ³ ³ ʃ ɔ ŋ ³ ³ </s>
+u o ³ ³ k i ³ ¹ t ʰ a ³ ³ </s>
+t s ʰ ə ³ ³ . p ɪ o ʔ ³ ¹ </s>
+t ʃ ə ³ ³ t ʃ u ɔ ̯ ⁵ ⁵ k i ŋ ⁵ ⁵ h ɛ ʊ ³ ¹ </s>
+m ə ³ ³ ʃ u ³ ¹ </s>
+k ʰ a ʔ ³ ¹ </s>
+l o ʊ ³ ³ t ʰ ɔ ⁵ ⁵ </s>
+l ə ³ ³ k ɛ ɪ ³ ³ i ɛ ̯ ⁵ ⁵ </s>
+t ʃ ʰ i ⁵ ⁵ t i o ̯ ⁵ ⁵ t i o ̯ ⁵ ² </s>
+m i ɛ ̯ ³ ³ t s ʰ o u ̯ ³ ³ </s>
+ɲ a m ⁵ ² ʃ i m ⁵ ² </s>
+l a ɪ ⁵ ² l a ɪ ⁵ ² </s>
+ɲ o u ̯ ʔ ³ ³ k ʰ o u ̯ ³ ¹ </s>
+k a ʊ ʔ ³ ³ l i a ̯ m ³ ¹ </s>
+m a ⁵ ² t a u ̯ ³ ¹ p u o ̯ ³ ³ </s>
+ʃ a m ³ ³ t i a m ³ ¹ </s>
+k i ⁵ ⁵ </s>
+a ɪ ³ ³ l ɔ ³ ³ </s>
+t a ŋ ³ ³ k ʰ a u ³ ³ ɲ u ³ ³ </s>
+t ɛ u ³ ³ k i u ʔ ⁵ ² </s>
+l o ʊ ³ ³ p i a ̯ m ⁵ ⁵ </s>
+t ʃ ʰ a m ³ ¹ t s ʰ o ʊ ³ ¹ </s>
+a ŋ ³ ³ ɛ ɪ ʔ ³ ³ u ɔ ³ ³ t s ʰ o ʊ ³ ³ </s>
+ɲ ə ³ ³ ʃ o ŋ ³ ¹ ɲ u ³ ³ </s>
+t ʃ ʰ a m ³ ³ t ʃ ə ³ ³ l a ʔ ³ ³ h ɛ ʊ ³ ³ </s>
+k o ʊ ³ ³ t s i ɛ ̯ ⁵ ² </s>
+a ³ ³ t ʃ ɛ ɪ ³ ¹ k ʰ i ŋ ³ ¹ t ɛ ʊ ³ ¹ </s>
+l i a ̯ m ³ ¹ ʃ a ³ ³ </s>
+c h ə ³ ³ u m ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ n i ɛ ̯ ʔ ³ ³ </s>
+o u ̯ ⁵ ² </s>
+a ³ ³ t ʃ ɛ ɪ ³ ¹ ɲ o ³ ³ </s>
+l i ɛ ̯ ⁵ ⁵ i ɛ ̯ ³ ³ </s>
+a ³ ³ i ʊ ⁵ ⁵ </s>
+t ʃ ʰ ə ³ ¹ i ʊ ʔ ³ ¹ </s>
+h a i ̯ ³ ³ . m ɛ i ̯ ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ ʃ i ³ ³ </s>
+l i a ̯ p ³ ³ t ɛ ʊ ³ ¹ </s>
+a ³ ³ ɲ i ³ ³ l o ʊ ʔ ³ ¹ l i a ̯ m ³ ¹ </s>
+ɲ i ³ ³ t s i ɛ ̯ ³ ³ t ʰ i u ̯ ⁵ ⁵ </s>
+n i u ̯ ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+ɲ u ³ ³ ŋ ɛ m ³ ³ </s>
+l a ʊ ⁵ ² a ʔ ³ ¹ </s>
+n o ŋ ³ ¹ </s>
+l a ŋ ³ ³ s a ŋ ³ ³ </s>
+i ʊ ³ ¹ </s>
+ɲ u ³ ³ l i a ̯ k ³ ³ </s>
+a ³ ³ p a ʔ ³ ³ i ɛ ̯ ⁵ ² </s>
+n ə ³ ³ l o ʔ ³ ³ p a i ̯ ⁵ ² p ʰ a ³ ³ </s>
+t ʃ ʰ a ŋ ³ ³ w a m ⁵ ² </s>
+ʃ ʰ a ⁵ ⁵ </s>
+t ʃ ɛ m ⁵ ² t ʃ ɛ ɪ ʔ ³ ¹ </s>
+t ʰ u o ³ ¹ l o u ʔ ³ ³ </s>
+k a m ³ ³ p a ʊ ³ ³ </s>
+ɲ a m ³ ³ l o ʔ ³ ³ </s>
+l a k ³ ³ t ʰ i ʔ ³ ³ </s>
+ɲ i ɛ ̯ ³ ³ </s>
+m i o ̯ ³ ³ v a ⁵ ² </s>
+k a m ³ ³ s a m ³ ³ </s>
+k a ɪ ³ ¹ s ə ³ ¹ k a ŋ ⁵ ² </s>
+t ʃ ʰ i ³ ³ k o ʊ ʔ ³ ³ </s>
+l ʊ a ³ ¹ p o ʊ ³ ³ </s>
+h ʊ a m ³ ¹ ɲ u ³ ¹ </s>
+a ³ ³ p a ³ ³ k i ɛ ̯ ⁵ ² </s>
+m ɛ m ³ ¹ </s>
+h ɔ k ³ ³ t s ʰ a ʊ ⁵ ⁵ </s>
+a ³ ³ ʃ i ⁵ ² a ³ ¹ n ɔ ³ ¹ </s>
+o ³ ³ ɲ a u ̯ ⁵ ² </s>
+k i o ̯ ʔ ³ ¹ </s>
+l o ʊ ʔ ³ ¹ </s>
+h ɛ ʊ ³ ³ p ʰ u ⁵ ⁵ h ɛ ʊ ³ ³ </s>
+s e i ⁵ ² l o u ʔ ³ ¹ </s>
+l a ³ ³ l o ʊ ʔ ³ ³ l o ʊ ʔ ³ ³ </s>
+l a ŋ ³ ³ p ɔ ɪ ³ ³ p ɔ ɪ ⁵ ⁵ ɲ u ³ ¹ </s>
+ŋ ɑ ³ ³ k ʰ ɑ ³ ¹ </s>
+n o u ̯ ³ ³ k u a ̯ p ³ ³ </s>
+k ʰ ɛ ɪ ³ ¹ k ə ³ ¹ t s a k ³ ¹ </s>
+a ³ ³ p i o ̯ ³ ¹ m a ɪ ³ ³ </s>
+ʃ a ³ ³ m ə ³ ³ t o ŋ ⁵ ² </s>
+ɲ u ³ ³ k a m ³ ³ t ʃ a m ⁵ ² </s>
+a ³ ³ l i ³ ³ i ɛ ̯ ³ ¹ </s>
+k ʰ ɛ m ⁵ ⁵ ʃ a ⁵ ⁵ </s>
+m i ɛ ̯ ³ ³ ɲ u ³ ¹ </s>
+ʃ ʰ i ŋ ⁵ ² k ʰ a ³ ¹ ɲ u ³ ¹ </s>
+m u i ̯ ³ ³ t ʰ u o ̯ ³ ¹ ɲ u ³ ¹ </s>
+l o ʊ ³ ³ ʃ ɔ ŋ ³ ³ </s>
+t s ʰ ɪ ɛ ³ ¹ k ə ³ ¹ m ə ³ ³ ŋ ɒ u ː ³ ³ </s>
+o u ̯ ʔ ³ ³ k a p ³ ³ </s>
+t ʰ u a ³ ³ </s>
+a ³ ³ ɲ i ³ ³ l o ʊ ʔ ³ ¹ i ɛ ̯ ⁵ ² </s>
+a ³ ³ h a ʊ ³ ¹ p ɔ ŋ ³ ¹ </s>
+t ʃ a k ³ ¹ ʃ a ʔ ³ ¹ </s>
+k ʰ o ³ ¹ </s>
+n o i ̯ ³ ³ n o i ̯ ʔ ³ ² </s>
+a ³ ³ l i ⁵ ⁵ v a ⁵ ⁵ </s>
+l u ɔ ̯ ³ ³ </s>
+k ɔ ³ ³ ɲ u ³ ¹ t s ʰ u ɪ ³ ¹ t ʃ ʰ i ³ ³ </s>
+a ³ ³ s i a ̯ m ³ ³ t ʰ a ɪ ³ ³ s a m ³ ³ </s>
+m o ŋ ⁵ ² p ɛ m ³ ¹ </s>
+k ɛ ʊ ³ ³ </s>
+l i ŋ ⁵ ² p ɔ ɪ ʔ ³ ¹ </s>
+ʃ ʰ i ŋ ⁵ ² ŋ a ⁵ ² </s>
+t ʃ ʰ e i ̯ ʔ ³ ³ </s>
+ɲ a m ³ ¹ ɲ u ³ ³ </s>
+ɲ i ʔ ³ ¹ t s o ʔ ³ ¹ </s>
+m ə ³ ³ k i k ³ ¹ l i u ̯ ⁵ ² </s>
+l o ʊ ³ ³ t s ɛ ɪ ³ ³ </s>
+t ʃ a ŋ ³ ³ p i a ̯ k ³ ¹ i ʊ ʔ ³ ¹ </s>
+a ³ ³ i ʔ ³ ³ t s i a ̯ p ³ ³ k i o ̯ ʔ ³ ² </s>
+a ³ ³ t ʃ ʰ i ʔ ³ ³ t ɛ ʊ ³ ¹ </s>
+t ʃ a ŋ ⁵ ² v a ⁵ ² </s>
+t ʃ ɔ k ³ ³ l a ɪ ³ ³ l a ɪ ³ ³ </s>
+h u ɑ ⁵ ⁵ </s>
+i ⁵ ² n a ³ ¹ </s>
+h ʊ a m ³ ¹ </s>
+l ə ³ ³ t ʃ ʰ a ŋ ³ ¹ l i ʊ ³ ¹ </s>
+k ʰ i a ̯ m ³ ³ l ɔ ŋ ³ ¹ </s>
+n o k ³ ³ t ʰ a ³ ¹ k a m ³ ³ </s>
+h o ⁵ ⁵ t ʰ a m ⁵ ⁵ </s>
+n o u ̯ ³ ¹ s ə ³ ¹ n i u ̯ ⁵ ² ² </s>
+u ³ ³ k u a p ³ ³ </s>
+t ʃ ʰ ə ³ ³ l a m ⁵ ⁵ p i k ⁵ ⁵ v ɛ ʊ ⁵ ² t s ʰ o ʊ ³ ¹ </s>
+l o ʊ ³ ³ l a m ³ ³ </s>
+h ɛ ʊ ⁵ ⁵ </s>
+s i m ³ ³ </s>
+t s ə ³ ³ t s i ʔ ³ ³ </s>
+m o ŋ ³ ³ t s ʰ u ̯ a ⁵ ⁵ </s>
+t s i ⁵ ⁵ </s>
+l o ʊ ³ ³ h ɔ ³ ³ l o ʊ ³ ³ h ɔ ³ ³ k ɔ ³ ³ </s>
+k i ɛ ̯ ³ ³ p a ɪ ³ ³ </s>
+h ɔ k ³ ³ p ʰ u p ³ ³ t ʰ a ³ ¹ </s>
+ɲ u ³ ³ l u ³ ³ </s>
+k ʰ ɛ m ³ ¹ ʃ a ³ ³ </s>
+k ʰ ɛ ʊ ³ ³ i ʊ ⁵ ² h a ɪ ³ ³ </s>
+u i ³ ³ t ʃ ʰ i u ³ ¹ t s ʰ ɔ ̯ u ³ ¹ </s>
+t a ʊ ³ ³ t h i ʔ ³ ³ l a k ³ ³ t h i ʔ ³ ³ </s>
+k a ŋ ³ ³ v a ⁵ ² </s>
+a ³ ³ t ʃ ʰ i m ³ ¹ h a ɪ ³ ³ </s>
+t ʃ a m ³ ³ k i ³ ³ h a ɪ ⁵ ⁵ </s>
+t ʃ i ŋ ³ ³ t ʃ i ŋ ³ ³ ɲ u ³ ³ </s>
+t ʰ ə ³ ³ ʃ ʰ i u ³ ³ </s>
+i ɛ ̯ ³ ³ t a m ³ ³ l a ŋ ⁵ ² </s>
+t ʰ o ŋ ³ ³ l o ŋ ³ ¹ t ʰ u a ̯ ³ ¹ </s>
+m ə ³ ³ k ʰ o ³ ³ k ʰ o ³ ¹ a u ̯ ³ ³ t ʃ a ³ ³ </s>
+l i a ̯ m ⁵ ² a ʊ ʔ ³ ¹ </s>
+i ʊ ʔ ³ ³ t ʃ ʰ ɔ ³ ³ </s>
+a ³ ³ l i a ̯ ŋ ³ ³ t ʃ ɛ ɪ ʔ ³ ³ </s>
+l ɔ ŋ ³ ³ u ³ ³ </s>
+a ³ ³ ʃ a ŋ ³ ³ m a ɪ ³ ¹ </s>
+l ʊ a ⁵ ² t ʃ ʰ ɛ ʊ ³ ¹ t ʃ ʰ ɛ ʊ ³ ¹ </s>
+k ɔ ⁵ ⁵ </s>
+t ʃ ə ³ ³ t s ʊ a ³ ³ p a ɪ ⁵ ² </s>
+j ɔ ³ ¹ ɲ e i ʔ ³ ¹ </s>
+m a u ̯ ³ ³ h a ʔ ³ ³ h a ʔ ³ ³ ɲ u ³ ¹ </s>
+k i ŋ ³ ³ h ɔ k ³ ¹ </s>
+n o u ̯ ³ ³ k i k ³ ³ </s>
+k ɔ ŋ ³ ³ s ə ³ ³ m ɔ ŋ ³ ¹ </s>
+k ʊ a p ³ ³ p i o ̯ ʔ ³ ¹ </s>
+k ʰ i a ̯ m ³ ¹ p a ʊ ³ ¹ t ʰ ɛ ʊ ³ ¹ </s>
+t ʰ ə ³ ³ p i k ³ ¹ k o ³ ¹ </s>
+v ɛ u ³ ³ k ɔ ɪ ³ ³ t a u ³ ³ p u o ̯ ³ ³ </s>
+ɲ ə ³ ³ p u i ̯ ⁵ ² </s>
+t ɛ m ³ ³ s i u ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ j ɔ ʔ ³ ¹ </s>
+a ³ ³ l i ³ ¹ i ɛ ̯ ³ ³ l o ʊ ʔ ⁵ ⁵ ʃ i ³ ³ </s>
+l a ⁵ ² </s>
+o ⁵ ² ʃ ɛ i ̯ ³ ³ n o u ̯ ³ ³ k u a ̯ p ³ ³ </s>
+l o ʊ ³ ³ t s o ʊ ³ ³ </s>
+k ʊ a m ⁵ ⁵ t ʰ a ʔ ³ ³ p a ʊ ³ ³ ʃ ɔ ŋ ³ ³ </s>
+o ³ ³ ɲ o ³ ¹ m o ŋ ⁵ ² </s>
+k ʰ ʊ a m ³ ³ v a ʊ ³ ³ </s>
+k ʰ ɛ ɪ ³ ¹ k ə ³ ¹ p ə ³ ³ l i ɛ ̯ ³ ³ </s>
+t ʃ a m ³ ³ s a ʔ ³ ³ </s>
+t ʃ ʰ ɔ ŋ ³ ³ l a m ⁵ ⁵ p ɛ m ³ ¹ </s>
+h u ɔ ̯ ⁵ ⁵ n u ³ ³ h u ɔ ̯ ⁵ ⁵ </s>
+t ʃ ʰ a ɪ ³ ³ l o ⁵ ⁵ </s>
+t s ʰ ə ³ ³ t e u ³ ¹ j a m ³ ¹ </s>
+l o ʊ ³ ³ m ɔ ŋ ³ ³ m a ʔ ³ ¹ </s>
+l i ʊ ⁵ ² k ɔ ³ ¹ </s>
+i e ³ ³ ɲ a m ³ ³ m ɔ ŋ ⁵ ² </s>
+u o ³ ³ t s ʰ o u ³ ³ </s>
+u ³ ³ p i o ³ ³ i u ʔ ³ ³ </s>
+k ʰ a ʊ ³ ³ n i ɛ ̯ ³ ³ </s>
+l i a ̯ m ⁵ ² l i a ̯ m ⁵ ² h a ɪ ³ ³ </s>
+n o ŋ ³ ¹ t ɛ i ̯ ³ ¹ p ʰ i ɛ ̯ ³ ¹ </s>
+n ɛ u ̯ ³ ¹ ɲ i ʔ ³ ² </s>
+l o ʊ ³ ³ t s a m ³ ³ </s>
+m o ŋ ⁵ ² ʃ o ŋ ³ ¹ </s>
+y a i ʔ ³ ³ . y a i ʔ ³ ³ </s>
+n i u ̯ ⁵ ² t ʃ ʰ o ŋ ³ ¹ </s>
+h ɛ ɪ ⁵ ⁵ l ɛ ⁵ ² </s>
+t s i e ³ ³ </s>
+l ɔ ŋ ³ ³ t i ŋ ³ ³ </s>
+t ə ³ ³ ɲ i ⁵ ⁵ t s ʰ o u ³ ³ k h o ⁵ ⁵ t a u ³ ³ p u o ³ ³ </s>
+a ³ ³ ɛ ⁵ ⁵ m i ɛ ̯ ³ ³ </s>
+t ʃ ʰ a ³ ¹ </s>
+a ³ ³ k ʰ o ŋ ³ ³ k o ʊ ³ ³ k i a ̯ ŋ ³ ³ </s>
+m o ŋ ⁵ ² p ɛ m ³ ¹ k i o ̯ ʔ ³ ² </s>
+l ɔ ŋ ³ ³ t s ɛ ʊ ʔ ³ ³ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+t s u a ⁵ ² k ʰ ə ³ ¹ i ɛ ̯ ⁵ ² </s>
+t ʃ ʰ ɔ ³ ³ </s>
+ɲ a m ³ ¹ </s>
+a ³ ³ l i ʔ ³ ³ </s>
+ʃ ɑ u ⁵ ² - ɒ ʔ ³ ¹ . ɲ ɪ ⁵ ² v ɑ ⁵ ² . k ə ³ ¹ . t ʃ ə ³ ³ n ɒ ɪ ³ ¹ </s>
+m o ŋ ⁵ ² l o u ̯ ³ ¹ t ʰ i ɛ ̯ ʔ ³ ² </s>
+l ʊ a p ⁵ ² s a ŋ ³ ¹ </s>
+t ʃ ə ³ ³ m o ʊ ³ ¹ t s ʰ o ʊ ³ ¹ </s>
+ʃ a ⁵ ⁵ </s>
+u ³ ³ t s ʰ a ³ ¹ p a i ⁵ ² </s>
+w ɑ m ³ ³ w ɑ m ³ ³ ɲ u ³ ³ </s>
+t ʃ ʰ i ʊ ³ ¹ t ʰ i ɛ ̯ ʔ ³ ¹ </s>
+t ʰ i ŋ ³ ³ p a ⁵ ⁵ t ʃ a ŋ ⁵ ² </s>
+k o ʊ ʔ ³ ³ a ŋ ⁵ ² ʃ i ʔ ³ ¹ ŋ a ⁵ ² </s>
+i ɛ ̯ ³ ³ l ɔ ³ ³ l ɔ ŋ ³ ³ </s>
+t ʃ ʰ i m ³ ³ </s>
+l a m ⁵ ² ɲ ɔ ʔ ³ ¹ </s>
+v i e ³ ³ k u i ³ ³ t i e ³ ³ </s>
+a ³ ³ p ə ³ ³ l a ɪ ʔ ³ ¹ </s>
+m ə ³ ³ l i ³ ¹ t s ʰ o ³ ¹ </s>
+l ɔ ŋ ³ ³ k a p ³ ¹ </s>
+ɲ a m ³ ³ h o ŋ ⁵ ⁵ </s>
+ɲ a ⁵ ² </s>
+a ³ ³ l i a ̯ ŋ ³ ³ t ʃ ə ³ ³ n ɔ ɪ ³ ¹ </s>
+t ʃ a ŋ ³ ³ ɔ ŋ ⁵ ² p o i ³ ¹ p o i ³ ³ </s>
+m ə ³ ³ k ʰ o ³ ³ </s>
+n o u ̯ ³ ³ p o ŋ ³ ³ ɲ u ³ ³ ʃ a ʊ ʔ ³ ³ </s>
+v e u ³ ³ ŋ a u ³ ³ ɲ u ³ ¹ </s>
+l o ʊ ³ ³ k a m ⁵ ⁵ </s>
+o u ̯ ʔ ³ ³ t ʃ ʰ i ɛ ̯ ³ ³ </s>
+n o u ³ ¹ </s>
+t ʃ ʰ i ³ ³ t ʰ a ŋ ³ ³ </s>
+l o ʊ ³ ³ h i ɛ ̯ ³ ³ </s>
+l u ɪ ³ ³ k ʰ u ɔ ̯ ³ ¹ </s>
+n ə ³ ³ t ʰ ɛ u ̯ ³ ¹ t s ʰ o u ̯ ³ ¹ </s>
+a ³ ³ k ʊ a p ³ ³ t s ɛ ɪ ʔ ³ ³ </s>
+m o ŋ ⁵ ² l i a ̯ ŋ ³ ¹ </s>
+a ³ ³ s i ŋ ³ ³ </s>
+k ʰ a ʊ ³ ³ l a ʊ ⁵ ² </s>
+l i ʊ ³ ³ k i m ³ ³ </s>
+t s i ʔ ³ ³ </s>
+t s i k ³ ³ </s>
+m i ʔ ³ ³ t s a m ³ ¹ p a u ̯ ³ ³ </s>
+m o i ̯ ʔ ³ ² t i ɛ ̯ ³ ¹ </s>
+m o ŋ ⁵ ² k i u ̯ ʔ ³ ² </s>
+ɲ u ³ ³ ŋ a u ̯ ʔ ³ ² </s>
+l ɛ ɪ ⁵ ² t s i a ̯ m ³ ¹ </s>
+v a ʔ ³ ³ s h i e ⁵ ² </s>
+ɲ i m ⁵ ² </s>
+k ɛ ɪ ³ ³ h ɔ ɪ ⁵ ⁵ </s>
+n o i ̯ ³ ³ k u m ³ ³ </s>
+ɲ u ³ ³ ʃ a m ³ ³ ʃ o ³ ³ </s>
+ɲ u ³ ³ p ɛ m ³ ³ </s>
+a ³ ³ k ɔ ɪ ⁵ ² </s>
+p ʰ ɔ ʔ ³ ³ k ʰ ɔ ³ ¹ t s ʰ o u ³ ¹ t ʰ a ³ ³ </s>
+a ³ ³ l a m ³ ³ n ə ³ ¹ h ɔ ŋ ³ ³ </s>
+t s i ɛ ʔ ³ ³ ʃ i m ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ k ʰ ɔ ³ ³ </s>
+h i ɛ ̯ ³ ¹ n o ʊ ³ ¹ </s>
+t ʃ ʰ a ŋ ³ ³ w a m ³ ³ t s a p ³ ¹ </s>
+t ʰ i h ³ ³ </s>
+ɲ u ³ ³ m o ŋ ³ ³ s i ŋ ³ ³ </s>
+t ə ³ ³ v i a k ³ ³ v i a k ³ ¹ </s>
+a ³ ³ ʃ ə ³ ¹ p i k ³ ¹ </s>
+t ʰ o ⁵ ⁵ l u ³ ³ </s>
+o ⁵ ² ɲ u ³ ¹ s ə ³ ¹ p a i ̯ ³ ¹ </s>
+a ³ ³ . a p ³ ³ . i ⁵ ⁵ </s>
+l a ʊ ³ ¹ v ɛ ʊ ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ t a p ³ ³ </s>
+l u ⁵ ² l o ʊ ʔ ³ ¹ </s>
+t ʃ ɔ ŋ ³ ³ p ɔ ŋ ⁵ ² </s>
+ɲ u ³ ³ t ʰ a m ⁵ ⁵ </s>
+v e ʊ ³ ³ l a ʊ ʔ ³ ¹ </s>
+l i m ³ ³ </s>
+h o ʊ ³ ¹ a m ³ ¹ </s>
+t s ʰ ɪ ɛ ³ ¹ k ə ³ ³ t s a k ³ ¹ </s>
+p ɒ u ³ ³ </s>
+a ³ ³ o ʊ ³ ¹ </s>
+h ʊ a ³ ³ t i p ³ ³ t i p ³ ¹ </s>
+m a u ̯ ³ ³ h i ɛ ̯ ³ ¹ v ɛ u ̯ ³ ¹ </s>
+k o ʊ ³ ³ k ʰ ɛ ɪ ⁵ ⁵ t ʃ ʰ u ³ ³ u m ³ ¹ </s>
+m a ⁵ ² n o i ̯ ³ ¹ k ʰ a m ³ ¹ </s>
+t ʃ o k ³ ³ t s ʰ i ɛ ̯ ³ ³ </s>
+a ³ ³ i h ʔ ³ ³ t ʃ ʰ a m ³ ³ </s>
+ɲ u ³ ³ k ʰ ɛ m ³ ³ h i ɛ ̯ ³ ³ t ʃ ə ⁵ ⁵ h a i ̯ ⁵ ⁵ </s>
+a ³ ³ . ʃ e ʊ ʔ ³ ³ </s>
+h i a ̯ m ³ ¹ t s i k ⁵ ⁵ t s i k ⁵ ⁵ t s ʰ o ʊ ³ ¹ </s>
+k ʰ a ʊ ³ ³ ʃ i ʊ ⁵ ⁵ </s>
+k ʰ a k ³ ¹ </s>
+m ə ³ ³ k ʰ a k ³ ³ k ʰ a k ³ ³ </s>
+n ə ³ ³ t ʃ a ŋ ³ ¹ o ³ ³ </s>
+l ɛ ɪ ⁵ ² ʃ ɔ ʔ ³ ² ɲ u ³ ³ </s>
+m ə ³ ³ t i u ̯ ⁵ ⁵ ɲ u ³ ¹ i u ̯ ʔ ³ ² </s>
+t ʰ o ⁵ ⁵ </s>
+ɲ a ³ ¹ </s>
+a ³ ³ h ɔ ɪ ³ ³ t a </s>
+i ⁵ ² h a ʔ ³ ¹ k ʰ u ³ ¹ </s>
+ʃ a i ʔ ³ ³ </s>
+k ɛ ʊ ³ ³ s ə ³ ³ t ɔ ŋ ³ ¹ </s>
+h i ə ³ ¹ . s ʰ a ³ ³ </s>
+m o ŋ ³ ¹ </s>
+t s a ŋ ³ ³ k u i ³ ³ </s>
+n o k ³ ¹ l a k ³ ¹ </s>
+t ʃ ə ³ ³ s ə ³ ³ </s>
+t ʃ i ³ ³ i m ³ ³ k i o ̯ ʔ ³ ³ </s>
+a ³ ³ t ʃ ɛ ʊ ³ ³ l a k ³ ³ </s>
+n ə ³ ³ k o k ³ ² </s>
+m ə ³ ¹ n o u ̯ ³ ¹ </s>
+ɲ u ³ ³ t ʃ ʰ a ɪ ³ ¹ </s>
+ʃ a ⁵ ² </s>
+a ³ ³ n ɔ ɪ ³ ¹ v a ³ ³ l o ʊ ʔ ³ ¹ t a ʊ ³ ¹ </s>
+t ʰ a i ̯ ³ ¹ </s>
+l ɛ ɪ ʔ ³ ³ s a ŋ ³ ³ i ʊ ⁵ ⁵ </s>
+k ʰ ə ³ ¹ l a k ³ ¹ </s>
+k a p ³ ³ ʃ a ⁵ ⁵ k ɔ ³ ³ </s>
+s ɑ ŋ ³ ³ k ʰ o ŋ ³ ³ t ʰ o ŋ ³ ¹ </s>
+t ʃ i ³ ¹ ɲ u ³ ¹ t a ŋ ³ ¹ t a ŋ ³ ³ t s ʰ o ʊ ³ ¹ </s>
+a ³ ³ ɲ a ŋ ⁵ ⁵ i ɛ ̯ ⁵ ² </s>
+o ³ ³ t ʰ i ɛ ̯ ʔ ³ ² </s>
+t ʃ a ³ ³ t i ɛ ̯ ⁵ ⁵ </s>
+t ʰ i ʔ ³ ³ ʃ ʰ i u ³ ³ </s>
+o u ̯ ʔ ³ ³ t i u ̯ ³ ³ l o ŋ ⁵ ² </s>
+h ʊ a ɪ ⁵ ² </s>
+n ə ³ ³ t s a ʔ ³ ³ t ʰ i u ̯ ⁵ ⁵ </s>
+l ɔ ³ ¹ i ɛ ̯ ³ ³ </s>
+n o u ̯ ³ ³ t s o ³ ³ </s>
+a ³ ³ l ɛ ʊ n ³ ³ t s ə ʔ ³ ³ </s>
+m ɛ m ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+l i a ŋ ³ ³ i ɛ ̯ ⁵ ⁵ l ə ³ ³ a ³ ¹ v a ³ ¹ </s>
+t ʰ a i ³ ¹ ɲ u ³ ¹ </s>
+l ɛ u ̯ ³ ¹ </s>
+k o ʊ ʔ ³ ³ t s i k ³ ¹ ɲ u ³ ¹ </s>
+n ə ³ ³ l o ʔ ³ ³ </s>
+l a ŋ ⁵ ² n o ʊ ³ ³ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+a ³ ³ l o ʊ ³ ³ k i o ̯ ʔ ³ ¹ </s>
+ɲ a m ³ ³ t s ɛ i ̯ ʔ ³ ² </s>
+t ʃ ʰ i ʊ ³ ¹ t ʰ i ɛ ̯ ʔ ³ ¹ t s ʰ o ʊ ³ ¹ </s>
+a ³ ³ l o ʊ ³ ³ t a ŋ ³ ³ t a ⁵ ² </s>
+l u m ³ ¹ l o ʊ ʔ ³ ¹ </s>
+l i ʔ ³ ¹ </s>
+a ³ ³ m ə ³ ³ l ə ³ ³ k ʰ o ʊ ʔ ³ ³ </s>
+k ə ³ ³ h ɔ ɪ ³ ³ p a ɪ ³ ³ </s>
+a ³ ³ s a ŋ ³ ³ ɲ ɔ ⁵ ² </s>
+n o k ³ ³ s a ³ ¹ </s>
+t ʃ a m ³ ³ t ʰ ɔ ɪ ³ ³ </s>
+t a p ³ ¹ t ʰ ʔ ³ ¹ </s>
+h ɔ ŋ ³ ³ </s>
+a ³ ³ ʃ i ʊ ʔ ³ ³ </s>
+u i ³ ¹ t ʰ a m ³ ³ </s>
+k ʰ ʊ a p ³ ³ </s>
+n ə ³ ³ p ʰ a ʔ ³ ³ </s>
+t s u i ³ ³ k u a p ³ ³ </s>
+u ʔ ³ ² </s>
+n o u ̯ ³ ³ k ʰ a ³ ³ </s>
+ʃ a ³ ³ </s>
+t ʰ e m ³ ³ ʃ ʰ a u ³ ³ </s>
+a ³ ³ ɲ i k ³ ³ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+k ʰ a m ⁵ ⁵ . s ʰ a ⁵ ⁵ </s>
+h u ɪ ³ ¹ t s ʰ o ʊ ³ ¹ </s>
+k ɛ ɪ ³ ³ t a ŋ ³ ³ </s>
+t ʃ ə ³ ³ a ŋ ⁵ ² ʃ i ³ ³ </s>
+t ʃ ɑ ³ ³ </s>
+v i u ³ ³ </s>
+k ʰ ə ³ ³ n a m ⁵ ² </s>
+k i p ³ ¹ l o ʊ ʔ ³ ¹ </s>
+p ʰ ə ³ ³ l ɔ ɪ ⁵ ⁵ </s>
+t ʃ a m ³ ³ l ɛ ʊ ³ ¹ ɲ u ³ ³ </s>
+k ʰ a ʊ ³ ¹ ɲ u ³ ¹ h o ʊ ³ ³ </s>
+p ʰ e m ³ ³ </s>
+t a ŋ ³ ¹ ɲ u ³ ¹ </s>
+t s u i ⁵ ⁵ t ʃ ʰ a m ³ ¹ </s>
+a ³ ³ s i ŋ ³ ³ t s ʰ ə ³ ³ p u ʔ ³ ¹ t a ʊ ³ ¹ p u ɔ ̯ ³ ³ </s>
+u ³ ³ t s ʰ a ³ ¹ v a ⁵ ² </s>
+ɲ u ³ ³ k a p ³ ³ </s>
+m ɛ i ̯ ³ ³ m ɛ i ̯ ⁵ ² </s>
+n o u ̯ ³ ³ k u ³ ³ m ə ³ ³ l a ŋ ³ ³ ɲ u ³ ³ </s>
+n ə ³ ³ o i ʔ ³ ² ɲ u ³ ¹ </s>
+t ʃ ɛ ɪ ʔ ³ ¹ </s>
+k ʰ i a ̯ m ³ ³ l i ɛ ̯ ³ ³ s a ŋ ³ ³ </s>
+k o ʊ ʔ ³ ³ ʃ a ʔ ɲ u ³ ¹ k ʰ a ³ ³ </s>
+l ɔ ŋ ³ ³ t s ɛ ʊ ʔ ³ ³ </s>
+a ³ ³ . a u ³ ¹ . t i ŋ ³ ³ </s>
+i ʔ ³ ¹ </s>
+o ⁵ ² n o u ̯ ³ ³ </s>
+i ɛ ̯ ³ ³ k ʰ a ʊ ʔ ³ ³ </s>
+l ɔ ŋ ³ ¹ l a k ³ ¹ </s>
+k ʰ i a ̯ m ³ ³ t s i ʊ ³ ³ k i o ̯ ʔ ³ ³ </s>
+t ʃ ɔ ŋ ³ ³ o ³ ³ p a ɪ ⁵ ² </s>
+t ə ³ ³ m o k ³ ³ m o k ³ ¹ </s>
+t a ŋ ³ ³ l a m ³ ³ l a m ³ ³ </s>
+m u i ̯ ³ ¹ </s>
+o u ̯ ʔ ³ ³ t ɔ ŋ ⁵ ² </s>
+s e i ³ ¹ a i ʔ ³ ¹ </s>
+ɲ u ³ ³ ŋ a u ̯ ʔ ³ ² t s ʰ i ³ ¹ </s>
+k ʰ ə ³ ¹ m ɔ ŋ ³ ³ </s>
+l i a ̯ m ⁵ ² p ʰ a ŋ ³ ³ </s>
+m ə ³ ³ s i ⁵ ⁵ </s>
+o ⁵ ² p a u ̯ ³ ³ </s>
+l i ŋ ³ ³ l i ³ ³ </s>
+t ʰ o i ̯ ³ ¹ l u o ̯ ʔ ³ ² </s>
+t s ʰ u o ³ ¹ </s>
+k u ɔ ̯ ⁵ ² </s>
+v a i ³ ¹ </s>
+k ʰ ə ³ ¹ l a m ³ ³ l i a ̯ m ⁵ ² h i ɛ ̯ ³ ¹ </s>
+a ³ ³ l ə ³ ³ t ɛ ɪ ⁵ ² </s>
+k a ³ ³ k ʰ i ŋ ⁵ ⁵ </s>
+c h ə ³ ³ l a m ⁵ ⁵ t s u m ³ ³ s ɛ ʊ ⁵ ⁵ </s>
+ɲ o u ̯ ʔ ³ ³ p ʰ i k ³ ³ k ʰ ɛ u ̯ ³ ¹ ɲ o ʔ ³ ² </s>
+l ɑ ɪ ³ ³ </s>
+t ʃ ə ³ ³ l i o ̯ </s>
+t a ³ ¹ l o u ʔ ³ ¹ </s>
+a ³ ³ s i ɛ ̯ ³ ³ v a ³ ³ </s>
+m i o ̯ ³ ³ t ʰ i ɛ ̯ ʔ ³ ³ </s>
+l ə ³ ³ m a ʊ ⁵ ² </s>
+s e m ⁵ ² </s>
+p ʰ i ɛ ̯ ³ ³ </s>
+k o ʊ ʔ ³ ³ k ʰ ɛ ɪ ⁵ ⁵ t ʃ a m ³ ³ </s>
+l o ʊ ³ ³ t o ʊ ³ ³ </s>
+m i u ̯ ʔ ³ ² </s>
+k u ʔ ³ ³ t ʰ i ɛ ̯ ʔ ³ ³ </s>
+l i ɛ ̯ ³ ³ t ʰ a ʔ ³ ³ </s>
+t ʃ i ³ ³ ʃ a p ³ ¹ </s>
+t ʰ u a ³ ³ t ʰ a m ⁵ ⁵ </s>
+k ɔ ŋ ³ ³ </s>
+a ³ ³ m u ɪ ³ ³ t ʃ ʰ a m ³ ¹ </s>
+v e i ³ ² </s>
+ɲ i ⁵ ² l o ³ ¹ </s>
+a ʊ ⁵ ² w a ³ ³ </s>
+w a ³ ¹ </s>
+k ʰ ɛ m ³ ³ </s>
+i ŋ ³ ³ </s>
+t ʰ a ɪ ̯ ³ ³ </s>
+l a ŋ ³ ³ </s>
+t ʃ i ⁵ ⁵ </s>
+k a ʔ ³ ¹ </s>
+s ɛ u ̯ ʔ ³ ³ s ə ³ ³ u m ³ ³ </s>
+s a ʊ ⁵ ⁵ </s>
+t ʃ ɛ ʊ ³ ³ </s>
+k ʰ i a ̯ m ³ ¹ k ʰ ɛ ʊ ³ ¹ m ɔ ŋ ³ ³ </s>
+m o u ̯ ʔ ³ ² </s>
+l a ɪ ³ ³ t ʰ i ŋ ³ ¹ </s>
+m o u ̯ ³ ¹ t s a m ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+t ʰ a ŋ ³ ¹ m a ŋ ³ ¹ </s>
+m u o ̯ ³ ³ p a ³ ³ </s>
+t s i ɛ ʔ ³ ³ l i ³ ¹ </s>
+m o i ̯ ³ ³ l i ŋ ³ ³ </s>
+m i ŋ ³ ³ u ³ ³ p a i ̯ ⁵ ² </s>
+ɲ ɛ i ̯ ʔ ³ ¹ t s u m ³ ¹ </s>
+n i ŋ ³ ¹ </s>
+k ʰ ɔ ʔ ³ ³ t s o ʊ ʔ ³ ³ </s>
+t ə ³ ³ ɲ i ⁵ ⁵ </s>
+l i ³ ¹ k ɔ ³ ³ </s>
+i ɛ ̯ ³ ³ t ʰ i ŋ ⁵ ⁵ </s>
+j a ŋ ³ ³ ɔ ³ ³ </s>
+n a i ̯ ⁵ ⁵ o ʔ ⁵ ⁵ t o ³ ³ </s>
+i ɛ ̯ ³ ³ k ʰ a ʊ ʔ ³ ³ t ʰ i ŋ ³ ¹ t s i u ̯ ʔ ³ ¹ </s>
+n i u ̯ ⁵ ² </s>
+t s i ɛ ³ ¹ k ʰ o ʊ ʔ ³ ¹ i u ʔ ³ ¹ </s>
+k ʰ ə ³ ³ k ʰ i ŋ ³ ¹ </s>
+v a i ³ ³ s ə ³ ³ a i ³ ³ </s>
+l i a ̯ p ³ ³ </s>
+ɪ u ³ ³ k o u ³ ³ t s o ³ ¹ a ³ ¹ t ə ³ ³ n ə ³ ³ m o n ʔ ³ ¹ k ə ³ ³ t s o ³ ¹ t ʃ o ⁵ ² t ə ³ ³ t ɪ ⁵ ² k ə ³ ³ n a ɪ ³ ³ t o ³ ³ m ə ³ ³ s a ⁵ ⁵ l ə ³ ¹ a ŋ ³ ³ t s o ³ ³ t ʃ e ⁵ ⁵ </s>
+ɲ u ³ ³ t ʰ a p ³ ³ t ʰ u o ̯ ³ ³ </s>
+k o ʊ ʔ ³ ³ ɲ u ³ ¹ t s ʰ u ɪ ³ ¹ t ʃ u ³ ¹ m ɛ ɪ ⁵ ² </s>
+n o ŋ ³ ¹ t ʰ a ŋ ³ ¹ k o ³ ³ </s>
+l a m ³ ³ i ɛ ̯ ⁵ ² </s>
+h o ʊ ³ ³ t s a ʊ ʔ ³ ³ k i ɛ ̯ ⁵ ² </s>
+l o ʊ ³ ³ h ɔ ³ ³ </s>
+k ʰ ɛ ʊ ³ ¹ t s ʰ a ³ ³ </s>
+o ³ ³ ʃ ɛ i ̯ ³ ³ ɲ u ³ ³ </s>
+l ɔ ŋ ³ ³ ʃ i ɛ ̯ ³ ³ </s>
+l ə ³ ³ </s>
+v e i ⁵ ² a ʔ ³ ² </s>
+t a ŋ ³ ³ k ə ³ ³ t ʃ ʰ i ³ ¹ t s ʰ o u ³ ¹ </s>
+l ɛ ɪ ʔ ³ ³ ŋ ɔ ɪ ⁵ ² </s>
+a ³ ³ i ɛ ̯ ³ ¹ t ʰ a ʔ ³ ² </s>
+k a m ³ ³ l o ʊ ʔ ³ ¹ </s>
+l o ʊ ³ ³ t ʃ ɛ ɪ ʔ ³ ¹ </s>
+k ʰ ɔ ³ ¹ l ɔ ʊ ³ ¹ s i ʊ ⁵ ⁵ </s>
+l o ʊ ³ ³ t ʰ u ɔ ̯ ⁵ ⁵ </s>
+a ³ ³ s i ŋ ³ ³ a ³ ³ ɲ a ʊ ³ ³ ɛ m ⁵ ² </s>
+i ɛ ̯ ³ ³ t ʃ u ɔ ̯ ³ ³ p a ɪ ⁵ </s>
+k ʰ u ³ ³ t ʰ i ʊ ⁵ ⁵ </s>
+t ʃ i ³ ³ l i ɛ ̯ ³ ³ </s>
+ɲ ə ³ ³ t s i ³ ¹ </s>
+a ³ ³ ʃ a ʊ ³ ³ t ʰ u ɔ ̯ ⁵ ⁵ </s>
+k ʊ a p ³ ³ t ʃ ʰ i ʊ ³ ¹ </s>
+t ɛ i ̯ ³ ¹ p ʰ i ɛ ̯ ³ ¹ m i ɛ ̯ ³ ¹ </s>
+t ʃ i ɛ ̯ ⁵ ² l i ʊ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ t ɔ ŋ ⁵ ² </s>
+l ə ³ ³ m a ³ ³ </s>
+i ʊ ⁵ ² </s>
+t ʃ a m ³ ³ k ʰ ɛ ʊ ³ ¹ </s>
+t ʃ ʰ ɔ ŋ ³ ¹ ɲ u ³ ¹ m ɔ ŋ ³ ¹ ɲ u ³ ¹ </s>
+h ɛ ʊ ³ ³ ʃ o ŋ ³ ³ </s>
+t ʃ ʰ a ɪ ³ ³ o ³ ³ </s>
+t ʃ i ʊ ³ ³ </s>
+ɲ i ŋ ⁵ ² p ɛ i ̯ ³ ³ t ʃ i ³ ¹ ʃ ɛ p ³ ² </s>
+u o ³ ¹ t ʃ u o ̯ ³ ³ ɲ u ³ ³ </s>
+ɲ o u ̯ ʔ ³ ³ k a ⁵ ² </s>
+l i ʊ ³ ¹ </s>
+l ɛ ʊ ʔ ³ ¹ </s>
+k a m ³ ³ t ʰ ɔ ŋ ³ ¹ </s>
+k ʰ a ʊ ³ ³ t s ʰ i ʔ ³ ³ </s>
+k ʰ a ʊ ³ ³ p i ³ ³ p i ³ ³ t s ʰ o ʊ ³ ¹ </s>
+i ɛ ³ ³ m a ʔ ³ ¹ </s>
+ŋ a u ³ ¹ </s>
+t ʃ ʰ i ⁵ ⁵ h a ɪ ⁵ ⁵ </s>
+h ɛ m ³ ³ p u ³ ¹ </s>
+t ʰ o ŋ ³ ³ </s>
+k ʰ a ʊ ³ ³ u ɔ ̯ ³ ³ </s>
+ɲ i ʔ ³ ² p a i ̯ ³ ¹ </s>
+t s i m ⁵ ² </s>
+t ʰ o i ̯ ³ ³ t s i ³ ¹ </s>
+ɲ i ⁵ ² t i ŋ ³ ¹ t i ŋ ³ ¹ v ɛ u ̯ ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+o ³ ³ t ʰ o ʔ ³ ² </s>
+a ³ ³ l a m ³ ³ l o ʊ ⁵ ² </s>
+a ³ ³ k ʰ a ⁵ ⁵ t ʰ a ŋ ³ ¹ </s>
+t ʃ ʰ a m ³ ³ t s o ʊ ³ ³ </s>
+l ɔ ³ ¹ </s>
+t ə ³ ³ l i ŋ ³ ³ l i ŋ ³ ³ </s>
+ɲ u ³ ³ v ɛ i ̯ ⁵ ² t ʃ ə ³ ¹ m i ɛ ̯ ⁵ ² </s>
+k ɛ m ³ ³ </s>
+n ə ³ ³ t ʰ u a ̯ m ⁵ ⁵ </s>
+n o u ̯ ³ ³ ɲ u ³ ¹ </s>
+ʃ ɑ ŋ ³ ³ l o ŋ ³ ¹ ʃ ʰ a i ³ ³ </s>
+l i a ̯ ŋ ³ ³ ʃ a ⁵ ⁵ </s>
+k ʰ ɛ ʊ ³ ¹ t i p ³ ¹ </s>
+t ʃ a m ³ ³ l ʊ a m ⁵ ² </s>
+l a k ³ ³ s a ʔ ³ ³ l ə ³ ³ p ɔ ɪ ³ ³ </s>
+l a ŋ ³ ³ m ɔ ŋ ³ ³ ʃ i ŋ ³ ¹ ɲ u ⁵ ⁵ </s>
+n a m ³ ³ n a m ⁵ ² </s>
+u ³ ³ k ʰ i ɛ ʔ ³ ³ </s>
+k o ʊ ³ ³ a ŋ ³ ³ </s>
+t ə ³ ³ l e i ³ ³ l e i ³ ³ </s>
+k ʰ i a m ³ ¹ k ʰ a ³ ³ </s>
+k i ɛ ̯ ⁵ ² </s>
+h ɔ k ³ ³ p ɔ ³ ³ ɲ u ³ ¹ </s>
+t a ⁵ ² k a p ³ ¹ j i ³ ³ p a i ⁵ ² </s>
+t ʃ ʰ ə ³ ³ l a m ⁵ ⁵ k ʰ u ɔ ̯ ʔ ³ ³ </s>
+l a k ³ ³ </s>
+a ³ ³ l a ɪ ³ ¹ </s>
+m o ŋ ⁵ ² l o u ̯ ³ ¹ k o ŋ ³ ³ </s>
+t ʃ u ʔ ³ ¹ s ə ³ ¹ l u ³ ³ </s>
+t ʃ i ŋ ⁵ ⁵ </s>
+k ʰ ɛ ʊ ³ ¹ t a p ³ ¹ ʃ a ³ ³ </s>
+k u m ⁵ ⁵ </s>
+k a m ³ ³ s a m ³ ¹ </s>
+t u o ³ ³ </s>
+j a p ³ ¹ j a p ³ ¹ k ɔ ³ ¹ </s>
+j i ³ ³ n o ʊ ³ ³ t ʰ i k ³ ¹ l i ʊ ⁵ ² </s>
+t ʃ ʰ i ʊ ³ ³ k i ŋ ³ ¹ i ʊ ʔ ³ ¹ </s>
+k ɔ ŋ ³ ³ k ʰ a ʊ ³ ³ </s>
+t ʃ ə ³ ³ l a ʊ ⁵ ² t ʃ ʰ ə ³ ³ u m ³ ¹ </s>
+t ʃ i ³ ³ k ʰ i ʊ ³ ¹ </s>
+h ʊ a ³ ³ t ʃ i ⁵ ⁵ </s>
+t ʃ ʰ u ɔ ̯ ʔ ³ ³ ɲ o ³ ¹ ɲ u ³ ¹ </s>
+m a i ̯ ³ ¹ </s>
+m o ŋ ³ ³ m o ŋ ³ ³ t s ʰ o i ̯ ³ ¹ </s>
+ɲ u ³ ³ t s ʰ a ⁵ ⁵ </s>
+k ʰ ʊ a m ⁵ ² t ʃ a m ⁵ ⁵ </s>
+l o ʊ ³ ³ t ʃ ʰ a ʊ ⁵ ⁵ </s>
+ɲ u ³ ³ l a ʊ ʔ ³ ¹ </s>
+l ɔ ŋ ³ ³ t i ŋ ³ ³ k ʰ ɛ p ³ ³ </s>
+h ə ³ ³ l a m ⁵ ⁵ ɲ i ⁵ ² </s>
+h ɛ ʊ ³ ¹ </s>
+t a k ³ ³ t a k ³ ³ </s>
+k u ɔ ̯ ³ ¹ ɲ u ³ ¹ </s>
+t ʰ i ŋ ³ ³ n o i ³ ³ ʃ i u ʔ ³ ³ i e ⁵ ² </s>
+i ɛ ̯ ³ ³ t i o ̯ ʔ ³ ¹ </s>
+a ³ ³ s h i ³ ¹ k u a ̯ p ³ ¹ </s>
+k ʰ i a ̯ m ³ ³ k u ɪ ³ ¹ </s>
+k o ʊ ʔ ³ ³ ɔ ⁵ ² v ɛ ʊ ³ ¹ t ʃ a k ³ ³ k i ɛ ̯ ⁵ ² </s>
+t ə ³ ³ l a k ³ ³ l a k ³ ³ </s>
+i ɛ ̯ ³ ³ k ʰ a ⁵ ⁵ </s>
+ɲ u ³ ³ ɲ u ⁵ ⁵ t s ʰ o u ̯ ³ ³ </s>
+m o ŋ ⁵ ² w a ³ ¹ </s>
+l a ŋ ³ ³ ɲ u ³ ³ t ʃ ɔ k ³ ³ t ʃ ʰ i ɛ ̯ ³ ³ </s>
+k i k ³ ³ </s>
+l ʊ a m ⁵ ² </s>
+k a u ʔ ³ ³ t ʰ o ʔ ³ ³ </s>
+t a ʊ ³ ³ </s>
+s ɑ ŋ ³ ³ k ʰ ɑ u ⁵ ⁵ a ³ ³ o ŋ ⁵ ² </s>
+a ³ ³ ɲ a ʊ ³ ³ t ʰ i ŋ ³ ¹ k i o ̯ ʔ ³ ¹ </s>
+k ɛ ɪ ³ ³ i ʊ ³ ³ </s>
+t ʃ ʰ ɑ m ³ ³ ʃ ɑ ʔ ³ ³ </s>
+a ³ ³ m o ŋ ³ ³ l e ³ ¹ </s>
+k ʰ ə ³ ¹ l o ³ ³ ɲ u ³ ³ </s>
+a ³ ³ ʃ ɛ ʊ ʔ ³ ¹ </s>
+a ³ ³ l i ³ ³ l u ³ ³ </s>
+t ʃ ə ³ ³ t s a m ³ ¹ t ʃ ə ³ ¹ t s o ʊ ⁵ ² </s>
+ŋ a ⁵ ² l i e ³ ³ </s>
+h u ɪ ʔ ³ ³ </s>
+t ʃ i ³ ³ ʃ ɛ ɪ ³ ³ k ʰ a ⁵ ⁵ h ɛ ʊ ³ ¹ </s>
+o u ̯ ³ ³ t ʰ ɛ u ̯ ³ ¹ </s>
+u i ⁵ ² n i e ³ ¹ m o k ³ ¹ </s>
+l ɛ m ³ ³ l ɛ m ⁵ ² </s>
+t ʃ ʰ a ɪ ³ ³ l i ⁵ ⁵ </s>
+ɲ u ³ ³ w a ³ ¹ </s>
+a ³ ³ m o ʔ ³ ³ </s>
+ɲ u ³ ³ k a i ̯ ³ ³ </s>
+o ³ ³ k ʰ ɛ m ³ ¹ l a m ³ ³ </s>
+a ³ ³ l o ʊ ³ ³ ɲ a ɪ ³ ³ k ʰ ɛ ʊ ³ ³ ɲ o ʔ ³ ¹ </s>
+l i ⁵ ⁵ a m ³ ¹ </s>
+t ʃ ʰ i ŋ ³ ¹ </s>
+k ʰ ɛ ɪ ³ ¹ k ə ³ ¹ m ə ŋ ³ ¹ o ʊ ³ ¹ a ³ ³ l u m ³ ¹ ʃ a ⁵ ⁵ s ə ³ ³ m a ɪ ³ ³ </s>
+ɲ u ³ ³ k i ŋ ⁵ ⁵ ɲ u ³ ¹ </s>
+u o ³ ³ </s>
+l ɛ m ⁵ ⁵ l o ʊ ʔ ⁵ ⁵ </s>
+ʃ ʰ i e ³ ³ k a u ʔ ³ ³ k ʰ e u ³ ¹ </s>
+k ʰ i a ̯ m ³ ¹ n ɔ k ³ ³ ɲ u </s>
+l ɑ ŋ ³ ³ . ɲ u ³ ³ </s>
+i ɛ ̯ ³ ³ ʃ i p ³ ³ ʃ i p ³ ¹ </s>
+i ʊ ³ ³ l ə ³ ¹ n ɔ ³ ¹ </s>
+l i ʊ ³ ³ t s ɔ ⁵ ⁵ </s>
+t ʰ a ⁵ ⁵ </s>
+a ³ ³ l i ŋ ⁵ ⁵ </s>
+k ʰ ʊ a ⁵ ⁵ </s>
+a ³ ³ l i a ̯ m ⁵ ² t i ɛ ̯ ³ ³ </s>
+i ɛ ̯ ³ ³ t s ʰ o ʊ ³ ¹ ʃ o ʔ ³ ³ t s a ʊ ʔ ³ ³ </s>
+o u ʔ ³ ³ ʃ o ŋ ³ ¹ </s>
+j o ³ ³ l o u ̯ ʔ ³ ² </s>
+h ɔ ɪ ³ ¹ l u ɔ ʔ ³ ¹ v a ⁵ ² </s>
+n ə ³ ³ t s ʰ a ŋ ³ ¹ </s>
+l a ʊ ³ ³ k ɛ ɪ ³ ³ </s>
+t ʰ ə ³ ³ ʃ i m ³ ¹ </s>
+n o k ³ ³ t ʰ u a ̯ m ⁵ ⁵ </s>
+a ³ ³ l u m ³ ³ t s i ɛ ̯ ³ ¹ t ʰ a ʔ ³ ¹ </s>
+l i ʊ ³ ¹ k ʰ i ³ ³ </s>
+i ɛ ̯ ³ ³ k ʰ u ʔ ³ ³ </s>
+m a ⁵ ² t a ⁵ ² </s>
+w a ⁵ ² p a ³ ³ </s>
+t ʰ a ³ ³ </s>
+a ³ ³ l i ʊ ⁵ ⁵ a ⁵ ⁵ </s>
+n ə ³ ³ p a ʔ ³ ² </s>
+u ³ ³ ʃ ʰ a ³ ¹ </s>
+t ʃ ə ³ ³ ɲ a k ³ ³ </s>
+i ³ ³ s u ɔ ̯ ⁵ ⁵ </s>
+l ɔ ŋ ³ ³ h o ʊ ʔ ³ ³ </s>
+t ʰ a u ʔ ³ ³ </s>
+k ʰ i a ̯ m ³ ³ l i ɛ ̯ ³ ³ </s>
+o ³ ³ t ʰ o ʔ ³ ² p u i ̯ ⁵ ² </s>
+t ʃ ʰ i ⁵ ⁵ t s ʰ ə ³ ³ l i ɛ ̯ ʔ ³ ¹ </s>
+t s i m ³ ³ t ʰ a u ³ ¹ </s>
+k ʰ a ʊ ³ ³ ʃ a ɪ ³ ³ </s>
+m ə ³ ³ ʃ ɛ i ̯ ³ ³ ʃ ɛ i ̯ ³ ³ t s ʰ o u ̯ ³ ³ </s>
+l ə ³ ³ t ʰ ʊ a p ³ ¹ </s>
+m o ŋ ⁵ ² s i k ³ ² l i u ̯ ³ ¹ </s>
+l ə ³ ³ p i ʊ ⁵ ⁵ </s>
+ɲ a u ̯ ³ ³ t ʰ i ŋ ³ ³ t ʰ i ŋ ³ ¹ </s>
+h ɔ k ³ ³ k u ⁵ ² </s>
+ɲ o u ̯ ʔ ³ ³ k a ⁵ ² s a ³ ¹ </s>
+l ɔ ŋ ³ ³ u ɔ ̯ ³ ³ t ʃ ʰ i ʊ ³ ³ </s>
+h ʊ a ³ ³ t ʰ i ŋ ³ ¹ t s i ʊ ʔ ³ ¹ </s>
+k u p ³ ³ k u p ³ ³ </s>
+k i ɛ ̯ ³ ³ t s ʰ ɔ ɪ ³ ³ ɲ u ³ ¹ k a m ³ ³ </s>
+k a ʊ ʔ ³ ³ l i ʊ ³ ³ h ʊ a m ⁵ ⁵ </s>
+ɲ a ʔ ³ ¹ </s>
+i ʊ ʔ ³ ³ o ³ ¹ h a ɪ ³ ³ </s>
+v e u ⁵ ² </s>
+t s u i ³ ³ h a ŋ ³ ³ h a i ⁵ ⁵ </s>
+n ə ³ ³ k o ŋ ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+k ʰ i a ̯ m ³ ³ i ⁵ ⁵ l i a ̯ m ⁵ ² </s>
+m o ŋ ⁵ ² ɲ o ʔ ³ ² </s>
+t ʰ u m ³ ³ </s>
+h ɛ ʊ ³ ³ t ʃ ʰ ɛ ɪ ʔ ³ ³ </s>
+k ʰ ə ³ ³ l ɔ ⁵ ⁵ p u ɔ ̯ ³ ³ </s>
+t ʃ a m ³ ³ i ⁵ ² </s>
+a ³ ³ l a ʔ ³ ³ s ə ³ ³ l a ʔ ³ ³ </s>
+ɲ o u ̯ ³ ³ k ʰ ɛ u ̯ ³ ³ k ʰ a ⁵ ⁵ </s>
+a ³ ³ l i ʔ ³ ³ ʃ a ⁵ ⁵ </s>
+h u m ³ ¹ n u m ³ ¹ </s>
+n o ³ ¹ </s>
+l ə ʔ ³ ³ k ʰ u ɔ ̯ ³ ¹ ɲ u ³ ¹ </s>
+l ə ³ ³ k ə ⁵ ⁵ h ɔ ³ ¹ </s>
+v e i ³ ³ h i u ³ ² </s>
+a ³ ³ ɲ i ʔ ³ ¹ v ɛ m ³ ¹ </s>
+o u ̯ ³ ¹ </s>
+a ³ ³ k a m ³ ³ t ʃ a m ⁵ ⁵ </s>
+k ʰ a ʊ ³ ³ t s ʰ o ʊ ³ ³ </s>
+l a ŋ ³ ³ p ɛ ɪ ⁵ ⁵ t ʰ a ³ ¹ </s>
+t s u i ³ ³ h a ŋ ³ ³ k ʰ i a m ³ ³ m o ŋ ³ ³ </s>
+l ɔ ŋ ³ ³ t s u m ³ ³ o ʊ ³ ³ </s>
+k a ʊ ⁵ ⁵ </s>
+a ³ ³ k i ŋ ³ ³ v a ³ ³ </s>
+k ʰ ʊ a m ³ ³ t ɔ ŋ ³ ³ </s>
+l ʊ a p ³ ³ ʃ a m ³ ³ </s>
+v e i ³ ² i e ³ ³ </s>
+a ³ ³ t s i ⁵ ⁵ </s>
+t i u ³ ³ t ʰ u a p ³ ¹ k i e ⁵ ² </s>
+l i a ̯ m ⁵ ² t ʰ a m ³ ³ k a m ³ ³ </s>
+h a ³ ³ t ʃ ʰ i ʊ ³ ¹ </s>
+ɲ u ³ ³ k a m ³ ³ </s>
+n i ɛ ̯ ³ ³ n i ɛ ̯ ³ ³ </s>
+l ɔ ŋ ⁵ ² </s>
+t s u i ³ ³ </s>
+m ə ³ ³ t i ŋ ³ ³ </s>
+ŋ a u ̯ ³ ¹ p i k ³ ² </s>
+t ʃ ʰ i ⁵ ⁵ t i o ̯ ⁵ ² </s>
+t s i e ³ ³ t ʃ ʰ a ʊ ⁵ ⁵ </s>
+l ɛ p ³ ¹ </s>
+t ʃ a m ³ ³ p a ɪ ⁵ ⁵ </s>
+k ɔ ŋ ⁵ ⁵ </s>
+j u ³ ³ h a ŋ ⁵ ⁵ </s>
+m u a ̯ ³ ¹ t ʃ ɛ i ̯ ʔ ³ ² </s>
+k ʰ a ³ ¹ </s>
+t a u ̯ ³ ³ p u o ̯ ³ ³ k i e ̯ ⁵ ² </s>
+l o ʊ ³ ³ h a m ⁵ ⁵ </s>
+n o u ̯ ³ ³ k ʰ a ³ ³ ʃ i ʔ ³ ³ </s>
+a ³ ³ k ʰ ɛ ʊ ³ ¹ h i ɛ ̯ ³ ¹ </s>
+h ɛ ʊ ³ ³ t ʃ i m ³ ³ h a ʊ ³ ¹ t ʰ a ɪ ³ ¹ </s>
+l ɔ ŋ ³ ³ ɲ u ³ ³ </s>
+h i a ̯ m ³ ¹ </s>
+l a k ³ ³ h ɛ ʊ ⁵ ⁵ </s>
+t ʃ ʰ i ɛ ̯ ⁵ ⁵ ʃ u ɪ ⁵ ⁵ </s>
+t ʰ a i ³ ³ s a m ³ ³ </s>
+l ɛ ɪ ʔ ³ ³ p a ³ ³ l ɛ ɪ ʔ ³ ³ v a ɪ ³ ¹ </s>
+l i ŋ ⁵ ⁵ t ɛ ʊ ³ ³ k ɔ ³ ³ </s>
+i ⁵ ² k ʰ o ŋ ³ ¹ k i ŋ ³ ³ </s>
+l ɔ ŋ ³ ³ l a ʊ ⁵ ⁵ h ɛ ʊ ³ ¹ </s>
+t s u p ³ ¹ </s>
+o u ̯ ³ ³ k i o ̯ ʔ ³ ² </s>
+a ³ ³ ʃ ɛ ʊ ⁵ ² </s>
+i ⁵ ² h u ɔ ̯ ³ ³ </s>
+i m ³ ³ ɲ u ³ ³ </s>
+a m ³ ³ k ʰ a m ⁵ ⁵ t ʃ a m ³ ³ </s>
+l i ʊ ³ ¹ v ɛ ʊ ³ ³ </s>
+l ɔ ŋ ³ ³ t ʃ ʰ ɛ ʊ ⁵ ⁵ </s>
+a ³ ³ ɲ ɔ ³ ³ </s>
+v a i ³ ³ s ɔ ³ ³ </s>
+l i ⁵ ⁵ </s>
+l ɔ ŋ ³ ³ t ʰ ɛ ʊ ³ ¹ h ɛ ʊ ³ ¹ </s>
+l i a ̯ ŋ ³ ³ t ɛ ʊ ³ ³ </s>
+m i ɛ ̯ ³ ³ p u a ̯ m ³ ³ </s>
+t ʃ a m ³ ³ k ɛ ɪ ³ ¹ </s>
+t i e ̯ ³ ³ </s>
+t ʃ a m ³ ³ k ɛ ɪ ³ ¹ k i ³ ¹ k a m ³ ³ </s>
+v e u ̯ ³ ³ t s ʰ o u ̯ ³ ¹ h ɔ ̯ k ³ ¹ </s>
+l i a ̯ m ⁵ ² v ɛ m ³ ¹ </s>
+ʃ a ŋ ³ ³ h u m ³ ¹ </s>
+l i a ̯ m ³ ³ t ʃ a ɪ ³ ³ </s>
+m ə ³ ³ t ʃ u ⁵ ² </s>
+l a ³ ³ ʃ ɔ ʔ ³ ¹ </s>
+a ³ ³ ɲ ɔ ³ ³ m a k ³ ¹ t ʃ ʰ a ɪ ³ ¹ i ʊ ʔ ³ ¹ </s>
+k a m ³ ³ t ʰ o ʔ ³ ¹ </s>
+l a m ⁵ ² </s>
+ɛ ɪ ⁵ ⁵ ʃ ɛ ʊ ⁵ ² </s>
+k ʰ ə ³ ¹ t i k ³ ¹ </s>
+o u ̯ ʔ ³ ³ t a m ³ ³ </s>
+w a ⁵ ² k u ³ ¹ </s>
+t ʃ ʰ a m ³ ³ ʃ o ŋ ³ ¹ </s>
+ɲ i m ³ ¹ </s>
+a ³ ³ i ³ ¹ </s>
+t a ŋ ⁵ ⁵ ʃ a ŋ ³ ¹ ʃ ʰ i ³ ³ </s>
+k ʰ a ɪ ³ ³ k ʰ o ʊ ³ ¹ </s>
+t ʃ a m ³ ¹ v i ³ ¹ t ʃ a m ³ ¹ </s>
+i ɛ ̯ ³ ³ l u a ̯ ³ ³ ɲ u ³ ³ </s>
+h o ʊ ʔ ³ ³ </s>
+v a ʔ ³ ³ t ʃ ʰ o ʔ ³ ³ k i a ̯ p ³ ³ </s>
+l a ŋ ³ ³ p ɛ ɪ ⁵ ⁵ ʃ i ɛ ̯ ⁵ ² p ʰ u ³ ³ </s>
+ɲ u ³ ³ t a p ³ ³ </s>
+ʃ a m ³ ³ ɲ i ʔ ³ ³ </s>
+m ə ³ ³ l a m ⁵ ⁵ k i ŋ ⁵ ⁵ h i a ̯ ŋ ³ ¹ </s>
+l ə ³ ³ m ɔ ŋ ³ ³ </s>
+t ʃ ʰ ə ³ ³ p ɔ k ³ ¹ ɲ u ³ ¹ ʃ i ɛ ̯ ʔ ³ ¹ </s>
+m i ɛ ̯ ³ ³ h u a ̯ m ³ ³ </s>
+u m ⁵ ⁵ </s>
+l ɔ ŋ ³ ³ ɲ u ³ ³ t ɔ ŋ ³ ³ </s>
+o u ʔ ³ ³ ʃ a p ³ ³ h u i ̯ ³ ¹ </s>
+v ɛ ʊ ³ ³ . l u i ³ ³ </s>
+k ʰ a ʊ ³ ³ ɲ ɔ ʔ ³ ¹ </s>
+ɲ o ⁵ ² t ʰ a ³ ³ </s>
+k ʰ i a ̯ m ³ ³ t ʰ i ŋ ³ ¹ </s>
+m i e ̯ ³ ³ t s o u ̯ ⁵ ² </s>
+m ə ³ ³ ʃ a u ̯ ⁵ ² </s>
+l o ʊ ³ ³ </s>
+l ə ³ ³ p ɔ ɪ ³ ³ </s>
+t ʃ i ³ ³ m u ɪ ³ ³ t ʃ a m ⁵ ² </s>
+m ɛ i ̯ ³ ³ k i u ̯ ʔ ³ ¹ </s>
+a ³ ³ ʃ ɛ ʊ ³ ¹ ʃ i ³ ³ </s>
+m i ʔ ³ ³ p a u ̯ ³ ¹ </s>
+t ə ³ ³ t i ⁵ ² k ü ³ ¹ n a i ³ ³ o h ⁵ ² </s>
+s e i ʔ ³ ³ </s>
+l o ʊ ³ ³ m ɛ ɪ ³ ³ </s>
+a ³ ³ h ɔ ɪ ³ ¹ </s>
+h ɛ ʊ ³ ³ t s ʰ o ʊ ³ ¹ h ɛ ʊ ³ ¹ </s>
+n u a ̯ p ³ ² </s>
+t ʰ ə ³ ³ k ʰ u a ⁵ ⁵ </s>
+ɲ o ʔ ³ ³ </s>
+l ɒ ŋ ³ ³ . ʃ e u ³ ³ . k ɪ ŋ ⁵ ⁵ </s>
+t ʃ ʰ a ŋ ³ ¹ k ʰ u ʔ ³ ¹ </s>
+a ³ ³ k a m ⁵ ² t ʰ ɔ ʔ ³ ² </s>
+k ʰ ɔ ŋ ⁵ ⁵ t a ʊ ³ ³ p u ɔ ̯ ³ ³ </s>
+a ³ ³ ʃ i ʊ ⁵ ⁵ t ʃ ə ³ ³ ɛ p ³ ³ </s>
+a ³ ³ . ɲ ɪ ʔ ³ ¹ </s>
+t ʰ a ʔ ³ ³ t e u ³ ¹ </s>
+a ³ ³ m o ʊ ʔ ³ ³ v a ⁵ ² </s>
+k i o ̯ ʔ s ə ³ ³ j ɔ ʔ i m ³ ³ </s>
+n u a ̯ m ³ ³ i e ⁵ ² </s>
+a ³ ³ k i ŋ ⁵ ⁵ </s>
+m o ʊ ³ ¹ i ʔ ³ ² </s>
+n u i ̯ ⁵ ² </s>
+n i u ̯ ⁵ ² p a u ̯ ʔ ³ ² </s>
+w a ³ ³ s i e ⁵ ² </s>
+l ʊ a m ³ ¹ t ʃ ɛ ɪ ʔ ³ ¹ k ə ³ ¹ k i ⁵ ⁵ </s>
+l ɔ ŋ ³ ³ t i ŋ ³ ³ t s ʰ ɔ ɪ ³ ³ </s>
+l ɛ m ³ ³ t ʃ ʰ i ³ ³ </s>
+k ʰ ə ³ ³ l i o ̯ ³ ¹ t a ʊ ³ ¹ p u ɔ ̯ ³ ³ </s>
+a ³ ³ p a ʊ ³ ³ t s a ŋ ³ ³ </s>
+k ʰ ɔ ³ ³ t ʃ u m ³ ¹ s ə ³ ¹ t ʃ u m ³ ¹ </s>
+k ʰ a ʊ ʔ ³ ³ </s>
+t ʃ ʰ ə ³ ¹ i ³ ¹ </s>
+t ʃ i ɛ ̯ ⁵ ² k i ʊ ³ ³ t a ʊ ³ ³ p u ɔ ̯ ³ ³ </s>
+l ə ³ ³ t ʃ ʰ a ŋ ³ ¹ h ɛ ʊ ³ ¹ a p ³ ¹ </s>
+a ŋ ³ ³ ɛ ɪ ʔ ³ ³ k ʰ ɛ ʊ ³ ¹ ɲ o ʔ ³ ¹ </s>
+k ʰ ɔ ³ ³ t ʃ u m ³ ¹ </s>
+a ³ ³ p ə ³ ³ t s ʰ i ³ ³ </s>
+l i ŋ ³ ³ l i ɛ ̯ ³ ³ ʃ i ʊ ³ ³ </s>
+h a ŋ ³ ³ h a ŋ ³ ¹ ɲ u ³ ¹ </s>
+t ʃ ʰ u ³ ¹ p i ŋ ³ ³ </s>
+k ʊ a p ³ ³ t ʰ ɔ ³ ³ ɲ u ⁵ ⁵ </s>
+k o ʊ ³ ¹ n i ³ ³ </s>
+ɲ i ŋ ³ ³ k i ³ ¹ h ɛ u ̯ ³ ¹ </s>
+l ɛ ɪ ʔ ⁵ ⁵ </s>
+h ɔ ɪ ³ ¹ k ɔ ³ ¹ </s>
+t ə ³ ³ p ʰ e i ʔ ³ ³ p ʰ e i ʔ ³ ³ </s>
+a ³ ³ n ɔ ³ ¹ </s>
+ɲ ɛ </s>
+j a u ³ ³ j a u ⁵ ⁵ </s>
+m u i ̯ ³ ³ t o k ³ ¹ ʃ a ʊ ʔ ³ ¹ </s>
+a ³ ³ m u ɔ ʔ ³ ³ </s>
+l ə ³ ³ p ʊ a ³ ³ </s>
+k ʰ ə ³ ¹ m o ʊ ³ ¹ </s>
+k o ʊ ³ ³ t ʰ ɔ ŋ ³ ³ </s>
+l ɛ m ³ ¹ l o ʊ ʔ ³ ¹ k ɔ ³ ¹ </s>
+t ʰ o ʔ ³ ³ </s>
+n o i ̯ ³ ³ n o i ̯ ³ ³ </s>
+a ³ ³ h i ɛ ̯ ³ ³ ʃ i ʊ ³ ³ </s>
+k o ʊ ʔ ³ ³ s ə ³ ³ k o ʊ ʔ ³ ¹ </s>
+a ³ ³ l a ʊ ⁵ ⁵ i ɛ ̯ ⁵ ² t s u ɪ ³ ³ </s>
+m i ʔ ³ ³ l ɛ m ³ ¹ </s>
+l i a ̯ ŋ ³ ³ ʃ i ³ ³ </s>
+a ³ ³ m ʊ a ⁵ ⁵ l o ʊ ʔ ⁵ ⁵ t ʰ a ŋ ³ ¹ </s>
+a ³ ³ ʃ o ŋ ³ ³ t ʰ u ɔ ̯ ⁵ ⁵ </s>
+ɛ p ³ ³ . s ʰ ɑ ³ ³ . k ɒ ³ ³ </s>
+t s ʰ ɪ ɛ ³ ¹ k ə ³ ¹ p ə ³ ³ t ʃ ə ʔ ³ ³ </s>
+ɲ ə ³ ³ ʃ a m ³ ³ t ʃ a ʔ ³ ³ </s>
+ɲ a u ̯ ³ ¹ p i ŋ ³ ³ </s>
+k a ʊ ³ ³ s a ɪ ³ ³ t ʃ ʰ i ³ ³ </s>
+k ʰ i a ̯ m ³ ³ l i ³ ¹ </s>
+a ³ ³ t ʃ ɛ ɪ ³ ¹ </s>
+l i k ³ ¹ </s>
+i ⁵ ² n a ³ ¹ k i ŋ ³ ³ t s ʰ ɔ ɪ ⁵ ² </s>
+t ʃ ʰ a ɪ ³ ³ p ʰ u p ³ ¹ </s>
+m ə ³ ³ t s a ŋ ³ ³ </s>
+t s i k ³ ¹ t ʃ ʰ i ʊ ³ ¹ </s>
+ɲ ɛ m ⁵ ² h i ɛ ̯ ³ ¹ </s>
+ɲ u ³ ³ k i ŋ ⁵ ⁵ i ɛ ̯ ⁵ ² </s>
+l i ʊ ³ ¹ p ə ³ ¹ t s ʰ i o ̯ ʔ ³ ¹ </s>
+k i ɛ ̯ ⁵ ² t h ʰ a ʔ ³ ¹ </s>
+k i ʊ ³ ³ </s>
+m o ŋ ⁵ ² m a h ʔ ³ ² </s>
+ɲ ə ³ ³ k a p ³ ² </s>
+a ³ ³ k o k ³ ³ </s>
+l ɔ ŋ ⁵ ⁵ </s>
+k ʰ i a ̯ ŋ ⁵ ⁵ i ɛ ̯ ⁵ ² </s>
+a ³ ³ ʃ i ɛ ̯ ³ ³ t ʃ ʰ a m ³ ¹ ʃ a ʔ ³ ¹ k i ɛ ̯ ³ ¹ </s>
+m ə ³ ³ ʃ u ³ ¹ s o ³ ³ ɲ u ³ ³ </s>
+t ʃ a m ³ ³ s i ʊ ʔ ³ ³ </s>
+m u o ̯ ³ ¹ ɲ u ³ ¹ </s>
+h i ³ ³ </s>
+t ʰ ə ³ ¹ ŋ o u ³ ¹ </s>
+t ʃ a m ³ ³ k ʰ a ³ ¹ i ɛ ³ ¹ </s>
+a m ³ ³ p a ʊ ³ ³ </s>
+m a i ̯ ³ ³ k ʰ ɛ u ̯ ³ ³ u p ³ ² </s>
+a ³ ³ ʃ i ɛ ̯ ⁵ ⁵ i ɛ ̯ ⁵ ² </s>
+a ³ ³ ɔ ŋ ⁵ ² </s>
+m ə ³ ³ t s i k ³ ³ </s>
+v e m ³ ² </s>
+k ʰ ʊ a m ³ ³ p ʰ ɔ ŋ ⁵ ⁵ </s>
+h ɛ ʊ ³ ³ k i ɛ ̯ ³ ³ ʃ ə ³ ³ ɲ u ³ ³ </s>
+m o k ³ ² n o i ̯ ³ ¹ </s>
+l i ŋ ³ ¹ </s>
+t ʃ ə ³ ³ t ʃ u ɔ ̯ ⁵ ⁵ k i ŋ ⁵ ⁵ </s>
+t ʃ ʰ a m ³ ³ k a k ³ ³ k a k ⁵ ⁵ t s ʰ o ʊ ³ ¹ </s>
+v e u ³ ¹ ʃ ʰ ŋ ³ ¹ m a i ̯ ³ ¹ </s>
+k ʰ ɛ m ³ ³ k ɔ ⁵ ⁵ </s>
+ɲ u ³ ³ k i o ̯ ʔ ³ ² </s>
+k ɛ ʊ ⁵ ⁵ </s>
+l ə ³ ¹ n ɔ ³ ¹ </s>
+a ³ ³ h i ŋ ³ ¹ </s>
+l a ŋ ³ ³ m ɔ ŋ ⁵ ⁵ ɲ u ³ ¹ </s>
+k ʰ ə ³ ³ . ɪ ɛ ̯ ⁵ ² </s>
+k i a ̯ ŋ ³ ³ k i a ̯ ŋ ³ ³ </s>
+t ʰ i a p ³ ³ t ʰ i a p ³ ² </s>
+m a u ̯ ³ ³ t s ʰ a ʔ ³ ³ t s ʰ a ʔ ³ ³ ɲ u ³ ¹ </s>
+h a m ⁵ ⁵ </s>
+t e i ³ ¹ t ə ³ ³ m i e ³ ¹ </s>
+k ʊ a ³ ¹ l o ʊ ʔ ³ ¹ </s>
+a ³ ³ l ɛ ɪ ʔ ³ ² t s i ³ ³ </s>
+n ə ³ ³ n a ŋ ⁵ ² </s>
+k a ³ ³ t ʰ i ʊ ⁵ ⁵ </s>
+l a ŋ ³ ¹ </s>
+ɲ i ³ ¹ </s>
+m i o ̯ ³ ³ ɲ i ³ ³ </s>
+l ɔ ŋ ³ ¹ k a ³ ¹ p i ɛ ̯ ⁵ ² </s>
+ɲ a u ̯ ³ ³ t i ŋ ⁵ ² </s>
+m ə ³ ³ k ʰ ɛ m ³ ³ k ʰ ɛ m ³ ³ </s>
+h ɛ m ³ ³ </s>
+t ʃ ə ³ ³ t ʃ a ŋ ⁵ ² k ɔ ³ ¹ </s>
+l o ʊ ³ ³ p i ŋ ³ ³ </s>
+t i ³ ³ t ʰ a m ³ ³ t ʰ o i ³ ¹ </s>
+m i ɛ ̯ ³ ³ h a ʔ ³ ³ </s>
+h ʊ a ³ ³ k ʰ i ŋ ⁵ ⁵ </s>
+t s ə ³ ³ t s u o ̯ ʔ ³ ² p a i ̯ ⁵ ² </s>
+t ʃ i ³ ³ p ʰ i ɛ ̯ ³ ¹ </s>
+w a ³ ³ ʃ i ⁵ ² k o ³ ¹ </s>
+t ʃ ʰ ɛ ʊ ³ ³ ɲ u ⁵ ⁵ m ɔ ŋ ⁵ ⁵ </s>
+n ə ³ ³ t ʰ i ɛ ̯ ʔ ³ ³ </s>
+n o i ̯ ⁵ ² k ʰ a m ³ ¹ t ʰ ʊ a m ³ ³ </s>
+t a i ³ ¹ </s>
+t ə ³ ³ m a i ³ ³ m a i ³ ¹ </s>
+a ³ ³ p ʰ ɛ ʊ ³ ¹ t ʃ a m ³ ¹ </s>
+l ɛ m ³ ¹ </s>
+a ³ ³ p ɛ m ³ ¹ t s a k ³ ¹ </s>
+m ə ³ ³ j ɛ u ̯ ³ ³ </s>
+t ʰ e u ³ ³ m e ɪ ⁵ ² </s>
+t ʃ i ³ ¹ s ə n ³ ¹ j a ɪ ³ ¹ </s>
+v a u ⁵ ² </s>
+t ʃ a ɪ ³ ³ t ʃ a ɪ ³ ³ k i ⁵ ⁵ t i ɛ ̯ ³ ³ </s>
+n o k ³ ³ t ʰ a ŋ ³ ³ k a m ³ ³ </s>
+a ³ ³ k ʊ a p ³ ³ m a ɪ ³ ¹ </s>
+t ʰ i ³ ¹ </s>
+a ³ ³ l u m ⁵ ² h i ɛ ̯ ³ ¹ </s>
+s a ʊ ³ ¹ </s>
+l i ʊ ³ ³ p a ʊ ³ ³ </s>
+t ʰ a i ³ ³ l u i ⁵ ⁵ </s>
+n ə ³ ³ h o ŋ ⁵ ⁵ k o k ⁵ ⁵ </s>
+ɲ u ³ ³ p i k ³ ³ p i k ³ ² ɲ u ³ ³ </s>
+ɲ a p ³ ² </s>
+o ³ ³ t s i ³ ³ n a p ⁵ ⁵ </s>
+a ³ ³ i ɛ ̯ t s ə ⁵ ⁵ l i ʔ ³ ² </s>
+l ʊ a ³ ³ t ʃ a k ³ ¹ </s>
+k ʰ i a ̯ m ³ ³ l a ʊ ³ ³ h ɛ ʊ ³ ¹ </s>
+k ʰ u ɔ ̯ ⁵ ⁵ </s>
+v ɛ ʊ ³ ¹ . ɲ ɛ ɪ ʔ ³ ¹ </s>
+t ʃ ʰ a i ³ ³ </s>
+n a ³ ³ n i ŋ ³ ³ </s>
+t s ɪ ³ ³ l ə ³ ¹ t s i ³ ¹ k o ³ ³ </s>
+a ³ ³ p a ³ ³ ³ </s>
+k a ʊ ⁵ ² </s>
+o ŋ ⁵ ² u i ̯ ³ ³ t ʰ ɛ u ̯ ⁵ ² </s>
+t ʃ ɛ ɪ ʔ ³ ³ </s>
+v a ³ ³ t ʰ a ʔ ³ ³ </s>
+k ɔ k ⁵ ⁵ t u ɪ ³ ³ </s>
+ʃ ʰ i e ³ ³ k a u ʔ ³ ³ k ʰ ə v i e ³ ³ </s>
+t ʃ i ³ ³ t s ʊ a ³ ³ h i ŋ ³ ¹ </s>
+ɲ u ³ ³ ʃ o ʔ ³ ¹ </s>
+l i ʊ ⁵ ² t s ʰ ə ³ ¹ p u ʔ ³ ¹ </s>
+k ʰ ɛ ʊ ³ ³ ɲ u ³ ¹ n ɔ ɪ ³ ¹ t ʰ a ŋ ³ ³ </s>
+t ʃ a ŋ ³ ¹ </s>
+ʃ u a ⁵ ² </s>
+t ʃ ʰ i ʊ ³ ¹ s ə ³ ¹ l a k ³ ¹ </s>
+o ⁵ ² l a ʔ ³ ² t i ŋ ³ ³ </s>
+u i ³ ³ </s>
+h i ɛ ̯ ³ ³ t s i ʊ ³ ³ </s>
+a ³ ³ ɲ a i ̯ ³ ³ l ə ³ ¹ h e m ³ ³ </s>
+ɲ o i ̯ ³ ³ </s>
+a ³ ³ m a ɪ ³ ¹ </s>
+i ʔ ³ ² </s>
+m a ⁵ ² t s i u ̯ ³ ³ </s>
+u m ³ ³ m i ʔ ³ ¹ </s>
+m o ŋ ³ ³ t ɛ i ̯ ⁵ ² </s>
+j a ŋ ⁵ ² l o u ³ ¹ p i ŋ ³ ³ </s>
+m o ŋ ³ ³ t ʃ u a ̯ ⁵ ² </s>
+a ³ ³ t ʃ ʰ u ⁵ ⁵ k a ɪ ³ ³ </s>
+t a ʊ ³ ³ p u o ³ ³ k u a m ³ ¹ </s>
+l ɔ ŋ ³ ³ t i p ³ ³ t i p ³ ¹ ɲ u ³ ¹ </s>
+l ɛ ɪ ⁵ ⁵ </s>
+t ʃ ɑ m ⁵ ² </s>
+t ʃ i ʔ ³ ³ t ʰ i ʊ ⁵ ⁵ </s>
+k ʰ u ɔ ̯ ³ ¹ t ʰ i ɛ ʔ ³ ¹ t ʰ i ɛ ̯ ʔ ³ ¹ ɲ u ³ ³ </s>
+t ə ³ ³ l u i ³ ³ l u i ³ ³ </s>
+a ³ ³ p o ŋ ³ ³ a ³ ¹ ɲ i m ³ ³ t ʰ a ŋ ³ ¹ </s>
+h ɔ ɪ ⁵ ⁵ t s ɔ ʔ ⁵ ² </s>
+o k ³ ² t ʰ a ʔ ³ ² </s>
+n ə ³ ³ t ʃ i ɛ ̯ ʔ ³ ² n i ɛ ̯ ³ ¹ </s>
+t i p ³ ³ t i p ³ ³ </s>
+t i ⁵ ² t ʰ i ŋ ³ ¹ p i ³ ³ p i ³ ³ </s>
+h ɔ ⁵ ⁵ l o ʊ ʔ ⁵ ⁵ </s>
+a ³ ³ n i k ³ ³ </s>
+k ʊ a ⁵ ⁵ </s>
+t ʃ ə ³ ³ ʃ ɔ ³ ³ </s>
+ɲ a k ³ ² </s>
+ɲ u ³ ³ a ŋ ⁵ ² k a ŋ ³ ³ </s>
+l i ɛ ̯ ʔ ³ ¹ </s>
+l o ʊ ³ ³ h a ʔ ³ ³ </s>
+m ə ³ ³ t i a ̯ m ³ ³ t s ʰ a ʔ ³ ³ ʃ i ³ ³ </s>
+a ³ ³ k i ŋ ³ ³ ɲ u ³ ³ l a ʔ ³ ³ </s>
+t ʃ ʰ ɛ ʊ ³ ³ t ʃ ʰ ɛ ʊ ³ ¹ </s>
+p ɑ ³ ³ . t s ʰ ɒ ⁵ ⁵ </s>
+i ⁵ ² k a ʊ ʔ ³ ¹ </s>
+k ʰ u ɔ ̯ ³ ¹ l a ɪ ³ ¹ l a ɪ ³ ¹ ɲ u ³ ³ </s>
+k i ɛ ̯ ³ ³ ʃ ə ³ ³ ɲ u ³ ³ u </s>
+m ə ³ ³ t i a ̯ m ³ ³ </s>
+l ɔ ɪ ⁵ ⁵ </s>
+y o ³ ³ . t ʃ ʰ i ʊ ³ ² </s>
+n o ŋ ³ ³ t ʰ o ³ ¹ k o ³ ¹ </s>
+n u ³ ³ n a i ̯ ⁵ ⁵ o ʔ ⁵ ² </s>
+i ɛ ̯ ³ ¹ </s>
+k ʰ a m ³ ³ </s>
+i ɛ ̯ ³ ³ k ɛ ʊ ʔ ³ ³ t s ɛ m ⁵ ² </s>
+a ³ ³ . m a i ³ ³ </s>
+l ɔ ŋ ³ ³ m u ɔ ̯ ʔ ³ ¹ </s>
+t s i e ³ ³ c h a m ³ ³ </s>
+j o ³ ³ . k ʰ u ̯ ʔ ³ ³ </s>
+t ʃ ʰ ɔ ŋ ³ ¹ </s>
+k ʰ ɛ ʊ ³ ³ t s u m ³ ³ </s>
+a ³ ³ i ⁵ ² p ɔ ŋ ³ ³ </s>
+a ³ ³ p ʰ i ³ ¹ l ɛ ³ ¹ </s>
+a ³ ³ p ʰ ɛ ʊ ³ ¹ </s>
+k ʰ ʊ a p ³ ³ l ʊ a p ³ ³ l ʊ a p ³ ¹ </s>
+h i ə ³ ³ . k ʰ e m ⁵ ⁵ </s>
+l o ʊ ³ ³ k ɔ ŋ ⁵ ⁵ </s>
+i ⁵ ² h ɛ ɪ ʔ ³ ¹ </s>
+l ə ³ ³ ʃ a ³ ¹ </s>
+t ʰ a u ʔ ³ ³ k ʰ i a m ³ ¹ </s>
+m u o ̯ ³ ³ l i ³ ³ </s>
+a ³ ³ ɲ u ʔ ³ ³ m ə ³ ³ h i ʔ ³ ³ </s>
+a ³ ³ ɲ i ʔ ³ ³ ɲ i ʔ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ p a ɪ ⁵ ⁵ </s>
+t ʃ ʊ a m ³ ³ </s>
+l ɔ ŋ ³ ³ k i k ³ ¹ h ɛ ʊ ³ ¹ </s>
+t ʃ i ɛ ̯ ³ ³ </s>
+k u ʔ ³ ³ k u m ⁵ ² </s>
+t ʰ o ŋ ³ ³ i e ⁵ ² </s>
+t s u ³ ³ t o ŋ ³ ³ ŋ a ⁵ ² </s>
+t a ŋ ³ ¹ </s>
+l u ɪ ⁵ ² t ʰ a ³ ¹ </s>
+k ʰ ʊ a m ³ ³ l ɔ ³ ³ i ɛ ̯ ³ ³ l ɔ ³ ³ </s>
+k u ɪ ³ ¹ t s ɔ ⁵ ⁵ </s>
+v ɛ u ³ ³ k o u ʔ ³ ³ l a ŋ ⁵ ⁵ </s>
+k i ³ ³ l o ʊ ʔ ³ ¹ </s>
+t u a ³ ¹ </s>
+a ³ ³ s i ŋ ³ ³ t ʃ ʰ a m ³ ³ t s ʰ o ʊ ³ ¹ </s>
+n ə ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+k ʰ u ʔ ³ ³ </s>
+l i ʊ ³ ¹ u ʔ ³ ¹ </s>
+n o k ³ ³ p a u ̯ ³ ¹ </s>
+s ɑ ŋ ³ ³ k ʰ ɑ u ⁵ ⁵ o ŋ ³ ³ ʃ ʰ a m ⁵ ² ɲ u ³ ¹ </s>
+o ³ ³ n o u ̯ ³ ³ t ʰ o ŋ ³ ³ </s>
+t ʃ ɔ ŋ ³ ³ t ʰ a ³ ¹ </s>
+k ʰ i k ³ ³ </s>
+k ʰ u ³ ¹ t e i ʔ ³ ¹ </s>
+i ⁵ ² k ʰ ɔ ŋ ³ ¹ </s>
+k ʰ ɛ ʊ ³ ³ ɲ i m ⁵ ² p ə ³ ³ i ʊ ʔ ³ ¹ </s>
+ʃ a i ʔ ³ ¹ </s>
+t ʃ i ŋ ⁵ ² p ʰ u ³ ³ ʃ i ɛ ̯ ⁵ ² </s>
+l ɔ ŋ ³ ³ ʃ i ɛ ̯ ³ ³ k a m ³ ³ </s>
+ɲ a m ³ ³ t ʰ i u ̯ ⁵ ⁵ </s>
+t i o ⁵ ² </s>
+t ʃ u ³ ³ m ɛ ɪ ⁵ ² </s>
+t ʰ o ŋ n ⁵ ⁵ </s>
+h a ʊ ³ ¹ t ʰ a ɪ ³ ¹ t a ʊ ³ ¹ p u ɔ ̯ ³ ³ </s>
+ɲ ɑ m ³ ¹ </s>
+ɲ o u ̯ ʔ ³ ² t s i ɛ ̯ ³ ¹ </s>
+k ʰ ɛ ʊ ³ ¹ m i ʊ ⁵ ⁵ </s>
+ɲ a m ³ ³ l o ʊ ʔ ³ ³ </s>
+k a ³ ³ p ɔ k ³ ³ </s>
+l u ɔ ̯ ³ ¹ </s>
+t ʃ ʰ u ³ ¹ m ə ³ ¹ h i a ̯ ŋ ⁵ ⁵ </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ h a ɪ ⁵ ⁵ </s>
+i ɛ ̯ ³ ³ ʃ i ³ ³ t ʃ ʰ a ⁵ ² </s>
+s ɛ i ³ ³ s ɛ i ⁵ ² </s>
+h ɛ ʊ ³ ³ ʃ a ɪ ³ ³ </s>
+a ³ ³ h i ɛ ̯ ³ ³ ʃ i ʊ ⁵ ² </s>
+i ɛ ̯ ⁵ ² k ʰ ə ³ ¹ t s a p ³ ¹ </s>
+k a m ³ ³ </s>
+u o ⁵ ² p o ŋ ³ ¹ ʃ ʰ e p ³ ¹ </s>
+m o ŋ ⁵ ² k ʰ i ³ ³ </s>
+k ʰ a ʊ ³ ¹ v ɛ ʊ ³ ¹ l o ʊ ³ ¹ h a ʔ ³ ¹ </s>
+k i o ̯ s ə j ɔ ʔ </s>
+k ʰ i ³ ³ i ɛ ̯ ⁵ ⁵ </s>
+a ³ ³ l ɛ ʊ ʔ ⁵ ⁵ t ʃ ə ³ ¹ ʃ ɛ ɪ ⁵ ² </s>
+i ɛ ̯ ³ ³ l ɔ ³ ³ </s>
+t ʃ i ŋ ³ ³ k ʰ ɔ ŋ ³ ¹ </s>
+m i ɛ ̯ ³ ³ ɲ u ³ ³ t s ʰ o u ̯ ³ ¹ </s>
+m o ŋ ⁵ ² t ʰ i e u ⁵ ⁵ </s>
+t ʃ ʰ ɔ k ³ ³ </s>
+n ə ³ ³ t ʃ a m ³ ³ </s>
+t a ŋ ³ ³ k ə ³ ³ t ʃ ʰ i ³ ¹ </s>
+l i ɛ ̯ ⁵ ² ɲ i ʔ ³ ¹ </s>
+k e i ³ ³ k ü ³ ³ l i a m ³ ³ </s>
+k o ʊ ʔ ³ ³ t ʃ ʰ ɛ ʊ ⁵ ⁵ m ə ³ ³ k ɔ ŋ ⁵ ² </s>
+ʃ a i ʔ ³ ¹ t s a m ³ ¹ </s>
+t ʃ a ŋ ⁵ ² k a ʊ ⁵ ² p ɔ ŋ ³ ¹ </s>
+h u ³ ¹ </s>
+a ³ ³ i ŋ ⁵ ² </s>
+a ³ ³ s a ³ ³ </s>
+k u p ³ ¹ </s>
+k ʰ i a ̯ m ³ ¹ t ʃ a ŋ ³ ³ </s>
+k i o ̯ ³ ³ l a k ³ ¹ </s>
+l a ŋ ³ ³ p ɔ ŋ ³ ³ i ʊ ʔ ³ ¹ </s>
+a ³ ³ o ʊ ³ ¹ k i ŋ ³ ³ l i ʊ ³ ³ </s>
+a ³ ³ ɲ a ʊ ³ ³ k ʰ ɛ m ³ ¹ </s>
+t ʃ ɛ ɪ ⁵ ² </s>
+a ³ ³ l a ʊ ⁵ ² ʃ i ³ ³ </s>
+a ³ ³ i ɛ ̯ ⁵ ⁵ </s>
+t a ʊ ³ ³ ʃ ʰ i ³ ³ l a k ³ ³ ʃ ʰ i ³ ³ </s>
+t ʃ a ŋ ⁵ ² ʃ i ʔ ³ ¹ t ʃ ʰ ʊ ³ ³ a ŋ ⁵ ² </s>
+a ³ ³ k i ŋ ⁵ ⁵ ʃ i ³ ³ h ɔ ɪ ⁵ ⁵ </s>
+l o ʊ ³ ³ l ɛ ʊ ³ ³ </s>
+ʃ i ɛ ̯ ⁵ ² </s>
+t ʰ o ³ ¹ l o ³ ¹ </s>
+k o ʊ ʔ ³ ³ t ʰ i ɛ ʔ ³ ³ </s>
+ɲ o ⁵ ² </s>
+k ʰ i ɑ m ³ ³ ɲ u ⁵ ⁵ ŋ a ⁵ ⁵ ˈ n ɑ ³ ³ . ɡ ə ³ ³ </s>
+t s i m ³ ³ t a p ³ ¹ </s>
+n o ŋ ³ ¹ l ɛ ³ ³ </s>
+t a ³ ¹ h e u ³ ¹ ɲ u ³ ¹ </s>
+v a ʔ ³ ¹ </s>
+t ʃ u ³ ³ h ɛ ʊ ³ ¹ </s>
+l o ʊ ³ ³ a ʔ ³ ¹ </s>
+o ⁵ ² ʃ e i ³ ³ </s>
+a ³ ³ k a p ³ ³ v a ⁵ ² </s>
+ʃ a ŋ ³ ³ h u i ³ ¹ </s>
+m i ɛ ̯ ³ ³ w a p ³ ² </s>
+t u a m ³ ¹ </s>
+t ʃ ʰ ɔ ŋ ⁵ ⁵ t ʃ a ɪ ³ ³ </s>
+a ³ ³ n u ɪ ³ ¹ k o ³ ³ </s>
+ɲ u ³ ³ t o ŋ ³ ³ </s>
+n i u ̯ ⁵ ² v ɛ m ³ ¹ </s>
+v a k ³ ² s i ɛ ̯ ʔ ³ ² </s>
+a ³ ³ k u ʔ ³ ³ </s>
+t ʃ ə ³ ³ t i e ̯ ⁵ ⁵ l u ³ ³ k ɔ ³ ³ </s>
+n a ʔ ³ ² n u i ̯ ³ ¹ </s>
+l a ŋ ⁵ ² n ɔ k ³ ¹ </s>
+h a ʊ ³ ³ ʃ ʊ a ⁵ ² </s>
+k ʰ u p ³ ³ s ə ³ ³ n u p ³ ¹ </s>
+k ʰ ɛ ʊ ³ ³ p a ʊ ³ ¹ </s>
+i ʊ ³ ³ v a ɪ ʔ ³ ² l ə ³ ³ n ɔ ³ ³ </s>
+t ʃ ʰ a ɪ ³ ¹ t ɛ ʊ ³ ¹ t ʃ a m ³ ¹ </s>
+k i ŋ ⁵ ⁵ </s>
+m ə ³ ³ . ŋ ɒ u ³ ³ </s>
+l ɔ k ³ ³ ʃ a ⁵ ⁵ </s>
+n a ³ ¹ </s>
+h o ɪ ³ ¹ i ɛ ̯ ³ ¹ </s>
+t ʃ a m ³ ³ k ɛ ɪ ³ ¹ ʃ a ³ ¹ u ³ ³ </s>
+v e u ³ ³ h a u ⁵ ⁵ t s i e ³ ³ </s>
+o u ̯ ³ ³ p u i ̯ ³ ³ </s>
+l a ŋ ³ ³ p ɛ ɪ ⁵ ⁵ l i ʊ ³ ¹ </s>
+t ʃ ʰ a ɪ ³ ³ t ʃ ʰ i ɛ ̯ ⁵ ⁵ u ⁵ ² t ʃ ʰ i ɛ ̯ ³ ³ </s>
+i ɛ ̯ ³ ³ k ɛ ʊ ʔ ³ ³ </s>
+m o ŋ ⁵ ² k ʰ a i ̯ ³ ¹ </s>

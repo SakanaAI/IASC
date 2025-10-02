@@ -1,0 +1,51 @@
+<INSTRUCTIONS>
+We are going to develop a 'translator' for our ConLang, which will 'translate' from English sentences into an abstract language that has English content words, but may mark them with additional morphosyntactic information, and where the English phrases may be reordered.
+
+Morphosyntactic markers may show up as affixes or separate words. For affixes, our convention for marking suffixes is to place a dash before the affix, and for prefixes to place a dash after the affix:
+
+"-XXX" is a suffix: when one attaches "-XXX" to "word", one gets "word-XXX"
+"XXX-" is a prefix: when one attaches "XXX-" to "word", one gets "XXX-word"
+
+In this stage we will consider the definiteness marking on a noun.
+
+Definiteness is a grammatical category that indicates whether a noun phrase refers to a specific, identifiable entity (definite) or not (indefinite).
+
+Consider example English sentences below:
+
+"I saw a cat. The cat is white."
+
+In a language that marks both definiteness and indefiniteness, a definite nouns are marked DEF (definite) and indefinite nouns are marked INDEF (indefinite). Assuming these are marked as prefixes, then in our example sentences above we would have:
+
+"i saw INDEF-cat. DEF-cat is white."
+
+In addition, definiteness markers may agree with other nominal features such as case and number. Assuming that definiteness is marked as a prepositional word and it agrees with case and number, then in our example sentences above we would have:
+
+"i saw INDEF-SING-ACC cat. DEF-SING-NOM cat is white."
+
+Languages may also not mark definiteness or indefiniteness at all, in which case we specify "NONE".
+
+For definiteness, our language has "{{definiteness}}", and it is marked by "{{definiteness_marking_strategy}}".
+If the above values are "NONE", then the language does not mark definiteness at all.
+For example, the above example "I saw a cat. The cat is white." would be "i saw cat. cat is white."
+
+In addition, the definiteness marking in our language agrees with "{{definiteness_agreement}}". If the above value is "NONE", then the definiteness marker in our language does not show any morphological agreement with number, gender, etc.
+
+Your task is to 'translate' the text under SAMPLE TEXT below. This text is itself a translation of an original text that you did on the previous round. This original text is given under ORIGINAL TEXT for your reference, but you should use the SAMPLE TEXT as the starting point.
+
+Do not change any affixes that have been added on a previous phase.
+
+Place a period at the end of each sentence, as in the original text. Don't forget to translate the title, if there is one. Downcase all content words, except proper names, which are to be left capitalized. Thus "Man" would become "man", "We" would become "we", but "John" would remain "John".
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE SAMPLE TEXT. THAT IS IF THE SAMPLE TEXT HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES, AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+# ORIGINAL TEXT BEGINS
+{{original_text}}
+# ORIGINAL TEXT ENDS
+
+# SAMPLE TEXT BEGINS
+{{previous_translation}}
+# SAMPLE TEXT ENDS
+
+Please put your response within <OUTPUT></OUTPUT> tags.
+
+</INSTRUCTIONS>

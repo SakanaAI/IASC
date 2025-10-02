@@ -1,0 +1,269 @@
+<INSTRUCTIONS>
+<!-- For the initial version, we will to focus on the following morphosyntactic
+categories:
+
+Nominal:	Number, Case
+Verbal:		Tense, Aspect, Head Marking
+
+We use WALS to guide the system in choosing which options it wants, but within
+each category we provide a hierarchy or set of choices, with canonical names
+that the system should use, along with definitions and examples.
+
+We base our case hierarchy on
+
+https://en.wikipedia.org/wiki/Case_hierarchy
+
+with some modifications.
+
+In this version we skip gender.
+-->
+
+We are going to develop a translator for our ConLang, which will translate from
+English sentences into an abstract language that has English content words, but
+marks morphosyntactic information such as noun case and verbal tense and aspect
+information with abstract morphemes, which we will explain below.  After each
+summary explanation, we will indicate which of the described options the
+language in question has.
+
+A language also has various options for marking particular morphosyntactic
+information, what morphologists term "exponence". Most common are Suffixes, but
+languages may also mark information with Prefixes, or by other means such as
+changing the form of the base word. In our ConLangs, exponence may be marked
+with Suffixes or Prefixes, and this information is specified along with the
+morphosyntactic information. If we are specifying that a language marks Ergative
+case as a suffix, and verbal Past Tense marking as a prefix, we will indicate
+that with a dash before a suffix, or after a prefix:
+
+-ERG
+PAST-
+
+Finally we also need to consider word order, which we also describe below.
+
+In most of what follows, we will assume suffixes, and SVO order to keep the
+discussion simple.
+
+==============
+We will start with nominal (noun) categories, and the first category we will
+consider is number marking.  A language may have no number marking, or it may
+distinguish:
+
+SING: Singular	(one)
+PLUR: Plural    (more than one)
+DUAL: Dual      (exactly two)
+
+So in a language with "SING PLUR" marking, one would mark "cat" as "cat-SING"
+and "cats" as "cat-PLUR".  If the language has "SING PLUR DUAL" marking, then
+"two cats" is "cat-DUAL" and "cat-PLUR" means "three or more cats". If the
+language has "NONE", then leave the noun unmarked.
+
+Our language has: "{{number_marking}}".
+
+==============
+The next category is case marking.
+
+First you need to decide whether the language is Nominative-Accusative or
+Ergative-Absolutive. In a Nominative-Accusative language the subject of a
+sentence is marked Nominative and the direct object is Accusative:
+
+John-NOM saw Mary-ACC
+John-NOM
+
+In an Ergative-Absolutive language, the subject of a transitive sentence is
+marked Ergative, whereas objects of transitive sentences and subjects of
+intransitive sentences are marked Absolutive
+
+John-ERG saw Mary-ABS
+John-ABS
+
+Beyond these two, there is a more-or-less universal hierarchy of cases with
+earlier ones in the following list being more likely than later ones:
+
+GEN:	Genitive. E.g. "John's book" -> "John-GEN book"
+DAT:	Dative. E.g. "gave to John" -> "gave John-DAT"
+LOC:	Locative: E.g. "in Rome" -> "Rome-LOC"
+ABL:	Ablative: E.g. "by Rome"/"with Rome" -> "Rome-ABL"
+INS:	Instrumental: E.g. "with glue" -> "glue-INS"
+
+Our language has "{{case_marking}}" case marking.
+
+==============
+Next we turn to verbal categories, and the first category is tense and aspect.
+
+On the tense front, languages may distinguish the following:
+
+PRES:    Present tense. E.g. "goes" -> "go-PRES"
+PAST:    Past tense. E.g. "went" -> "go-PAST"
+FUT:	 Future tense. E.g. "will go" -> "go-FUT"
+REMPAST: Remote past. E.g. "went (a long time ago)" -> "go-REMPAST"
+
+A language may also not mark for tense at all.
+
+When it comes to aspect, languages may not mark aspect at all, or they may
+distinguish between Perfective and Imperfective aspect:
+
+IMPF: Imperfective.	       E.g. "went" -> "go-IMPF"
+PERF: Perfective.	       E.g. "has gone" -> "go-PERF"
+
+A language may have both tense and aspect marking, in which case you should mark
+both on the verb. For example,
+
+"will have gone" -> "go-FUT-PERF"
+"had gone"       -> "go-PAST-PERF"
+"will go"        -> "go-FUT-IMPF
+
+Our language marks "{{tense_aspect}}".
+
+==============
+The next verbal category is head marking, i.e. marking information about nominal
+arguments of the verb on the verb itself. A language may have no head marking,
+or mark various nominal arguments. This can happen even when the language has no
+case marking on nouns.
+
+For a Nominative-Accusative language the head might be marked as follows:
+
+VNOM:  Nominative. E.g. "John leaves" -> "John leave-VNOM"
+VACC:  Accusative. E.g. "see the dog" -> "see-VACC dog"
+VDAT:  Dative. E.g. "give to the dog " -> "give-VDAT dog"
+
+Note the "V" prefix on the categories to distinguish them from nominal case marking.
+
+A language might mark just Nominative, Nominative and Accusative, or all three.
+
+Similarly for Ergative-Absolutive languages we would find:
+
+VERG:  Ergative. E.g. "John eats something" -> "John eat-VERG"
+VABS:  Absolutive. E.g. "see the dog" -> "see-VABS dog";  "John leaves" -> "John leave-VABS"
+
+(We omit dative since that behaves the same as above.)
+
+Alternatively, languages may have more elaborate person agreement on verbs for
+arguments such as subjects, objects or indirect objects.  By person, we mean
+things like first (1st) person singular for "I", second (2nd) person singular
+for "thou", third (3rd) person plural for "they" and so forth.
+
+A language might mark nominative subject agreement on the verb for example:
+
+1SGNOM:	   1st person singular nominative: E.g. "I leave" -> "I leave-1SGNOM"
+2SGNOM:	   2nd person singular nominative: E.g. "thou leavest" -> "thou leave-2SGNOM"
+3SGNOM:	   3rd person singular nominative: E.g. "John leaves" -> "John leave-3SGNOM"
+1PLNOM:	   1st person plural nominative:   E.g. "we leave" -> "we leave-1PLNOM"
+2PLNOM:	   2nd person plural nominative:   E.g. "ye leave" -> "ye leave-2PLNOM"
+3PLNOM:	   3rd person plural nominative:   E.g. "John and Mary leave" -> "John and Mary leave-3PLNOM"
+
+Similarly the language might mark accusative objects with person agreement or
+indirect objects. Just a couple of examples:
+
+1SGACC:	   1st person singular accusative: E.g. "leave me" -> "leave-1SGACC me"
+1SGDAT:	   1st person singular dative:     E.g. "give to me" -> "give-1SGDAT me"
+
+A language might mark just Nominative, Nominative and Accusative, or all three.
+
+In an Ergative-Absolutive language, 1SGERG, for example, would mark the
+situation where I am engaging in a transitive action, 1SGABS would obtain if
+the action is intransitive, or if I am the direct object of the action:
+
+1SGERG:	   1st person singular ergative: E.g. "I see" -> "I see-1SGERG"
+1SGABS:	   1st person singular ergative: E.g. "I run" -> "I run-1SGABS"; "see me" -> "see-1SGABS me"
+
+A language would typically have either the simpler head marking described
+previously, or the person-number agreement head marking just described, not
+both.
+
+Please note the following important point: you should only head-mark a verb for
+an argument if the verb really has the argument in question. Thus
+
+"leave-PRES-VERG-VABS John-ABS"
+
+would be WRONG, because the verb "leave" does not have an Ergative argument in
+this case!!!
+
+Our language marks "{{head_marking}}".
+
+Don't forget the prefix/suffix dashes when you add these to words.
+==============
+We now turn to word order. We will consider the main order of the sentence in
+terms of Subject (S), Object (O) and Verb (V). Options are as follows:
+
+VSO: "drink John water"
+SVO: "John drink water"
+SOV: "John water drink"
+VOS: "drink water John"
+OVS: "water drink John"
+OSV: "water John drink"
+
+Next we consider the order of adjectives and nouns, which may be:
+
+NA: "book red"
+AN: "red book"
+
+And adpositions and noun (phrases):
+
+PN: "on table"
+NP: "table on"
+
+Our language has
+
+"{{main_word_order}}" main word order.
+"{{adj_noun_word_order}}" adjective-noun word order.
+"{{adposition_noun_word_order}}" adposition-noun word order.
+
+==============
+Given the above details and specifications for our language, your task is to
+'translate' the text under SAMPLE TEXT below along the lines described above. To
+illustrate again the kind of markup we are looking for, suppose we have a
+language with
+
+"-SING -PLUR" number marking
+"-ERG -ABS -GEN -DAT" case marking
+"PRES- FUT- PAST- PERF-" tense-aspect marking
+"VERG- VABS-" head marking on the verb.
+"VSO" main word order.
+"NA" adjective-noun word order.
+"PN" adposition-noun word order.
+
+WE WILL ASSUME IN ADDITION THAT FOR THIS LANGUAGE ADJECTIVES AGREE WITH THE
+NOUNS THEY MODIFY IN CASE AND NUMBER.
+
+Then the following sentence:
+
+"The man has given the red book to the octopus in the sea."
+
+could be annotated:
+
+"VERG-VABS-give-PRES-PERF man-SING-ERG book-SING-ABS red-SING-ABS octopus-SING-DAT in sea-SING-ABS."
+
+Similarly
+
+"The man ran into the garden."
+
+would be annotated:
+
+"VABS-run-PAST man-SING-ABS into garden-SING-ABS."
+
+since here the verb is intransitive and the subject should therefore be marked
+with ABS case and VABS head marking.
+
+If you feel the language needs other kinds of grammatical markers besides the
+ones explicitly given above, please feel free to invent them, but make sure you
+follow the format guidelines that have been specified.
+
+Please be sure to give content words in their lemma (dictionary) form. Please
+downcase all English words that are not obviously names: i.e. "From" should
+become "from", but "John" should be left as "John". DO NOT MARK THE ARTICLES
+"the" or "a" BUT RATHER OMIT THESE ENTIRELY. Place a period at the end of each
+sentence, as in the English original. Don't forget to translate the title, if
+there is one. Downcase all content words, except proper names, which are to be
+left capitalized. Thus "Man" would become "man", but "John" would remain "John".
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE ORIGINAL FILE. THAT
+IS IF THE INPUT FILE HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES,
+AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN
+THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+# SAMPLE TEXT BEGINS
+{{text}}
+# SAMPLE TEXT END
+
+Please put your response within <OUTPUT></OUTPUT> tags.
+
+</INSTRUCTIONS>

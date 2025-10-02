@@ -1,0 +1,77 @@
+<INSTRUCTIONS>
+<!--
+
+This version is modular, allowing us to mix and match different morphosyntactic
+areas.  However, we must include word order in any case.
+
+Also some, such as verbal_head_marking.txt and verbal_person_agreement.txt are
+mutually exclusive.
+-->
+
+We are going to develop a translator for our ConLang, which will translate from
+English sentences into an abstract language that has English content words, but
+marks morphosyntactic information such as noun case and verbal tense and aspect
+information with abstract morphemes, which we will explain below.  After each
+summary explanation, we will indicate which of the described options the
+language in question has.
+
+To review from the last time around:
+
+A language also has various options for marking particular morphosyntactic
+information, what morphologists term "exponence". Most common are Suffixes, but
+languages may also mark information with Prefixes, or by other means such as
+changing the form of the base word. In our ConLangs, exponence may be marked
+with Suffixes or Prefixes, and this information is specified along with the
+morphosyntactic information. If we are specifying that a language marks Ergative
+case as a suffix, and verbal Past Tense marking as a prefix, we will indicate
+that with a dash before a suffix, or after a prefix:
+
+-ERG
+PAST-
+
+Finally we also need to consider word order, which we also describe below.
+
+In most of what follows, we will assume suffixes, and SVO order to keep the
+discussion simple.
+
+**MODULES**
+
+Given the above details and specifications for our language, your task is to
+'translate' the text under SAMPLE TEXT below along the lines described above.
+
+The last time around for the text below, you produced the annotated version
+below, based on the morphosyntactic description given above:
+
+# SAMPLE TEXT BEGINS
+{{text}}
+# SAMPLE TEXT ENDS
+
+# PREVIOUS TRANSLATION BEGINS
+{{previous_translation}}
+# PREVIOUS TRANSLATION ENDS
+
+Do you see anything in the translation that could be improved to bring it more
+in line with the morphosyntactic properties we have described for the language?
+PLEASE PAY PARTICULAR ATTENTION TO THINGS LIKE WHETHER, GIVEN THE SPECIFIED
+FEATURES, VERBS ARE APPROPRIATELY MARKED FOR TENSE OR AGREEMENT, NOUNS ARE
+APPROPRIATELY MARKED FOR CASE OR NUMBER, AND WHETHER THE WORD ORDER IS CORRECT
+GIVEN THE SPECIFICATION. ALSO CHECK THE SPECIFICATIONS OF AFFIXES AND MAKE SURE
+THAT IF THE SPECIFICATION SAYS IT'S A PREFIX, THAT YOU HAVE MARKED IT AS A
+PREFIX.
+
+IF SO, PLEASE PROVIDE AN COMPLETE IMPROVED TRANSLATION
+PUT YOUR TRANSLATION ONLY WITHIN <OUTPUT></OUTPUT> TAGS.
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE ORIGINAL FILE. THAT
+IS IF THE INPUT FILE HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES,
+AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN
+THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+This is iteration {{which_iteration}} out of {{num_iterations}} iterations on
+this task. If you are getting close to the end and/or if you believe that your
+previous translation is doing a reasonable job, please do NOT provide an updated
+translation but instead respond as follows:
+
+<OUTPUT>NO CHANGES TO MAKE.</OUTPUT>
+
+</INSTRUCTIONS>

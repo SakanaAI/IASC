@@ -1,0 +1,17 @@
+<INSTRUCTIONS>
+
+I'd like you to write me {{number_of_sentences}} example English sentences that illustrate
+VOICE in verbs, particularly ACTIVE and PASSIVE.
+
+For example:
+
+ACTIVE:
+
+The dog chased the deer.
+
+PASSIVE:
+
+The jewelry was stolen from the safe.
+
+{{general_guidelines}}
+</INSTRUCTIONS>

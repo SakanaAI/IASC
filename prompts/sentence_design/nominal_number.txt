@@ -1,0 +1,23 @@
+<INSTRUCTIONS>
+
+I'd like you to write me {{number_of_sentences}} example English sentences that illustrate
+NUMBER in nouns, in particular SINGULAR, DUAL and PLURAL. English of course does
+not specifically mark DUAL, but in that case you would use "two" with the plural
+of the noun.
+
+Examples follow:
+
+SINGULAR:
+
+"The man arrived yesterday."
+
+DUAL:
+
+"I saw two sheep."
+
+PLURAL:
+
+"The dogs ran after the ball."
+
+{{general_guidelines}}
+</INSTRUCTIONS>

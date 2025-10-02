@@ -1,0 +1,72 @@
+<INSTRUCTIONS>
+<!--
+
+In this version we attempt to cumulate the morphosyntactic information, starting
+with word order.
+
+Rather than try to do the transformations in one step, ask the model to do one
+thing at a time --- manipulate the word order, add case marking, and so forth.
+
+Each time we give instructions about starting with an English original, and
+transforming it into the structure of the target language. For all subsequent
+steps beyond the first step, we feed it the original English text, and the most
+recent transformation, and tell it to construct its updated translation on the
+basis of the most recent transformation.
+
+-->
+
+We are going to develop a 'translator' for our ConLang, which will 'translate' from English sentences into an abstract language that has English content words, but may mark them with additional morphosyntactic information, and where the English phrases may be reordered.
+
+Morphosyntactic markers may show up as affixes or separate words. For affixes, our convention for marking suffixes is to place a dash before the affix, and for prefixes to place a dash after the affix:
+
+"-XXX" is a suffix: when one attaches "-XXX" to "word" one gets "word-XXX"
+"XXX-" is a prefix: when one attaches "XXX-" to "word" one gets "XXX-word"
+
+In this section we we will consider the nominal (noun) category of number marking.
+
+In the description below we will use suffixes for the sake of example, but a language may use either suffixes or prefixes to mark this information.
+
+A language may have no number marking ("NONE"), or it may distinguish:
+
+SING: Singular	(one)
+PLUR: Plural    (more than one)
+DUAL: Dual      (exactly two)
+PAUC: Paucal    (a few)
+
+Thus if the language marks PLUR as a suffix then "dogs" would translate to"dog-PLUR".
+If the language marks DUAL as a suffix then "two dogs" would become "dog-DUAL".
+If the language marks PAUC as a suffix then "a few dogs" would become "dog-PAUC".
+If the language is specified with "NONE" for number marking, then "dogs" would be left unmarked and translate as "dog".
+
+Our language has: "{{nominal_number}}" number marking, marked by "{{nominal_number_marking_strategy}}".
+
+<!-- (ct): paraphrased
+If the above number marking is not "NONE", then be sure to pay attention to
+whether the number markers are specified as prefixes or suffixes.
+-->
+If the above number marking is "NONE", then the language does not mark nominal number grammatically.
+
+Your task is to 'translate' the text under SAMPLE TEXT below. This text is itself a translation of an original text that you did on the previous round. This original text is given under ORIGINAL TEXT for your reference, but you should use the SAMPLE TEXT as the starting point.
+
+Any nouns you mark with number should be presented in their lemma form, except that you shouldn't remove negative affixes like "n't" from modal verbs! Thus "dogs-PLUR" should become "dog-PLUR".
+
+<!-- TODO(rws): Possibly omit the following instruction. -->
+<!-- (ct): omitted. -->
+<!-- Do not mark the articles "the" or "a" but rather omit these entirely. -->
+Do not change any affixes that have been added on a previous phase.
+
+Place a period at the end of each sentence, as in the original text. Don't forget to translate the title, if there is one. Downcase all content words, except proper names, which are to be left capitalized. Thus "Man" would become "man", "We" would become "we", but "John" would remain "John".
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE SAMPLE TEXT. THAT IS IF THE SAMPLE TEXT HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES, AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+# ORIGINAL TEXT BEGINS
+{{original_text}}
+# ORIGINAL TEXT ENDS
+
+# SAMPLE TEXT BEGINS
+{{previous_translation}}
+# SAMPLE TEXT ENDS
+
+Please put your response within <OUTPUT></OUTPUT> tags.
+
+</INSTRUCTIONS>

@@ -1,0 +1,47 @@
+In section {section_number} we will consider the verbal (verb) category of
+person agreement.
+
+Languages may mark person agreement on verbs for arguments such as subjects,
+objects or indirect objects.  By person, we mean things like first (1st) person
+singular for "I", second (2nd) person singular for "thou", third (3rd) person
+plural for "they" and so forth.
+
+A language might mark nominative subject agreement on the verb for example:
+
+1SGNOM:	   1st person singular nominative: E.g. "I leave" -> "I leave-1SGNOM"
+2SGNOM:	   2nd person singular nominative: E.g. "thou leavest" -> "thou leave-2SGNOM"
+3SGNOM:	   3rd person singular nominative: E.g. "John leaves" -> "John leave-3SGNOM"
+1PLNOM:	   1st person plural nominative:   E.g. "we leave" -> "we leave-1PLNOM"
+2PLNOM:	   2nd person plural nominative:   E.g. "ye leave" -> "ye leave-2PLNOM"
+3PLNOM:	   3rd person plural nominative:   E.g. "John and Mary leave" -> "John and Mary leave-3PLNOM"
+
+Similarly the language might mark accusative objects with person agreement or
+indirect objects. Just a couple of examples:
+
+1SGACC:	   1st person singular accusative: E.g. "leave me" -> "leave-1SGACC me"
+1SGDAT:	   1st person singular dative:     E.g. "give to me" -> "give-1SGDAT me"
+
+A language might mark just Nominative, Nominative and Accusative, or all three.
+
+In an Ergative-Absolutive language, 1SGERG, for example, would mark the
+situation where I am engaging in a transitive action, 1SGABS would obtain if
+the action is intransitive, or if I am the direct object of the action:
+
+1SGERG:	   1st person singular ergative: E.g. "I see" -> "I see-1SGERG"
+1SGABS:	   1st person singular ergative: E.g. "I run" -> "I run-1SGABS"; "see me" -> "see-1SGABS me"
+
+Please note the following important point: you should only head-mark a verb for
+an argument if the verb really has the argument in question. Thus
+
+"I leave-PRES-3SGERG-3SGABS John-ABS"
+
+where "John" is the subject would be WRONG, because the verb "leave" does not
+have an Ergative argument in this case!!!
+
+<!--
+
+Note that we use the same variable for head_marking and
+verbal_person_agreement.
+
+-->
+Our language marks "{{head_marking}}".

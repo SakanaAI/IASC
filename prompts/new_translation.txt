@@ -1,0 +1,44 @@
+You have created a language called {{language_name}}, and you have also written
+a short handbook of the grammar of that language.
+
+The handbook you wrote reads as follows:
+
+# BEGIN HANDBOOK
+{{handbook}}
+# END HANDBOOK
+
+As part of creating this language, you also provided a glossing "translation"
+from English into the morphosyntactic structure of the target language for the
+following text:
+
+# SAMPLE TEXT BEGINS
+{{sample_text}}
+# SAMPLE TEXT END
+
+Your translation was as follows:
+
+# BEGIN TRANSLATION
+{{translation}}
+# END TRANSLATION
+
+I would now like you to use this information to "translate" a new text, to be
+given below.
+
+As before please be sure to give content words in their lemma (dictionary)
+form. Please downcase all English words that are not obviously names:
+i.e. "From" should become "from", but "John" should be left as "John". Place a
+period at the end of each sentence, as in the English original. Don't forget to
+translate the title, if there is one. Downcase all content words, except proper
+names, which are to be left capitalized. Thus "Man" would become "man", but
+"John" would remain "John".
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE ORIGINAL FILE. THAT
+IS IF THE INPUT FILE HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES,
+AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN
+THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+# NEW_SAMPLE TEXT BEGINS
+{{new_sample_text}}
+# NEW_SAMPLE TEXT END
+
+Please put your response within <OUTPUT></OUTPUT> tags.

@@ -1,0 +1,91 @@
+<INSTRUCTIONS>
+<!--
+
+In this version we attempt to cumulate the morphosyntactic information, starting
+with word order.
+
+Rather than try to do the transformations in one step, ask the model to do one
+thing at a time --- manipulate the word order, add case marking, and so forth.
+
+Each time we give instructions about starting with an English original, and
+transforming it into the structure of the target language. For all subsequent
+steps beyond the first step, we feed it the original English text, and the most
+recent transformation, and tell it to construct its updated translation on the
+basis of the most recent transformation.
+
+-->
+
+We are going to develop a 'translator' for our ConLang, which will 'translate' from English sentences into an abstract language that has English content words, but may mark them with additional morphosyntactic information, and where the English phrases may be reordered.
+
+Morphosyntactic markers may show up as affixes or separate words. For affixes, our convention for marking suffixes is to place a dash before the affix, and for prefixes to place a dash after the affix:
+
+"-XXX" is a suffix: when one attaches "-XXX" to "word" one gets "word-XXX"
+"XXX-" is a prefix: when one attaches "XXX-" to "word" one gets "XXX-word"
+
+In this stage we will consider the verbal (verb) category of person agreement.
+
+Languages may mark person agreement on verbs for arguments such as subjects, objects or indirect objects.  By person, we mean things like first (1st) person singular for "I", second (2nd) person singular for "thou", third (3rd) person plural for "they" and so forth.
+
+In the description below we will use suffixes for the sake of example, but a language may use either suffixes or prefixes to mark this information.
+
+A language might mark nominative subject agreement on the verb for example:
+
+1SGNOM:	   1st person singular nominative: E.g. "I leave" -> "I leave-1SGNOM"
+2SGNOM:	   2nd person singular nominative: E.g. "thou leavest" -> "thou leave-2SGNOM"
+3SGNOM:	   3rd person singular nominative: E.g. "John leaves" -> "John leave-3SGNOM"
+1PLNOM:	   1st person plural nominative:   E.g. "we leave" -> "we leave-1PLNOM"
+2PLNOM:	   2nd person plural nominative:   E.g. "ye leave" -> "ye leave-2PLNOM"
+3PLNOM:	   3rd person plural nominative:   E.g. "John and Mary leave" -> "John and Mary leave-3PLNOM"
+
+Similarly the language might mark accusative objects with person agreement or indirect objects. Just a couple of examples:
+
+1SGACC:	   1st person singular accusative: E.g. "leave me" -> "leave-1SGACC me"
+1SGDAT:	   1st person singular dative:     E.g. "give to me" -> "give-1SGDAT me"
+
+A language might mark just Nominative, Nominative and Accusative, or all three.
+
+In an Ergative-Absolutive language, 1SGERG, for example, would mark the situation where I am engaging in a transitive action, 1SGABS would obtain if the action is intransitive, or if I am the direct object of the action:
+
+1SGERG:	   1st person singular ergative: E.g. "I see" -> "I see-1SGERG"
+1SGABS:	   1st person singular ergative: E.g. "I run" -> "I run-1SGABS"; "see me" -> "see-1SGABS me"
+
+Please note the following important point: you should only head-mark a verb for an argument if the verb really has the argument in question. Thus "I leave-PRES-3SGERG-3SGABS John-ABS" where "John" is the subject would be WRONG, because the verb "leave" does not have an Ergative argument in this case!!!
+
+<!--
+
+Note that we use the same variable for head_marking and
+verbal_person_agreement.
+
+-->
+<!-- (ct): Wording changed to the below version Our language marks "{{head_marking}}". -->
+Our language marks "{{person_agreement}}" for verbal person agreement marked by "{{person_marking_strategy}}", and makrs "{{verbal_number_agreement}}" for verbal number agreement marked by "{{verbal_number_marking_strategy}}".
+
+If the above specifications are "NONE", then our language does not mark any person/number agreement.
+
+NOTE: ANY MARKINGS YOU ADD HERE ARE ON VERBS, NOT ON NOUNS!!!!
+
+Your task is to 'translate' the text under SAMPLE TEXT below. This text is itself a translation of an original text that you did on the previous round. This original text is given under ORIGINAL TEXT for your reference, but you should use the SAMPLE TEXT as the starting point.
+
+Please be sure to give content words in their lemma (dictionary) form, except that you shouldn't remove negative affixes like "n't" from modal verbs!
+
+<!-- TODO(rws): Possibly omit the following instruction. -->
+<!-- (ct): omitted.
+Do not mark the articles "the" or "a" but rather omit these entirely.
+-->
+Do not change any affixes that have been added on a previous phase.
+
+Place a period at the end of each sentence, as in the original text. Don't forget to translate the title, if there is one. Downcase all content words, except proper names, which are to be left capitalized. Thus "Man" would become "man", "We" would become "we", but "John" would remain "John".
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE SAMPLE TEXT. THAT IS IF THE SAMPLE TEXT HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES, AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+# ORIGINAL TEXT BEGINS
+{{original_text}}
+# ORIGINAL TEXT ENDS
+
+# SAMPLE TEXT BEGINS
+{{previous_translation}}
+# SAMPLE TEXT ENDS
+
+Please put your response within <OUTPUT></OUTPUT> tags.
+
+</INSTRUCTIONS>

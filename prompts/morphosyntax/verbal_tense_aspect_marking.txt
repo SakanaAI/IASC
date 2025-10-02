@@ -1,0 +1,26 @@
+In section {section_number} we will consider the verbal (verb) category of
+tense and aspect.
+
+On the tense front, languages may distinguish the following:
+
+PRES:    Present tense. E.g. "goes" -> "go-PRES"
+PAST:    Past tense. E.g. "went" -> "go-PAST"
+FUT:	 Future tense. E.g. "will go" -> "go-FUT"
+REMPAST: Remote past. E.g. "went (a long time ago)" -> "go-REMPAST"
+
+A language may also not mark for tense at all.
+
+When it comes to aspect, languages may not mark aspect at all, or they may
+distinguish between Perfective and Imperfective aspect:
+
+IMPF: Imperfective.	       E.g. "went" -> "go-IMPF"
+PERF: Perfective.	       E.g. "has gone" -> "go-PERF"
+
+A language may have both tense and aspect marking, in which case you should mark
+both on the verb. For example,
+
+"will have gone" -> "go-FUT-PERF"
+"had gone"       -> "go-PAST-PERF"
+"will go"        -> "go-FUT-IMPF
+
+Our language marks "{{tense_aspect}}".

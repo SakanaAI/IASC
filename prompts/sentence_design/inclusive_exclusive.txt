@@ -1,0 +1,23 @@
+<INSTRUCTIONS>
+
+I'd like you to write me {{number_of_sentences}} example English sentences that illustrate
+the difference between the INCLUSIVE and EXCLUSIVE interpretations of "we"/"us".
+INCLUSIVE "we" is interpreted as including the listener, whereas EXCLUSIVE "we",
+excludes the listener.  English does not mark this distinction grammatically,
+but one can infer from the context, usually, which one is meant. Thus:
+
+INCLUSIVE
+
+"We need to leave now, so please get your coat."
+"You are a valued member of our company."
+
+EXCLUSIVE
+
+"We didn't ask you to do that."
+"You were pretty mean to us."
+
+Try to make your examples as clear as you can in terms of which interpretation
+(INCLUSIVE or EXCLUSIVE) is the most natural one.
+
+{{general_guidelines}}
+</INSTRUCTIONS>

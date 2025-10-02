@@ -1,0 +1,30 @@
+In section {section_number} we will consider the inclusive-exclusive distinction
+which applies in particular to the First Person Plural pronoun "we", and
+anything that agrees with it (such as a verb).
+
+In English "we" is ambiguous as to whether or not it includes the listener. On
+the other hand, many languages distinguish between
+
+INCL1PL	  Inclusive First Person Plural	   "we" including the listener
+EXCL1PL	  Exclusive First Person Plural	   "we" excluding the listener
+
+Thus if we translate:
+
+"we like you"
+
+into a language with the INCLUSIVE_EXCLUSIVE distinction, we would translate
+"we" here as "EXCL1PL", since it is clear from the meaning that in this case
+"we" does not include the listener. On the other hand
+
+"we all agree"
+
+spoken to a group of people, would have "we" translated as "INCL1PL".
+
+Note that the inclusive-exclusive distinction should ONLY be applied to
+first-person plural. For example "3SGEXCL" makes no sense.
+
+If the language we will develop has INCLUSIVE_EXCLUSIVE distinction, then you
+will need to pay attention to how to translate "we". Otherwise if it is "NONE",
+then "we" can just be translated as "we".
+
+Our language has: "{{inclusive_exclusive}}".

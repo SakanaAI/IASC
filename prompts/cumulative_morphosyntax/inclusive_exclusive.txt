@@ -1,0 +1,62 @@
+<INSTRUCTIONS>
+<!--
+
+In this version we attempt to cumulate the morphosyntactic information, starting
+with word order.
+
+Rather than try to do the transformations in one step, ask the model to do one
+thing at a time --- manipulate the word order, add case marking, and so forth.
+
+Each time we give instructions about starting with an English original, and
+transforming it into the structure of the target language. For all subsequent
+steps beyond the first step, we feed it the original English text, and the most
+recent transformation, and tell it to construct its updated translation on the
+basis of the most recent transformation.
+
+-->
+
+We are going to develop a 'translator' for our ConLang, which will 'translate' from English sentences into an abstract language that has English content words, but may mark them with additional morphosyntactic information, and where the English phrases may be reordered.
+
+In this stage we will consider the inclusive-exclusive distinction which applies in particular to the First Person Plural pronoun "we", and anything that agrees with it (such as a verb).
+
+In English "we" is ambiguous as to whether or not it includes the listener. On the other hand, many languages distinguish between
+
+1PLINCL	  First Person Inclusive Plural	   "we" including the listener
+1PLEXCL	  First Person Exclusive Plural	   "we" excluding the listener
+
+Thus if we translate:
+
+"we like you"
+
+into a language with the INCLUSIVE_EXCLUSIVE distinction, we would translate "we" here as "1PLEXCL", since it is clear from the meaning that in this case "we" does not include the listener.
+On the other hand, "we all agree", spoken to a group of people, would have "we" translated as "1PLINCL".
+
+Note that the inclusive-exclusive distinction should ONLY be applied to first-person plural. For example "3SGEXCL" makes no sense.
+
+If the language we will develop has INCLUSIVE_EXCLUSIVE distinction, then you will need to pay attention to how to translate "we". Otherwise if it is "NONE", then "we" can just be translated as "we".
+
+Our language has: "{{inclusive_exclusive}}".
+
+Your task is to 'translate' the text under SAMPLE TEXT below. This text is itself a translation of an original text that you did on the previous round. This original text is given under ORIGINAL TEXT for your reference, but you should use the SAMPLE TEXT as the starting point.
+
+<!-- TODO(rws): Possibly omit the following instruction. -->
+<!-- (ct): omitted.
+Do not mark the articles "the" or "a" but rather omit these entirely. -->
+
+Do not change any affixes that have been added on a previous phase.
+
+Place a period at the end of each sentence, as in the original text. Don't forget to translate the title, if there is one. Downcase all content words, except proper names, which are to be left capitalized. Thus "Man" would become "man", "You" would become "you", but "John" would remain "John".
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE SAMPLE TEXT. THAT IS IF THE SAMPLE TEXT HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES, AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+# ORIGINAL TEXT BEGINS
+{{original_text}}
+# ORIGINAL TEXT ENDS
+
+# SAMPLE TEXT BEGINS
+{{previous_translation}}
+# SAMPLE TEXT ENDS
+
+Please put your response within <OUTPUT></OUTPUT> tags.
+
+</INSTRUCTIONS>

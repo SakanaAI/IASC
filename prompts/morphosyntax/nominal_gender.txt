@@ -1,0 +1,34 @@
+In section {section_number} we will consider the nominal (noun) category of
+gender.
+
+Many languages have grammatical gender, as distinct from the natural gender
+exhibited in English. Well-known examples include Masculine-Feminine gender
+systems of Romance languages; the Masculine-Feminine-Neuter system of German or
+Russian; or the Common-Neuter system in Dutch or in some Scandinavian
+languages. Many languages of Africa have non-sex-based gender systems. Since
+sex-based systems are the majority (75% of the sample of gendered languages in
+the World Atlas of Language Structures), we will assume a gender-based
+system. Options are:
+
+MASC:	Masculine:	E.g. John-MASC, pumpkin-MASC
+FEM:	Feminine:	E.g. Sally-FEM, sea-FEM
+NEUT:	Neuter:		E.g. snake-NEUT
+COMM:	Common gender:	E.g. John-COMM, Sally-COMM
+
+The following gendered systems are possible:
+
+1. MASC, FEM
+2. MASC, FEM, NEUT
+3. COMMON, NEUT
+
+For personal names, gender appropriate affixes should be chosen. For common
+nouns, since English does not have gender, you will have to make a decision as
+to what gender to assign to the noun: be creative, but be consistent!
+
+In many languages that have gender, adjectives may agree in gender with nouns
+they modify or are predicated of.
+
+As with other affixes, we assume that gender affixes can occur as either
+suffixes or prefixes, so pay attention to the position of the "-".
+
+Our language marks "{{gender_marking}}".

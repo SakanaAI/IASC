@@ -1,0 +1,2512 @@
+k ɛ ŋ ˥ . h ɔ m ˨ ˦ </s>
+k ɔ k ̚ ˩ . h ɔ ŋ ˧ ˧ ˨ </s>
+p ʰ a j ˥ </s>
+k ʰ e ŋ ˩ . m u ŋ ˧ ˧ ˨ . h ɤ ː ˥ </s>
+k ɤ ː ˨ ˦ . s ʰ a ː j ˥ </s>
+p u ː ˥ </s>
+n a ː ŋ ˥ . t a ː ˦ ˨ ˀ </s>
+t ʰ a ː n ˨ ˦ </s>
+k ɔ ː ˦ ˨ ˀ . h u ː ˦ ˨ ˀ . t ͡ ɕ a k ̚ ˥ </s>
+p a t ̚ ˧ ˧ ˨ . t a ˨ ˦ . l a ː ˥ </s>
+s ʰ o n ˨ ˦ </s>
+s ʰ a m ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o m ˧ ˧ ˨ . k ɔ m ˥ </s>
+k o n ˥ . t a p ̚ ˦ ˨ ˀ . k a ː ŋ ˨ ˦ . h a ː w ˨ ˦ </s>
+s ʰ o j ˩ . t a ˨ ˦ . k u ŋ ˩ </s>
+k a ː n ˨ ˦ . h e t ̚ ˥ . l e n ˧ ˧ ˨ </s>
+k o n ˥ . p ʰ a ː n ˨ ˦ </s>
+t ͡ ɕ a ˨ ˦ . l a ː ŋ ˥ </s>
+k a m ˥ . k a m ˥ </s>
+k ɔ t ̚ ˩ . h ɔ m ˧ ˧ ˨ </s>
+k o n ˥ . s ʰ o j ˥ . s ʰ ɛ ŋ ˨ ˦ </s>
+n i ː ˦ ˨ ˀ . m i k ̚ ˧ ˧ ˨ </s>
+k a w ˧ ˧ ˨ . k ʰ o n ˨ ˦ . h o ː ˨ ˦ </s>
+s ʰ u ŋ ˥ </s>
+t a ˨ ˦ . n a ŋ ˥ . l a ː ˩ </s>
+n a m ˦ ˨ ˀ . m e n ˨ ˦ </s>
+n a m ˦ ˨ ˀ . k ʰ ɔ ː ˦ ˨ ˀ </s>
+t i n ˨ ˦ </s>
+ʔ i ŋ ˥ . k a ˨ ˦ . l e t ̚ ˧ ˧ ˨ </s>
+k ɔ n ˧ ˧ ˨ . k ʰ a w ˧ ˧ ˨ </s>
+k o n ˥ . h e t ̚ ˥ . n a ŋ ˨ ˦ </s>
+t ͡ ɕ a ː m ˥ </s>
+n a m ˦ ˨ ˀ . m a n ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ e w ˧ ˧ ˨ </s>
+k a ː ˧ ˧ ˨ . n ɤ ː ˨ ˦ </s>
+p u k ̚ ˧ ˧ ˨ . t a ˨ ˦ . h u ː ˥ </s>
+l u n ˩ </s>
+k o ŋ ˨ ˦ . m a j ˦ ˨ ˀ </s>
+k u ː ˧ ˧ ˨ . t ͡ ɕ ɤ ː ˦ ˨ ˀ . k u ː ˧ ˧ ˨ . p ɤ ŋ ˨ ˦ </s>
+s ʰ u k ̚ ˧ ˧ ˨ </s>
+k a ː ˧ ˧ ˨ . n a j ˦ ˨ ˀ </s>
+t a ː ŋ ˥ . h u ː ˦ ˨ ˀ </s>
+l ɛ n ˨ ˦ </s>
+k ʰ i ŋ ˩ . h ɛ ŋ ˧ ˧ ˨ </s>
+f o n ˨ ˦ </s>
+k u n ˨ ˦ . ʔ e ː ˥ . ʃ a ː ˥ </s>
+k o n ˥ . l ɤ ː ˧ ˧ ˨ . m a j ˦ ˨ ˀ </s>
+k ʰ e ŋ ˧ ˧ ˨ . t ͡ ɕ ɤ k ̚ ˧ ˧ ˨ </s>
+t ͡ ɕ e ː ˩ . t i ː ˩ </s>
+k ɔ ː ˩ . m a ˨ ˦ . t i ː ˩ </s>
+k a ː ˧ ˧ ˨ . p ɔ ː ˥ </s>
+k o n ˥ . l i p ̚ ˥ </s>
+t o n ˧ ˧ ˨ . m a j ˦ ˨ ˀ </s>
+t ͡ ɕ ɔ j ˧ ˧ ˨ . t ʰ ɛ m ˨ ˦ </s>
+k o n ˥ . l u ː ˨ ˦ . l i k ̚ ˧ ˧ ˨ </s>
+k ɔ n ˧ ˧ ˨ . l i n ˨ ˦ </s>
+l a p ̚ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ n ˧ ˧ ˨ </s>
+k ʰ ɤ ŋ ˨ ˦ . t ɔ ŋ ˥ </s>
+t ɔ ŋ ˩ . s ʰ u ː ˩ </s>
+p ɤ ŋ ˩ </s>
+k a ː ˩ . m a ˨ ˦ . t a n ˩ . n a ː ˩ </s>
+l a m ˩ . l ɔ ŋ ˧ ˧ ˨ </s>
+h ɛ ː ˦ ˨ ˀ . k a ŋ ˧ ˧ ˨ </s>
+k ɛ n ˩ . t ͡ ɕ a w ˧ ˧ ˨ </s>
+n a ŋ ˨ ˦ </s>
+t a ˨ ˦ . m a ː n ˩ </s>
+k a m ˨ ˦ . t o ː ˨ ˦ . k a m ˨ ˦ . t ͡ ɕ a ɰ ˨ ˦ </s>
+k ɔ n ˧ ˧ ˨ . n a m ˦ ˨ ˀ . ʔ ɔ j ˧ ˧ ˨ </s>
+k a ː n ˨ ˦ . p a ː j ˥ . m ɤ ŋ ˥ </s>
+k ʰ a ː ŋ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ t ̚ ˩ </s>
+l ɛ w ˥ </s>
+k ʰ e ː ˩ . m ɔ t ̚ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɤ ː ˥ . l a j ˧ ˧ ˨ . k i n ˨ ˦ </s>
+k a ː p ̚ ˧ ˧ ˨ . k i n ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o p ̚ ˦ ˨ ˀ . k u ː ˧ ˧ ˨ </s>
+p ʰ ɔ j ˦ ˨ ˀ </s>
+s ʰ a w ˨ ˦ . p a ː n ˥ . l ɛ ː ˥ </s>
+t ͡ ɕ a w ˧ ˧ ˨ . p ʰ r a ː ˥ </s>
+k o ŋ ˦ ˨ ˀ </s>
+t ͡ ɕ a ː j ˥ </s>
+k o m ˥ </s>
+k a ː ˧ ˧ ˨ . p ɛ ŋ ˥ </s>
+k u ː ˧ ˧ ˨ . m ɤ ŋ ˥ . m ɤ ŋ ˥ </s>
+k o n ˥ . t ɛ m ˧ ˧ ˨ . h a ː ŋ ˧ ˧ ˨ </s>
+k a ː ˥ . t a ː ŋ ˩ . k u n ˩ </s>
+k u ː ˧ ˧ ˨ </s>
+k ʰ ɔ ŋ ˨ ˦ . t ɛ ː ˦ ˨ ˀ . k ʰ ɔ ŋ ˨ ˦ . w a ː ˧ ˧ ˨ </s>
+j ɛ k ̚ ˦ ˨ ˀ </s>
+k ɔ n ˥ . p ʰ u ː ˧ ˧ ˨ . h a ː n ˨ ˦ </s>
+t ͡ ɕ a w ˧ ˧ ˨ . h a w ˥ </s>
+k i n ˨ ˦ . k ʰ i ː ˧ ˧ ˨ . ŋ ɯ n ˥ </s>
+n ɛ ŋ ˩ </s>
+k a ː ŋ ˦ ˨ ˀ . p ʰ ɤ ŋ ˥ </s>
+m a ˨ ˦ . l ɛ ŋ ˩ </s>
+k o n ˥ . t ʰ u k ̚ ˩ . n i ː ˧ ˧ ˨ </s>
+k i w ˩ . w e ŋ ˥ </s>
+m e ː ˥ </s>
+k o n ˥ . p a ɰ ˦ ˨ ˀ . s ʰ o ː ˥ </s>
+k ɔ m ˩ </s>
+f i n ˩ </s>
+m r a ː t ̚ ˧ ˧ ˨ </s>
+ʔ a n ˩ . t a ˨ ˦ . r ɛ ː ˩ </s>
+k ʰ a w ˧ ˧ ˨ . k ʰ ɛ m ˧ ˧ ˨ </s>
+k a ː ˨ ˦ . k ʰ o ː ˩ </s>
+k o n ˥ . t o k ̚ ˥ . t ʰ ɔ ŋ ˩ </s>
+n o m ˥ </s>
+k ʰ i ː ˧ ˧ ˨ . k ʰ a ː n ˦ ˨ ˀ </s>
+k a ː n ˨ ˦ . p a ː j ˥ . s ʰ ɯ k ̚ ˥ </s>
+k ʰ e ː ˥ . k ʰ e ː ˥ </s>
+j e ː ˥ . ŋ ɯ n ˥ </s>
+k o n ˥ . t o j ˥ . l u k ̚ ˧ ˧ ˨ . ʔ ɔ n ˩ </s>
+k o n ˥ . ʔ ɯ p ̚ ˥ </s>
+s ʰ a ˨ ˦ . p a ː ˩ . p a ˨ ˦ . t i ː ˦ ˨ ˀ </s>
+k ʰ a ː ˨ ˦ </s>
+d ͡ ʑ u ː ˩ . l a ː j ˩ </s>
+k a m ˧ ˧ ˨ . p ʰ ɔ ŋ ˧ ˧ ˨ </s>
+k ɔ n ˩ </s>
+k o n ˥ . p ɛ t ̚ ˧ ˧ ˨ . l a ː j ˨ ˦ </s>
+k o n ˥ . k a j ˦ ˨ ˀ </s>
+k ʰ ɔ ŋ ˩ . n u m ˩ </s>
+k ʰ a ː ˧ ˧ ˨ . t ͡ ɕ a w ˧ ˧ ˨ . p ʰ r a ː ˥ </s>
+k a j ˩ . k ʰ a ː ˨ ˦ </s>
+k ɛ m ˨ ˦ </s>
+k i n ˨ ˦ . k a n ˨ ˦ </s>
+k o n ˥ . p ɛ t ̚ ˦ ˨ ˀ . k o n ˥ . l ɛ n ˨ ˦ </s>
+l ɤ n ˨ ˦ . s ʰ i p ̚ ˥ . s ʰ ɔ ŋ ˨ ˦ </s>
+k e p ̚ ˥ . k ɔ k ̚ ˧ ˧ ˨ . k e p ̚ ˥ . k a ː ŋ ˨ ˦ </s>
+ʔ ɛ k ̚ ˦ ˨ ˀ . k ʰ a ˨ ˦ . r a ː ˩ </s>
+k ɔ ː ˦ ˨ ˀ . m ɯ ː ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ ŋ ˦ ˨ ˀ </s>
+s ʰ a ː w ˥ . ʔ e t ̚ ˥ </s>
+k u ː ˧ ˧ ˨ . m ɯ ː ˦ ˨ ˀ . k u ː ˧ ˧ ˨ . w a n ˥ </s>
+k ʰ o ː ˨ ˦ . k ʰ i k ̚ ˥ . k ʰ i k ̚ ˥ </s>
+k ɔ ː ˦ ˨ ˀ . m a ː j ˨ ˦ </s>
+s ʰ a ˨ ˦ . w a ː k ̚ ˧ ˧ ˨ . s ʰ a ː ˩ </s>
+k ʰ a w ˧ ˧ ˨ . p ʰ a ː ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɤ k ̚ ˧ ˧ ˨ </s>
+k ʰ ɔ ŋ ˧ ˧ ˨ . k ʰ a j ˩ </s>
+k ɔ t ̚ ˥ . p ʰ a ː n ˨ ˦ </s>
+k ʰ ɔ k ̚ ˧ ˧ ˨ . m a ː ˦ ˨ ˀ </s>
+t ͡ ɕ a ˨ ˦ . p r i ŋ ˩ </s>
+k o n ˥ . m ɛ ː ˥ . t ͡ ɕ a ː k ̚ ˧ ˧ ˨ </s>
+k ʰ ɔ ː ˥ </s>
+m a ˨ ˦ . h a ː ˩ . m i k ̚ ˧ ˧ ˨ </s>
+k ɔ k ̚ ˥ . p ʰ a ː n ˩ </s>
+k a m ˥ . n ɯ ŋ ˧ ˧ ˨ </s>
+k u m ˩ . k ʰ e t ̚ ˩ </s>
+k a ː k ̚ ˩ . m ɔ k ̚ ˥ </s>
+k ʰ ɛ k ̚ ˩ . k ʰ a m ˨ ˦ . h ɤ n ˥ </s>
+ɲ a ː m ˥ </s>
+k ɔ n ˥ . t ͡ ɕ ɛ ː ˧ ˧ ˨ . m ɤ ŋ ˥ </s>
+k a ː ˧ ˧ ˨ . t ͡ ɕ a ː ŋ ˧ ˧ ˨ </s>
+k u j ˨ ˦ </s>
+p ʰ a ː ˧ ˧ ˨ . k ʰ i k ̚ ˧ ˧ ˨ . p ʰ a ː ˧ ˧ ˨ . k ɔ ŋ ˦ ˨ ˀ </s>
+k ʰ o ŋ ˥ . n a ɰ ˥ </s>
+k ɛ ː ˩ . s ʰ ɛ ː ˩ </s>
+k i n ˨ ˦ . k ʰ a w ˧ ˧ ˨ . k i n ˨ ˦ . n a m ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k i n ˩ . l a ː ˩ </s>
+l u m ˧ ˧ ˨ . p ʰ a ː ˦ ˨ ˀ </s>
+k ʰ ɔ k ̚ ˧ ˧ ˨ . l ɔ k ̚ ˧ ˧ ˨ </s>
+k o n ˥ . j i ŋ ˥ </s>
+k ʰ u ŋ ˩ </s>
+k a j ˩ . p ʰ u ː ˧ ˧ ˨ </s>
+k ʰ u ŋ ˩ . t ͡ ɕ e n ˩ </s>
+k o j ˧ ˧ ˨ . s ʰ o m ˧ ˧ ˨ </s>
+m ɤ ŋ ˥ . ʔ i ŋ ˩ . k a ˨ ˦ . l a n ˩ </s>
+p ɛ t ̚ ˩ </s>
+t ͡ ɕ ɔ m ˨ ˦ . t ͡ ɕ ɯ ŋ ˧ ˧ ˨ </s>
+m e w ˥ </s>
+k o ŋ ˨ ˦ . l ɔ j ˨ ˦ </s>
+k ʰ a w ˧ ˧ ˨ </s>
+k a ˨ ˦ . n a ː n ˥ </s>
+k o n ˥ . t ʰ a ː k ̚ ˩ . m a ː k ̚ ˩ . h i n ˨ ˦ </s>
+t ɤ ŋ ˥ </s>
+k ɔ k ̚ ˥ . l i n ˨ ˦ </s>
+k ɔ ː ˦ ˨ ˀ . k a n ˨ ˦ </s>
+k ʰ u k ̚ ˦ ˨ ˀ . t ͡ ɕ a ɰ ˨ ˦ </s>
+s ʰ o ː ˥ </s>
+k ʰ ɛ ŋ ˨ ˦ </s>
+s ʰ e ː ˥ . l i k ̚ ˦ ˨ ˀ </s>
+ʔ i ŋ ˩ . s ʰ a n ˩ </s>
+k ɔ ː ˨ ˦ </s>
+ʔ a ˨ ˦ . p ʰ i k ̚ ˧ ˧ ˨ . s ʰ a ː ˩ </s>
+k a ː ˥ </s>
+k ʰ a ː ˩ . k ɛ ː ˩ </s>
+k u ː ˧ ˧ ˨ . t ͡ ɕ o ː ˧ ˧ ˨ . k u ː ˧ ˧ ˨ . p a ː n ˨ ˦ </s>
+k ʰ ɔ ŋ ˨ ˦ . m a n ˥ </s>
+k a ˨ ˦ . r i ˨ ˦ . j a ː ˩ </s>
+ʔ ɔ ː ˥ . k a ː t ̚ ˦ ˨ ˀ </s>
+s ʰ r a ː ˩ . t ɔ ː ˩ </s>
+k a n ˩ </s>
+k ʰ o ŋ ˩ </s>
+j a ː ˧ ˧ ˨ </s>
+k a ː ˥ . t ͡ ɕ i p ̚ ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ u k ̚ ˥ </s>
+t a ː j ˨ ˦ </s>
+m a ː ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɔ ː ˥ . k ʰ a t ̚ ˥ . k ʰ ɔ ː ˥ . k ʰ ɛ ŋ ˨ ˦ </s>
+k u k ̚ ˧ ˧ ˨ . m a ː ˦ ˨ ˀ </s>
+k a t ̚ ˦ ˨ ˀ . k ʰ ɛ n ˩ </s>
+k ʰ i ː ˧ ˧ ˨ . m i n ˦ ˨ ˀ </s>
+ʔ a ˨ ˦ . k ɔ k ̚ ˧ ˧ ˨ </s>
+t ʰ a ː t ̚ ˧ ˧ ˨ </s>
+k a ː p ̚ ˩ . m ɤ ː ˧ ˧ ˨ </s>
+m u ː ˥ . s ʰ ɤ ː ˥ </s>
+k ɔ ŋ ˥ . m u ː ˥ </s>
+ʔ a ˨ ˦ . m j ɔ k ̚ ˧ ˧ ˨ </s>
+k o n ˥ . s ʰ u k ̚ ˦ ˨ ˀ . j u ŋ ˧ ˧ ˨ </s>
+k a w ˧ ˧ ˨ </s>
+t o n ˧ ˧ ˨ . k a ː w ˥ </s>
+k ɔ ː ˦ ˨ ˀ . h a k ̚ ˦ ˨ ˀ </s>
+m ɛ ː ˧ ˧ ˨ . n a m ˦ ˨ ˀ </s>
+k a p ̚ ˥ . n ɤ ŋ ˥ </s>
+k o n ˥ . m i ː ˥ . h ɛ ŋ ˥ </s>
+n u ŋ ˥ </s>
+k a ː ˧ ˧ ˨ . t i ː ˧ ˧ ˨ </s>
+t o n ˧ ˧ ˨ . k a ː ˧ ˧ ˨ </s>
+k a ː n ˨ ˦ . p ʰ u ː ˧ ˧ ˨ . t ͡ ɕ ɔ p ̚ ˩ </s>
+k a ː ˨ ˦ . w a ː w ˩ </s>
+p ʰ u ː ˧ ˧ ˨ . l a k ̚ ˦ ˨ ˀ </s>
+k u n ˨ ˦ . s ʰ a ː j ˥ </s>
+k a m ˧ ˧ ˨ . ʔ a w ˨ ˦ . w a ː ˧ ˧ ˨ </s>
+k o n ˥ . k ʰ a ː w ˦ ˨ ˀ </s>
+k a j ˩ . k ʰ a n ˨ ˦ </s>
+k ʰ a ː ˦ ˨ ˀ </s>
+j e ː ˩ . s ʰ u ː ˦ ˨ ˀ </s>
+k ʰ o ŋ ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a ː ŋ ˥ . l ɔ t ̚ ˧ ˧ ˨ </s>
+ɲ ɔ ŋ ˩ </s>
+k o ŋ ˨ ˦ . s ʰ o p ̚ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o t ̚ ˦ ˨ ˀ . m ɛ ː ˧ ˧ ˨ . j i ŋ ˥ </s>
+k ʰ ɔ k ̚ ˧ ˧ ˨ . l e k ̚ ˥ . k ʰ ɔ k ̚ ˧ ˧ ˨ . t ʰ a ː ŋ ˩ </s>
+k ʰ ɯ k ̚ ˦ ˨ ˀ . l ɯ k ̚ ˦ ˨ ˀ </s>
+k a ː j ˩ . k w a ː m ˥ </s>
+k ɔ p ̚ ˧ ˧ ˨ . p ɤ ː ˧ ˧ ˨ </s>
+k a ː ˧ ˧ ˨ . h ɯ ː ˨ ˦ </s>
+j u t ̚ ˧ ˧ ˨ </s>
+s ʰ u ː ˥ </s>
+k ʰ ɔ k ̚ ˧ ˧ ˨ . m a ː ˨ ˦ </s>
+m a ː k ̚ ˩ . j a ː n ˥ . t i ː ˥ </s>
+k ʰ ɔ k ̚ ˩ . l ɛ n ˨ ˦ . m ɤ ŋ ˥ </s>
+ʔ a ˨ ˦ . t ͡ ɕ a ː ˩ . r a ː ˦ ˨ ˀ </s>
+m ɤ ː ˧ ˧ ˨ . l a ɰ ˨ ˦ . s ʰ e ː ˨ ˦ . ʔ a m ˩ . w a ː ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a ː k ̚ ˧ ˧ ˨ </s>
+k ʰ ɔ ː ˥ . ʔ ɤ m ˥ </s>
+k o n ˥ . t ɔ ː ˩ . t o ː ˨ ˦ </s>
+k ɛ ː ˥ . n a m ˦ ˨ ˀ </s>
+k ʰ a ː ŋ ˧ ˧ ˨ . l a ː j ˥ </s>
+k ɔ n ˧ ˧ ˨ . k ʰ a j ˨ ˦ </s>
+k u ː ˩ . l i k ̚ ˧ ˧ ˨ </s>
+t ɔ ŋ ˥ . l a ː n ˥ </s>
+k o n ˥ . n u m ˩ </s>
+k ʰ ɛ ŋ ˥ </s>
+k ʰ a ː ŋ ˦ ˨ ˀ . k ʰ a ː k ̚ ˧ ˧ ˨ </s>
+k o n ˥ . k ʰ a ː n ˦ ˨ ˀ </s>
+k i ŋ ˧ ˧ ˨ . k ɤ k ̚ ˩ </s>
+k ʰ ɤ ŋ ˧ ˧ ˨ </s>
+k a w ˥ . k a n ˨ ˦ </s>
+t ͡ ɕ e ŋ ˩ . l ɛ m ˨ ˦ </s>
+p a ː n ˥ . s ʰ e ː ˥ </s>
+k o n ˥ . m ɤ ŋ ˥ </s>
+s ʰ i ː ˨ ˦ . l ɛ ŋ ˨ ˦ </s>
+k a m ˧ ˧ ˨ . n a m ˨ ˦ </s>
+k ʰ i ː ˧ ˧ ˨ . ŋ ɯ n ˥ </s>
+t ͡ ɕ a ː ŋ ˨ ˦ </s>
+k ʰ ɔ k ̚ ˩ . m u ː ˨ ˦ </s>
+k a m ˥ . s ʰ ɯ ː ˧ ˧ ˨ </s>
+k i ŋ ˥ </s>
+k o n ˥ . k ɛ ː ˩ </s>
+k u m ˥ </s>
+k ʰ ɔ ː ˥ . k i w ˩ </s>
+k ʰ ɯ ŋ ˧ ˧ ˨ . k a ː ŋ ˨ ˦ </s>
+k o n ˥ . t ɛ m ˧ ˧ ˨ . l i k ̚ ˧ ˧ ˨ </s>
+k o m ˧ ˧ ˨ . h o ː ˨ ˦ </s>
+k a ˨ ˦ . l a ː ˥ . ʔ u k ̚ ˦ ˨ ˀ </s>
+k ɔ ŋ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɯ t ̚ ˥ . t a ː ŋ ˥ . l a ŋ ˨ ˦ </s>
+k ʰ ɔ ŋ ˨ ˦ . s ʰ u ː ˨ ˦ </s>
+p a n ˨ ˦ . h ɛ ŋ ˥ </s>
+k a ː ˥ . t a ː ŋ ˩ . k ʰ i ː ˧ ˧ ˨ . j ɤ ː ˧ ˧ ˨ </s>
+k ɔ k ̚ ˥ . t ɔ ŋ ˥ . l ɤ ŋ ˨ ˦ </s>
+ʔ a ː ˩ . k a ː ˩ . s ʰ a ː ˦ ˨ ˀ </s>
+k o n ˥ . h e t ̚ ˥ . h ɤ n ˥ </s>
+l u ŋ ˥ </s>
+k u ː ˧ ˧ ˨ . ʔ a n ˨ ˦ </s>
+k a ː ˥ . t a ː ŋ ˩ . j u k ̚ ˥ . j a k ̚ ˥ </s>
+n i w ˦ ˨ ˀ </s>
+k ɛ w ˧ ˧ ˨ . s ʰ ɛ ŋ ˨ ˦ </s>
+k o ː ˨ ˦ . h ɛ ː ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɛ ː ˨ ˦ . p ʰ e ː ˥ </s>
+k ʰ a ː ˧ ˧ ˨ . l a k ̚ ˦ ˨ ˀ . j a ː ˦ ˨ ˀ </s>
+k u ŋ ˥ </s>
+k a n ˩ . t ɔ ː ˥ </s>
+k a ː p ̚ ˧ ˧ ˨ . m a ɰ ˩ </s>
+ʔ a ˨ ˦ . m u ː ˦ ˨ ˀ </s>
+k a n ˦ ˨ ˀ . k ʰ a t ̚ ˥ . t ͡ ɕ a ɰ ˨ ˦ </s>
+t ͡ ɕ i ː ˩ . j a ː ˩ </s>
+k i ː ˧ ˧ ˨ . p ɔ j ˩ </s>
+k o m ˧ ˧ ˨ . k ɔ m ˥ </s>
+k a p ̚ ˥ . m i t ̚ ˧ ˧ ˨ </s>
+k ʰ a ː ŋ ˩ . p ɔ ŋ ˥ </s>
+k o n ˥ . k a j ˦ ˨ ˀ . n a ː ˧ ˧ ˨ . k ʰ a w ˧ ˧ ˨ </s>
+k ʰ a ː k ̚ ˧ ˧ ˨ </s>
+k ɔ ŋ ˩ . k ɔ ː ˧ ˧ ˨ </s>
+k e w ˦ ˨ ˀ . j ɯ k ̚ ˥ . j a k ̚ ˥ </s>
+p ʰ o n ˨ ˦ </s>
+m ɔ ː ˨ ˦ . k w a ː m ˥ </s>
+k i n ˨ ˦ . p o n ˦ ˨ ˀ . k i n ˨ ˦ . p ɛ t ̚ ˧ ˧ ˨ </s>
+s ʰ ɔ k ̚ ˦ ˨ ˀ . d ͡ ʑ a ː ˩ </s>
+t ɤ k ̚ ˩ . l ɤ n ˨ ˦ </s>
+k a ː m ˩ . ʔ a m ˩ . l i ː ˨ ˦ . s ʰ e ː ˨ ˦ . l ɛ ː ˧ ˧ ˨ </s>
+k ʰ o ŋ ˩ . m a ː ˦ ˨ ˀ </s>
+k ʰ ɯ ŋ ˨ ˦ . h a ː ŋ ˨ ˦ . m a ː ˦ ˨ ˀ </s>
+k ʰ i ː ˧ ˧ ˨ . k ʰ a ŋ ˧ ˧ ˨ </s>
+ʔ ɔ k ̚ ˥ . ʔ ɔ ː ˨ ˦ </s>
+k a j ˩ . t ɔ ː ˩ </s>
+k a ː ˧ ˧ ˨ . t i ː ˧ ˧ ˨ . t a ɰ ˧ ˧ ˨ </s>
+k o j ˩ </s>
+k ɔ m ˦ ˨ ˀ </s>
+k ʰ a ˨ ˦ . j i n ˥ . r a ː ˩ </s>
+n a j ˦ ˨ ˀ </s>
+k ɛ m ˧ ˧ ˨ . l ɔ k ̚ ˥ </s>
+h u ː ˦ ˨ ˀ </s>
+k u ː ˧ ˧ ˨ . k ʰ a m ˧ ˧ ˨ </s>
+k ʰ a ː ŋ ˥ . k ʰ i ː ˨ ˦ . k ʰ a ː ŋ ˥ . p ʰ a ː n ˨ ˦ </s>
+k o n ˥ . p a ɰ ˦ ˨ ˀ </s>
+k o j ˩ . l e k ̚ ˥ </s>
+t a ː ˧ ˧ ˨ . r o t ̚ ˦ ˨ ˀ . l e n ˥ </s>
+k a ː n ˨ ˦ . m ɤ ŋ ˥ </s>
+w o t ̚ ˧ ˧ ˨ . s ʰ a m ˩ </s>
+j e p ̚ ˦ ˨ ˀ </s>
+k o n ˥ . t ͡ ɕ ɔ p ̚ ˩ . h a ː ˨ ˦ </s>
+k i n ˨ ˦ . k a n ˨ ˦ . k ɯ ŋ ˩ . k a n ˨ ˦ </s>
+t o n ˧ ˧ ˨ . t i ː ˧ ˧ ˨ </s>
+k i n ˨ ˦ . j ɤ ː ˧ ˧ ˨ </s>
+t a p ̚ ˦ ˨ ˀ . s ʰ ɯ k ̚ ˥ </s>
+k o n ˥ . t a j ˩ . t ͡ ɕ ɤ k ̚ ˧ ˧ ˨ </s>
+k i ː ˩ </s>
+ʔ u n ˨ ˦ </s>
+k ʰ ɔ ŋ ˧ ˧ ˨ . k ʰ o n ˩ </s>
+s ʰ a ː k ̚ ˧ ˧ ˨ . s ʰ a ː ˩ </s>
+k ɔ ŋ ˥ </s>
+p ʰ i ː ˨ ˦ </s>
+k ʰ a ː k ̚ ˩ . l a ː ŋ ˥ </s>
+r a ː ˩ . w a ː ŋ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ i ː ˧ ˧ ˨ . t ɔ n ˦ ˨ ˀ </s>
+k a ː j ˨ ˦ . k w a ː ˩ </s>
+k o ː ˨ ˦ </s>
+p ʰ ɯ n ˦ ˨ ˀ </s>
+m j o ː ˦ ˨ ˀ . t ͡ ɕ a ː ˥ </s>
+k ʰ a ː ˩ </s>
+k a ː n ˨ ˦ . ŋ a ː n ˥ </s>
+h a ː n ˩ </s>
+k ʰ u k ̚ ˥ </s>
+k a ː ˥ . s ʰ a ˨ ˦ . l u n ˥ </s>
+p a ˨ ˦ . ʔ o ː ˨ ˦ </s>
+k u ː ˧ ˧ ˨ . t ͡ ɕ a w ˦ ˨ ˀ . n a ɰ ˨ ˦ . w a n ˥ . k ʰ a m ˧ ˧ ˨ </s>
+w a ː ˧ ˧ ˨ </s>
+k ɛ ː ˧ ˧ ˨ . l i t ̚ ˧ ˧ ˨ </s>
+k a ː ˧ ˧ ˨ . t i ː ˧ ˧ ˨ . n a j ˧ ˧ ˨ </s>
+k ʰ a ŋ ˩ </s>
+m a ː t ̚ ˦ ˨ ˀ </s>
+k e p ̚ ˥ . ʔ a w ˨ ˦ </s>
+k a ː ŋ ˨ ˦ . h ɛ w ˦ ˨ ˀ </s>
+k o t ̚ ˦ ˨ ˀ . m e ː ˥ . p ɤ n ˧ ˧ ˨ </s>
+k o ː ˧ ˧ ˨ </s>
+k a t ̚ ˥ . k ʰ e w ˧ ˧ ˨ . k a t ̚ ˥ . p ʰ a n ˥ </s>
+ʔ a ˨ ˦ . h u ŋ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . ʔ i ŋ ˩ . s ʰ a n ˩ </s>
+k a n ˥ . m i t ̚ ˧ ˧ ˨ </s>
+s ʰ a ː k ̚ ˧ ˧ ˨ </s>
+k o n ˥ . h ɔ ː ˧ ˧ ˨ . r a ˨ ˦ . t ʰ a ː ˥ </s>
+k a m ˨ ˦ . s ʰ i n ˨ ˦ </s>
+k ɔ ŋ ˨ ˦ . k ʰ ɯ n ˧ ˧ ˨ </s>
+s ʰ i ː ˨ ˦ . m o n ˩ </s>
+k ʰ i ː ˧ ˧ ˨ . p ɯ t ̚ ˥ </s>
+k ɔ k ̚ ˩ . t ͡ ɕ e k ̚ ˩ </s>
+k ʰ ɔ ŋ ˧ ˧ ˨ . t o ŋ ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ i ː ˧ ˧ ˨ . ʔ ɤ ː ˦ ˨ ˀ </s>
+ʔ a ˨ ˦ . j e ː ˥ </s>
+s ʰ o m ˧ ˧ ˨ </s>
+ʔ a ː ˩ . n a ː ˩ </s>
+k ɔ j ˥ . k a ː ˧ ˧ ˨ </s>
+k a m ˦ ˨ ˀ . j a m ˨ ˦ </s>
+k a ˨ ˦ . l a p ̚ ˦ ˨ ˀ </s>
+k o n ˥ . ʔ a m ˩ . m i ː ˥ . p ʰ a ː ˩ . s ʰ a ː ˩ </s>
+k ɔ m ˩ . p j u ː ˩ . t ɤ ː ˩ </s>
+k ɔ ː ˨ ˦ . p o k ̚ ˥ . p ɔ ŋ ˨ ˦ . k ʰ ɯ n ˥ </s>
+k ʰ a ˨ ˦ . j i n ˥ . r i t ̚ ˦ ˨ ˀ </s>
+n ɛ ː ˩ </s>
+k ɛ ː ˩ . w a ː n ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a k ̚ ˥ . k ʰ ɛ k ̚ ˥ </s>
+s ʰ a ː n ˩ . l ɛ k ̚ ˦ ˨ ˀ </s>
+k a ː ŋ ˥ . l ɔ t ̚ ˧ ˧ ˨ </s>
+k a ː n ˨ ˦ . ʔ u p ̚ ˦ ˨ ˀ . p ɤ ŋ ˩ . p ʰ ɔ ŋ ˥ . ŋ a m ˥ </s>
+l ɛ ŋ ˥ </s>
+p a ː ŋ ˨ ˦ . t ɯ k ̚ ˥ </s>
+k i n ˨ ˦ . k ɛ n ˩ . k a n ˨ ˦ </s>
+t ͡ ɕ a n ˩ . w a ː ˩ . r i ː ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o ː ˨ ˦ . j a m ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a ː ˧ ˧ ˨ </s>
+k ɛ ː ˧ ˧ ˨ . ʔ o k ̚ ˥ </s>
+k ɔ k ̚ ˥ . n a m ˦ ˨ ˀ </s>
+k o n ˧ ˧ ˨ </s>
+k ʰ e ŋ ˩ . s ʰ ɯ k ̚ ˥ </s>
+k o n ˥ . p ʰ a ː j ˩ . p ʰ a j ˥ . f a ː ˦ ˨ ˀ </s>
+k o n ˥ . s ʰ ɯ k ̚ ˥ </s>
+k ʰ e ŋ ˧ ˧ ˨ . n a ŋ ˨ ˦ </s>
+k o n ˥ . t ʰ i ŋ ˥ . n a ː ŋ ˥ </s>
+k ɔ k ̚ ˥ . h o ː ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . t ͡ ɕ a ː ŋ ˧ ˧ ˨ </s>
+k ʰ i ː ˧ ˧ ˨ . t o k ̚ ˦ ˨ ˀ </s>
+t a ː ŋ ˥ . k ʰ w a ː ˨ ˦ </s>
+k ɔ ŋ ˧ ˧ ˨ . t ɔ p ̚ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ p ̚ ˧ ˧ ˨ . t ͡ ɕ a p ̚ ˥ </s>
+k i ː ˩ . l o ː ˩ </s>
+n a n ˦ ˨ ˀ </s>
+k ʰ ɤ ŋ ˧ ˧ ˨ . k ʰ i ː ˩ . k ʰ ɤ ŋ ˧ ˧ ˨ . t ɔ ː ˦ ˨ ˀ </s>
+k ʰ e w ˧ ˧ ˨ </s>
+k ʰ u ŋ ˩ . t e n ˥ </s>
+m a ː n ˧ ˧ ˨ . k a ˨ ˦ . s ʰ e ː ˥ </s>
+m o ŋ ˩ . l a ː ˩ . p a ː n ˥ </s>
+k a j ˥ . k ɔ ŋ ˧ ˧ ˨ </s>
+k ʰ o ŋ ˨ ˦ . ŋ o ŋ ˨ ˦ </s>
+k ɔ k ̚ ˥ . f a j ˥ </s>
+k o n ˥ . t o j ˥ . p ɔ j ˥ </s>
+t ͡ ɕ a ˨ ˦ . p i t ̚ ˧ ˧ ˨ </s>
+k o j ˨ ˦ </s>
+p j a ː k ̚ ˧ ˧ ˨ </s>
+t a w ˨ ˦ </s>
+m ɤ ŋ ˥ . θ a ˨ ˦ . m a ˨ ˦ . t a ː ˦ ˨ ˀ </s>
+k ɔ ŋ ˧ ˧ ˨ . s ʰ u p ̚ ˥ . h ɔ k ̚ ˩ </s>
+k ʰ a ː ŋ ˥ . j ɔ j ˧ ˧ ˨ . k ʰ a ː ŋ ˥ . j ɛ m ˥ </s>
+k ʰ a ː ŋ ˥ . ʔ ɤ m ˧ ˧ ˨ </s>
+k o n ˨ ˦ . p ɔ t ̚ ˥ </s>
+k ʰ ɯ ŋ ˨ ˦ . h a ː ˨ ˦ . k a ː n ˨ ˦ </s>
+k a ː w ˦ ˨ ˀ . k ʰ ɯ t ̚ ˧ ˧ ˨ . k u j ˨ ˦ </s>
+k ʰ ɔ ŋ ˨ ˦ </s>
+k a w ˨ ˦ </s>
+k o n ˥ . h e t ̚ ˥ . l ɔ ː ˦ ˨ ˀ </s>
+n a j ˨ ˦ . j a w ˦ ˨ ˀ </s>
+n u ː ˨ ˦ </s>
+p ʰ ɔ ŋ ˨ ˦ . k ʰ a m ˥ </s>
+k ɤ ː ˨ ˦ . s ʰ i ŋ ˥ </s>
+k i n ˨ ˦ . j a ː ˨ ˦ </s>
+k a ː ˥ . t a ː ŋ ˩ . n a m ˦ ˨ ˀ . m a n ˥ </s>
+k a m ˦ ˨ ˀ . k ɔ ː ˩ </s>
+t ʰ o ː ˩ </s>
+ʔ ɔ j ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k w a ː ˩ </s>
+m ɤ ŋ ˥ . m a ː n ˧ ˧ ˨ </s>
+k ɔ ː ˨ ˦ . m a j ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a ː j ˩ . k ɔ n ˨ ˦ </s>
+k ʰ e m ˨ ˦ </s>
+k o n ˥ . m ɛ ː ˥ . l ɔ t ̚ ˩ . n a m ˦ ˨ ˀ </s>
+k ɔ ː ˧ ˧ ˨ . j a ː ˩ </s>
+t ͡ ɕ a ˨ ˦ . n e ː ˩ </s>
+t a j ˥ </s>
+k a ː ˧ ˧ ˨ . t o k ̚ ˥ . k ʰ a n ˨ ˦ . j ɔ m ˨ ˦ </s>
+k ʰ ɔ ː ˥ . k ʰ o m ˨ ˦ </s>
+l ɤ n ˨ ˦ . s ʰ a ː m ˨ ˦ </s>
+k a j ˨ ˦ . t ͡ ɕ a m ˨ ˦ </s>
+k o m ˧ ˧ ˨ . k ʰ a w ˧ ˧ ˨ </s>
+k ʰ u ŋ ˩ . n a ŋ ˧ ˧ ˨ </s>
+k ʰ i ː ˧ ˧ ˨ . t ɔ n ˦ ˨ ˀ </s>
+k a ː n ˦ ˨ ˀ . p ɤ n ˧ ˧ ˨ </s>
+k ɛ ː ˩ . t ʰ ɔ ŋ ˩ </s>
+k ʰ ɔ k ̚ ˧ ˧ ˨ . k a j ˩ </s>
+k u j ˨ ˦ . s ʰ a j ˨ ˦ </s>
+l ɤ n ˨ ˦ . h a ː ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ t ̚ ˩ . h a t ̚ ˦ ˨ ˀ </s>
+k ʰ ɛ ː ˨ ˦ . t ʰ e ŋ ˨ ˦ </s>
+t o k ̚ ˥ . l o ŋ ˥ </s>
+w a ː j ˩ </s>
+k ɤ ː ˥ . l a j ˧ ˧ ˨ . k i n ˨ ˦ </s>
+l a ː k ̚ ˧ ˧ ˨ . s ʰ a ˨ ˦ . m a ː ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k i n ˨ ˦ </s>
+k ʰ a k ̚ ˥ . k ʰ ɛ k ̚ ˥ </s>
+k ʰ ɤ ŋ ˧ ˧ ˨ . t ɛ k ̚ ˩ </s>
+l ɯ m ˥ </s>
+k o n ˥ . k ɛ n ˥ </s>
+k o n ˨ ˦ . j a ː w ˥ </s>
+t ͡ ɕ a m ˧ ˧ ˨ </s>
+k ʰ ɔ ː ˥ . k ʰ a t ̚ ˥ </s>
+t ͡ ɕ a n ˨ ˦ . h a ː ŋ ˧ ˧ ˨ </s>
+θ a ˨ ˦ . m a ˨ ˦ . t a ː ˦ ˨ ˀ </s>
+k o n ˥ . k ʰ i ː ˩ </s>
+k e ŋ ˧ ˧ ˨ . k e ŋ ˧ ˧ ˨ </s>
+k a j ˨ ˦ . p ʰ e ː ˥ </s>
+k o ː ˨ ˦ . j a m ˨ ˦ </s>
+l a ː w ˨ ˦ . p ɔ m ˨ ˦ </s>
+k ɤ ː ˨ ˦ . t ͡ ɕ e m ˥ </s>
+k ʰ ɔ ŋ ˦ ˨ ˀ </s>
+m o ː ˥ . k a ː ˩ </s>
+k ɤ m ˧ ˧ ˨ </s>
+k o n ˥ . l e ŋ ˦ ˨ ˀ . w o ː ˥ </s>
+k a ː ˥ . t ͡ ɕ a ː ŋ ˧ ˧ ˨ </s>
+k a ː ˨ ˦ . ʔ ɯ ː ˧ ˧ ˨ </s>
+k o n ˥ . s ʰ a k ̚ ˦ ˨ ˀ . k ʰ o ː ˥ </s>
+k o n ˥ . k ʰ a t ̚ ˥ . h a ː ŋ ˨ ˦ . h ɤ ː ˥ </s>
+k o n ˥ . p ɯ k ̚ ˦ ˨ ˀ . m a ː ˦ ˨ ˀ </s>
+k o ŋ ˩ </s>
+k ʰ o ŋ ˥ . t ɔ ŋ ˦ ˨ ˀ </s>
+k ɔ ŋ ˧ ˧ ˨ . f a j ˥ </s>
+s ʰ i ː ˨ ˦ . l ɤ ŋ ˨ ˦ . n u m ˩ </s>
+m e ː ˩ </s>
+s ʰ u ŋ ˥ . m a ː ˦ ˨ ˀ </s>
+k ʰ ɔ ː ˧ ˧ ˨ . j u m ˩ . j a m ˨ ˦ </s>
+k ɔ ː ˨ ˦ . p ɔ ŋ ˨ ˦ . k a ː n ˨ ˦ </s>
+k o n ˥ . t ɔ ː ˩ . k o n ˥ . l ɔ ŋ ˥ </s>
+t e m ˨ ˦ . t ʰ o n ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . m o j ˩ </s>
+k a ː ˥ . t u ː ˧ ˧ ˨ </s>
+k o n ˥ . p a ɰ ˦ ˨ ˀ . w o ː ˥ </s>
+k a m ˥ . l e w ˨ ˦ </s>
+k ʰ i ŋ ˩ . t ͡ ɕ ɔ m ˥ . t o ː ˨ ˦ . m ɛ ː ˧ ˧ ˨ </s>
+k a ː ˥ . t ʰ u j ˨ ˦ . l i n ˨ ˦ </s>
+ʔ a ˨ ˦ . s ʰ i m ˩ </s>
+t ʰ a ː ˩ . p a ˨ ˦ . n a ː ˩ </s>
+t ʰ u ː ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ i ː ˩ . s ʰ ɯ k ̚ ˥ </s>
+s ʰ ɛ n ˨ ˦ </s>
+k ʰ i ː ˧ ˧ ˨ . h u ː ˨ ˦ </s>
+k a ː n ˦ ˨ ˀ . p ɤ n ˧ ˧ ˨ . ʔ a w ˨ ˦ </s>
+h a m ˥ . l i k ̚ ˧ ˧ ˨ </s>
+t ɔ ŋ ˩ . ʔ u ː ˩ </s>
+k ʰ ɔ ː ˥ . k ʰ a t ̚ ˥ . k ʰ ɔ ː ˥ . k ʰ ɛ ŋ ˨ ˦ </s>
+t ͡ ɕ a ˨ ˦ . p i t ̚ ˦ ˨ ˀ </s>
+k o n ˥ . l ɤ ŋ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o n ˩ </s>
+k a n ˩ . t a ˨ ˦ . r a ˨ ˦ </s>
+t ͡ ɕ ʰ ɔ ː ˥ </s>
+k ʰ ɛ ː ˨ ˦ . t ʰ e ŋ ˨ ˦ . ʔ a ˨ ˦ . m u ː ˦ ˨ ˀ </s>
+k a m ˩ . m a ˨ ˦ . s ʰ a ˨ ˦ . k a ː ˩ </s>
+k o n ˥ . t ʰ i ŋ ˥ </s>
+k ɔ ː ˦ ˨ ˀ . t ʰ u k ̚ ˧ ˧ ˨ . l i k ̚ ˧ ˧ ˨ </s>
+k u ː ˥ . l i k ̚ ˧ ˧ ˨ </s>
+l a m ˨ ˦ </s>
+m ɤ n ˨ ˦ </s>
+k ʰ o k ̚ ˦ ˨ ˀ . n a m ˦ ˨ ˀ </s>
+k o n ˥ . k ɔ ː ˩ . ʔ u t ̚ ˩ </s>
+t a ˨ ˦ . k a ː ˩ </s>
+h u ː ˨ ˦ </s>
+ʔ a ˨ ˦ . p ʰ i ː ˦ ˨ ˀ . t ʰ a m ˩ . m a ː ˩ </s>
+k ɯ ŋ ˩ . k a ː ˧ ˧ ˨ </s>
+k a ː p ̚ ˩ . n e p ̚ ˦ ˨ ˀ . m ɯ ː ˥ </s>
+k ɔ m ˥ . p ʰ i t ̚ ˧ ˧ ˨ </s>
+l a ˨ ˦ </s>
+k ɛ ː ˦ ˨ ˀ </s>
+k e ː ˥ . t ͡ ɕ u ː ˥ </s>
+k ɔ k ̚ ˥ . t ɔ ŋ ˥ . l ɛ ŋ ˨ ˦ </s>
+k ʰ ɔ ŋ ˦ ˨ ˀ . k ʰ a ː t ̚ ˩ </s>
+p j a ː ˩ . t a ː ˩ </s>
+k a m ˥ . l ɯ n ˥ . s ʰ u t ̚ ˥ </s>
+k a ː ˦ ˨ ˀ . j ɔ j ˧ ˧ ˨ . k a ː ˦ ˨ ˀ . j ɛ m ˥ </s>
+k a ː w ˩ . h a ː ˨ ˦ </s>
+k ɔ n ˦ ˨ ˀ </s>
+k o n ˥ . t ͡ ɕ o n ˨ ˦ </s>
+k ʰ i ː ˩ . k a ː ˥ </s>
+k a m ˧ ˧ ˨ . w a j ˥ . l a j ˧ ˧ ˨ </s>
+ʔ ɛ k ̚ ˦ ˨ ˀ . k i ː ˦ ˨ ˀ </s>
+t a ː ŋ ˥ . l ɯ k ̚ ˦ ˨ ˀ </s>
+k a ː ˧ ˧ ˨ . k e ː ˩ </s>
+t a ː ŋ ˥ . k e p ̚ ˥ </s>
+k u ː ˧ ˧ ˨ . j i m ˨ ˦ </s>
+p a ː ˨ ˦ . n a w ˧ ˧ ˨ . k u ŋ ˧ ˧ ˨ </s>
+k ʰ e ŋ ˩ </s>
+k ʰ a k ̚ ˥ . t ɔ ŋ ˧ ˧ ˨ </s>
+k w a ː ˩ </s>
+w a ː j ˦ ˨ ˀ </s>
+k o n ˥ . ŋ ɤ ː ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ </s>
+ʔ a ː ŋ ˩ </s>
+l i k ̚ ˧ ˧ ˨ . t a j ˥ </s>
+t ͡ ɕ i ː ˩ . p ɛ ŋ ˥ </s>
+k ɛ ŋ ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ p ̚ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɤ ŋ ˩ </s>
+ʔ a j ˨ ˦ </s>
+k i n ˨ ˦ . w a ː n ˨ ˦ </s>
+p ɔ ː ˩ </s>
+s ʰ i ː ˨ ˦ . k ʰ e w ˨ ˦ </s>
+h o m ˩ . l o m ˧ ˧ ˨ </s>
+k a ː w ˦ ˨ ˀ . k ʰ ɯ t ̚ ˧ ˧ ˨ . ʔ ɔ j ˧ ˧ ˨ </s>
+k o ŋ ˥ </s>
+d ͡ ʑ a ː ˩ . s ʰ a p ̚ ˧ ˧ ˨ . p a ˨ ˦ . t e ː ˥ </s>
+k ɤ t ̚ ˩ </s>
+p a ː ˨ ˦ </s>
+k a m ˩ . m a ˨ ˦ </s>
+k a t ̚ ˥ . s ʰ a n ˩ . k a t ̚ ˥ . n a ː w ˨ ˦ </s>
+k o n ˧ ˧ ˨ . h o j ˧ ˧ ˨ </s>
+ʔ e t ̚ ˥ </s>
+k ɛ m ˨ ˦ . k ʰ u n ˨ ˦ . p ɔ ŋ ˨ ˦ . t ͡ ɕ ɯ ŋ ˧ ˧ ˨ </s>
+k ʰ i ː ˩ . ʔ o ŋ ˩ . t ͡ ɕ a ː ˥ </s>
+k a ː ŋ ˨ ˦ . k ʰ ɯ m ˥ </s>
+k ɛ t ̚ ˥ . k ʰ a ː t ̚ ˩ </s>
+p ʰ r a ː ˥ . l ɔ ŋ ˥ </s>
+p a t ̚ ˧ ˧ ˨ . t a ː ˥ </s>
+k u ː ˧ ˧ ˨ . n a ɰ ˨ ˦ </s>
+k ʰ e ː ˩ . k a ː ˧ ˧ ˨ </s>
+k ʰ e ŋ ˩ . l ɯ ː ˧ ˧ ˨ </s>
+t a ˨ ˦ . n a ŋ ˥ . n o j ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a ː ŋ ˩ </s>
+k o n ˥ </s>
+l e k ̚ ˥ . t ͡ ɕ a n ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . t ɛ m ˧ ˧ ˨ </s>
+k u n ˩ . s ʰ i n ˨ ˦ </s>
+ʔ a ˨ ˦ . j a ː ˩ </s>
+k o n ˥ . h ɔ ː ˧ ˧ ˨ . h ɤ ː ˥ . m i n ˨ ˦ </s>
+t i ː ˨ ˦ </s>
+ʔ u m ˩ </s>
+k ɤ ː ˨ ˦ . ʔ u t ̚ ˩ </s>
+l a ː w ˨ ˦ . t ʰ e m ˥ </s>
+m a ː t ̚ ˧ ˧ ˨ </s>
+s ʰ e ː ˥ . j o ŋ ˩ </s>
+k ɛ ː ˩ . h o ː ˨ ˦ . h a ː n ˨ ˦ </s>
+k ʰ ɔ ː ˥ . k a p ̚ ˥ </s>
+k a j ˩ . t ͡ ɕ a ː ŋ ˦ ˨ ˀ </s>
+s ʰ a ː k ̚ ˩ . s ʰ e ː ˨ ˦ </s>
+k a ː k ̚ ˩ . w ɔ k ̚ ˥ </s>
+k a n ˩ . t a ˨ ˦ . r a ˨ ˦ . t ʰ ɤ n ˩ </s>
+k o n ˥ . m ɔ ː ˨ ˦ . s ʰ ɔ ː ˩ . m ɔ ː ˨ ˦ . s ʰ o n ˥ </s>
+t a w ˧ ˧ ˨ </s>
+k i n ˨ ˦ . n a m ˦ ˨ ˀ . n o m ˥ </s>
+k o n ˥ . m ɔ ː ˨ ˦ . l ɛ n ˨ ˦ </s>
+t ɛ ː ˩ . l i ː ˩ . w i ː ˥ . ʃ i n ˥ </s>
+k a m ˨ ˦ . t a ː ŋ ˥ . k i n ˨ ˦ </s>
+s ʰ a ˨ ˦ . l e ː ˩ </s>
+t u ː ˦ ˨ ˀ . ɲ ɔ n ˩ . d ͡ ʑ a ː ˥ . j e ː ˥ . m u ː ˥ </s>
+k a ː ˧ ˧ ˨ . m a n ˥ </s>
+k o n ˥ . k ʰ ɛ ː ˨ ˦ . t ʰ e ŋ ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ e ŋ ˩ . s ʰ o p ̚ ˥ . k ʰ e ŋ ˩ . k w a ː m ˥ </s>
+k ʰ u k ̚ ˥ . k ʰ u m ˩ </s>
+k ɔ ŋ ˦ ˨ ˀ . w ɤ ː ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɯ ŋ ˨ ˦ </s>
+k o n ˥ . t a ŋ ˥ . l a ː j ˨ ˦ </s>
+k ʰ i ː ˧ ˧ ˨ . k ʰ a ː n ˦ ˨ ˀ . k ʰ i ː ˧ ˧ ˨ . ʔ ɤ n ˨ ˦ </s>
+k u m ˩ . t a ŋ ˥ . s ʰ e ŋ ˧ ˧ ˨ </s>
+h o ŋ ˥ . h e n ˥ </s>
+ʔ a ˨ ˦ . n i k ̚ ˧ ˧ ˨ . t ͡ ɕ a ː ˦ ˨ ˀ </s>
+l u k ̚ ˧ ˧ ˨ . h e n ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɛ n ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a ː ŋ ˨ ˦ . w a n ˥ . ʔ ɔ k ̚ ˩ </s>
+k ʰ ɔ ː ˥ . k a ː p ̚ ˩ </s>
+p ʰ a j ˥ . p ʰ a ː ˦ ˨ ˀ </s>
+k o n ˥ . h ɛ n ˥ . k ʰ a w ˧ ˧ ˨ . p ʰ a k ̚ ˥ </s>
+n a j ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . t i ː ˨ ˦ </s>
+k a ː ˥ . k ʰ e ː ˨ ˦ . p ʰ a j ˥ </s>
+h o ː ˨ ˦ . t ͡ ɕ a ɰ ˨ ˦ </s>
+k u ˨ ˦ . s ʰ o ː ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k i ː ˧ ˧ ˨ . p ɔ j ˩ </s>
+t a m ˥ </s>
+ɲ o ː ˩ </s>
+s ʰ ɔ ŋ ˩ </s>
+k ɔ p ̚ ˥ . l ɔ ŋ ˨ ˦ . l a ŋ ˨ ˦ . m a ː ˦ ˨ ˀ </s>
+s ʰ i ː ˨ ˦ . l a m ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o t ̚ ˦ ˨ ˀ . l ɛ n ˨ ˦ </s>
+k o n ˥ . k ɛ k ̚ ˥ </s>
+k ɔ k ̚ ˥ . l e k ̚ ˥ . p ʰ ɤ k ̚ ˩ </s>
+k ʰ a w ˧ ˧ ˨ . t ͡ ɕ i ː ˩ </s>
+m a ɰ ˨ ˦ </s>
+n o ː ˩ . w ɛ m ˩ . p a ː ˩ </s>
+k ɔ p ̚ ˧ ˧ ˨ . n a n ˦ ˨ ˀ </s>
+s ʰ u ŋ ˩ . ɲ a ː ˦ ˨ ˀ </s>
+k a m ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k e w ˦ ˨ ˀ </s>
+k ʰ a ŋ ˦ ˨ ˀ </s>
+k e n ˨ ˦ . l i k ̚ ˧ ˧ ˨ </s>
+k a ː ˨ ˦ . l a m ˨ ˦ </s>
+t ͡ ɕ i ŋ ˩ </s>
+k e w ˧ ˧ ˨ . h a t ̚ ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o m ˧ ˧ ˨ . k ʰ a w ˧ ˧ ˨ </s>
+s ʰ a ː ŋ ˥ </s>
+h ɔ ː ˨ ˦ </s>
+k o n ˥ . h o ŋ ˥ . k a ː n ˨ ˦ </s>
+s ʰ ɔ m ˥ </s>
+s ʰ ɔ ŋ ˨ ˦ </s>
+k a w ˦ ˨ ˀ . ŋ a w ˧ ˧ ˨ </s>
+k o n ˥ . k a ː ˦ ˨ ˀ . k o n ˥ . k ʰ a ː j ˨ ˦ </s>
+ʔ a ˨ ˦ . k ʰ ɔ n ˩ </s>
+t ͡ ɕ i ː ˦ ˨ ˀ . t ͡ ɕ ɛ t ̚ ˧ ˧ ˨ </s>
+k o n ˥ . j ɔ ŋ ˩ </s>
+k o n ˥ . k ʰ a j ˧ ˧ ˨ . ʔ a ˨ ˦ . p u m ˩ </s>
+k ʰ e ŋ ˩ . t ɛ m ˧ ˧ ˨ . l i k ̚ ˧ ˧ ˨ </s>
+k o ŋ ˨ ˦ . t ɔ ŋ ˦ ˨ ˀ </s>
+k a ː ˨ ˦ . k ɛ ː ˨ ˦ </s>
+k o n ˥ . h ɔ ː ˧ ˧ ˨ </s>
+p i ː ˨ ˦ </s>
+k ʰ a ː ˧ ˧ ˨ . p ʰ ɯ n ˦ ˨ ˀ . m ɤ ŋ ˥ </s>
+s ʰ a ː ŋ ˩ . l ɔ ŋ ˥ </s>
+l ɤ n ˨ ˦ . s ʰ i ː ˩ </s>
+θ a ˨ ˦ . r a ˨ ˦ . p ʰ u ː ˩ </s>
+k ɛ n ˨ ˦ . k o j ˧ ˧ ˨ </s>
+s ʰ u ː ˩ . t ɔ ː ˩ . k ɔ ŋ ˥ </s>
+k ʰ e ː ˦ ˨ ˀ . h ɤ ː ˥ </s>
+d ͡ ʑ u n ˩ </s>
+ʔ ɔ k ̚ ˩ . t ʰ o ː ˩ . p a ː ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ o ŋ ˨ ˦ . n a ɰ ˥ </s>
+k ʰ e ŋ ˨ ˦ </s>
+m a ː k ̚ ˩ . ʔ i t ̚ ˩ </s>
+k i n ˨ ˦ . l o ŋ ˨ ˦ . t ͡ ɕ a ː j ˩ . l o ŋ ˨ ˦ </s>
+k ʰ ɔ ŋ ˧ ˧ ˨ . n a m ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k i n ˩ </s>
+t ͡ ɕ a ː p ̚ ˧ ˧ ˨ </s>
+k a ː p ̚ ˩ . h ɛ ː ˦ ˨ ˀ </s>
+k ɔ ː ˧ ˧ ˨ . j a ː ˩ . m a n ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a ː ˧ ˧ ˨ </s>
+k i n ˨ ˦ . p ɛ t ̚ ˧ ˧ ˨ </s>
+k a j ˩ . m ɛ ː ˧ ˧ ˨ </s>
+n a ː ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ i ː ˧ ˧ ˨ . t ɤ t ̚ ˥ </s>
+m i ː ˨ ˦ </s>
+d ͡ ʑ o ː ˩ </s>
+p e ŋ ˥ </s>
+k o p ̚ ˥ </s>
+k ʰ w a ː k ̚ ˧ ˧ ˨ </s>
+k o n ˥ . k a ː ˧ ˧ ˨ </s>
+k ʰ a ː w ˥ . k a t ̚ ˥ </s>
+t ɛ ː ˩ </s>
+k ʰ a ː ˧ ˧ ˨ . s ʰ ɯ ː ˦ ˨ ˀ </s>
+k o n ˥ . t a p ̚ ˦ ˨ ˀ . n a m ˦ ˨ ˀ </s>
+k ʰ i ŋ ˩ . m a j ˧ ˧ ˨ </s>
+k ʰ u k ̚ ˦ ˨ ˀ . t ͡ ɕ a ɰ ˨ ˦ . l a j ˧ ˧ ˨ . k ʰ a j ˧ ˧ ˨ . t ͡ ɕ a ɰ ˨ ˦ . t ʰ o p ̚ ˥ </s>
+ʔ a ˨ ˦ . m a ː t ̚ ˧ ˧ ˨ </s>
+p ɔ ŋ ˥ </s>
+k ʰ a w ˧ ˧ ˨ . j a ː ˩ . k u ː ˦ ˨ ˀ </s>
+k ʰ u k ̚ ˦ ˨ ˀ . t ͡ ɕ a ɰ ˨ ˦ . l a j ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ ŋ ˩ . t a ː ŋ ˥ </s>
+k o n ˥ . t a m ˨ ˦ . k ʰ a w ˧ ˧ ˨ </s>
+k i t ̚ ˩ </s>
+k ʰ ɔ ː ˧ ˧ ˨ . n a m ˥ </s>
+h e ŋ ˥ </s>
+d ͡ ʑ a ː m ˩ . m a ː ˩ </s>
+p ɔ j ˥ . t ͡ ɕ a ː ˥ </s>
+k ɔ j ˥ . k a w ˨ ˦ . k ʰ a ː ˧ ˧ ˨ </s>
+k ɛ ː ˩ . t ͡ ɕ o n ˨ ˦ </s>
+s ʰ a ː ˩ . k i ː ˩ . w a ː ŋ ˩ </s>
+ʔ a ː j ˨ ˦ </s>
+s ʰ u ː ˥ . k ɔ k ̚ ˥ </s>
+h a ː ŋ ˧ ˧ ˨ . h ɛ n ˥ </s>
+k ʰ e ː ˦ ˨ ˀ . m a ː ˦ ˨ ˀ </s>
+n ɤ ː ˦ ˨ ˀ </s>
+w a ŋ ˩ . k a ˨ ˦ . p a ː ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k u m ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k i ː ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ o n ˨ ˦ </s>
+k e n ˨ ˦ . k ʰ o ː ˥ </s>
+j ɔ ː ˥ </s>
+k ʰ ɛ k ̚ ˦ ˨ ˀ </s>
+k ʰ a w ˧ ˧ ˨ . l ɤ ŋ ˨ ˦ . ʔ a ː ˩ . l u ː ˥ </s>
+k ʰ ɛ k ̚ ˩ . ʔ a ː ˩ . k a n ˩ . t u ː ˦ ˨ ˀ </s>
+m a ː n ˧ ˧ ˨ . t ʰ a ˨ ˦ . n u ː ˦ ˨ ˀ </s>
+m ɤ ː ˧ ˧ ˨ </s>
+k ɔ ŋ ˩ . t ͡ ɕ i ː ˩ </s>
+s ʰ ɛ ŋ ˨ ˦ </s>
+k u m ˩ . l u m ˩ </s>
+k i m ˥ . ɲ a ː p ̚ ˧ ˧ ˨ . l e k ̚ ˥ </s>
+k ʰ ɯ ŋ ˧ ˧ ˨ . p i ː ˨ ˦ </s>
+k a ː ˧ ˧ ˨ . n a ɰ ˥ </s>
+k a ˨ ˦ . w i ˨ ˦ </s>
+p ʰ u ː ˧ ˧ ˨ . t a ː ŋ ˨ ˦ . t o ː ˨ ˦ </s>
+k o n ˥ . h a n ˨ ˦ . h u ː ˦ ˨ ˀ </s>
+p u ː ˨ ˦ </s>
+n a m ˦ ˨ ˀ . t ʰ a ː n ˨ ˦ </s>
+p ʰ e ː ˩ </s>
+t a ˨ ˦ . p ɛ ː ˥ </s>
+k ʰ o n ˨ ˦ </s>
+k a j ˨ ˦ </s>
+k ɔ ː ˦ ˨ ˀ . l e w ˨ ˦ </s>
+k ʰ i ː ˥ . k u ŋ ˩ </s>
+k ɛ ː ˩ . l o ŋ ˨ ˦ </s>
+m ɛ k ̚ ˧ ˧ ˨ . k a ˨ ˦ . t ͡ ɕ i n ˥ </s>
+k ɔ p ̚ ˥ . k o j ˧ ˧ ˨ </s>
+k u m ˧ ˧ ˨ . f o n ˨ ˦ </s>
+l a j ˧ ˧ ˨ </s>
+k ɔ ː ˧ ˧ ˨ </s>
+k u m ˨ ˦ </s>
+k ʰ e ŋ ˩ . h a p ̚ ˩ </s>
+k a w ˥ . m ɛ ː ˧ ˧ ˨ . j i ŋ ˥ </s>
+n a ː m ˩ . s ʰ a ː ˩ </s>
+k ɯ t ̚ ˥ . t a ː ŋ ˥ . l a ŋ ˨ ˦ </s>
+s ʰ i p ̚ ˥ . s ʰ a ː m ˨ ˦ </s>
+k ʰ a ː n ˥ </s>
+k ʰ a ˨ ˦ . j i n ˥ </s>
+d ͡ ʑ ɔ ŋ ˥ </s>
+k a n ˥ </s>
+k ʰ ɔ ː ˥ . s ʰ ɤ ː ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k u n ˥ </s>
+s ʰ a ˨ ˦ . p ʰ a ː ŋ ˩ </s>
+m j o ː ˦ ˨ ˀ . w u n ˩ </s>
+ŋ u ː ˥ </s>
+k ʰ i k ̚ ˧ ˧ ˨ </s>
+k ɔ k ̚ ˥ . p ɤ k ̚ ˩ </s>
+m j a ː t ̚ ˧ ˧ ˨ </s>
+k w a ː m ˥ . t a j ˥ </s>
+k o n ˥ . t ͡ ɕ ɔ m ˥ . l a ŋ ˨ ˦ </s>
+k ʰ u k ̚ ˥ . t ͡ ɕ a ɰ ˨ ˦ </s>
+ʔ ɛ k ̚ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k e w ˧ ˧ ˨ </s>
+k ɯ t ̚ ˥ . m ɤ n ˩ </s>
+p u ŋ ˩ . k a ː n ˩ </s>
+w a ɰ ˨ ˦ . k ʰ a ː m ˧ ˧ ˨ . m ɤ ŋ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɔ ː ˦ ˨ ˀ . d ͡ ʑ o ː ˩ </s>
+p h í i </s>
+k ʰ a ː ŋ ˦ ˨ ˀ </s>
+k ʰ ɔ k ̚ ˧ ˧ ˨ . m u ː ˨ ˦ </s>
+p ʰ a k ̚ ˥ . k o ː ˧ ˧ ˨ </s>
+p ɯ n ˦ ˨ ˀ . t i ː ˧ ˧ ˨ </s>
+k a j ˩ . k a ˨ ˦ . t ɤ k ̚ ˥ </s>
+k a w ˧ ˧ ˨ . m ɯ n ˩ . k a w ˧ ˧ ˨ . h e ŋ ˨ ˦ </s>
+k o n ˥ . h i t ̚ ˦ ˨ ˀ </s>
+k ɔ ŋ ˧ ˧ ˨ . t ͡ ɕ a ː k ̚ ˧ ˧ ˨ </s>
+k o ŋ ˩ . k a ː w ˨ ˦ . k a ː ŋ ˨ ˦ . j a ɰ ˥ </s>
+k ʰ ɔ ː ˥ . n ɔ k ̚ ˩ </s>
+k ɔ n ˦ ˨ ˀ . p ʰ a k ̚ ˥ </s>
+k ʰ i ː ˧ ˧ ˨ . l a w ˧ ˧ ˨ </s>
+l ɤ n ˨ ˦ . h o k ̚ ˥ </s>
+d ͡ ʑ a ː ˥ </s>
+k ɔ ː ˨ ˦ . p ʰ u ː ˧ ˧ ˨ . t a ː ŋ ˨ ˦ . t o ː ˨ ˦ </s>
+k a ː m ˩ </s>
+k o n ˥ . l e n ˧ ˧ ˨ . h ɛ ŋ ˥ </s>
+k i n ˨ ˦ . h ɛ ŋ ˥ </s>
+k ʰ i ː ˩ . t a ː ŋ ˥ . s ʰ a ː j ˦ ˨ ˀ </s>
+k a ː ˧ ˧ ˨ . n a n ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k e n ˨ ˦ </s>
+k i n ˩ </s>
+ʔ a ˧ ˧ ˨ . s ʰ a ː k ̚ ˧ ˧ ˨ </s>
+k ʰ a ː ŋ ˨ ˦ </s>
+k o n ˥ . s ʰ ɔ n ˨ ˦ . k a ː n ˨ ˦ </s>
+k ʰ e ŋ ˧ ˧ ˨ . n a ː ˧ ˧ ˨ . k ʰ e ŋ ˧ ˧ ˨ . t a ː ˨ ˦ </s>
+k o n ˥ . t ɛ m ˧ ˧ ˨ . t ͡ ɕ a ː t ̚ ˧ ˧ ˨ </s>
+k o n ˥ . p j a ː k ̚ ˧ ˧ ˨ </s>
+k u ŋ ˩ . k ʰ ɯ n ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɛ ː ˨ ˦ . t o ː ˨ ˦ </s>
+k ʰ o ŋ ˨ ˦ . p ɔ ŋ ˩ </s>
+p ʰ a ˨ ˦ . w a ː ˩ </s>
+m u ː ˩ . s ʰ a ˨ ˦ . l i m ˩ </s>
+k a ː k ̚ ˩ . k ʰ ɔ k ̚ ˥ . k ʰ i ː ˧ ˧ ˨ . h u ː ˨ ˦ </s>
+k i n ˨ ˦ . p o n ˦ ˨ ˀ . k i n ˨ ˦ . l ɤ ː ˨ ˦ </s>
+k ʰ a ː w ˩ </s>
+k ʰ i ː ˧ ˧ ˨ . n e w ˨ ˦ </s>
+k a ː ˧ ˧ ˨ . p u n ˦ ˨ ˀ </s>
+j ɔ m ˥ . k a ː n ˦ ˨ ˀ </s>
+k ʰ o ŋ ˨ ˦ </s>
+k a ː n ˨ ˦ . l e ŋ ˦ ˨ ˀ . t ɔ ŋ ˦ ˨ ˀ </s>
+k u m ˩ . k o n ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o ː ˥ </s>
+l ɤ n ˨ ˦ . t ͡ ɕ e ŋ ˨ ˦ </s>
+l a ː m ˩ </s>
+s ʰ i p ̚ ˥ </s>
+t ͡ ɕ i ː ˥ . w o j ˥ </s>
+k ɛ n ˨ ˦ . j o k ̚ ˩ </s>
+k o n ˥ . j e p ̚ ˦ ˨ ˀ . k ʰ o ː ˥ </s>
+t a ː ˧ ˧ ˨ . l ɤ ː ˩ </s>
+k ʰ i ː ˩ . w a ː ˩ </s>
+k a ː ˧ ˧ ˨ . k a n ˨ ˦ </s>
+k ʰ ɤ ŋ ˧ ˧ ˨ . k ʰ a t ̚ ˥ . h a ː ŋ ˨ ˦ . h ɤ ː ˥ </s>
+m a ː n ˧ ˧ ˨ </s>
+m a ː k ̚ ˩ . k a ː ˩ </s>
+k u n ˨ ˦ . h a ː t ̚ ˩ . s ʰ a ː j ˥ </s>
+h ɤ n ˥ </s>
+t ͡ ɕ ʰ ɔ t ̚ ˧ ˧ ˨ </s>
+t ɛ n ˩ </s>
+k u ː ˩ . n ɔ n ˥ . s ʰ ɔ ŋ ˨ ˦ . k ɔ ː ˦ ˨ ˀ </s>
+k o n ˥ . t o k ̚ ˥ . k ʰ ɔ k ̚ ˧ ˧ ˨ </s>
+k u n ˥ </s>
+k ʰ i ː ˩ . p a ː j ˦ ˨ ˀ . p ʰ a ː j ˩ </s>
+m ɤ k ̚ ˧ ˧ ˨ </s>
+t a p ̚ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ m ˦ ˨ ˀ </s>
+k o t ̚ ˦ ˨ ˀ . l ɛ n ˨ ˦ </s>
+t ɔ ː ˩ . t ɔ ː ˩ </s>
+p i k ̚ ˧ ˧ ˨ </s>
+k o n ˥ . k ʰ i ː ˧ ˧ ˨ . j a ː n ˧ ˧ ˨ </s>
+m a ː m ˩ </s>
+ʔ a ˨ ˦ . m j a ː k ̚ ˧ ˧ ˨ </s>
+k a ˨ ˦ . n a ː ˩ </s>
+k ʰ i ː ˧ ˧ ˨ . t u k ̚ ˦ ˨ ˀ </s>
+p j e ː ˦ ˨ ˀ </s>
+m ɔ ː ˨ ˦ . p ʰ i ː ˨ ˦ </s>
+k a ː n ˨ ˦ . l i k ̚ ˧ ˧ ˨ . h ɤ n ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o m ˧ ˧ ˨ </s>
+k a ː ˩ . m a ˨ ˦ </s>
+k ɛ n ˩ . k ʰ ɛ ŋ ˨ ˦ </s>
+k a ː ŋ ˨ ˦ . p a w ˩ </s>
+k a j ˨ ˦ . t ͡ ɕ a ɰ ˨ ˦ </s>
+k ʰ i ː ˦ ˨ ˀ . k ʰ a ː ˦ ˨ ˀ </s>
+k ɔ p ̚ ˧ ˧ ˨ . s ʰ a ŋ ˨ ˦ </s>
+k ʰ a ː ŋ ˥ </s>
+k i ː ˧ ˧ ˨ </s>
+p j a ː k ̚ ˧ ˧ ˨ . k a ˨ ˦ . t i ŋ ˩ </s>
+k a p ̚ ˦ ˨ ˀ . t ͡ ɕ a ɰ ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k u p ̚ ˥ </s>
+k o n ˥ . h a ː ˨ ˦ . p a ː ˨ ˦ </s>
+m i ː ˥ . j a ː p ̚ ˧ ˧ ˨ </s>
+h a ː ŋ ˧ ˧ ˨ . l i ː ˨ ˦ </s>
+k ʰ u k ̚ ˥ . t ͡ ɕ a ɰ ˨ ˦ . l a j ˧ ˧ ˨ </s>
+p ʰ a ː ˩ . s ʰ a ː ˩ </s>
+k ʰ a ː ˥ . h ɔ m ˨ ˦ </s>
+m u n ˥ </s>
+p u ː ˩ . k ɛ ː ˩ </s>
+k o n ˥ . p a ɰ ˦ ˨ ˀ . t ʰ ɔ ŋ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . t ͡ ɕ a n ˨ ˦ </s>
+t ͡ ɕ a ˨ ˦ . m u ŋ ˩ . n a ː k ̚ ˧ ˧ ˨ </s>
+k ɤ ː ˥ . l i ː ˨ ˦ . t o ː ˨ ˦ </s>
+k ɛ n ˨ ˦ . t ʰ i ː ˥ </s>
+k o n ˥ . k ʰ u ː ˥ . k o n ˥ . w e ŋ ˥ </s>
+m a ː ˦ ˨ ˀ . n a m ˦ ˨ ˀ </s>
+k o n ˥ . n a ː ˧ ˧ ˨ . l ɤ m ˧ ˧ ˨ </s>
+m a ː w ˥ </s>
+r a ˨ ˦ . k ʰ ɛ ŋ ˩ </s>
+p a ː ˧ ˧ ˨ </s>
+ʔ a ŋ ˥ . k i t ̚ ˦ ˨ ˀ </s>
+h o ː ˨ ˦ . p a w ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɛ n ˩ . t ͡ ɕ a ɰ ˧ ˧ ˨ </s>
+k ʰ ɛ p ̚ ˥ . k ʰ a m ˥ </s>
+k ʰ i k ̚ ˥ . k ʰ i k ̚ ˥ </s>
+p ʰ j a ː ŋ ˥ </s>
+k a ː ˩ . j a ˨ ˦ . k a m ˩ </s>
+h ɔ ː ˥ </s>
+k u ː ˥ . k ʰ ɛ p ̚ ˥ . h a ː ŋ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k e w ˩ </s>
+k ʰ i ː ˧ ˧ ˨ . j a ː n ˨ ˦ </s>
+k o n ˥ . ŋ a ː ˦ ˨ ˀ </s>
+k a j ˩ . k ʰ i ː ˧ ˧ ˨ . t ɤ k ̚ ˥ </s>
+k ɤ ː ˥ . j a m ˨ ˦ </s>
+θ i ː ˩ . h o ː ˩ </s>
+h o ŋ ˥ . l u ː ˨ ˦ . l i k ̚ ˧ ˧ ˨ </s>
+k ʰ ɔ ː ˦ ˨ ˀ . k ʰ ɛ ː ˦ ˨ ˀ </s>
+k ɔ k ̚ ˩ . l ɤ t ̚ ˧ ˧ ˨ </s>
+k a ː ˧ ˧ ˨ . k ʰ a ː t ̚ ˧ ˧ ˨ </s>
+t a ː ŋ ˥ . k ʰ a ː w ˨ ˦ </s>
+d ͡ ʑ e ː ˥ . t ͡ ɕ u ː ˥ </s>
+k ɔ p ̚ ˧ ˧ ˨ . t ͡ ɕ e ː ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a ː n ˥ </s>
+ʔ a ˨ ˦ . n a ː ˩ . k a ː t ̚ ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . r a ː ˩ </s>
+k ʰ ɤ k ̚ ˧ ˧ ˨ </s>
+k ʰ e ŋ ˩ . m u ŋ ˧ ˧ ˨ </s>
+t ɔ ː ˦ ˨ ˀ . s ʰ o ŋ ˩ </s>
+k u ŋ ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . p ʰ i ː ˦ ˨ ˀ . t ʰ a ː n ˩ </s>
+k ɔ p ̚ ˧ ˧ ˨ . t ͡ ɕ a p ̚ ˥ </s>
+k a ː ˧ ˧ ˨ . t ͡ ɕ a ː t ̚ ˧ ˧ ˨ </s>
+k i ː ˩ . l o ː ˩ . k a ˨ ˦ . r a m ˩ </s>
+k ɔ ŋ ˦ ˨ ˀ . m a ː ˩ . k ɔ ŋ ˦ ˨ ˀ . k ʰ ɔ ː ˥ </s>
+k ɛ n ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ t ̚ ˩ . m ɯ ː ˥ </s>
+h a w ˥ . k ʰ a ː ˧ ˧ ˨ </s>
+k ʰ a ː ŋ ˩ . l ɔ ː ˥ </s>
+k ɤ j ˥ </s>
+k ʰ ɯ ŋ ˨ ˦ . l e k ̚ ˥ </s>
+k ɔ p ̚ ˧ ˧ ˨ . n a j ˨ ˦ </s>
+k ɔ n ˥ . h ɤ ː ˥ </s>
+k ʰ ɔ ː ˦ ˨ ˀ . d ͡ ʑ o ː ˩ </s>
+k o n ˥ . k a w ˩ </s>
+k a n ˨ ˦ </s>
+k ɛ n ˩ . l a k ̚ ˥ </s>
+l a ː k ̚ ˧ ˧ ˨ . s ʰ e t ̚ ˧ ˧ ˨ </s>
+w i ː ˦ ˨ ˀ . ɲ e n ˩ </s>
+k a ː n ˨ ˦ . m a ː k ̚ ˧ ˧ ˨ . m i ː ˥ </s>
+k o ː ˩ . k e n ˥ </s>
+k o n ˥ . ɲ ɔ p ̚ ˥ . l a j ˧ ˧ ˨ </s>
+k o n ˥ . h a ː p ̚ ˩ </s>
+k o n ˥ . d ͡ ʑ a ː m ˥ </s>
+w a n ˥ </s>
+j a ː m ˥ </s>
+k ɔ ː ˦ ˨ ˀ . l a ɰ ˨ ˦ </s>
+s ʰ a ː w ˥ . s ʰ ɔ ŋ ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ i ː ˧ ˧ ˨ . ʔ ɛ ː ˩ </s>
+h e ː ˩ . p r ɛ ː ˥ </s>
+l a ː k ̚ ˧ ˧ ˨ . t ͡ ɕ ɔ p ̚ ˧ ˧ ˨ </s>
+k i ŋ ˧ ˧ ˨ </s>
+k ɔ ː ˦ ˨ ˀ . n a j ˦ ˨ ˀ </s>
+s ʰ e ː ˥ . p u ː ˥ . l ɛ ː ˥ </s>
+t ͡ ɕ i ː ˦ ˨ ˀ . n a ː ˦ ˨ ˀ </s>
+ʔ a ˨ ˦ . m u ː ˥ </s>
+k ɔ n ˧ ˧ ˨ . m a n ˥ </s>
+p ɛ t ̚ ˩ . s ʰ i p ̚ ˥ </s>
+k ʰ i ː ˩ . l ɛ n ˧ ˧ ˨ </s>
+k ɛ p ̚ ˧ ˧ ˨ </s>
+k a ː k ̚ ˩ . l a ː ŋ ˥ </s>
+t a j ˥ . l ɛ ŋ ˨ ˦ </s>
+t a m ˩ . ŋ a ː ˧ ˧ ˨ </s>
+k i n ˨ ˦ . l i p ̚ ˥ </s>
+k ʰ e ŋ ˩ . h ɤ ː ˥ . k a n ˨ ˦ </s>
+k o n ˥ . k ʰ a ː j ˨ ˦ . k ʰ o ː ˥ </s>
+k o n ˥ . t ͡ ɕ a ː j ˥ . ʔ ɔ n ˩ </s>
+k a j ˩ . p ɔ ː ˧ ˧ ˨ </s>
+m ɔ ː ˩ </s>
+k ʰ a ː k ̚ ˩ . k ʰ i ː ˧ ˧ ˨ . j a ː ˧ ˧ ˨ </s>
+k u ŋ ˧ ˧ ˨ . h ɛ ŋ ˧ ˧ ˨ </s>
+k ɛ ː ˩ </s>
+k o n ˥ . w a ː n ˧ ˧ ˨ . n ɔ k ̚ ˧ ˧ ˨ </s>
+k ʰ ɤ ŋ ˨ ˦ . l a m ˨ ˦ </s>
+t ɤ k ̚ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . l u k ̚ ˦ ˨ ˀ . p ʰ ɯ n ˨ ˦ </s>
+k o n ˥ . t ɔ ː ˥ . h u k ̚ ˩ </s>
+k ɛ t ̚ ˥ . k ʰ o n ˨ ˦ . h o ː ˨ ˦ </s>
+k ɔ ŋ ˨ ˦ </s>
+m a ɰ ˥ </s>
+k i n ˥ </s>
+k o n ˥ . t a ː j ˨ ˦ . p ʰ a ː k ̚ ˩ </s>
+k e ː ˥ . l a ː ŋ ˥ </s>
+k o n ˥ . k a k ̚ ˥ </s>
+s ʰ a ː j ˥ </s>
+k ɔ n ˥ . t a p ̚ ˦ ˨ ˀ </s>
+k o ŋ ˨ ˦ . k ɔ n ˨ ˦ </s>
+k ɯ ː ˨ ˦ . m a ː ˦ ˨ ˀ </s>
+k a ː ˥ . t ɯ k ̚ ˥ . l e k ̚ ˥ </s>
+l a ŋ ˨ ˦ </s>
+s ʰ u ː ˩ </s>
+k i n ˨ ˦ . j a ː ˧ ˧ ˨ . j a ː ˨ ˦ </s>
+p a j ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ </s>
+p ʰ u j ˩ </s>
+k ʰ ɛ ŋ ˨ ˦ . k w a ː m ˥ </s>
+k ɛ k ̚ ˥ </s>
+ʔ o j ˥ . l i ː ˨ ˦ </s>
+k ʰ a w ˧ ˧ ˨ . k ʰ ɛ p ̚ ˧ ˧ ˨ </s>
+p ʰ a k ̚ ˥ . t u ː ˨ ˦ </s>
+k ɔ ŋ ˧ ˧ ˨ . f a j ˥ . j a ː w ˥ </s>
+p ɛ ː ˥ </s>
+k o n ˥ . p ʰ a n ˥ . m a j ˦ ˨ ˀ </s>
+k ʰ u ŋ ˨ ˦ </s>
+t ͡ ɕ a ˨ ˦ . l u ŋ ˩ </s>
+ʔ ɔ ŋ ˩ </s>
+k o n ˥ . m o n ˧ ˧ ˨ </s>
+k i ŋ ˩ . l o ŋ ˨ ˦ </s>
+r a ː n ˩ . s ʰ u ː ˩ </s>
+k ʰ e ŋ ˩ . m a ː ˦ ˨ ˀ . k a n ˨ ˦ </s>
+l ɛ ː ˧ ˧ ˨ </s>
+k ɤ ː ˨ ˦ </s>
+k a n ˧ ˧ ˨ . k ʰ a w ˧ ˧ ˨ . k a n ˧ ˧ ˨ . n a m ˦ ˨ ˀ </s>
+k i n ˨ ˦ . p ɯ n ˦ ˨ ˀ . k i n ˨ ˦ . p ɛ t ̚ ˧ ˧ ˨ </s>
+k a m ˩ . m a ˨ ˦ . t ʰ a ː n ˥ </s>
+m ɤ ŋ ˥ . ʔ i ŋ ˩ . t i ː ˦ ˨ ˀ . j a ː ˦ ˨ ˀ </s>
+k ʰ a ˨ ˦ . l ɔ k ̚ ˧ ˧ ˨ </s>
+t ͡ ɕ i ː ˥ . p w a ː ˥ </s>
+k ɯ k ̚ ˥ . p a ː ˥ </s>
+k a ː ˨ ˦ . l o n ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ o ː ˧ ˧ ˨ </s>
+k ʰ e ː ˩ . m a ː ˩ </s>
+k i n ˨ ˦ . ʔ i m ˩ </s>
+k o n ˥ . t ʰ a w ˧ ˧ ˨ </s>
+t ʰ o ː ˩ . n a w ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k i n ˨ ˦ . p ʰ i t ̚ ˥ </s>
+k ɛ m ˨ ˦ . k ʰ u n ˨ ˦ . t ͡ ɕ i ː ˦ ˨ ˀ . s ʰ a ŋ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɔ ː ˦ ˨ ˀ </s>
+k i n ˨ ˦ </s>
+k ɛ m ˨ ˦ . h o ː ˨ ˦ . p a w ˧ ˧ ˨ </s>
+p ʰ a ː ˩ . s ʰ a ː ˩ . m a ː n ˧ ˧ ˨ </s>
+k ʰ ɔ ː ˧ ˧ ˨ . l o p ̚ ˥ . l ɯ n ˥ </s>
+m ɤ ŋ ˥ . k a ˨ ˦ . l a ː ˥ </s>
+k ʰ w a ː ˨ ˦ </s>
+k o n ˥ . h e t ̚ ˥ . m a ː k ̚ ˩ . l ɔ ː ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɤ ː ˥ </s>
+k ʰ ɤ ŋ ˧ ˧ ˨ . k ʰ i ː ˩ </s>
+k ʰ e ː ˩ . p ʰ a ˨ ˦ . n a ː p ̚ ˧ ˧ ˨ </s>
+k o j ˧ ˧ ˨ . h ɛ ŋ ˧ ˧ ˨ </s>
+m o ŋ ˩ . l a ː ˩ . t ʰ u k ̚ ˧ ˧ ˨ </s>
+k a ː ˥ . k ʰ ɛ ː ˦ ˨ ˀ . k ʰ e ŋ ˩ </s>
+k a ː j ˩ . k ʰ a ː ˨ ˦ . p ɛ ː ˨ ˦ </s>
+k a ː ˨ ˦ . s ʰ ɛ w ˥ </s>
+k e ŋ ˥ . s ʰ a ː m ˨ ˦ . k ʰ a ː ˨ ˦ </s>
+p ɛ ŋ ˩ </s>
+k o n ˥ . p ʰ a ː j ˩ . n a ɰ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ e ŋ ˧ ˧ ˨ . t ͡ ɕ ɤ k ̚ ˧ ˧ ˨ </s>
+k o n ˥ . k a ː n ˨ ˦ . m ɤ ŋ ˥ </s>
+t a t ̚ ˥ </s>
+k ʰ ɯ k ̚ ˦ ˨ ˀ . k ʰ a k ̚ ˦ ˨ ˀ </s>
+t ͡ ɕ a n ˩ . t a ː ˩ </s>
+p a ː ŋ ˨ ˦ . t a ː j ˥ </s>
+l u ː ˦ ˨ ˀ . l ɛ w ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɤ t ̚ ˩ </s>
+k ʰ ɛ ː ˩ </s>
+w u t ̚ ˦ ˨ ˀ </s>
+s ʰ a ː ŋ ˩ . k a ː n ˥ </s>
+k a ː ŋ ˦ ˨ ˀ </s>
+l ɤ n ˨ ˦ . t ͡ ɕ e t ̚ ˥ </s>
+k ʰ a ˨ ˦ . r i t ̚ ˦ ˨ ˀ </s>
+k o n ˥ . l u m ˥ . l a ː ˥ . s ʰ o n ˨ ˦ </s>
+s ʰ a ˨ ˦ . p j e ː ˩ </s>
+k ɔ n ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k e w ˧ ˧ ˨ . k a ː w ˧ ˧ ˨ </s>
+t ͡ ɕ ʰ u k ̚ ˧ ˧ ˨ </s>
+k o n ˥ . p ʰ a ː k ̚ ˩ . p ɤ n ˧ ˧ ˨ </s>
+k o ŋ ˥ . ŋ ɯ n ˥ </s>
+l i n ˦ ˨ ˀ </s>
+k ɔ n ˧ ˧ ˨ . l ɤ t ̚ ˧ ˧ ˨ </s>
+k o ŋ ˨ ˦ . k w a n ˥ . f a j ˥ </s>
+k o ŋ ˩ . k a ː w ˨ ˦ . m i ː ˨ ˦ </s>
+k ʰ o ŋ ˧ ˧ ˨ . k ʰ a ː ŋ ˥ . p e n ˨ ˦ . k i ŋ ˩ . p e n ˨ ˦ . k ʰ a ː ˧ ˧ ˨ </s>
+k ʰ ɔ k ̚ ˩ . l i p ̚ ˧ ˧ ˨ </s>
+k ʰ a ː ˧ ˧ ˨ . t ͡ ɕ a ɰ ˨ ˦ . ʔ a ˨ ˦ . s ʰ a ː k ̚ ˧ ˧ ˨ </s>
+k o n ˦ ˨ ˀ </s>
+k ɔ ː ˦ ˨ ˀ </s>
+l e k ̚ ˥ </s>
+p ɔ t ̚ ˥ . h ɔ ŋ ˩ </s>
+k o n ˥ . l u ː ˦ ˨ ˀ . k o n ˥ . s ʰ u m ˥ </s>
+t ʰ a m ˧ ˧ ˨ </s>
+k ɤ ː ˨ ˦ . w a ː n ˨ ˦ </s>
+k ʰ ɯ k ̚ ˦ ˨ ˀ . t ͡ ɕ a ɰ ˨ ˦ </s>
+s ʰ i ː ˩ . h o ː ˩ </s>
+k a m ˨ ˦ . n o t ̚ ˧ ˧ ˨ </s>
+p e t ̚ ˧ ˧ ˨ . t ͡ ɕ a ˨ ˦ . j a ː ˩ </s>
+h ɔ k ̚ ˩ </s>
+k ɔ ŋ ˨ ˦ . l ɔ ː ˥ </s>
+ʔ a ˨ ˦ . l o ː ˩ </s>
+s ʰ i ː ˨ ˦ </s>
+k a ː ˩ . l a ː ˦ ˨ ˀ . s ʰ a ː ˥ </s>
+k a n ˨ ˦ . h o ː ˨ ˦ </s>
+k a n ˦ ˨ ˀ . n a ː ŋ ˥ . j i ŋ ˥ </s>
+t ͡ ɕ a w ˧ ˧ ˨ . p ʰ a ː ˦ ˨ ˀ </s>
+w i ː ˨ ˦ </s>
+h o p ̚ ˦ ˨ ˀ . t ʰ o p ̚ ˥ </s>
+k ʰ o ː ˨ ˦ . l a j ˨ ˦ </s>
+k ɔ t ̚ ˩ . h a t ̚ ˦ ˨ ˀ </s>
+k ʰ i ː ˨ ˦ . t ͡ ɕ a ɰ ˨ ˦ </s>
+k u ŋ ˩ . s ʰ a ˨ ˦ . r e ː ˩ </s>
+k i t ̚ ˩ . t ͡ ɕ a ɰ ˨ ˦ </s>
+k ɛ t ̚ ˩ </s>
+k ʰ i ː ˧ ˧ ˨ . h e ː ˧ ˧ ˨ </s>
+k u m ˩ </s>
+s ʰ e ŋ ˨ ˦ </s>
+k ʰ a ː k ̚ ˩ </s>
+n a m ˦ ˨ ˀ </s>
+l a ː k ̚ ˧ ˧ ˨ . t ʰ a ː p ̚ ˧ ˧ ˨ </s>
+k o n ˥ . h e t ̚ ˥ . ʔ a ˨ ˦ . m u ː ˦ ˨ ˀ </s>
+k ʰ ɯ ŋ ˨ ˦ . w a j ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ i ː ˧ ˧ ˨ . t a ː k ̚ ˩ </s>
+t ͡ ɕ ɯ ŋ ˧ ˧ ˨ . k ʰ a m ˥ . s ʰ a ː m ˨ ˦ . t ͡ ɕ e ŋ ˩ </s>
+k ɔ k ̚ ˥ . h a ː t ̚ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a ː ŋ ˥ . k a j ˨ ˦ </s>
+k o n ˥ . j u ː ˩ . l i ː ˨ ˦ </s>
+s ʰ i p ̚ ˥ . k a w ˧ ˧ ˨ </s>
+m a ɰ ˩ . s ʰ u ŋ ˨ ˦ </s>
+p ʰ e ː ˥ </s>
+k a t ̚ ˥ . l a ː ŋ ˧ ˧ ˨ </s>
+h u n ˩ </s>
+k a ˨ ˦ . l a ː ŋ ˩ </s>
+k e ː ˨ ˦ . s ʰ a ː ˨ ˦ </s>
+k o n ˥ . k a ː ˦ ˨ ˀ </s>
+k o n ˥ . m a ː ˥ . t ͡ ɕ a ː ŋ ˧ ˧ ˨ </s>
+k ɤ ː ˦ ˨ ˀ . t o j ˥ </s>
+k ʰ i ŋ ˨ ˦ . h ɛ ŋ ˧ ˧ ˨ </s>
+k o n ˧ ˧ ˨ . k o j ˨ ˦ </s>
+k a ˨ ˦ . t i ˨ ˦ . m a n ˧ ˧ ˨ </s>
+k ɔ ŋ ˥ . k ʰ u m ˨ ˦ </s>
+k ɔ n ˥ . k ʰ ɔ ː ˨ ˦ </s>
+d ͡ ʑ a ː ˩ . s ʰ a ː n ˩ </s>
+j a m ˥ </s>
+l a ŋ ˩ . k a ː ˩ </s>
+k o n ˧ ˧ ˨ . n a m ˦ ˨ ˀ . m ɔ ː ˩ </s>
+k a ː ˥ . t ɛ ŋ ˦ ˨ ˀ </s>
+k o n ˥ . j i ŋ ˥ . t ͡ ɕ a ː j ˥ </s>
+k ʰ a k ̚ ˦ ˨ ˀ . k ʰ a n ˧ ˧ ˨ . l a j ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ u k ̚ ˥ . t ͡ ɕ a ɰ ˨ ˦ . l a j ˧ ˧ ˨ . k ʰ a j ˧ ˧ ˨ . t ͡ ɕ a ɰ ˨ ˦ . t ʰ ɯ ŋ ˨ ˦ </s>
+t ʰ a j ˥ </s>
+m ɔ ː ˨ ˦ . j a ː ˨ ˦ </s>
+k i m ˥ . ɲ a ː p ̚ ˧ ˧ ˨ . p ʰ a j ˥ </s>
+k o n ˥ . l o m ˥ . l o ŋ ˨ ˦ </s>
+k i n ˨ ˦ . k ɛ ː ˧ ˧ ˨ </s>
+k i ː ˩ . j a ː ˩ </s>
+k ʰ a k ̚ ˥ </s>
+t o ː ˥ </s>
+w a ː ˧ ˧ ˨ . n a j ˨ ˦ </s>
+ʔ a ː p ̚ ˩ </s>
+t a w ˦ ˨ ˀ </s>
+ŋ a w ˥ . l a ː j ˥ </s>
+p ʰ i n ˩ </s>
+k i p ̚ ˧ ˧ ˨ . p ʰ a k ̚ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . t ͡ ɕ u n ˦ ˨ ˀ </s>
+k a ː ˥ . t a ː ŋ ˩ . k o n ˥ </s>
+k ʰ a ˨ ˦ . j i n ˥ . r a ː ˩ . k ɛ ː ˩ </s>
+k ʰ a w ˧ ˧ ˨ . t ͡ ɕ a ː w ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . s ʰ ɔ ŋ ˩ </s>
+k a p ̚ ˥ . s ʰ ɯ p ̚ ˩ </s>
+k ʰ o ː ˧ ˧ ˨ </s>
+k ʰ e w ˨ ˦ </s>
+k u ː ˧ ˧ ˨ . k ʰ ɯ n ˥ </s>
+k a ː n ˨ ˦ . n a ː ˧ ˧ ˨ . h ɤ n ˥ </s>
+s ʰ u ŋ ˨ ˦ </s>
+k ʰ e ŋ ˩ . t i ː ˦ ˨ ˀ . s ʰ e ŋ ˨ ˦ </s>
+m ɤ ː ˧ ˧ ˨ . k a j ˧ ˧ ˨ </s>
+l u k ̚ ˦ ˨ ˀ </s>
+k ʰ o ŋ ˥ . p ʰ i ː ˨ ˦ </s>
+m a ɰ ˩ </s>
+k o n ˥ . j ɔ n ˥ </s>
+k o n ˥ . s ʰ ɯ ː ˦ ˨ ˀ </s>
+k ʰ ɔ k ̚ ˥ </s>
+k ɔ p ̚ ˧ ˧ ˨ . ʔ a n ˨ ˦ . n a j ˦ ˨ ˀ </s>
+k i ŋ ˩ </s>
+k a ː ˩ . j a ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k u m ˥ </s>
+k a j ˧ ˧ ˨ </s>
+k ɛ ŋ ˥ . ʔ u p ̚ ˦ ˨ ˀ </s>
+k a ː ŋ ˨ ˦ . w a n ˥ . ʔ ɔ k ̚ ˩ </s>
+h ɤ ː ˥ </s>
+p ʰ a k ̚ ˥ . k a ː t ̚ ˩ . m ɔ k ̚ ˩ </s>
+k ʰ a ː ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . t a m ˥ </s>
+k ʰ ɯ ŋ ˨ ˦ </s>
+k ʰ e ŋ ˩ . k u k ̚ ˧ ˧ ˨ . s ʰ e ː ˥ </s>
+k ɔ ŋ ˩ . t a ː ŋ ˥ </s>
+k e w ˦ ˨ ˀ . ʔ ɤ ŋ ˧ ˧ ˨ </s>
+k a ː ˧ ˧ ˨ . t a ː ˧ ˧ ˨ </s>
+ʔ a ː ŋ ˥ . k a ˨ ˦ . t e ː ˩ </s>
+k ɛ ː ˧ ˧ ˨ . p ɔ j ˩ . t ʰ a ː m ˨ ˦ . l i k ̚ ˧ ˧ ˨ </s>
+k o n ˥ . k ʰ ɔ ː ˦ ˨ ˀ </s>
+k o n ˥ . h ɔ ː ˧ ˧ ˨ . k a ː ˥ </s>
+k a ː ˩ . m a ˨ ˦ . k u n ˩ </s>
+k ɔ ː ˦ ˨ ˀ . m ɯ t ̚ ˧ ˧ ˨ . k ɔ ː ˦ ˨ ˀ . k ɯ ː ˥ </s>
+n a ˨ ˦ . k a ː ˥ </s>
+k ʰ i ː ˧ ˧ ˨ . ŋ ɛ p ̚ ˦ ˨ ˀ </s>
+l ɔ j ˨ ˦ </s>
+k ʰ a ː w ˥ . t a ː ŋ ˥ </s>
+ʔ a ˧ ˧ ˨ . p u m ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ p ̚ ˧ ˧ ˨ . t ͡ ɕ e ː ˥ </s>
+k ʰ i ː ˧ ˧ ˨ . l e k ̚ ˥ </s>
+k o n ˥ . l ɛ k ̚ ˧ ˧ ˨ . ŋ ɯ n ˥ </s>
+k ʰ o ŋ ˨ ˦ . n a ɰ ˥ </s>
+k ɔ ː ˦ ˨ ˀ . h u ː ˦ ˨ ˀ . k ɔ ː ˦ ˨ ˀ . h a n ˨ ˦ </s>
+ʔ a ˨ ˦ . d ͡ ʑ o ː ˥ </s>
+l e ː ˥ </s>
+s ʰ a ː ŋ ˩ . w a ː ŋ ˩ </s>
+k a ː ˧ ˧ ˨ . k ʰ a ː j ˨ ˦ </s>
+m a ː n ˩ . t ɛ ŋ ˩ </s>
+k ɔ ː ˦ ˨ ˀ . n a n ˦ ˨ ˀ </s>
+k e ː ˩ </s>
+k ʰ u k ̚ ˥ . t ʰ o p ̚ ˥ </s>
+t ͡ ɕ e t ̚ ˥ </s>
+p ʰ a k ̚ ˥ . s ʰ o m ˧ ˧ ˨ . p u ː ˨ ˦ </s>
+t ͡ ɕ a ˨ ˦ . r i p ̚ ˧ ˧ ˨ </s>
+s ʰ a ː m ˨ ˦ </s>
+k ʰ ɔ ŋ ˩ . k ɛ ː ˩ </s>
+k ɯ ŋ ˦ ˨ ˀ . k a ː ŋ ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ i ː ˧ ˧ ˨ . h e ː ˧ ˧ ˨ </s>
+k o n ˥ . s ʰ ɯ p ̚ ˩ . k ʰ a ː j ˨ ˦ </s>
+k o n ˥ . m ɔ k ̚ ˩ . l a ː t ̚ ˧ ˧ ˨ . k w a ː m ˥ </s>
+ʔ ɔ ː ˩ . t ͡ ɕ a ː ˩ </s>
+k i ˨ ˦ . r i ˨ ˦ . j a ː ˩ </s>
+p a ː t ̚ ˧ ˧ ˨ . s ʰ ɛ ŋ ˥ </s>
+k a m ˩ . p ʰ a ː ˩ </s>
+j a n ˩ . k u ŋ ˩ </s>
+k o n ˥ . p ɔ k ̚ ˥ </s>
+m u n ˨ ˦ . t ͡ ɕ a w ˧ ˧ ˨ </s>
+p a ˨ ˦ . l ɔ ŋ ˧ ˧ ˨ </s>
+k a m ˨ ˦ . t a ː ˨ ˦ . m ɯ ː ˥ </s>
+k ɔ ː ˦ ˨ ˀ . h u ː ˦ ˨ ˀ . k ɔ ː ˦ ˨ ˀ . m ɯ t ̚ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɔ ŋ ˦ ˨ ˀ . k ʰ a ː t ̚ ˩ </s>
+k o n ˥ . j i ŋ ˥ . ʔ ɔ n ˩ </s>
+s ʰ a ˨ ˦ . d ͡ ʑ a ː ˥ </s>
+k ɛ n ˩ . t ͡ ɕ a ɰ ˧ ˧ ˨ </s>
+m a j ˦ ˨ ˀ . k a ː n ˥ . h a ː p ̚ ˩ </s>
+k o ŋ ˩ . k a ː w ˨ ˦ </s>
+s ʰ a ː k ̚ ˩ </s>
+k a m ˧ ˧ ˨ . t ͡ ɕ a ɰ ˨ ˦ </s>
+k i n ˨ ˦ . t ʰ a ː t ̚ ˧ ˧ ˨ </s>
+k ʰ ɔ ŋ ˥ . k a ː t ̚ ˩ </s>
+s ʰ a ː ŋ ˥ . d ͡ ʑ a ː n ˩ </s>
+k ʰ ɯ k ̚ ˩ </s>
+k ɔ ŋ ˧ ˧ ˨ . j ɯ ː ˥ . k ʰ ɤ ŋ ˧ ˧ ˨ . m i n ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . t ͡ ɕ a ː p ̚ ˧ ˧ ˨ </s>
+w o j ˩ </s>
+n a m ˦ ˨ ˀ . k ʰ o ŋ ˥ </s>
+l a ː k ̚ ˧ ˧ ˨ . m a ː t ̚ ˧ ˧ ˨ </s>
+l a ː p ̚ ˧ ˧ ˨ </s>
+k i w ˩ . t a ː ŋ ˥ </s>
+ŋ ɯ n ˥ </s>
+k ɛ ː ˩ . s ʰ a ː ŋ ˥ . p ʰ ɔ ː ˥ </s>
+θ a ˨ ˦ . n a ː p ̚ ˧ ˧ ˨ . k ʰ a ː ˥ </s>
+k ʰ i ː ˧ ˧ ˨ . h a ː k ̚ ˧ ˧ ˨ . s ʰ ɔ ŋ ˨ ˦ . h o n ˨ ˦ </s>
+m a ː ˥ </s>
+k ʰ a ː k ̚ ˩ . k ʰ i ː ˧ ˧ ˨ . t ɤ ː ˩ </s>
+l i ŋ ˥ </s>
+h a k ̚ ˥ . l ɔ j ˨ ˦ </s>
+s ʰ a ː ŋ ˩ . s ʰ i ː ˧ ˧ ˨ </s>
+k a ː n ˨ ˦ . p ɤ ŋ ˨ ˦ . k o n ˥ </s>
+p a p ̚ ˦ ˨ ˀ . t i ˨ ˦ . t ͡ ɕ a m ˩ </s>
+k ɛ m ˨ ˦ . k ʰ u n ˨ ˦ . s ʰ ɯ k ̚ ˥ </s>
+k o n ˥ . w o ŋ ˧ ˧ ˨ . k a ː ŋ ˨ ˦ </s>
+k ʰ a w ˧ ˧ ˨ . l a ː m ˨ ˦ </s>
+k o n ˨ ˦ . k ʰ a ː ˨ ˦ . l e k ̚ ˦ ˨ ˀ </s>
+t a ː m ˩ </s>
+t a ː ˨ ˦ </s>
+h u ː ˥ . n a m ˦ ˨ ˀ . t ͡ ɕ ɯ m ˥ </s>
+t a ː ŋ ˥ . p e n ˨ ˦ </s>
+k ʰ i ː ˧ ˧ ˨ . l a ː w ˨ ˦ . j ɔ t ̚ ˩ </s>
+p i ː ˨ ˦ . k ɔ n ˥ . k ʰ a m ˥ </s>
+t ʰ a ː ŋ ˩ </s>
+k u ː ˩ . l u k ̚ ˧ ˧ ˨ . ʔ ɔ n ˩ </s>
+k a ˨ ˦ . r u ˨ ˦ . n a ː ˩ </s>
+k ɛ ː ˧ ˧ ˨ . t ͡ ɕ e ŋ ˩ </s>
+k a p ̚ ˥ . k a ː j ˩ </s>
+k u ː ˩ . t o p ̚ ˦ ˨ ˀ </s>
+k o n ˥ . k ʰ u t ̚ ˥ . m ɔ ː ˩ </s>
+w a ː j ˨ ˦ </s>
+p u k ̚ ˦ ˨ ˀ . t ʰ a ː ˦ ˨ ˀ </s>
+ʔ ɔ ː ˩ . t ͡ ɕ a ˨ ˦ . t r e ː ˥ . l i ː ˥ . j ɤ ː ˥ </s>
+m ɤ ŋ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . l ɛ ŋ ˥ </s>
+t ʰ i ː ˥ </s>
+k ɛ ː ˩ . k a ː ŋ ˦ ˨ ˀ </s>
+t ͡ ɕ e ː ˦ ˨ ˀ . t ͡ ɕ a ː p ̚ ˧ ˧ ˨ </s>
+k a m ˩ . n u m ˩ </s>
+k a k ̚ ˥ . m ɯ ː ˥ . h ɔ ŋ ˦ ˨ ˀ </s>
+s ʰ i p ̚ ˥ . t ͡ ɕ e t ̚ ˥ </s>
+k a m ˦ ˨ ˀ . t ʰ ɛ m ˨ ˦ </s>
+n a ŋ ˧ ˧ ˨ </s>
+k o n ˥ . w a ː n ˧ ˧ ˨ . k o n ˥ . m ɤ ŋ ˥ </s>
+k o n ˥ . l ɤ ː ˧ ˧ ˨ . p ɛ n ˧ ˧ ˨ </s>
+k a ː ˧ ˧ ˨ . j ɔ m ˥ </s>
+k i n ˨ ˦ . ʔ i m ˩ . k i n ˨ ˦ . w a ː n ˨ ˦ </s>
+k ʰ a w ˧ ˧ ˨ . s ʰ ɛ ŋ ˨ ˦ </s>
+k o n ˥ . m ɔ ː ˨ ˦ . k w a ː m ˥ </s>
+t i ː ˩ . s ʰ ɛ m ˩ . p a ː ˩ </s>
+f a j ˥ </s>
+ʔ a ː ˩ . h a ː ˩ . r a ː ˦ ˨ ˀ </s>
+k a m ˦ ˨ ˀ . p ʰ u ː ˧ ˧ ˨ . k a m ˦ ˨ ˀ . k a ː n ˨ ˦ </s>
+k ʰ ɤ ŋ ˨ ˦ . n a ː ŋ ˥ . p u m ˧ ˧ ˨ </s>
+k ʰ ɛ p ̚ ˥ . t i n ˨ ˦ </s>
+k e ŋ ˥ </s>
+k o n ˥ . h u ː ˦ ˨ ˀ . t ͡ ɕ a k ̚ ˥ </s>
+k ɔ k ̚ ˧ ˧ ˨ </s>
+k ʰ i ː ˨ ˦ </s>
+k o n ˥ . w a ː n ˧ ˧ ˨ . k o n ˥ . s ʰ o n ˨ ˦ </s>
+k a m ˥ </s>
+f a j ˥ . f a ː ˦ ˨ ˀ </s>
+k u ː ˩ . n ɔ n ˥ </s>
+s ʰ i ŋ ˥ . k ʰ o ː ˩ </s>
+l u ː ˨ ˦ </s>
+s ʰ o m ˧ ˧ ˨ . p u ː ˨ ˦ </s>
+k ʰ u k ̚ ˥ . k ʰ a k ̚ ˥ </s>
+k o n ˥ . t a ː ŋ ˩ . t ͡ ɕ u m ˥ </s>
+k o n ˥ . h e t ̚ ˥ . k w a ː m ˥ </s>
+k o n ˥ . t ͡ ɕ a p ̚ ˥ . l a w ˧ ˧ ˨ </s>
+k ʰ i ː ˩ . m a ː ˩ </s>
+l o ŋ ˥ </s>
+k o n ˥ . k u m ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a j ˦ ˨ ˀ </s>
+k ɛ m ˨ ˦ . k ʰ u n ˨ ˦ . h a ː n ˨ ˦ </s>
+m e n ˧ ˧ ˨ </s>
+k o n ˥ . ʔ a ː n ˩ . ŋ ɯ n ˥ </s>
+k u ː ˩ </s>
+k a ː ˥ . j u k ̚ ˦ ˨ ˀ . k ʰ o ː ˥ </s>
+k ʰ e ŋ ˩ . s ʰ ɔ m ˥ . t ɔ ː ˩ </s>
+k ʰ o ŋ ˦ ˨ ˀ . w a j ˦ ˨ ˀ . l o ŋ ˦ ˨ ˀ . k o ŋ ˦ ˨ ˀ </s>
+k ʰ e ŋ ˩ . m ɔ ː ˧ ˧ ˨ . n a m ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k i m ˥ </s>
+t ʰ a ˨ ˦ . n u ː ˦ ˨ ˀ </s>
+ʔ a ˨ ˦ . p u ŋ ˩ . ɲ a ː ˦ ˨ ˀ </s>
+w i ː ˦ ˨ ˀ . n ɛ ː ˥ </s>
+k ʰ a ˨ ˦ . r i t ̚ ˦ ˨ ˀ . j a ː n ˩ </s>
+k o n ˥ . n a p ̚ ˦ ˨ ˀ . m a ː j ˨ ˦ . ŋ ɯ n ˥ </s>
+n a ː j ˥ </s>
+k ʰ a ː ˨ ˦ . k ʰ ɛ ː ˦ ˨ ˀ </s>
+k o n ˥ . p ʰ e w ˧ ˧ ˨ . k o n ˥ . s ʰ i m ˥ </s>
+k ɯ n ˥ </s>
+k o n ˥ . t ͡ ɕ a ɰ ˨ ˦ . l a m ˨ ˦ . s ʰ a j ˧ ˧ ˨ . k a m ˩ </s>
+l ɔ ː ˦ ˨ ˀ . k o n ˥ . p e n ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɛ t ̚ ˩ </s>
+l a j ˨ ˦ </s>
+m a ː k ̚ ˩ . n a ŋ ˨ ˦ </s>
+k a ː ˦ ˨ ˀ </s>
+k o n ˥ . h ɤ ː ˥ </s>
+ʔ a ˨ ˦ . l ɔ ŋ ˥ </s>
+k ʰ i ŋ ˥ . k ʰ ɛ ŋ ˨ ˦ </s>
+k i m ˥ . h a j ˥ </s>
+p r a ː ŋ ˥ </s>
+k o ŋ ˨ ˦ </s>
+k a ː j ˥ . k ʰ o m ˥ </s>
+k o n ˥ . t ʰ i ŋ ˥ . l u k ̚ ˧ ˧ ˨ . ʔ ɔ n ˩ </s>
+s ʰ i ː ˨ ˦ . k a m ˩ </s>
+k a t ̚ ˥ </s>
+k ɔ ː ˨ ˦ . k o j ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɛ t ̚ ˥ . k ʰ a ː t ̚ ˩ </s>
+k ʰ u k ̚ ˦ ˨ ˀ </s>
+ʔ a ː ŋ ˥ </s>
+k ʰ i ː ˧ ˧ ˨ . j a ː ˧ ˧ ˨ </s>
+s ʰ ɛ p ̚ ˩ . t ʰ ɛ m ˩ . p a ː ˩ </s>
+m j a ː k ̚ ˧ ˧ ˨ . l ɛ ː ˦ ˨ ˀ </s>
+k i ː ˧ ˧ ˨ . m ɔ k ̚ ˩ . k i ː ˧ ˧ ˨ . n ɛ ː ˨ ˦ </s>
+s ʰ i m ˥ </s>
+j i ŋ ˥ </s>
+k ʰ a w ˧ ˧ ˨ . s ʰ e n ˧ ˧ ˨ </s>
+k ɔ ŋ ˥ . l a ŋ ˨ ˦ </s>
+k o n ˥ . h o m ˧ ˧ ˨ . k a n ˨ ˦ . k a ː ˦ ˨ ˀ </s>
+k a m ˦ ˨ ˀ . t ͡ ɕ ɔ j ˧ ˧ ˨ </s>
+k a n ˩ . ɲ a ː ˩ </s>
+k ʰ w a ː k ̚ ˩ </s>
+k i ŋ ˩ . h ɛ ː ˦ ˨ ˀ </s>
+k ʰ ɔ ŋ ˨ ˦ . k ʰ a ː ˨ ˦ </s>
+t a ː n ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɔ ŋ ˧ ˧ ˨ </s>
+ʔ a ː ˩ . k a n ˨ ˦ . t u ː ˦ ˨ ˀ </s>
+p ɔ ŋ ˩ . t ͡ ɕ a ɰ ˨ ˦ </s>
+k ʰ a ː w ˨ ˦ </s>
+k ʰ i ŋ ˩ . h ɯ ː ˦ ˨ ˀ </s>
+ʔ u k ̚ ˦ ˨ ˀ . t ͡ ɕ u ː ˦ ˨ ˀ </s>
+s ʰ ɛ ŋ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a k ̚ ˥ </s>
+s ʰ a ː w ˥ . s ʰ a ː m ˨ ˦ </s>
+k a ː ˧ ˧ ˨ . h ɛ ŋ ˥ </s>
+k a ː k ̚ ˩ . ŋ ɛ m ˧ ˧ ˨ </s>
+s ʰ r a ː ˩ </s>
+k ʰ ɔ ː ˥ . s ʰ a ː k ̚ ˩ </s>
+ŋ i ŋ ˥ </s>
+l a ː w ˨ ˦ </s>
+s ʰ u m ˥ . k ʰ a ː w ˥ . j a ː m ˥ </s>
+s ʰ i p ̚ ˥ . p ɛ t ̚ ˩ </s>
+j o ː ˩ </s>
+k o n ˥ . p a ː j ˧ ˧ ˨ . p ʰ e ː ˥ </s>
+k ɔ k ̚ ˥ . l e k ̚ ˥ </s>
+k ɔ t ̚ ˥ </s>
+w a ː n ˧ ˧ ˨ </s>
+k a p ̚ ˥ </s>
+k ʰ ɯ k ̚ ˦ ˨ ˀ </s>
+k e w ˧ ˧ ˨ . k a ː w ˧ ˧ ˨ </s>
+k e w ˧ ˧ ˨ </s>
+n u k ̚ ˧ ˧ ˨ </s>
+k ʰ a ː ˧ ˧ ˨ </s>
+k a ː ŋ ˩ </s>
+p a ː j ˥ . m a ː k ̚ ˧ ˧ ˨ . m i ː ˥ </s>
+m ɤ ŋ ˥ . k ɔ k ̚ ˩ </s>
+k o n ˥ . ʔ u p ̚ ˩ . l o ŋ ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɯ k ̚ ˥ </s>
+k ɤ ː ˥ </s>
+h o ŋ ˥ . w a j ˦ ˨ ˀ . k ʰ o ː ˥ </s>
+n o ː ˥ </s>
+k ɔ m ˦ ˨ ˀ . k a ː ˧ ˧ ˨ </s>
+k ɤ p ̚ ˩ . t i n ˨ ˦ </s>
+k a ˨ ˦ . r a ˨ ˦ . w e ː ˩ </s>
+ʔ u p ̚ ˩ . ʔ o ː ˥ </s>
+w a ː n ˨ ˦ </s>
+k o n ˥ . n o k ̚ ˩ . k o n ˥ . n a ː ˨ ˦ </s>
+k a ː t ̚ ˩ </s>
+f ɛ p ̚ ˩ . w a ː ˩ . r i ː ˩ </s>
+m ɤ ŋ ˥ . l a ː w ˥ </s>
+k ʰ u m ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o ŋ ˩ . k a ː w ˨ ˦ . k a ː ŋ ˨ ˦ . j a ɰ ˥ </s>
+k ʰ i ː ˧ ˧ ˨ . k ʰ a ː ŋ ˧ ˧ ˨ </s>
+k h ì i </s>
+k ʰ e ː ˦ ˨ ˀ . h ɛ ŋ ˥ . k a n ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ e ː ˩ </s>
+k ɔ t ̚ ˩ . m ɯ ː ˥ </s>
+ʔ a ˨ ˦ . l e ː ˦ ˨ ˀ </s>
+k a j ˦ ˨ ˀ . k i n ˨ ˦ </s>
+k ɛ n ˥ </s>
+t i ː ˧ ˧ ˨ . k ʰ a ː ˧ ˧ ˨ </s>
+k ɔ ŋ ˥ . s ʰ a n ˨ ˦ . l ɔ j ˨ ˦ </s>
+h o ː ˨ ˦ . p ʰ a k ̚ ˥ . p ɯ k ̚ ˦ ˨ ˀ </s>
+k ɔ ː ˦ ˨ ˀ . k ʰ a ː m ˩ . ʔ a ˨ ˦ . m o j ˩ </s>
+p ʰ i w ˨ ˦ . n a ŋ ˨ ˦ </s>
+k ʰ o k ̚ ˦ ˨ ˀ . m ɯ ː ˥ </s>
+p e n ˨ ˦ </s>
+k ɔ n ˥ . m ɤ ŋ ˥ </s>
+k a m ˧ ˧ ˨ . ʔ e ː ˩ </s>
+p e t ̚ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k e p ̚ ˥ </s>
+k ʰ ɛ ŋ ˩ </s>
+ʔ ɛ w ˨ ˦ </s>
+k o n ˥ . m ɛ ː ˥ . k a ː ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a ŋ ˩ </s>
+k ʰ a ː ŋ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɯ ŋ ˩ . ʔ a ː p ̚ ˧ ˧ ˨ </s>
+k o n ˥ . h e t ̚ ˥ . s ʰ o n ˨ ˦ </s>
+s ʰ i p ̚ ˥ . h a ː ˧ ˧ ˨ </s>
+p i t ̚ ˧ ˧ ˨ . t a ˨ ˦ . k a ː t ̚ ˧ ˧ ˨ </s>
+p a ː ˩ . t i ː ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ e ŋ ˩ . m a ː ˦ ˨ ˀ . k a n ˨ ˦ </s>
+t i ː ˧ ˧ ˨ </s>
+m ɤ ŋ ˥ . d ͡ ʑ a ː ˩ . p a ː n ˩ </s>
+k ʰ i ː ˧ ˧ ˨ . k ʰ a ː k ̚ ˩ </s>
+k a j ˩ . n a m ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . h a n ˨ ˦ </s>
+k ʰ e ŋ ˨ ˦ . h a ː m ˨ ˦ </s>
+k ɛ ː ˧ ˧ ˨ . h o j ˧ ˧ ˨ . k ɛ ː ˧ ˧ ˨ . l ɔ j ˨ ˦ </s>
+m ɔ k ̚ ˩ </s>
+ŋ ɤ ŋ ˦ ˨ ˀ . w ɛ ː ˧ ˧ ˨ </s>
+k ɔ ŋ ˥ . k ɛ ŋ ˥ . p a ː ˨ ˦ </s>
+k a w ˩ </s>
+p ʰ a n ˩ . t a ː ˩ . t ͡ ɕ o ː ˥ </s>
+k o ː ˥ </s>
+k ɔ ː ˨ ˦ . k ʰ a w ˧ ˧ ˨ </s>
+k ɔ k ̚ ˥ . k i n ˨ ˦ . n a m ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o ː ˧ ˧ ˨ </s>
+k a ː k ̚ ˩ . s ʰ ɔ ː ˥ </s>
+k ɔ k ̚ ˥ . l ɔ k ̚ ˦ ˨ ˀ </s>
+k o n ˥ . l ɔ ː ˨ ˦ </s>
+k ʰ ɔ ŋ ˨ ˦ . t ʰ ɔ t ̚ ˧ ˧ ˨ . k ʰ ɔ ŋ ˨ ˦ . m j a ː t ̚ ˧ ˧ ˨ </s>
+m ɯ n ˩ </s>
+k ʰ e ŋ ˩ . p ʰ r a ː ˥ </s>
+t a ː ˧ ˧ ˨ . h ɤ ː ˥ </s>
+k ʰ ɤ ŋ ˩ </s>
+k a ː ˥ . t o ː ˨ ˦ . j a ː w ˥ </s>
+k o j ˧ ˧ ˨ . t ʰ ɤ n ˩ </s>
+k ʰ ɔ ː ˧ ˧ ˨ . ʔ a ː ŋ ˧ ˧ ˨ </s>
+k o n ˥ . h a p ̚ ˦ ˨ ˀ </s>
+k a ː ŋ ˦ ˨ ˀ . k ɔ ŋ ˧ ˧ ˨ </s>
+t i ː ˩ . t ͡ ɕ ɛ m ˩ . p ɤ ː ˩ </s>
+l a ː ŋ ˥ . t a ː ˦ ˨ ˀ </s>
+k ɛ ː ˩ . k ʰ ɛ n ˦ ˨ ˀ </s>
+k a ː ŋ ˥ </s>
+k ɔ p ̚ ˧ ˧ ˨ . n a n ˨ ˦ </s>
+p a ˨ ˦ . ʔ o ː ˥ </s>
+k o n ˥ . k u ː ˧ ˧ ˨ . ŋ ɯ n ˥ </s>
+k a ː ˧ ˧ ˨ . k ʰ a n ˨ ˦ . m a n ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɔ ŋ ˦ ˨ ˀ </s>
+p a t ̚ ˦ ˨ ˀ </s>
+m j a ː ˦ ˨ ˀ </s>
+s ʰ i m ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ i ː ˧ ˧ ˨ . h a j ˧ ˧ ˨ </s>
+h a ŋ ˥ . s ʰ a ː ˩ </s>
+k u n ˨ ˦ . j ɔ n ˩ </s>
+k ɛ m ˧ ˧ ˨ </s>
+k o n ˥ . k ʰ a ː j ˨ ˦ . k ʰ o ː ˥ . t ͡ ɕ ɔ m ˥ . t a ː ŋ ˥ </s>
+ʔ a ː ˩ . t ͡ ɕ a ˨ ˦ . r i ː ˦ ˨ ˀ . j a ː ˦ ˨ ˀ </s>
+k ʰ i ː ˧ ˧ ˨ . t ɤ t ̚ ˥ </s>
+k a ː ˧ ˧ ˨ . k ʰ i ː ˧ ˧ ˨ . ŋ ɯ n ˥ </s>
+k u ː ˧ ˧ ˨ . t i ː ˧ ˧ ˨ . k u ː ˧ ˧ ˨ . t a ː ŋ ˥ </s>
+k a ː n ˨ ˦ . p o ŋ ˨ ˦ . h e t ̚ ˥ </s>
+p ʰ ɤ ː ˦ ˨ ˀ </s>
+k ɔ p ̚ ˥ . n a ŋ ˧ ˧ ˨ </s>
+k a ː n ˨ ˦ </s>
+k ɔ m ˩ . k o n ˥ . t a ː j ˨ ˦ </s>
+t ͡ ɕ e ŋ ˩ . k ʰ ɯ ŋ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a ː m ˧ ˧ ˨ </s>
+k o n ˧ ˧ ˨ . m ɔ ː ˧ ˧ ˨ </s>
+k o n ˥ . s ʰ ɯ k ̚ ˥ . k a w ˩ </s>
+s ʰ a ː ˥ . t ͡ ɕ e ː ˥ </s>
+t u ː ˨ ˦ </s>
+m ɯ ː ˥ </s>
+k ʰ ɛ ŋ ˨ ˦ . t ͡ ɕ a ɰ ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɛ k ̚ ˥ </s>
+k a t ̚ ˥ . t ͡ ɕ a ɰ ˨ ˦ . j e n ˨ ˦ . t ͡ ɕ a ɰ ˨ ˦ </s>
+k o n ˥ . j e p ̚ ˦ ˨ ˀ . s ʰ ɔ k ̚ ˥ . t i n ˨ ˦ </s>
+k ʰ u k ̚ ˥ . j a ː n ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɛ ː ˧ ˧ ˨ </s>
+h a n ˨ ˦ </s>
+ʔ a ˨ ˦ . n a ː k ̚ ˧ ˧ ˨ </s>
+k i n ˨ ˦ . t ͡ ɕ a ː j ˨ ˦ </s>
+l ɤ k ̚ ˧ ˧ ˨ </s>
+k ɔ ŋ ˧ ˧ ˨ . f a j ˥ . j a ː ˧ ˧ ˨ </s>
+p u ː ˦ ˨ ˀ . t ʰ o ː ˥ </s>
+k ɯ k ̚ ˥ . w a ː n ˧ ˧ ˨ . k ɯ k ̚ ˥ . m ɤ ŋ ˥ </s>
+t ɛ ŋ ˨ ˦ . p ʰ a ː ŋ ˨ ˦ </s>
+k ʰ i ː ˧ ˧ ˨ . k ʰ a ː ˩ </s>
+t a ː ŋ ˩ . k u ŋ ˩ </s>
+k ɔ ŋ ˦ ˨ ˀ . w a ː ˩ . k ɔ ŋ ˦ ˨ ˀ . k ʰ ɔ ː ˥ </s>
+k e ŋ ˧ ˧ ˨ . h e t ̚ ˥ </s>
+k i ː ˧ ˧ ˨ . s ʰ o j ˥ . s ʰ o j ˥ </s>
+k ʰ a w ˧ ˧ ˨ . l ɤ ŋ ˨ ˦ . p a ː ˨ ˦ </s>
+ŋ a w ˥ </s>
+k o n ˨ ˦ . k ʰ a ː ˨ ˦ . m a ː ˦ ˨ ˀ </s>
+k ʰ ɯ ŋ ˧ ˧ ˨ . n ɯ ŋ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɯ k ̚ ˦ ˨ ˀ </s>
+k ɔ n ˥ . w e ŋ ˥ </s>
+k ɛ n ˨ ˦ . t ͡ ɕ a ː k ̚ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ ŋ ˩ </s>
+k i n ˨ ˦ . p ʰ i t ̚ ˥ </s>
+θ o ː ˥ </s>
+k u ŋ ˩ . k u n ˥ </s>
+k o n ˥ . l e n ˧ ˧ ˨ </s>
+k a ː ˧ ˧ ˨ . n a j ˧ ˧ ˨ </s>
+k a ː ˥ . t ʰ a j ˨ ˦ </s>
+k o n ˥ . t a p ̚ ˦ ˨ ˀ </s>
+m u n ˨ ˦ . t ͡ ɕ a w ˧ ˧ ˨ . p o p ̚ ˦ ˨ ˀ </s>
+k o n ˥ . t ͡ ɕ a ː ŋ ˧ ˧ ˨ </s>
+d ͡ ʑ ɔ ː ŋ ˥ </s>
+k ʰ a ː k ̚ ˥ . k ʰ a ː k ̚ ˥ . k ʰ i k ̚ ˥ . k ʰ i k ̚ ˥ </s>
+k ɔ ː ˩ . s ʰ a ː ŋ ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . r ɔ j ˩ </s>
+k ʰ i ː ˩ </s>
+k o n ˥ . s ʰ ɯ ː ˧ ˧ ˨ . k o n ˥ . j o ː ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ o ŋ ˨ ˦ . ŋ o ŋ ˨ ˦ </s>
+s ʰ a m ˩ . m a ˨ ˦ . ɲ a ː ˦ ˨ ˀ </s>
+k o n ˥ . l ɛ n ˨ ˦ </s>
+l u ː ˦ ˨ ˀ . k ɤ n ˩ </s>
+ʔ a ː ˥ . t ʰ a m ˩ . m a ː ˦ ˨ ˀ </s>
+k a ˨ ˦ . l ɔ ŋ ˩ </s>
+k a n ˥ . t ͡ ɕ ɔ ŋ ˧ ˧ ˨ </s>
+k ɔ t ̚ ˩ . k ʰ ɔ ː ˥ </s>
+k ʰ e ŋ ˧ ˧ ˨ </s>
+w u n ˩ . d ͡ ʑ i ː ˥ . t ͡ ɕ ʰ u k ̚ ˧ ˧ ˨ </s>
+k a m ˩ . p ʰ a ː ˩ . s ʰ u t ̚ ˥ </s>
+k ʰ ɯ k ̚ ˦ ˨ ˀ . k ʰ ɯ k ̚ ˦ ˨ ˀ . k ʰ a m ˩ . k ʰ a m ˩ </s>
+s ʰ a ˨ ˦ . n a ː p ̚ ˧ ˧ ˨ . k ʰ a ː ˥ </s>
+t ʰ o j ˥ </s>
+k ɔ ŋ ˦ ˨ ˀ . ŋ u ː ˥ </s>
+k a ː p ̚ ˧ ˧ ˨ . p a ː n ˨ ˦ </s>
+ʔ a ˨ ˦ . t a ː t ̚ ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . d ͡ ʑ ɔ t ̚ ˧ ˧ ˨ </s>
+t a ː ŋ ˥ . k ʰ e w ˨ ˦ </s>
+n ɔ n ˥ </s>
+t a m ˩ . t ɤ ŋ ˥ </s>
+k a ɰ ˧ ˧ ˨ . p ɔ ŋ ˥ </s>
+k ʰ e ː ˩ . m a m ˩ </s>
+h a k ̚ ˦ ˨ ˀ </s>
+k u j ˦ ˨ ˀ </s>
+k ʰ i ː ˩ . t a ː ŋ ˩ </s>
+t ʰ a ː n ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ e ŋ ˩ </s>
+k ʰ ɔ k ̚ ˧ ˧ ˨ . t ʰ ɔ ŋ ˩ </s>
+t a ː ŋ ˥ . h a k ̚ ˦ ˨ ˀ </s>
+k a t ̚ ˧ ˧ ˨ . t a ˨ ˦ . r a ː ˩ . s ʰ i ː ˩ </s>
+k o ː ˧ ˧ ˨ . p e n ˨ ˦ . k w a ː k ̚ ˧ ˧ ˨ </s>
+k i n ˨ ˦ . k ʰ ɛ k ̚ ˩ </s>
+ʔ a ˨ ˦ . ɲ ɔ ː ˩ </s>
+k o n ˥ . s ʰ ɔ ː ˩ </s>
+p u ː ˩ </s>
+t ʰ ɔ ŋ ˩ </s>
+p ʰ a ː n ˩ . s ʰ a ː ŋ ˥ </s>
+p ʰ u ː ˧ ˧ ˨ . t ɛ m ˧ ˧ ˨ </s>
+k ɔ m ˧ ˧ ˨ </s>
+n ɔ ŋ ˨ ˦ </s>
+k ʰ i ː ˧ ˧ ˨ . ʔ ɛ ː ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o m ˨ ˦ </s>
+ʔ ɔ k ̚ ˩ . t o ː ˩ . p ɤ ː ˦ ˨ ˀ </s>
+k e w ˦ ˨ ˀ </s>
+t a ˨ ˦ . l ɛ ŋ ˥ </s>
+k u ŋ ˧ ˧ ˨ . s ʰ o m ˧ ˧ ˨ </s>
+k o n ˥ . t ɔ ː ˩ </s>
+k ʰ ɤ ŋ ˧ ˧ ˨ . s ʰ e ŋ ˨ ˦ . h ɛ ŋ ˥ </s>
+k i t ̚ ˩ . k ɛ p ̚ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a ː ŋ ˨ ˦ . h ɛ w ˦ ˨ ˀ </s>
+k a ː ˥ . l a ː k ̚ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a j ˨ ˦ </s>
+k ʰ u k ̚ ˥ . t ͡ ɕ a ɰ ˨ ˦ . l a j ˧ ˧ ˨ . k ʰ a j ˧ ˧ ˨ . t ͡ ɕ a ɰ ˨ ˦ . t ʰ ɯ ŋ ˨ ˦ </s>
+ʔ u p ̚ ˦ ˨ ˀ . p ɤ ŋ ˩ </s>
+t ʰ a ː m ˨ ˦ </s>
+k ʰ a ː w ˥ . m a j ˧ ˧ ˨ </s>
+p a ː ŋ ˩ . l a ː j ˩ </s>
+s ʰ a ː ŋ ˩ . p u t ̚ ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . j i k ̚ ˧ ˧ ˨ </s>
+s ʰ i p ̚ ˥ . h o k ̚ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ o ŋ ˦ ˨ ˀ . w a j ˦ ˨ ˀ . l o ŋ ˦ ˨ ˀ . k o ŋ ˦ ˨ ˀ </s>
+k o n ˥ . k ɛ t ̚ ˥ . k ʰ o n ˨ ˦ . h o ː ˨ ˦ </s>
+k ʰ ɔ ŋ ˨ ˦ . h a ː ˥ </s>
+k ɤ t ̚ ˩ . p ʰ a ː ˨ ˦ . p ʰ ɛ ː ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ u k ̚ ˥ . t ʰ o p ̚ ˥ </s>
+k o n ˥ . l e n ˧ ˧ ˨ . ŋ u ː ˥ </s>
+l ɤ n ˨ ˦ . k a m ˨ ˦ </s>
+t ͡ ɕ a n ˥ . t a ˨ ˦ . j a ː ˥ </s>
+k ʰ ɯ k ̚ ˦ ˨ ˀ . t ͡ ɕ a ɰ ˨ ˦ . k ɛ n ˥ . t ͡ ɕ a ɰ ˨ ˦ </s>
+t ͡ ɕ e ː ˧ ˧ ˨ </s>
+k e w ˧ ˧ ˨ . k ʰ ɯ n ˧ ˧ ˨ </s>
+k ɔ ː ˩ </s>
+m a ː k ̚ ˩ </s>
+s ʰ ɔ n ˨ ˦ </s>
+k ʰ ɤ ŋ ˨ ˦ </s>
+k ɤ n ˩ </s>
+k u n ˩ </s>
+k o n ˥ . j a ː ˦ ˨ ˀ . k a w ˥ </s>
+k a ː ˦ ˨ ˀ . k ʰ a ː j ˨ ˦ </s>
+k i ˨ ˦ . l e ː ˩ . s ʰ a ː ˩ </s>
+p a ː w ˩ </s>
+t ͡ ɕ ɔ ː ˦ ˨ ˀ . ŋ ɛ m ˧ ˧ ˨ </s>
+t a ŋ ˧ ˧ ˨ . t ɛ ː ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɛ n ˩ . k ʰ ɛ ŋ ˨ ˦ </s>
+l u ŋ ˩ </s>
+k ʰ o k ̚ ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a ː w ˦ ˨ ˀ </s>
+s ʰ a ˨ ˦ . r a ˨ ˦ . p ʰ u ː ˩ </s>
+t o n ˧ ˧ ˨ . s ʰ a ˨ ˦ . n a ː p ̚ ˩ . k ʰ a ː ˥ </s>
+s ʰ i p ̚ ˥ . s ʰ i ː ˩ </s>
+t ͡ ɕ u n ˦ ˨ ˀ </s>
+k o p ̚ ˦ ˨ ˀ . k u ː ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ n ˦ ˨ ˀ </s>
+s ʰ i ː ˩ </s>
+l a m ˥ . p ʰ ɛ ŋ ˩ </s>
+n a m ˦ ˨ ˀ . n o m ˥ </s>
+k ʰ a w ˧ ˧ ˨ . m u n ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɔ ː ˥ . k i w ˩ </s>
+k a m ˥ . ʔ ɔ n ˨ ˦ . t a ː ŋ ˥ </s>
+k w a ː j ˥ </s>
+k ʰ a ː w ˥ . h ɯ ː ˦ ˨ ˀ </s>
+k o ŋ ˨ ˦ . k ʰ ɔ ː ˥ </s>
+k ʰ a w ˧ ˧ ˨ . s ʰ ɔ j ˥ </s>
+k ɔ ː ˥ . t ͡ ɕ a ː ˩ </s>
+k e w ˩ . k ʰ ɔ ŋ ˧ ˧ ˨ </s>
+k ɤ ː ˥ . p ʰ i ː ˨ ˦ </s>
+l a ː k ̚ ˧ ˧ ˨ . p ʰ ɔ j ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ u k ̚ ˥ . t ͡ ɕ a ɰ ˨ ˦ . l a j ˧ ˧ ˨ </s>
+k ɔ ː ˨ ˦ . j u k ̚ ˦ ˨ ˀ . j ɔ ŋ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ e ŋ ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . s ʰ u ŋ ˥ </s>
+s ʰ i ː ˨ ˦ . p ʰ ɤ k ̚ ˩ </s>
+w a ˨ ˦ </s>
+d ͡ ʑ ɔ k ̚ ˧ ˧ ˨ . t a ː n ˩ </s>
+t i ŋ ˩ </s>
+l a ː n ˦ ˨ ˀ . t ͡ ɕ a w ˧ ˧ ˨ </s>
+ʔ a ː ˩ . n u ː ˦ ˨ ˀ . p ʰ ɔ ː ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ m ˧ ˧ ˨ </s>
+k a ˨ ˦ . s ʰ e ː ˥ </s>
+k ɯ t ̚ ˥ . s ʰ a w ˥ </s>
+k ʰ o ŋ ˥ . k a ː ŋ ˨ ˦ </s>
+k ʰ ɔ ŋ ˨ ˦ . p ʰ a ː k ̚ ˩ </s>
+k o n ˥ . l u m ˥ . l a ː ˥ . k o n ˥ . p e n ˨ ˦ </s>
+k a n ˦ ˨ ˀ </s>
+k a ˨ ˦ . t a ː k ̚ ˥ </s>
+k a m ˩ . p ʰ a ː ˩ . l u m ˧ ˧ ˨ . f a ː ˦ ˨ ˀ </s>
+k ʰ i ː ˧ ˧ ˨ . ŋ a ː ˥ </s>
+m a ˨ ˦ . h a ː ˩ . s ʰ a ː ˩ . w a ˨ ˦ . k a ː ˦ ˨ ˀ </s>
+h a ː ˧ ˧ ˨ </s>
+k ʰ u ː ˥ . s ʰ ɔ n ˨ ˦ </s>
+k ɯ t ̚ ˦ ˨ ˀ . l a j ˧ ˧ ˨ </s>
+k o j ˥ . k a ː ˧ ˧ ˨ </s>
+k i ː ˩ . l o ː ˩ . m i ː ˩ . t a ː ˩ </s>
+k o n ˥ . h u ŋ ˨ ˦ . k ʰ a w ˧ ˧ ˨ </s>
+l i n ˨ ˦ </s>
+s ʰ u ː ˨ ˦ </s>
+s ʰ i p ̚ ˥ . s ʰ ɔ ŋ ˨ ˦ </s>
+h a ː ˨ ˦ </s>
+k ɤ ŋ ˥ . k w a ː ˩ . k ɤ ŋ ˥ . k ʰ ɯ n ˥ </s>
+k ɔ n ˧ ˧ ˨ . s ʰ i ː ˨ ˦ </s>
+k ɛ p ̚ ˩ </s>
+n a ɰ ˥ </s>
+k i n ˨ ˦ . w o j ˩ </s>
+l ɔ ŋ ˥ </s>
+k a m ˦ ˨ ˀ . l ɔ ː ˦ ˨ ˀ </s>
+k a ː n ˥ . h a ː p ̚ ˩ </s>
+t ɛ ː ˩ . l i ː ˩ . f o n ˥ </s>
+k ʰ ɔ ŋ ˨ ˦ . l a ː j ˨ ˦ </s>
+m a ː n ˧ ˧ ˨ . m ɛ ŋ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a j ˩ . k ʰ a n ˨ ˦ </s>
+l o ː ˩ </s>
+k ʰ ɔ k ̚ ˧ ˧ ˨ . w o ː ˥ </s>
+k ɛ ː ˧ ˧ ˨ . k o n ˥ . t a ŋ ˥ . n a m ˨ ˦ </s>
+k u ː ˦ ˨ ˀ . l a ː ˦ ˨ ˀ . θ a ː ˦ ˨ ˀ . m ɛ k ̚ ˦ ˨ ˀ . k a ː ˦ ˨ ˀ </s>
+m a ː k ̚ ˩ . k a ː w ˧ ˧ ˨ </s>
+k ʰ ɔ ŋ ˦ ˨ ˀ . n ɔ n ˥ </s>
+k a ˨ ˦ . t i ˨ ˦ . s ʰ e t ̚ ˦ ˨ ˀ . t ͡ ɕ a ː ˩ </s>
+s ʰ a ˨ ˦ . m a ˨ ˦ . t a ː ˦ ˨ ˀ </s>
+k ɔ n ˦ ˨ ˀ . k i n ˨ ˦ </s>
+l ɤ n ˨ ˦ . s ʰ i p ̚ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k e w ˦ ˨ ˀ . ʔ ɤ ŋ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k e w ˧ ˧ ˨ . h a t ̚ ˦ ˨ ˀ </s>
+k o n ˥ . j e p ̚ ˦ ˨ ˀ . l a ː j ˥ . m ɔ k ̚ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a ː ŋ ˨ ˦ . k ʰ ɯ m ˥ </s>
+k ɛ n ˧ ˧ ˨ </s>
+k ʰ ɛ ː ˨ ˦ </s>
+k a ː ˧ ˧ ˨ . t a ɰ ˧ ˧ ˨ </s>
+k a ˨ ˦ . r a m ˩ </s>
+k o n ˥ . k a t ̚ ˦ ˨ ˀ . k ʰ ɛ n ˩ </s>
+k ʰ ɔ ː ˧ ˧ ˨ . h o m ˧ ˧ ˨ . m a ː j ˨ ˦ </s>
+k ʰ ɛ ː ˥ </s>
+k ʰ ɛ ː ˨ ˦ . t o ː ˨ ˦ </s>
+k o j ˨ ˦ . h a ː p ̚ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o ŋ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a ː w ˩ . h a ː ˨ ˦ </s>
+l e ː ˩ . j i n ˩ . p j a ː n ˩ </s>
+k ʰ ɛ ː ˧ ˧ ˨ </s>
+k a j ˥ </s>
+k ʰ ɔ ː ˥ . k i w ˩ . l i n ˨ ˦ </s>
+k ɔ k ̚ ˥ </s>
+ɲ i t ̚ ˧ ˧ ˨ </s>
+j ɤ ː ˧ ˧ ˨ </s>
+h i n ˨ ˦ . s ʰ o m ˧ ˧ ˨ </s>
+k ʰ i ŋ ˨ ˦ . k ʰ ɛ k ̚ ˦ ˨ ˀ </s>
+k ɔ ŋ ˧ ˧ ˨ . p ɔ t ̚ ˥ </s>
+k a t ̚ ˧ ˧ ˨ . t i ː ˩ . p a ː ˩ </s>
+j u m ˦ ˨ ˀ </s>
+k o n ˩ . t o k ̚ ˥ </s>
+θ a ˨ ˦ . m a ː ˦ ˨ ˀ . w a ː ˩ . j a ˨ ˦ . m a ː ˦ ˨ ˀ </s>
+k u j ˦ ˨ ˀ . p ʰ u j ˩ </s>
+ʔ a ˨ ˦ . j u ː ˩ </s>
+k o n ˥ . k o t ̚ ˦ ˨ ˀ </s>
+k ɔ ŋ ˨ ˦ . l a ŋ ˨ ˦ </s>
+k ɔ m ˥ </s>
+k o n ˥ . k ʰ ɯ ŋ ˨ ˦ . m a ː ˩ . s ʰ a ː ˩ </s>
+t ͡ ɕ a ː ŋ ˧ ˧ ˨ </s>
+r ɔ ː ˥ . k a ː ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . t ͡ ɕ a ː m ˥ </s>
+k o n ˥ . l e n ˧ ˧ ˨ . t ͡ ɕ ɤ ŋ ˥ . l ɛ w ˥ </s>
+ʔ a ˨ ˦ . t w a ː ŋ ˥ . w u n ˩ </s>
+k a w ˧ ˧ ˨ . s ʰ i p ̚ ˥ </s>
+p a n ˨ ˦ . k a ˨ ˦ . t i ˨ ˦ </s>
+k ɛ p ̚ ˦ ˨ ˀ . n ɯ ŋ ˧ ˧ ˨ </s>
+n a ː ŋ ˥ . h ɔ ː ˨ ˦ . k ʰ a m ˥ </s>
+k ɯ t ̚ ˥ </s>
+j o n ˥ </s>
+k ɔ m ˥ . w a ː ŋ ˩ </s>
+k a t ̚ ˥ . j e n ˨ ˦ </s>
+p ʰ u ː ˧ ˧ ˨ . l o ŋ ˦ ˨ ˀ . l ɛ n ˩ </s>
+w a ː j ˥ </s>
+k ʰ i ŋ ˩ </s>
+k ʰ ɯ ŋ ˧ ˧ ˨ . k a n ˨ ˦ </s>
+p ʰ a t ̚ ˥ </s>
+n o ː ˩ . w ɛ m ˩ . p ɤ ː ˦ ˨ ˀ </s>
+p a ˨ ˦ . r e k ̚ ˧ ˧ ˨ . s ʰ a ː t ̚ ˧ ˧ ˨ </s>
+k a ː ŋ ˧ ˧ ˨ . p a ː ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a ː ˦ ˨ ˀ </s>
+k ʰ a w ˧ ˧ ˨ . n a m ˦ ˨ ˀ . t a ː ŋ ˥ . k i n ˨ ˦ </s>
+k o n ˥ . t ʰ a j ˩ . h a ː ŋ ˧ ˧ ˨ </s>
+k ʰ ɯ k ̚ ˦ ˨ ˀ . k ʰ ɯ k ̚ ˦ ˨ ˀ . k ʰ a m ˧ ˧ ˨ . k ʰ a m ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɯ t ̚ ˥ . s ʰ a w ˥ </s>
+ŋ a ː ˥ </s>
+t a ː ŋ ˩ . t ʰ i ː ˥ </s>
+k ʰ ɯ k ̚ ˩ . k a ː ŋ ˨ ˦ . p a ː ˨ ˦ </s>
+ʔ u p ̚ ˦ ˨ ˀ </s>
+k ɔ ŋ ˩ . j ɔ ŋ ˩ </s>
+k ʰ a w ˧ ˧ ˨ . p ʰ i ː ˨ ˦ </s>
+k a ː ŋ ˨ ˦ . l a ː j ˨ ˦ </s>
+k a ˨ ˦ . l a ː ˥ . ʔ o k ̚ ˦ ˨ ˀ </s>
+m a ː k ̚ ˩ . m o ŋ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɯ t ̚ ˥ . m ɤ n ˩ </s>
+d ͡ ʑ a ː ˩ . p a ˨ ˦ . s ʰ a ː n ˩ </s>
+h ɤ ː ˥ . m i n ˨ ˦ </s>
+k a ː m ˩ . l i ː ˨ ˦ . l ɛ ː ˧ ˧ ˨ </s>
+k o ŋ ˥ . n a m ˦ ˨ ˀ </s>
+k i n ˨ ˦ . ŋ ɯ n ˥ . m ɔ n ˨ ˦ </s>
+k ɯ m ˥ </s>
+k ʰ i ː ˩ . s ʰ ɯ k ̚ ˥ </s>
+p ɔ ː ˥ </s>
+k ɔ p ̚ ˥ . p ʰ a ː ˧ ˧ ˨ . k ɔ p ̚ ˥ </s>
+k a ː j ˩ . k ʰ o ː ˨ ˦ </s>
+k ʰ e ŋ ˩ . p a p ̚ ˦ ˨ ˀ </s>
+p a ː n ˥ . t u ŋ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ w a ː k ̚ ˧ ˧ ˨ </s>
+k o j ˨ ˦ . t a ː ŋ ˩ </s>
+p ʰ u ː ˧ ˧ ˨ </s>
+k o n ˥ . l a ː t ̚ ˧ ˧ ˨ . j a ː p ̚ ˩ </s>
+k i n ˨ ˦ . k a ː ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɤ n ˩ </s>
+s ʰ a ˨ ˦ . p ʰ a ː ˥ </s>
+k o n ˥ . h a ː p ̚ ˩ . t ͡ ɕ ʰ ɔ ː ˥ </s>
+k u t ̚ ˩ </s>
+k ʰ i ː ˨ ˦ . ŋ a w ˨ ˦ </s>
+j a ˨ ˦ . k ʰ ɛ ŋ ˩ </s>
+t ʰ u ŋ ˩ </s>
+k o n ˥ . p ɔ ː ˥ . m o j ˥ </s>
+k ʰ u ŋ ˩ . k i n ˨ ˦ . k ʰ a w ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a w ˧ ˧ ˨ </s>
+k ɯ ː ˨ ˦ </s>
+p ʰ j a ː n ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ i ː ˩ . h ɤ ː ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k e w ˦ ˨ ˀ . j ɯ k ̚ ˥ . j a k ̚ ˥ </s>
+m a ː n ˧ ˧ ˨ . ʔ a ː ŋ ˥ . l e ː ˥ </s>
+k ʰ ɔ k ̚ ˧ ˧ ˨ </s>
+k a ː ˧ ˧ ˨ . ʔ o n ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . m i ŋ ˦ ˨ ˀ </s>
+k ɔ n ˥ . k a j ˩ </s>
+k a ː m ˧ ˧ ˨ </s>
+k o n ˨ ˦ . p i t ̚ ˥ </s>
+l u k ̚ ˦ ˨ ˀ . p ʰ ɯ n ˦ ˨ ˀ </s>
+k a ː w ˧ ˧ ˨ </s>
+k ɯ k ̚ ˥ </s>
+l i ː ˨ ˦ </s>
+k o n ˥ . p ʰ ɯ k ̚ ˥ </s>
+p ʰ a ː ˩ </s>
+k ɤ ː ˨ ˦ . s ʰ i ŋ ˥ . t ʰ ɔ ː ˥ </s>
+k ɔ n ˨ ˦ . h ɤ n ˥ </s>
+k ʰ a ː w ˥ . h ɛ ŋ ˧ ˧ ˨ </s>
+n ɤ ŋ ˥ </s>
+p ʰ a ː ˦ ˨ ˀ </s>
+k a ˨ ˦ . l a ː t ̚ ˧ ˧ ˨ </s>
+s ʰ a ˨ ˦ . p ʰ ɔ ː ˥ </s>
+k ʰ ɛ k ̚ ˥ </s>
+k a m ˥ . l ɯ n ˥ </s>
+s ʰ r a ː ˩ . w u n ˩ </s>
+k ɔ j ˦ ˨ ˀ </s>
+t ͡ ɕ a ː ŋ ˦ ˨ ˀ </s>
+k u ŋ ˩ </s>
+k ʰ ɔ ŋ ˨ ˦ . h a w ˥ </s>
+k o p ̚ ˥ . k i n ˨ ˦ . l ɤ n ˨ ˦ </s>
+k ʰ ɔ ː ˧ ˧ ˨ . m a ː j ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ i ː ˩ </s>
+k o t ̚ ˦ ˨ ˀ . m ɛ ː ˧ ˧ ˨ . j i ŋ ˥ </s>
+k o m ˩ . n a w ˧ ˧ ˨ </s>
+k o n ˥ . t ʰ ɤ n ˩ </s>
+s ʰ o n ˨ ˦ . s ʰ a t ̚ ˥ </s>
+s ʰ a ː ˩ </s>
+t ͡ ɕ a ɰ ˨ ˦ </s>
+ʔ ɯ ː ˧ ˧ ˨ </s>
+k ʰ e ŋ ˩ . s ʰ o p ̚ ˥ . k ʰ e ŋ ˩ . k w a ː m ˥ </s>
+k o n ˥ . t ͡ ɕ a ː j ˥ . j i ŋ ˥ </s>
+k ʰ o ŋ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɛ t ̚ ˥ </s>
+k ɔ ŋ ˦ ˨ ˀ . ŋ a w ˥ </s>
+t ʰ u ː ˥ </s>
+k o n ˥ . h e t ̚ ˥ . k a ː n ˨ ˦ </s>
+k a m ˦ ˨ ˀ . t ʰ ɔ k ̚ ˧ ˧ ˨ </s>
+t ɤ ŋ ˩ . p a ː ŋ ˩ </s>
+t ʰ a ː m ˥ </s>
+k u p ̚ ˥ </s>
+k ɛ n ˥ . t ͡ ɕ a ɰ ˨ ˦ </s>
+k a ː n ˨ ˦ . s ʰ u n ˩ . t o ː ˨ ˦ </s>
+k o n ˨ ˦ . j o ŋ ˦ ˨ ˀ </s>
+k ɔ ŋ ˧ ˧ ˨ </s>
+k ʰ a ŋ ˨ ˦ </s>
+k i m ˥ </s>
+p ʰ ɯ ŋ ˧ ˧ ˨ </s>
+k ʰ ɔ k ̚ ˧ ˧ ˨ . t ʰ a ː ŋ ˩ </s>
+k ɛ n ˨ ˦ . h o j ˩ . t a ː ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɛ ː ˩ </s>
+m a ː n ˩ </s>
+p u ː ˩ . t a ː ˩ </s>
+t ʰ ɔ ŋ ˦ ˨ ˀ </s>
+p a ː j ˥ . m ɔ n ˥ </s>
+k ɔ ŋ ˥ . k ʰ u ː ˧ ˧ ˨ . l a ŋ ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ i ː ˧ ˧ ˨ . t u k ̚ ˦ ˨ ˀ </s>
+t ͡ ɕ e t ̚ ˧ ˧ ˨ . p o ː ˩ </s>
+k u p ̚ ˥ . p ʰ u ŋ ˨ ˦ </s>
+s ʰ i ː ˨ ˦ . l ɤ ŋ ˨ ˦ . s ʰ a w ˧ ˧ ˨ </s>
+t ͡ ɕ a w ˧ ˧ ˨ . m u n ˨ ˦ . p o p ̚ ˦ ˨ ˀ </s>
+k ʰ o k ̚ ˦ ˨ ˀ . n a m ˦ ˨ ˀ . p ʰ i t ̚ ˦ ˨ ˀ </s>
+ŋ o ː ˥ </s>
+h o k ̚ ˧ ˧ ˨ </s>
+k ʰ o ŋ ˥ . n ɤ ː ˨ ˦ </s>
+t ͡ ɕ u ŋ ˩ . t ʰ ɔ k ̚ ˧ ˧ ˨ </s>
+n ɯ ŋ ˧ ˧ ˨ </s>
+k ɔ ŋ ˧ ˧ ˨ . k a ː ŋ ˩ </s>
+p ʰ a ŋ ˥ </s>
+k a m ˨ ˦ . t ͡ ɕ ɯ m ˥ </s>
+k ʰ a w ˧ ˧ ˨ . m i n ˦ ˨ ˀ </s>
+t ͡ ɕ a n ˨ ˦ </s>
+k ɔ k ̚ ˥ . ʔ a ː ŋ ˩ </s>
+k o n ˥ . h a t ̚ ˥ </s>
+t ͡ ɕ a ː w ˥ . k ʰ ɤ ː ˥ </s>
+k o n ˨ ˦ . k ʰ a ː ˨ ˦ . k i ː ˧ ˧ ˨ </s>
+t ɔ ŋ ˦ ˨ ˀ . m a j ˧ ˧ ˨ . s ʰ a j ˧ ˧ ˨ . l ɤ t ̚ ˩ </s>
+p o j ˥ </s>
+n a ˨ ˦ . k o ː ˩ </s>
+j e n ˩ </s>
+s ʰ e t ̚ ˦ ˨ ˀ . t ͡ ɕ a ː ˩ </s>
+k o n ˥ . l a ː t ̚ ˧ ˧ ˨ . ŋ a ː j ˧ ˧ ˨ </s>
+k a m ˥ . l a ŋ ˨ ˦ </s>
+m ɛ ŋ ˩ </s>
+l ɤ n ˨ ˦ . k a ˨ ˦ . t ʰ i ŋ ˩ </s>
+k ʰ i ŋ ˥ . k a ː ŋ ˦ ˨ ˀ </s>
+k ʰ ɔ n ˦ ˨ ˀ . t a w ˦ ˨ ˀ </s>
+k ʰ i ŋ ˩ . k a t ̚ ˥ </s>
+t a p ̚ ˦ ˨ ˀ </s>
+p ʰ i ŋ ˥ </s>
+k ɯ ː ˨ ˦ . t a ː ˨ ˦ </s>
+k o n ˥ . p a ɰ ˦ ˨ ˀ . k a ː ŋ ˨ ˦ </s>
+k i n ˨ ˦ . t ͡ ɕ i k ̚ ˥ </s>
+m ɛ w ˥ </s>
+k o ŋ ˥ . h o t ̚ ˥ </s>
+t í i </s>
+k u ː ˧ ˧ ˨ . k ɔ ː ˦ ˨ ˀ </s>
+k ʰ i ŋ ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɯ t ̚ ˦ ˨ ˀ . l a j ˧ ˧ ˨ </s>
+k ʰ i ŋ ˩ . p ʰ o n ˨ ˦ </s>
+t a m ˥ . p u ː ˩ </s>
+s ʰ ɛ ː ˥ . k a ː p ̚ ˧ ˧ ˨ </s>
+ʔ e k ̚ ˦ ˨ ˀ . t ʰ i ː ˦ ˨ ˀ </s>
+p j a ː t ̚ ˧ ˧ ˨ </s>
+ŋ a ː m ˥ </s>
+k a j ˦ ˨ ˀ </s>
+k ɤ ŋ ˥ . t ͡ ɕ ʰ u k ̚ ˧ ˧ ˨ </s>
+k a ː ˩ . l a ˨ ˦ </s>
+k o n ˥ . k ɛ ː ˩ . k ʰ ɛ n ˦ ˨ ˀ </s>
+k u ː ˧ ˧ ˨ . k ʰ o ː ˥ </s>
+k ɔ ː ˦ ˨ ˀ . h a p ̚ ˦ ˨ ˀ </s>
+k a ː ˩ . r a ˨ ˦ . w a ˨ ˦ </s>
+k ʰ ɔ ŋ ˩ </s>
+k ʰ ɔ ː ˥ . p u m ˥ </s>
+k ʰ ɔ ː ˦ ˨ ˀ </s>
+m ɤ ː ˧ ˧ ˨ . n a ː ˧ ˧ ˨ . t ʰ a ː ˩ . l ɯ n ˥ </s>
+k a w ˧ ˧ ˨ . p a ː k ̚ ˩ </s>
+k ɔ j ˥ </s>
+h a ː t ̚ ˩ </s>
+p ɔ t ̚ ˩ </s>
+k ʰ ɯ ŋ ˧ ˧ ˨ </s>
+m a ː n ˧ ˧ ˨ . h a ː j ˥ . j a ː ˧ ˧ ˨ </s>
+k a ː n ˥ </s>
+k ʰ a ː w ˥ . l a ɰ ˨ ˦ . s ʰ e ː ˨ ˦ . ʔ a m ˩ . w a ː ˧ ˧ ˨ </s>
+k u k ̚ ˧ ˧ ˨ </s>
+m u k ̚ ˧ ˧ ˨ </s>
+k ɛ m ˧ ˧ ˨ . k ʰ ɔ ŋ ˩ </s>
+ʔ a ŋ ˩ . k a ː ˩ </s>
+k ʰ ɔ n ˩ </s>
+n ɤ ŋ ˩ </s>
+k o ŋ ˨ ˦ . k o ŋ ˨ ˦ </s>
+k o n ˥ . h ɛ ŋ ˥ </s>
+k ʰ a ː ˨ ˦ . t o ŋ ˩ </s>
+r a ˨ ˦ . h a ː n ˥ </s>
+k ɔ ː ˦ ˨ ˀ . t a ˨ ˦ . m a ː ˦ ˨ ˀ </s>
+k ɔ ŋ ˧ ˧ ˨ . f a j ˥ . m a ː ˦ ˨ ˀ </s>
+k ʰ ɤ ŋ ˧ ˧ ˨ . s ʰ o ŋ ˩ . s ʰ e ŋ ˨ ˦ </s>
+s ʰ e n ˧ ˧ ˨ </s>
+t ͡ ɕ e ŋ ˩ . w a ː t ̚ ˧ ˧ ˨ </s>
+k w a ː ŋ ˨ ˦ </s>
+k a ː n ˨ ˦ . l u k ̚ ˦ ˨ ˀ . p ʰ ɯ n ˦ ˨ ˀ </s>
+p i k ̚ ˩ </s>
+k ɔ k ̚ ˥ . m a ː k ̚ ˩ . ʔ u n ˨ ˦ </s>
+k o n ˥ . h e t ̚ ˥ . k a ː n ˨ ˦ . ŋ a ː n ˥ </s>
+l a ː k ̚ ˧ ˧ ˨ . n a ː k ̚ ˧ ˧ ˨ </s>
+k ʰ i ː ˩ . h ɤ ː ˥ </s>
+p ʰ a ː n ˩ </s>
+ʔ a ˨ ˦ . t o ː ˥ </s>
+k a ː ŋ ˥ . s ʰ a n ˩ </s>
+k a ː ˧ ˧ ˨ . n a ː ˧ ˧ ˨ </s>
+p a ˨ ˦ . r u k ̚ ˧ ˧ ˨ </s>
+k i n ˨ ˦ . t o n ˦ ˨ ˀ </s>
+k ɔ t ̚ ˩ . k a j ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k e p ̚ ˥ . l e ŋ ˦ ˨ ˀ </s>
+k ʰ ɔ ː ˥ . h ɔ j ˨ ˦ </s>
+k ɛ ː ˩ . j a w ˦ ˨ ˀ </s>
+p u ː ˩ . k a ː ŋ ˦ ˨ ˀ </s>
+k i n ˩ . l a ː ˩ </s>
+k a ː j ˩ . k ɔ n ˨ ˦ </s>
+ʔ a ː n ˩ </s>
+k a w ˩ . m ɔ ŋ ˨ ˦ </s>
+k ɔ ː ˦ ˨ ˀ . l a ɰ ˨ ˦ . k ɔ ː ˦ ˨ ˀ . n a n ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a ː ˦ ˨ ˀ . t ͡ ɕ ɯ ː ˧ ˧ ˨ . k ʰ a ː j ˨ ˦ . s ʰ e ŋ ˨ ˦ </s>
+k ʰ o k ̚ ˦ ˨ ˀ . l e k ̚ ˥ </s>
+k ʰ ɯ ŋ ˧ ˧ ˨ . k ʰ ɯ ŋ ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . n a n ˩ . t a ː ˦ ˨ ˀ </s>
+k u ː ˧ ˧ ˨ . p ʰ a ː j ˩ . k u ː ˧ ˧ ˨ . t a ː ŋ ˥ </s>
+k e n ˨ ˦ </s>
+s ʰ ɤ ː ˨ ˦ </s>
+l ɤ ŋ ˨ ˦ </s>
+k ʰ i ː ˨ ˦ . m ɔ ŋ ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɔ ː ˥ . k ʰ a t ̚ ˥ </s>
+j ɔ k ̚ ˧ ˧ ˨ . l i n ˦ ˨ ˀ . p i n ˧ ˧ ˨ . t a ː ˨ ˦ </s>
+k o n ˥ . l e ŋ ˦ ˨ ˀ . m a ː ˦ ˨ ˀ </s>
+k ʰ a ː ˦ ˨ ˀ . t ͡ ɕ ɯ ː ˧ ˧ ˨ . k ʰ a ː j ˨ ˦ . s ʰ e ŋ ˨ ˦ </s>
+t ɛ ŋ ˥ . k a ː ˥ </s>
+k ɛ ŋ ˧ ˧ ˨ . j a w ˦ ˨ ˀ . k ɛ ŋ ˧ ˧ ˨ . j ɔ k ̚ ˩ </s>
+k a ː ˧ ˧ ˨ . t ʰ u k ̚ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɯ ŋ ˧ ˧ ˨ </s>
+k ɛ n ˩ . w a ː n ˨ ˦ </s>
+k ʰ a ː ˨ ˦ . k e ŋ ˥ </s>
+ʔ ɔ ː ˥ . k u t ̚ ˦ ˨ ˀ </s>
+k a j ˩ . t ʰ ɤ n ˩ </s>
+k o n ˥ . k ʰ u t ̚ ˥ . t a t ̚ ˦ ˨ ˀ . t ʰ u ː ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ ŋ ˧ ˧ ˨ </s>
+t ɛ m ˧ ˧ ˨ </s>
+k e p ̚ ˥ </s>
+p ʰ u k ̚ ˩ </s>
+k a w ˧ ˧ ˨ . s ʰ i p ̚ ˥ . k a w ˧ ˧ ˨ </s>
+k o n ˥ . l o ŋ ˨ ˦ </s>
+k ʰ a ŋ ˧ ˧ ˨ </s>
+t ʰ e ː ˥ </s>
+k o n ˥ . k ʰ a ː w ˩ . h o ŋ ˨ ˦ </s>
+k i ŋ ˩ . k ɔ j ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . t ͡ ɕ ʰ a ː ˥ </s>
+l ɤ n ˨ ˦ </s>
+k ʰ ɛ ŋ ˧ ˧ ˨ . k ʰ ɛ ː ˥ </s>
+h i n ˨ ˦ </s>
+k ʰ ɔ ŋ ˨ ˦ . k ʰ ɤ ː ˨ ˦ </s>
+l a ː t ̚ ˧ ˧ ˨ . k w a ː m ˥ . k a k ̚ ˥ </s>
+k i p ̚ ˧ ˧ ˨ </s>
+k ɔ k ̚ ˥ . t ʰ o m ˩ </s>
+k a ː ŋ ˦ ˨ ˀ . p a p ̚ ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɤ t ̚ ˩ . p ʰ a ː ˨ ˦ . p ʰ ɛ ː ˨ ˦ </s>
+h a ː ŋ ˥ . l e ː ˥ </s>
+p i ː ˦ ˨ ˀ . t a ˨ ˦ . k a ː t ̚ ˧ ˧ ˨ </s>
+k a ː ˧ ˧ ˨ . ʔ e ː ˩ </s>
+t ͡ ɕ a ː t ̚ ˧ ˧ ˨ </s>
+t a ː ŋ ˥ . t u j ˧ ˧ ˨ </s>
+k ʰ a k ̚ ˦ ˨ ˀ . l ɔ j ˨ ˦ </s>
+s ʰ a ː ˩ . t ʰ u ː ˦ ˨ ˀ </s>
+k a ː ˧ ˧ ˨ . l a ɰ ˨ ˦ </s>
+k a ː ˧ ˧ ˨ </s>
+k ɔ ː ˦ ˨ ˀ . t ʰ u k ̚ ˧ ˧ ˨ . p a n ˨ ˦ . ŋ ɯ n ˥ </s>
+l ɛ ŋ ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k i n ˨ ˦ . ʔ i m ˩ </s>
+k ʰ i ː ˧ ˧ ˨ . t ʰ i ː ˩ </s>
+p o n ˦ ˨ ˀ . p ɛ n ˨ ˦ </s>
+s ʰ a ˨ ˦ . t a ː ŋ ˥ </s>
+k ɛ m ˥ </s>
+k ɤ ŋ ˥ </s>
+s ʰ e n ˧ ˧ ˨ . t a ː ŋ ˥ </s>
+k ʰ i ː ˧ ˧ ˨ . t a ː k ̚ ˩ </s>
+k o ŋ ˥ . k w a k ̚ ˥ </s>
+t a ŋ ˩ . ŋ o ŋ ˥ </s>
+k ɔ ː ˦ ˨ ˀ . m a n ˧ ˧ ˨ . m a ː j ˨ ˦ </s>
+p a w ˩ </s>
+n a ː ŋ ˥ . j i ŋ ˥ </s>
+k o n ˥ . ʔ a m ˩ . k ʰ ɔ p ̚ ˩ . ʔ a m ˩ . k a ː ŋ ˨ ˦ </s>
+k ɤ ŋ ˥ . ʔ u p ̚ ˦ ˨ ˀ </s>
+k a j ˩ </s>
+p u k ̚ ˦ ˨ ˀ . t ʰ a ˨ ˦ . w a ː ŋ ˩ </s>
+h i ŋ ˩ . h ɔ j ˧ ˧ ˨ </s>
+k ʰ u n ˨ ˦ . m ɤ k ̚ ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɔ k ̚ ˥ </s>
+p ʰ r a ː ˥ . ʔ a ˨ ˦ . l ɔ ŋ ˥ </s>
+ɲ ɔ ŋ ˩ . p ɔ ː ˥ . t ʰ i ː ˦ ˨ ˀ </s>
+j a ː ˨ ˦ </s>
+k ɔ k ̚ ˥ . n a m ˦ ˨ ˀ . m ɯ k ̚ ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ t ̚ ˩ . k ʰ ɔ ː ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɛ ŋ ˧ ˧ ˨ . j a w ˦ ˨ ˀ . k ɛ ŋ ˧ ˧ ˨ . j ɔ k ̚ ˩ </s>
+p u ŋ ˩ </s>
+k a j ˩ . t a ŋ ˧ ˧ ˨ </s>
+k ʰ a ː w ˥ . j a ː m ˥ </s>
+s ʰ ɛ ŋ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a ː n ˥ </s>
+h ɤ n ˥ . p ʰ a j ˥ </s>
+k ʰ i ŋ ˥ </s>
+t a ː ŋ ˥ . ŋ a ː m ˥ </s>
+k ɔ ŋ ˦ ˨ ˀ </s>
+k ʰ ɔ ŋ ˩ . k ʰ ɛ m ˧ ˧ ˨ </s>
+k o n ˥ . l a ː k ̚ ˩ . l a ː j ˥ </s>
+k o j ˧ ˧ ˨ </s>
+j a w ˦ ˨ ˀ </s>
+s ʰ a ː w ˥ </s>
+k a m ˩ . k ɛ ː ˩ </s>
+s ʰ i ŋ ˩ . w ɛ t ̚ ˦ ˨ ˀ . l ɔ m ˦ ˨ ˀ </s>
+k ɔ ː ˦ ˨ ˀ . ʔ a n ˨ ˦ . k ʰ a ː m ˩ . t r a ː ˥ </s>
+k u ː ˥ </s>
+k ɔ t ̚ ˩ </s>
+k a t ̚ ˥ . k a ː ˧ ˧ ˨ </s>
+k o n ˨ ˦ </s>
+k ɛ n ˨ ˦ . t a p ̚ ˥ </s>
+n a w ˧ ˧ ˨ </s>
+k a ː m ˩ . l i ː ˨ ˦ </s>
+k a ː ˨ ˦ . t ͡ ɕ a j ˥ </s>
+k i ŋ ˧ ˧ ˨ . t o k ̚ ˥ </s>
+ʔ a ˨ ˦ . k a ˨ ˦ . t i ː ˦ ˨ ˀ </s>
+ʔ a ː ˥ . k ʰ a ː ˥ </s>
+t ʰ ɔ ː ˥ . p a ː t ̚ ˧ ˧ ˨ </s>
+t o ŋ ˦ ˨ ˀ </s>
+k ɯ ŋ ˩ . t a ː n ˩ </s>
+k ɔ p ̚ ˧ ˧ ˨ </s>
+k a w ˦ ˨ ˀ </s>
+k o n ˥ . t a ː ŋ ˩ . m ɤ ŋ ˥ </s>
+t ͡ ɕ a w ˧ ˧ ˨ . m u n ˨ ˦ </s>
+k ʰ ɛ k ̚ ˥ . l a ː j ˥ </s>
+k a ː ˧ ˧ ˨ . k ʰ i ː ˩ </s>
+m a ː ˦ ˨ ˀ </s>
+k a j ˩ . ʔ ɔ n ˩ </s>
+k ɔ p ̚ ˥ </s>
+k ɔ k ̚ ˥ . k ʰ a m ˥ </s>
+m i ː ˥ </s>
+p i k ̚ ˧ ˧ ˨ . m a ː n ˩ </s>
+m u ː ˨ ˦ </s>
+k ɔ ː ˩ . t a ˨ ˦ . m a ː ˦ ˨ ˀ </s>
+t a ː p ̚ ˧ ˧ ˨ </s>
+k o n ˥ . k ɛ n ˩ . k ʰ ɛ ŋ ˨ ˦ </s>
+k ɔ ː ˩ . ŋ a w ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɛ ː ˨ ˦ . p ʰ a j ˥ </s>
+s ʰ i ː ˩ . r i ː ˦ ˨ ˀ . l a ŋ ˩ . k a ː ˩ </s>
+k a ː n ˨ ˦ . s ʰ e n ˧ ˧ ˨ . s ʰ a ː j ˨ ˦ . t i t ̚ ˥ . t ɔ ː ˩ </s>
+k i n ˨ ˦ . t ͡ ɕ a ː ŋ ˨ ˦ </s>
+ʔ a ː ˥ . n a ː ˩ </s>
+k ɔ p ̚ ˧ ˧ ˨ . ʔ a n ˨ ˦ . n a n ˦ ˨ ˀ </s>
+k ɔ n ˥ . h o ŋ ˥ . h e n ˥ </s>
+t ɔ ŋ ˨ ˦ </s>
+s ʰ r a ː ˩ . s ʰ a ˨ ˦ . m a ː ˥ </s>
+k o n ˥ . k ʰ a ː ˨ ˦ . l a ː j ˥ </s>
+k o n ˥ . m ɛ ː ˥ . h a ː ŋ ˨ ˦ . h ɤ ː ˥ </s>
+k o n ˥ . t ʰ i ŋ ˥ . m a ː ˦ ˨ ˀ </s>
+k ɔ k ̚ ˥ . s ʰ ɛ ŋ ˨ ˦ </s>
+k a ː p ̚ ˧ ˧ ˨ </s>
+k ʰ ɔ k ̚ ˩ . m o ŋ ˧ ˧ ˨ . l a ː j ˧ ˧ ˨ </s>
+k o n ˥ . k ʰ a ː ˨ ˦ . l a m ˨ ˦ </s>
+k o ŋ ˨ ˦ . h o j ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɔ t ̚ ˩ . k a j ˩ </s>
+ʔ a ˨ ˦ . m a ŋ ˩ . k a ˨ ˦ . l a ː ˩ </s>
+k o n ˥ . ʔ a ː ˦ ˨ ˀ </s>
+m ɤ ŋ ˥ . t a j ˨ ˦ </s>
+k ʰ e ː ˦ ˨ ˀ . k ʰ e ŋ ˩ </s>
+k ʰ i ŋ ˩ . l a ɰ ˨ ˦ . s ʰ e ː ˨ ˦ . ʔ a m ˩ . w a ː ˧ ˧ ˨ </s>
+k ɔ ː ˦ ˨ ˀ . ʔ a n ˨ ˦ . h e t ̚ ˥ . t r a ː ˥ </s>
+k ɔ k ̚ ˥ . m a ː k ̚ ˩ . p a w ˦ ˨ ˀ </s>
+k i k ̚ ˧ ˧ ˨ </s>
+h o ŋ ˥ . n ɛ ː ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɯ t ̚ ˥ </s>
+p j ɔ ŋ ˥ </s>
+k ʰ a ː ŋ ˥ . t ʰ a ː ˧ ˧ ˨ </s>
+h o ŋ ˨ ˦ </s>
+h a ˨ ˦ . t a ˨ ˦ . r a ː ˦ ˨ ˀ </s>
+k ɔ ː ˨ ˦ . j ɤ ː ˧ ˧ ˨ </s>
+k ʰ e ː ˦ ˨ ˀ </s>
+t r a ː ˥ </s>
+k o n ˥ . h u ː ˦ ˨ ˀ . j a ɰ ˩ . h a n ˨ ˦ . n a m ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k i p ̚ ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . n a t ̚ ˦ ˨ ˀ . t a ː ˦ ˨ ˀ </s>
+k a m ˨ ˦ . w ɛ ː ˧ ˧ ˨ </s>
+k a ː ˥ . h o ŋ ˥ . h e n ˥ </s>
+k a ː ˩ . t ʰ a ː ˩ </s>
+t u j ˧ ˧ ˨ </s>
+s ʰ i ŋ ˩ </s>
+t ʰ u ŋ ˥ </s>
+p a ː k ̚ ˩ </s>
+t a ˨ ˦ . n u ː ˦ ˨ ˀ </s>
+k a k ̚ ˥ </s>
+k ʰ ɔ ː ˧ ˧ ˨ . p o ŋ ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a ɰ ˧ ˧ ˨ </s>
+k ɛ ː ˩ . ʔ ɔ n ˩ . t ͡ ɕ a ː j ˥ </s>
+k a ɰ ˧ ˧ ˨ </s>
+k ʰ a k ̚ ˦ ˨ ˀ . t i ŋ ˩ </s>
+s ʰ a ː ˩ . w a ˨ ˦ . k a ː ˦ ˨ ˀ </s>
+p a ˨ ˦ . j i n ˩ . k ʰ a ː m ˩ </s>
+k a ː ˩ . l a ˨ ˦ . k ʰ ɔ ː ˥ . k a ɰ ˧ ˧ ˨ </s>
+k o n ˨ ˦ . t a ː ŋ ˥ . n a ɰ ˥ </s>
+k a ː n ˧ ˧ ˨ . k ʰ ɔ ː ˥ </s>
+k ɤ ŋ ˥ . t ʰ ɔ k ̚ ˧ ˧ ˨ </s>
+m a ː k ̚ ˩ . l a n ˥ </s>
+p ɛ ː ˩ </s>
+k o n ˥ . w a ː n ˧ ˧ ˨ </s>
+k a m ˥ . n a ː ˧ ˧ ˨ . k a m ˥ . l ɯ n ˥ </s>
+k o n ˥ . k a t ̚ ˦ ˨ ˀ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o ː ˨ ˦ . h ɛ ː ˨ ˦ </s>
+k o n ˥ . h a j ˩ . k w a ː m ˥ </s>
+t ɛ ŋ ˥ </s>
+k o n ˩ </s>
+k ʰ a k ̚ ˦ ˨ ˀ </s>
+k ʰ e ŋ ˧ ˧ ˨ . k ʰ e ŋ ˧ ˧ ˨ </s>
+k ʰ ɔ ː ˥ . t ͡ ɕ e p ̚ ˥ </s>
+t ͡ ɕ u ː ˩ . k a ː ˩ </s>
+k ʰ ɔ ː ˥ . n e ŋ ˨ ˦ </s>
+k ʰ ɔ ː ˧ ˧ ˨ . h ɔ ŋ ˦ ˨ ˀ . s ʰ ɛ n ˩ </s>
+w e ŋ ˥ </s>
+k a ː ˧ ˧ ˨ . n ɔ k ̚ ˧ ˧ ˨ </s>
+k o n ˥ . l a m ˨ ˦ </s>
+k i n ˨ ˦ . t ͡ ɕ a ː ŋ ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . k u ː ˦ ˨ ˀ . s ʰ o ː ˩ </s>
+k a m ˥ . k ʰ a w ˧ ˧ ˨ . k a m ˥ . p ʰ a k ̚ ˥ </s>
+t a ː ˩ . t a ː k ̚ ˧ ˧ ˨ </s>
+k o n ˥ . h e t ̚ ˥ . ʔ ɔ k ̚ ˩ . k ʰ o ː ˥ </s>
+ʔ o j ˥ . k ɔ ː ˦ ˨ ˀ </s>
+s ʰ a ˨ ˦ . m a ː ˥ . k ʰ o m ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a ː ŋ ˥ </s>
+k ɔ n ˧ ˧ ˨ . k ɤ ː ˨ ˦ . w a ː n ˨ ˦ </s>
+ʔ i ŋ ˩ . m j ɔ ŋ ˩ </s>
+s ʰ a ˨ ˦ . m ɛ ŋ ˥ </s>
+k ʰ i ː ˩ . p ɛ t ̚ ˧ ˧ ˨ . t u ŋ ˥ </s>
+k ʰ a m ˥ </s>
+k a ː ˩ . p ʰ i ː ˩ </s>
+k ʰ a ː w ˥ . p ʰ o n ˨ ˦ </s>
+k ʰ ɯ ŋ ˨ ˦ . m ɤ ŋ ˥ </s>
+p ʰ u ŋ ˩ </s>
+k o m ˧ ˧ ˨ </s>
+w ì i </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɛ m ˨ ˦ </s>
+k ɯ ŋ ˩ </s>
+k o n ˥ . p e n ˨ ˦ </s>
+k ʰ i ː ˧ ˧ ˨ . h a j ˧ ˧ ˨ </s>
+s ʰ o ŋ ˩ . ʔ ɔ k ̚ ˩ </s>
+t w a ː k ̚ ˧ ˧ ˨ </s>
+n ɛ ː ˨ ˦ . n a m ˦ ˨ ˀ . n ɛ ː ˨ ˦ . t o ː ˨ ˦ </s>
+m ɤ ŋ ˥ . t ʰ a j ˥ </s>
+k e ŋ ˧ ˧ ˨ </s>
+k o n ˥ . t ͡ ɕ a ː j ˥ </s>
+k a ː ˨ ˦ </s>
+k e w ˨ ˦ </s>
+l a ː k ̚ ˧ ˧ ˨ . s ʰ ɔ ŋ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . t ͡ ɕ ʰ ɔ t ̚ ˧ ˧ ˨ </s>
+s ʰ a ː m ˨ ˦ . t ͡ ɕ e ŋ ˩ </s>
+k a ː ˧ ˧ ˨ . j a ɰ ˩ </s>
+k ɯ t ̚ ˦ ˨ ˀ . p ʰ ɤ ː ˩ . p ɤ n ˧ ˧ ˨ </s>
+k ʰ i ː ˧ ˧ ˨ . t ɔ n ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ i ː ˧ ˧ ˨ </s>
+k ɔ k ̚ ˩ . k ɛ k ̚ ˩ </s>
+k a ˨ ˦ . l a ː ˥ </s>
+h a ː ŋ ˨ ˦ </s>
+p e ː ˩ </s>
+k a ː w ˥ </s>
+k ʰ i ː ˩ . t i n ˨ ˦ . p ɛ t ̚ ˧ ˧ ˨ </s>
+k ɔ k ̚ ˥ . ŋ ɯ n ˥ </s>
+k a ː j ˩ </s>
+l ɤ n ˨ ˦ . k a w ˧ ˧ ˨ </s>
+l ɤ t ̚ ˧ ˧ ˨ </s>
+k ʰ ɯ ŋ ˨ ˦ . k w a ː m ˥ </s>
+k u ŋ ˩ . t a ː ŋ ˩ </s>
+k ʰ a w ˧ ˧ ˨ . l ɤ ŋ ˨ ˦ </s>
+k i w ˩ </s>
+t ɔ k ̚ ˥ </s>
+k ɛ ŋ ˥ </s>
+p ʰ r a ː ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ ɔ ŋ ˦ ˨ ˀ . t ͡ ɕ a ɰ ˨ ˦ </s>
+k ɛ t ̚ ˥ . n e p ̚ ˦ ˨ ˀ . m ɯ ː ˥ </s>
+k a ː ˧ ˧ ˨ . k ʰ ɯ n ˧ ˧ ˨ . k ʰ a n ˨ ˦ . k ʰ ɯ n ˧ ˧ ˨ </s>
+t ͡ ɕ u m ˥ . k o n ˥ </s>
+p a ː ˩ . l i ː ˦ ˨ ˀ </s>
+n o k ̚ ˦ ˨ ˀ </s>
+p ʰ a k ̚ ˥ . k u t ̚ ˩ </s>
+m o j ˦ ˨ ˀ </s>
+ʔ e ː ˩ . p a ˨ ˦ . r ɛ ː ˩ </s>
+k ʰ i ː ˧ ˧ ˨ </s>
+p ʰ i k ̚ ˧ ˧ ˨ . k ʰ u ː ˩ </s>
+k ʰ ɛ ː ˨ ˦ . p ʰ e ː ˥ </s>
+s ʰ a ː m ˨ ˦ . l ɛ m ˨ ˦ . t ʰ ɔ ŋ ˥ . k ʰ a m ˥ </s>
+k ʰ ɤ ŋ ˧ ˧ ˨ . s ʰ w a ː ŋ ˥ . s ʰ e ŋ ˨ ˦ </s>
+k ʰ ɛ ː ˨ ˦ . p ʰ a j ˥ </s>
+ʔ a ˨ ˦ . t ͡ ɕ o ː ˥ . j a ː ˦ ˨ ˀ </s>
+l a ː k ̚ ˧ ˧ ˨ . p ʰ ɔ j ˦ ˨ ˀ </s>
+k a m ˥ . ʔ ɔ n ˩ </s>
+p u ː ˦ ˨ ˀ </s>
+k a ː n ˨ ˦ . k a ː ˦ ˨ ˀ . k ʰ a ː j ˨ ˦ </s>
+k a ː w ˦ ˨ ˀ </s>
+t ͡ ɕ a ː k ̚ ˧ ˧ ˨ </s>
+t ͡ ɕ ʰ a ː ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɤ ː ˥ . p ʰ i ː ˨ ˦ </s>
+k o n ˥ . h e t ̚ ˥ . k o n ˥ . s ʰ a ː ŋ ˧ ˧ ˨ </s>
+k i p ̚ ˩ </s>
+k o n ˥ . l ɔ ː ˨ ˦ . l ɛ ː ˨ ˦ </s>
+m ɤ ŋ ˥ . k ʰ ɛ ː ˩ </s>
+l ɯ k ̚ ˦ ˨ ˀ </s>
+k ɔ k ̚ ˥ . k ɛ w ˧ ˧ ˨ </s>
+j i p ̚ ˥ </s>
+k ʰ ɔ ŋ ˧ ˧ ˨ </s>
+h o k ̚ ˥ </s>
+k ɔ k ̚ ˩ . l a ː ŋ ˥ </s>
+k ʰ ɯ ŋ ˨ ˦ . m a j ˦ ˨ ˀ </s>
+t ͡ ɕ ʰ a ː ŋ ˥ </s>
+k ɔ p ̚ ˥ . m a ː ˦ ˨ ˀ </s>
+k u k ̚ ˦ ˨ ˀ . t e ː ˩ </s>
+r a ˨ ˦ </s>
+k ʰ i ː ˧ ˧ ˨ . ʔ ɯ k ̚ ˦ ˨ ˀ </s>
+k o n ˥ . m ɤ ŋ ˥ . n ɔ k ̚ ˧ ˧ ˨ </s>
+k a p ̚ ˦ ˨ ˀ </s>
+d ͡ ʑ a ː ˩ . ɲ o ː ˦ ˨ ˀ </s>
+k ɤ p ̚ ˩ . t ɔ ː ˩ . k ɤ p ̚ ˩ . t ɛ n ˨ ˦ </s>
+k u n ˨ ˦ . p ʰ a ŋ ˩ . n a m ˦ ˨ ˀ </s>
+k ɔ ː ˩ . k ɔ ŋ ˨ ˦ </s>
+k ɔ n ˥ </s>
+ʔ a ˨ ˦ . t w a ː k ̚ ˧ ˧ ˨ </s>
+ʔ a ˨ ˦ . r a ː p ̚ ˧ ˧ ˨ </s>
+k ʰ e ŋ ˩ . t a ː ŋ ˩ </s>
+k ʰ ɔ k ̚ ˩ </s>
+m a ː ˩ . n a ː t ̚ ˧ ˧ ˨ </s>
+w a ː ŋ ˥ </s>
+k ʰ ɤ ŋ ˧ ˧ ˨ . h ɛ ː ˦ ˨ ˀ </s>
+h ɛ m ˨ ˦ </s>
+ʔ u ː ˥ </s>
+k o n ˥ . t ɔ ː ˦ ˨ ˀ . k ʰ o ː ˥ </s>
+k ɛ n ˨ ˦ . m a j ˦ ˨ ˀ </s>
+m i ː ˥ . p a ː n ˥ </s>
+ʔ e t ̚ ˩ </s>
+s ʰ a p ̚ ˦ ˨ ˀ . p j a ː ˩ </s>
+t ʰ a ˨ ˦ </s>
+t a ː ŋ ˥ </s>
+k ʰ u k ̚ ˥ . t ͡ ɕ a ɰ ˨ ˦ . l a j ˧ ˧ ˨ . m a j ˧ ˧ ˨ . t ͡ ɕ a ɰ ˨ ˦ </s>
+t a ˨ ˦ . j a ˨ ˦ . l o ː ˩ </s>
+k ɛ ː ˧ ˧ ˨ </s>
+k o m ˨ ˦ </s>
+t ͡ ɕ a ː ˩ </s>
+l o m ˥ </s>
+k e w ˩ </s>
+k i w ˨ ˦ </s>
+k ʰ ɔ ŋ ˥ . l ɔ ŋ ˥ </s>
+ʔ e ː ˩ </s>
+l ɛ k ̚ ˧ ˧ ˨ . l a ː j ˧ ˧ ˨ </s>
+l ɔ ŋ ˧ ˧ ˨ . k o m ˧ ˧ ˨ . h o ː ˨ ˦ </s>
+k ʰ e ŋ ˩ . h a ː m ˨ ˦ . k o n ˥ . p e n ˨ ˦ </s>
+m ɤ ŋ ˥ . j o n ˥ </s>
+k ɔ j ˥ . m a n ˥ </s>
+m ɔ ŋ ˥ . k o j ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k u ː ˧ ˧ ˨ . k ʰ o ː ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɯ ː ˨ ˦ . t a ː ˨ ˦ </s>
+j u ŋ ˥ </s>
+ʔ a ː ˩ . p ɔ ː ˩ </s>
+k ɛ n ˩ </s>
+k ʰ u n ˨ ˦ </s>
+k u k ̚ ˦ ˨ ˀ . k i ː ˧ ˧ ˨ . k u k ̚ ˦ ˨ ˀ . k a k ̚ ˦ ˨ ˀ </s>
+y á a </s>
+k i n ˨ ˦ . p o n ˦ ˨ ˀ </s>
+m ɔ n ˨ ˦ </s>
+k o n ˥ . k a ː ˧ ˧ ˨ . t ͡ ɕ a ː t ̚ ˧ ˧ ˨ </s>
+t ɤ ŋ ˩ </s>
+k ʰ o k ̚ ˦ ˨ ˀ . m ɔ ŋ ˥ </s>
+k ʰ e ː ˩ </s>
+ʔ u ː ˥ . t a ː n ˥ </s>
+k a ː ˨ ˦ . k ʰ a ː p ̚ ˩ </s>
+w a j ˨ ˦ </s>
+m ɤ ŋ ˥ . k ʰ u n ˨ ˦ . h ɔ ː ˨ ˦ . k ʰ a m ˥ </s>
+k i ŋ ˩ . m a j ˦ ˨ ˀ </s>
+k ʰ a ː ˧ ˧ ˨ . h a w ˥ </s>
+p a ː ˥ . t ͡ ɕ a ˨ ˦ . p o t ̚ ˦ ˨ ˀ </s>
+k ʰ ɔ ŋ ˨ ˦ . w a ː n ˨ ˦ </s>
+p a t ̚ ˧ ˧ ˨ . t a ˨ ˦ . m j a ː ˥ </s>
+s ʰ u k ̚ ˦ ˨ ˀ . k ʰ a ː ˦ ˨ ˀ </s>
+t ͡ ɕ ʰ a ː m ˥ . s ʰ a ː ˩ </s>
+k ʰ i ː ˧ ˧ ˨ . k ʰ a ː p ̚ ˩ </s>
+h o ŋ ˥ . j a ː ˨ ˦ </s>
+l ɔ ŋ ˧ ˧ ˨ . t ͡ ɕ i m ˥ </s>
+k o n ˥ . t ͡ ɕ ɔ j ˧ ˧ ˨ . h ɔ ː ˧ ˧ ˨ . h ɤ ː ˥ . m i n ˨ ˦ </s>
+k o p ̚ ˥ . k i n ˨ ˦ . w a n ˥ </s>
+k o j ˥ </s>
+h o ː ˦ ˨ ˀ . k ɤ n ˩ </s>
+k u ː ˧ ˧ ˨ . p ɔ k ̚ ˧ ˧ ˨ </s>
+h ɔ ː ˨ ˦ . k ʰ a m ˥ </s>
+k ʰ u ŋ ˩ . l i k ̚ ˧ ˧ ˨ </s>
+s ʰ a j ˧ ˧ ˨ </s>
+k a ː m ˩ . h a ː j ˦ ˨ ˀ </s>
+ʔ a ˨ ˦ . r a ː ˦ ˨ ˀ . s ʰ a ː ˩ </s>
+k ʰ a w ˧ ˧ ˨ . p ʰ i ː ˩ </s>
+k ɔ ŋ ˦ ˨ ˀ . m ɤ ː ˩ </s>
+k a ː ˧ ˧ ˨ . k ʰ a n ˨ ˦ </s>
+k ʰ ɤ ŋ ˧ ˧ ˨ . k ɛ t ̚ ˩ . k ʰ ɛ ː ˨ ˦ </s>
+p ɔ ː ˧ ˧ ˨ </s>
+k ʰ a ː ŋ ˥ . k a n ˨ ˦ </s>
+l ɤ n ˨ ˦ . p ɛ t ̚ ˩ </s>
+w a ː ˦ ˨ ˀ </s>
+k i n ˥ . t ͡ ɕ a ɰ ˨ ˦ </s>
+p ʰ i ː ˨ ˦ . l u ː ˥ </s>
+k ʰ o ŋ ˥ </s>
+k ʰ a w ˧ ˧ ˨ . k a ː p ̚ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k i ŋ ˥ </s>
+t ʰ o j ˧ ˧ ˨ . t ͡ ɕ a ɰ ˨ ˦ </s>
+k o n ˥ . m a w ˥ . l a w ˧ ˧ ˨ </s>
+s ì ː h a ̰ ː </s>
+m ɤ ŋ ˥ . p ʰ i ː ˥ . l a ː t ̚ ˧ ˧ ˨ </s>
+s ʰ i p ̚ ˥ . ʔ e t ̚ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɛ m ˥ </s>
+k a ː p ̚ ˧ ˧ ˨ . s ʰ ɔ m ˥ </s>
+k a ː ˩ . l a n ˩ </s>
+k u j ˨ ˦ . k ʰ ɔ n ˩ </s>
+n a ː ˥ </s>
+k ɔ k ̚ ˥ . s ʰ u k ̚ ˧ ˧ ˨ . m ɯ ː ˥ </s>
+k o m ˩ </s>
+k a ː ˧ ˧ ˨ . t i ː ˧ ˧ ˨ . n a n ˧ ˧ ˨ </s>
+k o n ˥ . m ɔ ː ˨ ˦ </s>
+t ʰ u n ˥ </s>
+k ɛ ː ˩ . t ͡ ɕ ʰ ɔ t ̚ ˧ ˧ ˨ </s>
+p w a ː ŋ ˥ </s>
+k o n ˥ . j e p ̚ ˦ ˨ ˀ . t ͡ ɕ a ː k ̚ ˧ ˧ ˨ </s>
+k a ˨ ˦ . t ʰ i ŋ ˩ </s>
+k ʰ ɔ ː ˥ . m ɔ ː ˧ ˧ ˨ </s>
+w a ː k ̚ ˧ ˧ ˨ . ʔ u ː ˩ </s>
+m ɔ n ˥ </s>
+k ʰ ɔ ŋ ˨ ˦ . k a w ˨ ˦ </s>
+t a ː ŋ ˥ . l ɛ ŋ ˥ </s>
+l ɤ n ˨ ˦ . s ʰ i p ̚ ˥ . ʔ e t ̚ ˥ </s>
+k a ː ŋ ˥ . k a j ˨ ˦ </s>
+k ʰ ɔ ŋ ˥ </s>
+p a ː t ̚ ˧ ˧ ˨ . m a ː ˦ ˨ ˀ </s>
+t ͡ ɕ i m ˥ </s>
+k ʰ i ː ˧ ˧ ˨ . ʔ ɤ ː ˦ ˨ ˀ </s>
+k i n ˨ ˦ . j a ɰ ˩ . k i n ˨ ˦ . l o ŋ ˨ ˦ </s>
+p j a ː t ̚ ˧ ˧ ˨ . s ʰ a ː t ̚ ˧ ˧ ˨ </s>
+m a ː n ˧ ˧ ˨ . n ɔ ŋ ˨ ˦ </s>
+k a ˨ ˦ . t i ˨ ˦ </s>
+k o n ˥ . j e p ̚ ˦ ˨ ˀ . k ʰ ɛ p ̚ ˥ . t i n ˨ ˦ </s>
+t ɔ k ̚ ˦ ˨ ˀ . t ɛ ː ˦ ˨ ˀ </s>
+ʔ a ˨ ˦ . n u ː ˦ ˨ ˀ . p i ŋ ˩ . ɲ a ː ˩ </s>
+k a ː ˧ ˧ ˨ . n a ŋ ˩ . ʔ a n ˨ ˦ </s>
+k ʰ u ŋ ˩ . t ɛ m ˧ ˧ ˨ . l i k ̚ ˧ ˧ ˨ </s>
+k ɯ ŋ ˩ . ʔ a ː p ̚ ˧ ˧ ˨ </s>
+p u k ̚ ˦ ˨ ˀ . t ʰ a ː ˦ ˨ ˀ . p ʰ a ː ˩ . s ʰ a ː ˩ </s>
+t ʰ ɔ ː ˥ . p a ˨ ˦ . n a ː ˩ </s>
+k i n ˨ ˦ . l a w ˧ ˧ ˨ </s>
+l a k ̚ ˥ . t ʰ a ː n ˨ ˦ </s>
+t ͡ ɕ a ˨ ˦ . m u t ̚ ˧ ˧ ˨ </s>
+l u t ̚ ˧ ˧ ˨ . t ɔ ː ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ɯ ŋ ˩ </s>
+p ʰ ɔ ŋ ˨ ˦ . k ʰ a w ˧ ˧ ˨ </s>
+k a ː n ˦ ˨ ˀ </s>
+k ʰ ɛ ː ˨ ˦ . p a ː ˨ ˦ </s>
+ʔ a ˨ ˦ . t ͡ ɕ ʰ a ː k ̚ ˧ ˧ ˨ </s>
+t u ŋ ˨ ˦ </s>
+k o n ˥ . p ʰ a ː n ˨ ˦ . p ɔ ː ˧ ˧ ˨ . m ɛ ː ˧ ˧ ˨ </s>
+k o n ˥ . m a ː k ̚ ˧ ˧ ˨ . m i ː ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ e ŋ ˧ ˧ ˨ . n a ŋ ˨ ˦ </s>
+k a m ˥ . k ʰ a w ˧ ˧ ˨ </s>
+k o n ˥ . h ɤ n ˥ . t ͡ ɕ a m ˨ ˦ . k a n ˨ ˦ </s>
+p a ˨ ˦ . j i n ˥ </s>
+k o n ˥ . h ɔ ː ˥ . t r a ː ˥ </s>
+k ʰ ɔ k ̚ ˥ . k ʰ ɔ k ̚ ˥ . k ʰ ɛ k ̚ ˥ . k ʰ ɛ k ̚ ˥ </s>
+n a ː ŋ ˥ </s>
+k o n ˥ . t ͡ ɕ a ɰ ˦ ˨ ˀ </s>
+k ɔ n ˥ . s ʰ ɯ k ̚ ˥ </s>
+m ɤ ŋ ˥ . ʔ a ˨ ˦ . m e ː ˩ . r i ː ˦ ˨ ˀ . k a ː ˦ ˨ ˀ </s>
+k ʰ ɔ ː ˧ ˧ ˨ . p ɔ ŋ ˨ ˦ . h ɔ ŋ ˦ ˨ ˀ </s>
+k a ː n ˨ ˦ . p ʰ a ː j ˩ . n a ɰ ˥ </s>
+s ʰ a ˨ ˦ . r a ː ˩ </s>
+k o n ˥ . h e t ̚ ˥ . h o ː ˨ ˦ . p a k ̚ ˥ . k ʰ i t ̚ ˥ </s>
+k a m ˩ . p ɔ ː ˥ . t i ː ˥ . j a ː ˥ </s>
+k ʰ ɔ ŋ ˦ ˨ ˀ . t ͡ ɕ a ɰ ˨ ˦ </s>
+s ʰ a m ˩ . m a ˨ ˦ . n i ː ˦ ˨ ˀ </s>
+k ʰ ɛ k ̚ ˩ </s>
+l ɔ ŋ ˧ ˧ ˨ . k u ː ˧ ˧ ˨ . j i m ˨ ˦ </s>
+k a ː n ˨ ˦ . t ͡ ɕ ɤ ː ˦ ˨ ˀ . t ͡ ɕ a ː t ̚ ˧ ˧ ˨ </s>
+k ɔ n ˨ ˦ . t ͡ ɕ ɔ ŋ ˧ ˧ ˨ </s>
+k o n ˨ ˦ . t a j ˥ </s>
+k ɯ m ˦ ˨ ˀ . t ͡ ɕ a ɰ ˨ ˦ </s>
+k ɛ m ˨ ˦ . t a ˨ ˦ . m a ˨ ˦ . t a ː ˦ ˨ ˀ </s>
+k o n ˥ . t u t ̚ ˧ ˧ ˨ </s>
+k ʰ i ː ˧ ˧ ˨ . l ɯ t ̚ ˥ </s>
+k o n ˥ . l ɔ ː ˥ . p ʰ a ˨ ˦ </s>
+k ɛ t ̚ ˩ . k ʰ ɛ ː ˨ ˦ </s>
+k i w ˩ . l ɔ j ˨ ˦ </s>
+k u ŋ ˥ . l ɔ j ˨ ˦ </s>
+k o t ̚ ˦ ˨ ˀ </s>
+k ʰ u n ˨ ˦ . h ɔ ː ˨ ˦ . k ʰ a m ˥ </s>
+k u m ˧ ˧ ˨ </s>
+k i n ˨ ˦ . k ɛ n ˥ </s>
+m a j ˦ ˨ ˀ . t ͡ ɕ a ˨ ˦ . l i ː ˩ </s>
+k o n ˥ . j e ː ˥ </s>
+k ʰ ɔ k ̚ ˩ . l a ː j ˧ ˧ ˨ </s>
+k a n ˧ ˧ ˨ . h ɛ ː ˦ ˨ ˀ </s>
+j a ː n ˩ . s ʰ u ː ˩ </s>
+k e p ̚ ˥ . l e ŋ ˦ ˨ ˀ </s>
+k ʰ e ŋ ˩ . p ʰ i ː ˨ ˦ </s>
+ʔ a ː m ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k a t ̚ ˥ . l a ː ŋ ˧ ˧ ˨ </s>
+k o n ˥ . p ɔ ː ˦ ˨ ˀ . k ʰ ɛ p ̚ ˥ . h a ː ŋ ˧ ˧ ˨ </s>
+k o n ˧ ˧ ˨ . k ʰ e t ̚ ˩ </s>
+k u n ˨ ˦ </s>
+t ͡ ɕ i ː ˥ . n a ː ˦ ˨ ˀ </s>
+j a ː p ̚ ˩ . p ʰ ɯ t ̚ ˩ </s>
+k a ː ˥ . t a ː ŋ ˩ . k a ː ˥ </s>
+k a n ˧ ˧ ˨ . k ʰ a ː m ˩ </s>
+k ɛ n ˨ ˦ . s ʰ a j ˧ ˧ ˨ </s>
+ɲ a ː m ˦ ˨ ˀ </s>
+s ʰ o ŋ ˩ </s>
+k ʰ a ˨ ˦ . j i n ˥ . r i t ̚ ˦ ˨ ˀ . j a ː n ˩ </s>
+k ɛ t ̚ ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a k ̚ ˥ . t ɔ ŋ ˧ ˧ ˨ </s>
+t ʰ ɔ k ̚ ˧ ˧ ˨ </s>
+k a m ˥ . t o j ˥ </s>
+l ɔ ŋ ˧ ˧ ˨ . k ʰ a ː k ̚ ˩ </s>
+p a ˨ ˦ </s>

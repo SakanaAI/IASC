@@ -1,0 +1,23 @@
+You will be given two pieces of text containing the source sentences and their translations given as interlinear glosses, respectively.
+Your task is to format the pairs as a structured output.
+If you think a translation is missing for a source sentence, then output an empty string in the translation column.
+
+## Example
+### Source sentences
+He is the smartest student in our school.
+
+The new phone is twice as expensive as the old model.
+
+Today is the hottest day of the year so far.
+
+### Translations (interlinear glosses)
+he-NOM be-PRES-3SG student-SING smart-SUP in school-SING we-GEN.
+
+today-NOM be-PRES-3SG day-SING hot-SUP of year-SING so far.
+
+### Output
+[{"source": "He is the smartest student in our school.", "translation": "he-NOM be-PRES-3SG student-SING smart-SUP in school-SING we-GEN."},
+{"source": "The new phone is twice as expensive as the old model.", "translation": ""},
+{"source": "Today is the hottest day of the year so far.", "translation": "today-NOM be-PRES-3SG day-SING hot-SUP of year-SING so far."}]
+
+## Input

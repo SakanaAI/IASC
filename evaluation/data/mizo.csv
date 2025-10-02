@@ -1,0 +1,46 @@
+sentence,label,prediction_example
+He is the smartest student in our school.,student smart-SUP we-GEN school in 3SGABS be.,smartest student we ergative school in be-1PLNOM-REL be-3SGNOM.
+The new phone is twice as expensive as the old model.,twice as expensive as model old phone new-ABS 3SGABS be.,new phone old model as twice expensive as be-3SGNOM-REL be-3SGNOM.
+Today is the hottest day of the year so far.,year-GEN day hottest so far today-ABS 3SGABS be.,hottest day year of so far today be-3SGNOM-REL be-3SGNOM.
+This exercise is the easiest one in the whole book.,easy-SUP book whole in exercise this-ABS 3SGABS be.,easiest exercise whole book in this be-3SGNOM-REL be-3SGNOM.
+This is the most delicious cake I've ever tasted.,cake delicious-SUP 1SGERG taste-REL this-ABS 3SGABS be.,delicious cake most ever eat-1SGNOM-PERF-REL this be-3SGNOM.
+The leaves fall from the trees in autumn.,leaf-ABS autumn in tree from 3PLABS fall.,tree from leaf ergative autumn in fall-3PLNOM-REL be-3PLNOM.
+The children played in the park.,child-ABS park in 3PLABS play.,park in child ergative play-3PLNOM-PERF-REL be-3PLNOM.
+The wind blows strongly today.,wind-ABS today strongly 3SGABS blow.,strongly wind ergative today blow-3SGNOM-PROG-REL be-3SGNOM.
+He lent his bicycle to his cousin.,he-GEN bicycle-ABS he-GEN cousin to 3SGERG lend.,cousin absolutive his bicycle his lend-3SGNOM-PERF-REL be-3SGNOM.
+The movie starts at eight o'clock.,movie-ABS eight o'clock at 3SGABS start.,eight o'clock at movie ergative start-3SGNOM-REL be-3SGNOM.
+"We're going on vacation next week, so the office will be closed.","week next vacation on 1PLABS go, so closed office-ABS 3SGABS be.","vacation on next week go-1PLNOM-REL, office so close-PASS-3SGNOM."
+We've decided to go with a different contractor for this project.,project this for contractor different with go 1PLERG decide.,different contractor project this for with go-INF decide-1PLNOM-PERF-REL be-1PLNOM.
+Our country needs to address climate change together.,change climate-ABS together address we-GEN country-ERG 3SGERG need.,climate change country we ergative together address-INF need-3SGNOM-REL be-3SGNOM.
+"We're moving to a new office, but your department will stay here.","office new to 1PLABS move, but here you-GEN office-ABS 3SGABS stay.","new office to move-1PLNOM-REL, department your here stay-3SGNOM."
+"We're going to the movies later, want to join us?","movie to later 1PLABS go, we-ABS join 2SGERG want?","movie to later go-1PLNOM-REL, we absolutive join-INF want-2PLNOM?"
+She doesn't like spicy food.,food spicy-ABS 3SGERG like NEG.,spicy food like-3SGNOM NEG-REL be-3SGNOM.
+He isn't interested in playing sports.,sport-ABS play in interested 3SGERG be NEG.,sport play-INF in interested NEG be-3SGNOM-REL be-3SGNOM.
+I can't swim very well.,very well swim 1SGERG can NEG.,very well swim-INF can't-1SGNOM-REL be-1SGNOM.
+The cat won't eat its food.,it-GEN food-ABS cat-ERG 3SGERG eat NEG.,food its cat ergative eat-3SGNOM won't-REL be-3SGNOM.
+The plants don't get enough sunlight here.,here sunlight enough-ABS plant-ERG 3PLERG get NEG.,enough sunlight plant ergative here get-3PLNOM NEG-REL be-3PLNOM.
+The leaves rustled in the wind.,leaf-ABS wind in 3PLABS rustle.,wind in leaf ergative rustle-3PLNOM-PROG-REL be-3PLNOM.
+Many flowers bloom in the garden.,flower many-ABS garden in 3PLABS bloom.,garden in flower many ergative bloom-3PLNOM-PROG-REL be-3PLNOM.
+We bought two loaves of bread.,loaf two-GEN bread-ABS 1PLERG buy.,bread of loaf two buy-1PLNOM-PERF-REL be-1PLNOM.
+The stars twinkled in the night sky.,star-ABS sky night in 3PLABS twinkle.,night sky in star ergative twinkle-3PLNOM-PROG-REL be-3PLNOM.
+We planted two tomato plants in the garden.,plant tomato-ABS garden in 1PLERG plant.,garden in tomato plant two plant-1PLNOM-PERF-REL be-1PLNOM.
+We found a treasure map in the attic.,map treasure-ABS attic in 1PLERG find.,attic in treasure map find-1PLNOM-PERF-REL be-1PLNOM.
+She wrote the letter with a blue pen.,letter-ABS pen blue with 3SGERG write.,blue pen instrumental letter write-3SGNOM-PERF-REL be-3SGNOM.
+They built the sandcastle with plastic shovels.,sandcastle-ABS shovel plastic with 3PLERG build.,plastic shovel instrumental sandcastle build-3PLNOM-PERF-REL be-3PLNOM.
+The old man lived in a small cottage.,man old-ABS cottage small in 3SGABS live.,small cottage in old man ergative live-3SGNOM-PROG-REL be-3SGNOM.
+We had a picnic in the sunny meadow.,picnic-ABS meadow sunny in 1PLERG have.,sunny meadow in picnic have-1PLNOM-PERF-REL be-1PLNOM.
+"The children built a snowman, and it melted the next day.","snowman-ABS child-ERG 3PLERG build, and it-ABS day next 3SGABS melt","snowman child ergative build-3PLNOM-PERF-REL, next day melt-3SGNOM-PERF-REL be-3SGNOM."
+"Thou art a true friend, always there when I need thee.","friend true 2SGABS be, thou-ABS 1SGERG need when always there 2SGABS be.","true friend thou be-2SGNOM-REL, thou absolutive need-1SGNOM when there always-REL be-2SGNOM."
+The cat chased the mouse until it ran into a small hole.,mouse-ABS cat-ERG hole small into 3SGABS run until 3SGERG chase.,"mouse absolutive cat ergative chase-3SGNOM-PERF-REL, small hole into run-3SGNOM until-REL be-3SGNOM."
+We saw them at the grocery store while shopping for vegetables.,they-ABS store grocery at vegetable-ABS 1PLERG shop while 1PLERG see.,"grocery store at they absolutive see-1PLNOM-PERF-REL, vegetable for shop-GERUND while-REL be-1PLNOM."
+They invited us to their house for a delicious dinner party.,we-ABS party dinner delicious for they-GEN house to 3PLERG invite.,"house they genitive to we absolutive invite-3PLNOM-PERF-REL, delicious dinner party for-REL be-3PLNOM."
+I have been waiting for the bus for 30 minutes.,bus-ABS minute 30 for 1SGERG wait.,bus for 30 minute for wait-1SGNOM-PROG be-1SGNOM-REL be-1SGNOM.
+I am going to start a new job next month.,job new-ABS month next 1SGERG start.,new job next month start-INF go-1SGNOM be-1SGNOM-REL be-1SGNOM.
+I used to play the piano when I was younger.,young 1SGABS be when piano-ABS 1SGERG play.,piano young be-1SGNOM when play-INF use-1SGNOM-PROG-REL be-1SGNOM.
+We went to the movies last night.,night last movie to 1PLABS go.,movie to last night go-1PLNOM-PERF-REL be-1PLNOM.
+They are playing soccer in the park.,soccer-ABS park in 3PLERG play.,park in soccer play-3PLNOM-PROG be-3PLNOM-REL be-3PLNOM.
+A new species of frog was discovered by the scientist.,frog-GEN species new-ABS scientist-ERG 3PLERG discover.,new species frog of scientist instrumental discover-3SGNOM-PASS-PERF-REL be-3SGNOM.
+The teacher graded the tests last night.,test-ABS night last teacher-ERG 3SGERG grade.,test last night teacher ergative grade-3SGNOM-PERF-REL be-3SGNOM.
+The dog buried the bone in the backyard.,bone-ABS backyard in dog-ERG 3SGERG bury.,backyard in bone dog ergative bury-3SGNOM-PERF-REL be-3SGNOM.
+Sarah baked a delicious cake for the party.,cake delicious-ABS party for Sarah-ERG 3SGERG bake.,delicious cake party for Sarah ergative bake-3SGNOM-PERF-REL be-3SGNOM.
+The students elected Sarah as class president.,Sarah-ABS president class as student-ERG 3PLERG elect.,class president as Sarah absolutive student ergative elect-3PLNOM-PERF-REL be-3PLNOM.

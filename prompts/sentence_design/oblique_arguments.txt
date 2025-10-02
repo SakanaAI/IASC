@@ -1,0 +1,26 @@
+<INSTRUCTIONS>
+
+I'd like you to write me {{number_of_sentences}} example English sentences that illustrate
+various non-core grammatical relations, including GENITIVE (i.e. POSSESSIVE),
+LOCATIVE, INSTRUMENTAL and ABLATIVE (typically meaning motion away from something).
+
+Example sentences that illustrate each of these might be:
+
+GENITIVE:
+
+"I borrowed John's book."
+
+LOCATIVE:
+
+"Mary lived in Rome."
+
+INSTRUMENTAL:
+
+"He cut the cucumber with scissors."
+
+ABLATIVE:
+
+"He left from the station this morning."
+
+{{general_guidelines}}
+</INSTRUCTIONS>

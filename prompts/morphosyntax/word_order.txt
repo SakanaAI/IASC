@@ -1,0 +1,27 @@
+In section {section_number} we will consider word order.
+
+We will consider the main order of the sentence in terms of Subject (S), Object
+(O) and Verb (V). Options are as follows:
+
+VSO: "drink John water"
+SVO: "John drink water"
+SOV: "John water drink"
+VOS: "drink water John"
+OVS: "water drink John"
+OSV: "water John drink"
+
+Next we consider the order of adjectives and nouns, which may be:
+
+NA: "book red"
+AN: "red book"
+
+And adpositions and noun (phrases):
+
+PN: "on table"
+NP: "table on"
+
+Our language has
+
+"{{main_word_order}}" main word order.
+"{{adj_noun_word_order}}" adjective-noun word order.
+"{{adposition_noun_word_order}}" adposition-noun word order.

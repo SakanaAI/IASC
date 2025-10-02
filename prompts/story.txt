@@ -1,0 +1,10 @@
+<INSTRUCTIONS>
+Write me a very short story about "{{story_topic}}". The theme and development
+should be of your own choosing but please observe the following constraints:
+
+1. The text must be in English.
+2. Use simple words (5th grade reading level), and simple sentence structure.
+3. No more than about 500 words.
+
+Please put the story you write within <OUTPUT></OUTPUT> tags.
+</INSTRUCTIONS>

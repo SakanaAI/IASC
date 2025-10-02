@@ -1,0 +1,939 @@
+v ɛ r t i ˈ k a l </s>
+k u ŋ t a ˈ t e </s>
+s y s ˈ t e </s>
+m e r i d j u ˈ n a l </s>
+y f i ˈ s j a l </s>
+z m e ˈ r a l d </s>
+s t r a u r d i ˈ n a r i </s>
+k r e ˈ e </s>
+ˈ t a z e </s>
+t ɛ ŋ ˈ t e </s>
+y r i ˈ n e </s>
+v ɛ r m </s>
+v i ŋ </s>
+ˈ f y t i l </s>
+y ˈ n i </s>
+r y s ˈ t i </s>
+v i ŋ t ͡ ʃ i ˈ t u r </s>
+v i z i ˈ t e </s>
+ˈ t ɛ ŋ d e </s>
+i ˈ l y s </s>
+ˈ y m i l </s>
+m e ˈ t a ŋ </s>
+s i s ˈ t e m a s u ˈ l a r </s>
+ˈ ɔ a z i </s>
+v a ˈ r i </s>
+e s ɛ r ˈ t ͡ ʃ i s i </s>
+f u r ˈ m a l </s>
+y n i f u r ˈ m e </s>
+y ˈ z e </s>
+s a ˈ f r a ŋ </s>
+y t i s </s>
+n u ˈ v e </s>
+p a ˈ v u ŋ </s>
+n y m e ˈ r e </s>
+t a m p u ˈ n e </s>
+ø v </s>
+v ɛ r ˈ s j u ŋ </s>
+v i r u ˈ l e </s>
+n i ˈ n e </s>
+ˈ n y k a </s>
+t r a ˈ n e l </s>
+e ˈ r u e </s>
+v a ˈ ɡ a ŋ t </s>
+p a ˈ t i </s>
+v e n e ˈ r e </s>
+v u l ˈ ɡ a r </s>
+t r y k </s>
+ˈ r ø s a </s>
+v a n i ˈ t u s </s>
+ˈ n a s </s>
+s a ˈ r a </s>
+s a l </s>
+s a ŋ ˈ t ɥ a r i </s>
+d e p u s i ˈ t e </s>
+t a . j a ˈ r i ŋ </s>
+u r ˈ k e s t r a </s>
+ˈ t r a f i k </s>
+y n i v ɛ r s i ˈ t a </s>
+r e k w i ˈ z i </s>
+t r y ˈ f e </s>
+ˈ ɛ v ɐ </s>
+f u r ˈ m e </s>
+j a ŋ ˈ s e </s>
+ˈ l ɛ ŋ ɡ a </s>
+k u ŋ s y l ˈ t e </s>
+a r t i ˈ t ͡ ʃ ɔ k </s>
+y s </s>
+e r e d i ˈ t a </s>
+i l y s ˈ t r e </s>
+v e ˈ l ɛ ŋ </s>
+r e s ˈ t a ŋ t </s>
+s y l ˈ t a ŋ </s>
+r y ˈ z j e </s>
+v a ˈ l a d a </s>
+b a ŋ ˈ d i </s>
+ˈ y m i d </s>
+k r ɔ t </s>
+r y ˈ z e </s>
+ˈ t a t i k a </s>
+t r u ˈ t e </s>
+t r u p </s>
+s u t ͡ ʃ e ˈ t a </s>
+i m a d ͡ ʒ i ˈ n e </s>
+t r a s f e ˈ r i </s>
+k a m i ˈ n e </s>
+s y ˈ t ͡ ʃ e d e </s>
+ˈ s y p a </s>
+ˈ v a l i d </s>
+ˈ ɑ i ̯ ɾ ɪ </s>
+k a ŋ ˈ t a ŋ t </s>
+n e ˈ ɡ a </s>
+ˈ n a s e </s>
+d u ˈ m e </s>
+d ͡ ʒ y d i ˈ k e </s>
+t r a v a ˈ j ø r </s>
+e s ˈ t r a e </s>
+k a ̠ ˈ d ̪ r e ̞ ɡ a ̠ </s>
+d e ˈ p ɔ s i t </s>
+l i b e r ˈ t a </s>
+y z y r ˈ p e </s>
+ˈ s t i r p e </s>
+v e s ˈ t i </s>
+e ˈ z i d ͡ ʒ e </s>
+v i ˈ z j u ŋ </s>
+ˈ p a d ͡ ʒ i n a </s>
+b a ˈ ɡ a d ͡ ʒ i </s>
+n a ˈ z e l </s>
+ˈ p ɛ r d e </s>
+l i ˈ u ŋ </s>
+e ˈ z a t </s>
+p i ˈ t y r a </s>
+ˈ m i l s a </s>
+ˈ ɔ r b i t a </s>
+d ͡ ʒ y ˈ r i a </s>
+t r i ˈ b y ŋ a </s>
+p i k </s>
+z v i ˈ l y p </s>
+e l a b u ˈ r a </s>
+i m i ˈ ɡ r e </s>
+k a m ˈ p e </s>
+ˌ b a . ɲ a ˈ k ɑ ʊ . d a </s>
+ˈ ɔ p e r a </s>
+y m i d i ˈ t a </s>
+s y ˈ d u r </s>
+i t a ˈ l j a ŋ </s>
+ˈ t r a p a ŋ </s>
+n ɛ r v </s>
+t a ˈ b e l a </s>
+t y f </s>
+a l t e r ˈ n e </s>
+d i s ˈ d ø t </s>
+p y ɲ </s>
+ˈ t e z i </s>
+ˈ d u i ̯ </s>
+ˈ s t y ɥ a </s>
+t r a ˈ ɡ w a r d </s>
+ˈ p r i . m ɐ </s>
+k u l a b u ˈ r e </s>
+ˈ t y b u </s>
+f y n e ˈ r a l </s>
+k a ŋ ˈ t e </s>
+s t y ˈ d ɛ ŋ t </s>
+t r a v e s ˈ t i </s>
+a v u ˈ k a t </s>
+s y ˈ v e </s>
+k u ˈ m y ŋ </s>
+l u ˈ k a l </s>
+ˈ m œ j </s>
+s t y ˈ p ɛ ŋ d </s>
+m y ˈ z e </s>
+s t i ˈ p ɛ ŋ d i </s>
+ɔ r </s>
+e s ˈ t r u s </s>
+y n i v ɛ r ˈ s a l </s>
+t r a d i ˈ s j u ŋ </s>
+ˈ t r i p a </s>
+m ɔ r t </s>
+ˈ ɛ v a </s>
+t r a t a ˈ t i v a </s>
+t r a ˈ v u ŋ d e </s>
+k r u ˈ v e </s>
+v j u l ɛ ŋ ˈ t e </s>
+p u ˈ e t a </s>
+t r a ˈ m u ŋ t </s>
+t u r ˈ t e r a </s>
+m y r </s>
+t y ˈ r ɪ ŋ </s>
+b a ŋ ˈ d j e r a </s>
+ˈ k ɔ </s>
+s a ˈ l a m </s>
+t r i b y ˈ t a r i </s>
+e s p e r i ˈ m ɛ ŋ t </s>
+d ʒ a ˈ p o n </s>
+ˈ ɛ w ɐ </s>
+s t ɛ r ˈ m i n i </s>
+s y ˈ ɲ e </s>
+s a ˈ l y t e </s>
+s y ˈ t i l </s>
+s u ˈ t ͡ ʃ a l </s>
+v a l s </s>
+s a ˈ n e </s>
+ˈ n y m ɛ r </s>
+a ˈ s j e t a </s>
+y m a n i ˈ t a r i </s>
+t r i ˈ b y </s>
+t r a s m i ˈ ɡ r e </s>
+t y r b y ˈ l ɛ ŋ t </s>
+y t i l i ˈ z e </s>
+m i ˈ k r ɔ f u ŋ </s>
+t i ˈ f e </s>
+l ɑ ɪ ̯ t </s>
+p y ˈ n i </s>
+ˈ v i ɲ a </s>
+i z u ˈ l e </s>
+t r a ˈ v a j </s>
+t r a s ɡ r e ˈ d i </s>
+ˈ k a m b i </s>
+b ø </s>
+a d u ˈ b e </s>
+ˈ v e s t e </s>
+y n a n i m i ˈ t a </s>
+s e ˈ s a ŋ t a </s>
+s y ˈ k r e </s>
+t e </s>
+ˈ e t i k a </s>
+s t i ˈ m a </s>
+t r a m ˈ b y s t </s>
+e ˈ z e m p i </s>
+ˈ v i p r a </s>
+t r y t ͡ ʃ i ˈ d e </s>
+e z i ˈ b i </s>
+t e s t a ˈ m ɛ ŋ t </s>
+t r ɔ p </s>
+ˈ ø l i </s>
+ɡ w a ŋ t </s>
+s a k r i ˈ l e d ͡ ʒ i </s>
+d u k y ˈ m ɛ ŋ t </s>
+k u ŋ t i ˈ n ɥ e </s>
+t r e ˈ m ɛ ŋ d </s>
+f i ɡ y ˈ r e </s>
+ˈ t ͡ ɕ ɒ w ː </s>
+b a ɲ </s>
+k u ˈ l e </s>
+ˈ t r a s a </s>
+ˈ v i ŋ t ͡ ʃ e </s>
+ˈ v i d u </s>
+b ʊ ˈ n ɛ t </s>
+t r a ˈ d ͡ ʒ i t </s>
+ˈ t ͡ ɕ ä w ː </s>
+ˈ l ʏ w </s>
+s t u </s>
+s u l </s>
+k u m p u z i ˈ s j u ŋ </s>
+n e t ͡ ʃ e ˈ s a r i </s>
+m i l i t a r i ˈ z e </s>
+r a ˈ d i s </s>
+v a l i ˈ d e </s>
+s k y l ˈ t y r a </s>
+ø w </s>
+f j u ˈ k e </s>
+i ŋ t e ɡ r i ˈ t a </s>
+f ɾ a j d </s>
+i s t r y ˈ i </s>
+m a r a n ˈ z a ŋ a </s>
+s u s j a ˈ l i z m </s>
+i ˈ m ɛ ŋ s </s>
+m a l i ŋ k u ˈ n i a </s>
+ɡ r a ˈ v u s </s>
+i m i ˈ t e </s>
+ˈ e s e </s>
+z u d j a ˈ k a l </s>
+a ŋ ˈ ɡ ɥ i l a </s>
+l u k u m u ˈ t i v a </s>
+ˈ ɒ i ̯ ɹ ɪ </s>
+t r i ˈ u n f </s>
+ˈ p ɛ r s i </s>
+t r a m p u ˈ l i ŋ </s>
+v u l u ŋ ˈ t a </s>
+ˈ s f e r a </s>
+n u ˈ ɥ ɛ m b ɛ r </s>
+v a ɡ a ˈ b u ŋ d </s>
+n y m e ˈ r u s </s>
+a m e r i ˈ k a ŋ </s>
+d i d ͡ ʒ e s ˈ t j u ŋ </s>
+t r a s f i ɡ y ˈ r e </s>
+ˈ d u d e s </s>
+s i ˈ p r e s </s>
+l e ɥ r </s>
+v i ˈ r e </s>
+ˈ s t i b i </s>
+t r a ˈ ɡ ɛ t </s>
+t r a ˈ d y e </s>
+i n </s>
+t r a s p u r ˈ t e </s>
+f e ˈ r i </s>
+m ʊ ŋ ˈ s y </s>
+y n i l a t e ˈ r a l </s>
+i ŋ ˈ t ͡ ʃ ɛ ŋ s </s>
+ˈ f j u r </s>
+v a r ˈ d e </s>
+i s t i ˈ t ɥ i </s>
+k w a ˈ r a ŋ t a </s>
+p y l ˈ s e </s>
+t r a ˈ d ͡ ʒ e d j a </s>
+i ˈ d ͡ ʒ e n e </s>
+t r a ˈ t a </s>
+v a l </s>
+e s ˈ p ɛ r t </s>
+t r a m u ŋ ˈ t e </s>
+k w a ˈ t ɔ r d e s </s>
+s e s </s>
+e s ˈ p r i m e </s>
+p u ˈ e m a </s>
+t r a v ə r ˈ s e </s>
+u b l i t e ˈ r e </s>
+ˈ s t i m a </s>
+t y ˈ r i ŋ </s>
+ˈ f r a d ͡ ʒ i l </s>
+t r a ˈ t ɛ ŋ e </s>
+ø f </s>
+r ɛ m </s>
+t r a ˈ v e s t e </s>
+n a ˈ z a l </s>
+ɡ r a ˈ n i </s>
+y l t e ˈ r j u r </s>
+s t i ˈ v a l </s>
+ˈ a w t r </s>
+k u ŋ ˈ t r a t </s>
+s u ˈ n e </s>
+ˈ f e r a </s>
+k u m y n i k a ˈ s j u ŋ </s>
+m a d ͡ ʒ i s t r a ˈ t y r a </s>
+l a w ˈ r e </s>
+ˈ l ɑ v ɐ r </s>
+t r a s p a ˈ r i </s>
+ɡ r a t a ˈ t ͡ ʃ e l </s>
+ˈ d u j a </s>
+k a t e ˈ d r a l </s>
+v j u l i ˈ n i s t a </s>
+k a r ˈ n a l </s>
+ˈ l ɒ v ɾ </s>
+ˈ m y z i k a </s>
+n ø w </s>
+t r a l a ˈ s e </s>
+r y ˈ b i ŋ </s>
+y ˈ n j u ŋ </s>
+i ɲ u ˈ r a ŋ t </s>
+l a j k </s>
+ˈ s k a m b i </s>
+t r a d y ˈ s j u ŋ </s>
+v u ˈ t e </s>
+v i r ˈ t ɥ u s </s>
+k u ŋ ˈ s i s t e </s>
+v a n e ˈ d ͡ ʒ e </s>
+i ɲ u ˈ r e </s>
+f a m i l j a r i ˈ z e </s>
+t r a ˈ s e </s>
+ˈ p o . ɹ ɪ </s>
+t r a d i ˈ m ɛ ŋ t </s>
+v ɛ ŋ ˈ t e </s>
+s a ˈ r e </s>
+t a ˈ k e </s>
+ˈ y r n a </s>
+v j u ˈ l ɛ ŋ t </s>
+f r a d ͡ ʒ i l i ˈ t a </s>
+ˈ f a b r i k a </s>
+t r i b y ˈ l e </s>
+t r i u n ˈ f a l </s>
+e s ˈ k l y d e </s>
+v a ɡ a b u ŋ ˈ d e </s>
+m a l e ˈ d i </s>
+f ɾ a j t </s>
+m u ŋ t </s>
+d i ˈ v i ŋ </s>
+y b i ˈ d i </s>
+t r a p j a ŋ ˈ t e </s>
+l a ɡ </s>
+v i ˈ z e </s>
+d i t a ˈ t u r </s>
+t u r t y ˈ r e </s>
+v e s ˈ t j a r i </s>
+e d y ˈ k a </s>
+ˈ b r i l a </s>
+ɡ w ɛ ˈ r j e </s>
+l y m i ˈ n u s </s>
+v i ŋ k u ˈ l e </s>
+ˈ s ə d d e s </s>
+m ɔ t </s>
+ˈ ɔ s </s>
+t u ˈ t u ŋ </s>
+m y z i ˈ k a l </s>
+i m a d ͡ ʒ i ˈ n a r i </s>
+t e l e s ˈ k ɔ p i </s>
+s a l ˈ m u ŋ </s>
+k u ŋ ˈ v i ŋ t ͡ ʃ e </s>
+f ɛ r ˈ m e </s>
+k u m ˈ b a . t e </s>
+n a ˈ t y r a </s>
+n ɔ m </s>
+ˈ v j a l </s>
+ˈ t ɛ n z e </s>
+t r u m ˈ b e </s>
+t r a ɥ </s>
+s t u r ˈ d i </s>
+n y m e ˈ r a l </s>
+t a ˈ r i f a </s>
+i ˈ m u r a l </s>
+d e k u ˈ r e </s>
+t r a n k w i l i ˈ z e </s>
+ˈ t r a ŋ z i t </s>
+e l e ˈ f a ŋ t </s>
+t r a ˈ s j u ŋ </s>
+t r a m ˈ b l e </s>
+ˈ t r e n u </s>
+a b i ˈ m e </s>
+s a w ˈ t e </s>
+r e l i ˈ d ͡ ʒ u ŋ </s>
+m u ŋ ˈ d a ŋ </s>
+ˈ t r a p u l a </s>
+m i ˈ ɾ ɑ i ̯ </s>
+v e l </s>
+n e t ͡ ʃ e s i ˈ t a </s>
+s t r a ˈ k e </s>
+l a ŋ ˈ t ɛ r n a </s>
+k a s ˈ t e l </s>
+d ɛ ŋ t </s>
+y m i l ˈ t a </s>
+v j a ˈ d ͡ ʒ e </s>
+s y ˈ e </s>
+s t r a ŋ </s>
+s a ˈ l a </s>
+y n i f u r m i ˈ t a </s>
+m y z i ˈ t ͡ ʃ i s t a </s>
+n u j </s>
+t r a p a ˈ n e </s>
+ˈ d ͡ ʒ a s a </s>
+t r a ˈ t e </s>
+l e ˈ u ŋ </s>
+ˈ l ɑ v ɛ r </s>
+ə ŋ </s>
+ˈ t r e v a </s>
+d ʒ a ˈ p u ː ŋ </s>
+p r u ˈ f a ŋ </s>
+n y ˈ r i </s>
+y n i ˈ t a </s>
+t r a z m i ˈ s j u ŋ </s>
+m y z y l ˈ m a ŋ </s>
+t a b e ˈ l u ŋ </s>
+v u l p </s>
+f r a ŋ ˈ s ɛ j s </s>
+k a r </s>
+v i ˈ b r e </s>
+ˈ t r y f a </s>
+z v a ˈ n i </s>
+k a l ˈ m e </s>
+s i ˈ r i ŋ ɡ a </s>
+t r a m a ŋ ˈ d e </s>
+p r u k l a ˈ m e </s>
+d i f e ˈ r ɛ ŋ t </s>
+i m p ɛ r ˈ f e t </s>
+a l t e ˈ r e </s>
+t e s t i m u ˈ n j e </s>
+e s t i ŋ ˈ t u r </s>
+t r a ˈ v ɛ r s a </s>
+j a ˈ p e </s>
+n ɛ w t r a l i ˈ z e </s>
+ˈ s i ŋ k </s>
+t r i b y ˈ t e </s>
+v u m i ˈ t e </s>
+k r u ˈ a t a </s>
+t ɔ </s>
+v e l e ˈ n u s </s>
+ø ˈ t s ɛ ŋ t </s>
+l e d ͡ ʒ e ŋ ˈ d a r i </s>
+k u ŋ s i d e ˈ r e </s>
+t r ø </s>
+y ˈ z a </s>
+t y ˈ b ɛ t </s>
+t r u ˈ v e </s>
+f j u ˈ r i </s>
+t r a ˈ m e </s>
+n u t i f i ˈ k e </s>
+s t r a k </s>
+n u v i ˈ t a </s>
+e s ˈ t r a t </s>
+t r i k u ˈ t e </s>
+n u v a ˈ t ø r </s>
+v a ˈ l e </s>
+v a ˈ l ɛ ŋ t </s>
+m u ŋ ˈ t a ɲ a </s>
+t r a ŋ ˈ z i d ͡ ʒ e </s>
+ˈ l ɑ u ̯ ɾ ɪ </s>
+p y l ˈ s a ŋ t </s>
+s t i l </s>
+k u ŋ t r a ˈ d i </s>
+ˈ k w i ŋ d ɛ s </s>
+t r a z ˈ m ə t t e </s>
+s u l ˈ d a </s>
+e l a b u ˈ r e </s>
+ˈ d ͡ ʒ u v a </s>
+m e r i ˈ t e </s>
+t r a ˈ v ɛ r s </s>
+t r a t a ˈ m ɛ ŋ t </s>
+e s p l u ˈ r e </s>
+v u j </s>
+b r y ˈ s u ŋ </s>
+t r a n ˈ f j e </s>
+t u ˈ z e </s>
+t y l i ˈ p a ŋ </s>
+ˈ t r y t a </s>
+s ɛ ŋ t </s>
+f ɛ r m ɛ ŋ ˈ t e </s>
+v i ˈ r i l </s>
+t r a ˈ m y e </s>
+ˈ t u r t a </s>
+a ŋ ˈ t ʃ ʊ . v a </s>
+t r a t </s>
+t r u p i ˈ k a l </s>
+ˈ s k r i v e </s>
+ˈ f ɾ e ː l </s>
+n a t y ˈ r a l </s>
+f y r i ˈ b u ŋ d </s>
+s a v y ˈ r i </s>
+t r a m ˈ b l a ŋ t </s>
+ˈ t r a m a </s>
+ˈ r a v a </s>
+l a ˈ b r e </s>
+f u ˈ r e s t a </s>
+k a r ŋ </s>
+t r i ˈ e </s>
+t ɛ r d ͡ ʒ i v ɛ r ˈ s e </s>
+k w a r a ŋ ˈ t ø t </s>
+e z a w ˈ r i </s>
+t r a ŋ ˈ t ͡ ʃ e </s>
+d i z ˈ n ø ɥ </s>
+y ˈ m u r </s>
+v a ˈ k a ŋ t </s>
+ˈ t r ɛ ŋ </s>
+v ɛ ŋ d i ˈ t u r </s>
+s a l y ˈ t e </s>
+a ˈ m i s </s>
+r e w m a ˈ t i z m </s>
+v e d ͡ ʒ e ˈ t a l </s>
+ˈ t y n e l </s>
+y r ˈ d ͡ ʒ ɛ ŋ t </s>
+l u k a l i ˈ z e </s>
+t r a d y ˈ t u r </s>
+ˈ s t ɛ ŋ d e </s>
+v a ˈ p u r </s>
+t r a ˈ t u r </s>
+p a r ˈ l e </s>
+e z a m i ˈ n e </s>
+s t r y ˈ n i </s>
+ˈ v a k a </s>
+t y t </s>
+v a t ͡ ʃ i ˈ n e </s>
+s t i p y ˈ l e </s>
+n y k l e ˈ a r </s>
+s y j t </s>
+n e t ͡ ʃ e s i ˈ t e </s>
+ˈ v ɛ ŋ d e </s>
+s a l ˈ d e </s>
+d e f i ˈ n i </s>
+b u n ˈ d u ŋ </s>
+ˈ p ɔ . l e </s>
+p r u ˈ v ɛ r b i </s>
+s t r a ˈ d e </s>
+ˈ s t a ŋ t a </s>
+u ˈ z u ŋ </s>
+d e s </s>
+ˈ l i v r a </s>
+d i ˈ s ɛ ŋ s </s>
+i m u r ˈ t a l </s>
+t r a ˈ d i </s>
+t r i p l i ˈ k e </s>
+d e p a ˈ s e </s>
+ˈ f y r j a </s>
+k r u s </s>
+l i ˈ v e l </s>
+i m p e r a ˈ d u r </s>
+v u l ɡ a r i ˈ t a </s>
+ˈ v a r i </s>
+v e ɾ t </s>
+ˈ t r a ŋ t a </s>
+p r e ˈ d i </s>
+ˈ t ͡ ɕ ä f ː </s>
+y t i l i ˈ t a </s>
+ˈ z ɔ n a </s>
+l a ˈ t i ŋ </s>
+y ˈ r i ŋ a </s>
+k i ˈ t a r a </s>
+y n i ˈ v ɛ r s </s>
+m u n y ˈ m ɛ ŋ t </s>
+ˈ t ͡ ɕ ɒ v ː </s>
+s u ˈ l a r </s>
+t r a ŋ z i ˈ t e </s>
+s a n i ˈ t a </s>
+ˌ t u r n a ˈ v i s </s>
+m u r ˈ t a l </s>
+f u r ˈ d ͡ ʒ e </s>
+l a b u r a ˈ t ɔ r i </s>
+r y ˈ r a l </s>
+l i b e ˈ r e </s>
+s t r y ˈ s e </s>
+s t ɛ r ŋ </s>
+ˈ n ø z e </s>
+s y p e ˈ r e </s>
+t y t e ˈ l e </s>
+s a ˈ v u ŋ </s>
+m i ˈ n ø r </s>
+s a r ˈ t u r </s>
+v u l ˈ t e </s>
+d i </s>
+t r a s f e r i ˈ m ɛ ŋ t </s>
+t r a p u ŋ ˈ t e </s>
+d e p i ˈ l e </s>
+ˈ l i r i k a </s>
+t r a s ˈ f ɛ r t a </s>
+t r i ˈ t ͡ ʃ e </s>
+v e t e r i ˈ n a r i </s>
+s y ˈ s i d i </s>
+ˈ a j </s>
+k u s ˈ t e </s>
+n u ˈ j e </s>
+ˈ f ɾ ɛ ː l </s>
+s y d ͡ ʒ e ˈ r i </s>
+v u s </s>
+ˈ t r i s t </s>
+n y ˈ t r i </s>
+t ɛ r m i ˈ n e </s>
+t r a ˈ u ŋ d e </s>
+v i t ͡ ʃ e ˈ v ɛ r s a </s>
+ˈ t r u m b a </s>
+s u s j e ˈ t a </s>
+k a ˈ t a s t r u f e </s>
+ˈ n i t ͡ ʃ a </s>
+e s ˈ t ɥ a r i </s>
+v i r ˈ t ɥ a l </s>
+s t a ˈ t y </s>
+n ø v </s>
+v a ŋ ˈ t e </s>
+t r a s ˈ k u r e </s>
+a l e ˈ ɡ a </s>
+ˈ l ɒ v ɾ ɪ </s>
+p a ˈ i z </s>
+f y ˈ r j u s </s>
+m a t ͡ ʃ e ˈ d ɔ n j a </s>
+t i </s>
+l a ŋ s </s>
+e ˈ v a d e </s>
+t r a </s>
+l a ˈ v e </s>
+t y r ˈ b e </s>
+ˈ s t y d i </s>
+i d ɛ ŋ t i ˈ t a </s>
+f i ˈ n i </s>
+v i ˈ ɡ u r </s>
+ˈ n ø </s>
+l u k a l i ˈ t a </s>
+y r a ˈ ɡ a ŋ </s>
+t r u t ͡ ʃ u ˈ n e </s>
+i ŋ s y l ˈ t e </s>
+e m i ˈ s j u ŋ </s>
+ʏ ŋ </s>
+t e l e ɡ r a ˈ f e </s>
+ˈ v i z i t a </s>
+v a ˈ k a ŋ s a </s>
+r i ˈ d ɔ </s>
+s t ɛ ŋ t </s>
+t r a s p a ˈ r ɛ ŋ t </s>
+d e t ͡ ʃ i ˈ m a l </s>
+v a n i ˈ t a </s>
+d e p y r a ˈ t u r </s>
+k u ŋ t a m i ˈ n e </s>
+m a j u ˈ n e s </s>
+t i ˈ r e </s>
+r ɛ ŋ </s>
+e ˈ z i l i </s>
+t r a v i ˈ n e </s>
+y z y f r y ˈ i </s>
+a r t i ˈ z a ŋ </s>
+y ˈ z a d ͡ ʒ i </s>
+p a ŋ </s>
+m a ˈ f i u </s>
+y r ˈ b a ŋ </s>
+s i n ˈ k w a n t a </s>
+s t r y t </s>
+m a ˈ d y r </s>
+ˈ t ə r d e s </s>
+v a ŋ ˈ t a d ͡ ʒ e </s>
+y ŋ </s>
+y n i ˈ t a r i </s>
+d e ŋ ˈ t e r a </s>
+y ˈ z y r a </s>
+t a ŋ t </s>
+a ˈ r a m </s>
+ˈ f n u j </s>
+s t r a s </s>
+f ʊ ˈ j ɔ t </s>
+t u ˈ r u ŋ </s>
+t r i u n ˈ f a ŋ t </s>
+t r i ˈ m e s t r </s>
+t y ˈ m u r </s>
+t r a s p i ˈ r e </s>
+p j e ˈ m u ŋ t </s>
+d i ˈ s ɛ t </s>
+e ˈ t ɛ r ŋ </s>
+i d e ˈ a l </s>
+f i ˈ ʎ ø l </s>
+d i t a ˈ t y r a </s>
+ˈ f u m n ɐ </s>
+t r a m b l a ˈ m ɛ ŋ t </s>
+f ɛ r </s>
+ˈ t r y p a </s>
+v a ŋ ˈ ɡ e </s>
+t r a ˈ p j a ŋ t </s>
+ˈ r e z e </s>
+p r u ˈ m ø v e </s>
+p i ŋ </s>
+ˈ v a ŋ ɡ a </s>
+ˈ t r i f u l a </s>
+ˈ k l a s e </s>
+t r a n ˈ k w i l </s>
+ˈ v a ŋ d a l </s>
+y n i v ɛ r s i ˈ t a r i </s>
+i m ˈ p e r i </s>
+k u ŋ d i ˈ s j u ŋ </s>
+r y i ˈ n e </s>
+ˈ y v a </s>
+y ˈ m a ŋ </s>
+v i l ˈ t a </s>
+t r u ŋ </s>
+a ˈ v ɛ i ̯ </s>
+ˈ r y s i </s>
+p u j </s>
+t a m ˈ p e </s>
+v i s </s>
+t r a s ˈ p ɔ r t </s>
+f y ˈ t y r </s>
+p ə r ˈ z u ŋ </s>
+a ˈ p ɾ e s </s>
+ˈ y l t i m </s>
+ˈ t e s e </s>
+e ˈ r e d e </s>
+s a r ˈ d i ŋ a </s>
+p i ˈ t u r </s>
+l a ŋ ˈ s e </s>
+k i r u ˈ m a ŋ t </s>
+y ˈ z ɥ a l </s>
+k u m i ˈ t a </s>
+ɡ a l u ˈ p e </s>
+t r i ŋ ˈ k e </s>
+s a r a ˈ d y r a </s>
+k u ŋ f ɛ r ˈ m e </s>
+r e d ͡ ʒ i s t r a ˈ t u r </s>
+t r a s k y ˈ r e </s>
+t r a ŋ z i ˈ t o r i </s>
+t ͡ ʃ ɛ r t i f i ˈ k a </s>
+t r a k a ˈ s e </s>
+ˈ s t r a d ͡ ʒ e </s>
+ˈ s t r i a </s>
+ˈ m e t ɛ r </s>
+t r a ˈ p u ŋ t a </s>
+ˈ t r i ɡ u </s>
+r e l i ˈ d ͡ ʒ u s </s>
+ˈ v i v e </s>
+s t r i </s>
+m a k i ˈ n a r i </s>
+d e ŋ s i ˈ t a </s>
+ˈ l ɑ v ə r </s>
+v u j ˈ d e </s>
+l i m i ˈ t e </s>
+k a p a t ͡ ʃ i ˈ t a </s>
+l a ˈ p i ŋ </s>
+k a ˈ d r e . ɡ a </s>
+t ɛ m p e s ˈ t e </s>
+ˈ t r a t a </s>
+s t r u m ˈ p e </s>
+e v i ˈ t e </s>
+p r u v i ŋ ˈ t ͡ ʃ a l </s>
+ˈ m u r a </s>
+t r a s ˈ k r i v e </s>
+v j u ˈ l e </s>
+ˈ a ŋ k u r a </s>
+ˈ l a p i d a </s>
+v u ˈ l a </s>
+t r a s k r i ˈ s j u ŋ </s>
+m i k r u s ˈ k ɔ p i </s>
+p a l ˈ p e </s>
+v i ˈ z ɥ a l </s>
+t r a n k w i l i ˈ t a </s>
+y m a n i ˈ t a </s>
+p i n a k u ˈ t e k a </s>
+t r a s f y ˈ z j u ŋ </s>
+d e ŋ ˈ t i s t a </s>
+t r ɛ ˈ n e </s>
+v i ˈ t ͡ ʃ ɛ ŋ d a </s>
+r e ˈ p y b l i k a </s>
+ˈ ɑ i ̯ ɾ e </s>
+p ɾ i ˈ m j ɛ ɾ </s>
+f ɾ e j t </s>
+t u t a l i ˈ t a r i </s>
+k u ŋ ˈ t ͡ ʃ i l i </s>
+s a ˈ p e </s>
+s a ˈ l e </s>
+e m ʊ ˈ t i w </s>
+ˈ l i t r a </s>
+ˈ s a p a </s>
+f ɾ æ j t </s>
+n ø f </s>
+k u ŋ s y ˈ m e </s>
+l a ˈ s e </s>
+m e ˈ t a l </s>
+ˈ l ɑ v ɾ e </s>
+s t r y ˈ t y r a </s>
+a d u ˈ s i </s>
+t r a s f u r ˈ m e </s>
+a w ˈ t u r </s>
+ˈ t a r ɡ a </s>
+a w t u r i ˈ t a </s>
+t r a ˈ p e </s>
+d i d ͡ ʒ e s ˈ t i ɥ </s>
+a l ˈ v e </s>
+ˈ s ɔ l a </s>
+t r u ˈ n e </s>
+e t ɛ r n i ˈ t a </s>
+t i m ˈ b r e </s>
+ˈ v ɔ m i t </s>
+t r a d i s j u ˈ n a l </s>
+e w f e ˈ m i z m </s>
+v y l ˈ k a ŋ </s>
+i d e ˈ e </s>
+p r u ˈ v i ŋ t ͡ ʃ a </s>
+f ɾ ɛ j t </s>
+ˈ p ɔ . l ɪ </s>
+ˈ n ø ɪ t </s>
+ˈ z v ɛ ŋ d e </s>
+t r i b y ˈ n a l </s>
+v ɛ ŋ ˈ t y r a </s>
+y ˈ ɡ w a l </s>
+s t a t </s>
+d r e </s>
+m a n u s ˈ k r i t </s>
+v a ŋ t </s>
+d r a ˈ p ɔ </s>
+m i </s>
+v a l y ˈ t e </s>
+e ˈ z i s t e </s>
+e d y ˈ k e </s>
+k u m y ˈ n i z m </s>
+a d u ˈ r e </s>
+s t i ˈ l i s t a </s>
+m i ˈ n e </s>
+s p a </s>
+ˈ s y m j a </s>
+f a ˈ z a ŋ </s>
+t a ˈ p e </s>
+f y m </s>
+l i ˈ m u ŋ </s>
+v i r i l i ˈ t a </s>
+d e r i ˈ v e </s>
+t e ˈ j e r a </s>
+p a ˈ ɡ e </s>
+ɡ a ˈ b e </s>
+t r a m u ˈ l e </s>
+t r i ˈ a ŋ ɡ u l </s>
+a ˈ v ɛ i ̯ r </s>
+d u ˈ v y </s>
+k u ˈ l e ɡ a </s>
+k u ŋ v e r ˈ t i </s>
+ˈ m ø j </s>
+f a ˈ t ͡ ʃ e </s>
+v i ˈ d ͡ ʒ i l j a </s>
+d e ˈ p r i m e </s>
+v a t ͡ ʃ i ˈ l e </s>
+v a ˈ l i s </s>
+n u ˈ v a ŋ t a </s>
+t r a d i ˈ t u r </s>
+ˈ s j ɛ ŋ s a </s>
+v i ɡ u ˈ r u s </s>
+s a r a ˈ j e </s>
+s a l ˈ v e </s>
+r e p y l ˈ s j u ŋ </s>
+v i r ˈ t y </s>
+y n i ˈ f u r m a </s>
+t r i u n ˈ f e </s>
+t r a p a ˈ s e </s>
+k a ˈ t ɔ l i k </s>
+v u j t </s>
+t r a s f u r m a ˈ s j u ŋ </s>
+ø t </s>
+t ɛ ˈ r u r </s>
+ˈ n a ɥ </s>
+v u ˈ l a ŋ t </s>
+k u ŋ t r i b y ˈ i </s>
+m a d y ˈ r e </s>
+m u ˈ n a r k a </s>
+d i s t r i b y ˈ t u r </s>
+b ə ɾ ˈ d ͡ ʑ e </s>
+v ɛ r t </s>
+t r a p u ˈ l e </s>
+v j u ˈ l i ŋ </s>
+t r i a ŋ ɡ u ˈ l a r </s>
+t r u m ˈ p e </s>
+s ɛ t </s>
+s y ˈ f r i </s>
+m y r a ˈ d u r </s>
+d i m u s t r a ˈ s j u ŋ </s>
+t ɛ m ˈ p r e </s>
+t r a t u ˈ r i a </s>
+f r a ˈ s j u ŋ </s>
+m y ˈ z e u </s>
+m e r ˈ s i </s>
+k a r i ˈ t a </s>
+t a ˈ j e </s>
+s k y </s>
+ˈ n e u ŋ </s>
+ˈ p j ø v a </s>
+s a l m </s>
+l u ŋ ɡ </s>
+m a e s ˈ t u s </s>
+f u r m a l i ˈ t a </s>
+n y ˈ l e </s>
+ˈ l a ŋ s a </s>
+t r a ˈ m y d </s>
+m i ˈ r e </s>
+t ͡ ʃ i ˈ k l u ŋ </s>
+ˈ k i r i </s>
+k u ŋ f u r ˈ t e </s>
+m i ˈ m e </s>
+f e </s>
+b a ˈ l e </s>
+v i z i b i l i ˈ t a </s>
+s y ˈ d e </s>
+v i ŋ t </s>
+u ˈ t a ŋ t a </s>
+t a r ˈ d e </s>
+s t r u p </s>
+ɡ r y </s>
+ɡ r ɔ s </s>
+m u ŋ d </s>
+p y ˈ l i </s>
+t r ɛ </s>
+t r a s ɡ r e ˈ s j u ŋ </s>
+r e s p u ŋ s a b i l i ˈ t a </s>
+f a n f a ˈ r u ŋ </s>
+t r u ˈ f e </s>
+y b i ˈ d j ɛ ŋ t </s>
+s a b u ˈ t e </s>
+k y l t </s>
+m a ˈ d a m a </s>
+t r u ŋ k </s>
+t r a v a ˈ j e </s>
+a l f a ˈ b e t </s>
+b a l a ˈ r i ŋ </s>
+s t r a m b </s>
+d e p u r ˈ t e </s>
+t r a m y ˈ d e </s>
+s t y ˈ p i </s>

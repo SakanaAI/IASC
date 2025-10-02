@@ -1,0 +1,15 @@
+<INSTRUCTIONS>
+
+I'd like you to write me {{number_of_sentences}} example English sentences that illustrate
+various degrees of COMPARISON of adjectives. Examples:
+
+COMPARATIVE
+
+"Mary is taller than John."
+
+SUPERLATIVE
+
+"Chimpanzees are the closest to humans."
+
+{{general_guidelines}}
+</INSTRUCTIONS>

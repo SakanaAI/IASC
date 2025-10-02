@@ -1,0 +1,48 @@
+<INSTRUCTIONS>
+The first phase in creating any ConLang is to create a set of words for the
+language. Typically this involves defining the phoneme set, including some
+information about their relative frequency as well as their phoneme classes
+(consonant, vowel, tone) and phonetic features.
+
+Then one needs to define a set of morpheme templates, which define possible
+morpheme shapes. This could be as simple as "CVC" for a language that allows CVC
+syllables, to something more complex like "CCVC.CCVC" for languages that allow
+disyllabic morphemes with each syllable of the form "CCVC".
+
+We are going to create a language that has a phoneme set and morpheme shapes
+that are similar to those of {{language}}. In this first phase, I want you to
+design a set of phonemes similar to those of {{language}}, with similar relative
+frequencies for the phonemes to those of that language. All phonemes should be
+represented in the International Phonetic Alphabet (IPA).
+
+Then you will design a set of morpheme templates similar to the patterns found
+in {{language}}.
+
+Your design should be implemented as a standalone Python program that takes as a
+command-line argument the number of morpheme forms to generate. For example:
+
+python3 your_program.py --num_morphemes 100
+
+would randomly generate 100 morphemes. Within each morpheme, please place spaces
+between every phoneme, i.e.
+
+"o k a tʃ a"
+
+rather than
+
+"okatʃa"
+
+Your code should include two global dictionaries, one named "consonants" and the
+other named "vowels". These should contain the phonemes mapped to their relative
+frequencies. Thus for example, a partial consonant dictionary might include:
+
+consonants = {"m": 3, "n": 7 ...}
+
+Please make sure you include needed functions and imports in your code.
+
+Finally, place your resulting code in the block <OUTPUT></OUTPUT>.
+PLEASE DO NOT PUT ANYTHING EXCEPT THE PYTHON CODE WITHIN THIS BLOCK.
+
+This task will depend on your deep knowledge of linguistics, and Python
+programming.  Good luck!
+</INSTRUCTIONS>

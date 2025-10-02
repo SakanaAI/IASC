@@ -1,0 +1,84 @@
+<INSTRUCTIONS>
+The first phase in creating any ConLang is to create a set of words for the
+language. Typically this involves defining the phoneme set, including some
+information about their relative frequency as well as their phoneme classes
+(consonant, vowel, tone) and phonetic features.
+
+Then one needs to define a set of morpheme templates, which define possible
+morpheme shapes. This could be as simple as "CVC" for a language that allows CVC
+syllables, to something more complex like "CCVC.CCVC" for languages that allow
+disyllabic morphemes with each syllable of the form "CCVC".
+
+In the last phase you constructed a program to generate morphemes in a language
+that has phonotactics similar to {{language}}.  The code you wrote last time was
+as follows:
+
+# BEGIN PREVIOUS CODE
+{{previous_code}}
+# END PREVIOUS CODE
+
+When I run this program with 100 outputs, this is a sample I get:
+
+# BEGIN SAMPLE
+{{output_sample}}
+# END SAMPLE
+
+Please check this output and see if there are any words that look
+phonotactically odd. In particular are there words or syllables that begin with
+rather unlikely consonant sequences. For example, cross-linguistically, the
+following syllables have strange onsets since they begin with consonant
+sequences, or end with consonant sequences that are unlikely onsets or codas
+given the Sonority Hierarchy:
+
+p d ɛ d p
+m d ɔʏ t
+t n ɔ t
+
+Can you improve the program to not output syllables that look like this? Also,
+if you notice a bug in your code so that it seems only to be producing
+monosyllables, please fix that.
+
+There may also be phonemes that are particularly characteristic of the language
+that are missing from your previous code, or ones that should not be
+there. Please also check for that.
+
+As before, your code should be implemented as a standalone Python program that
+takes as a command-line argument the number of morpheme forms to generate. For
+example:
+
+python3 your_program.py --num_morphemes 100
+
+would randomly generate 100 morphemes.
+
+Within each morpheme, please place spaces between every phoneme, i.e.
+
+"o k a tʃ a"
+
+rather than
+
+"okatʃa"
+
+MAKE SURE THAT IF YOU ADD ANY TABLES OF CLUSTERS OF PHONEMES THAT THESE ALSO
+INCLUDE SPACES BETWEEN THE PHONEMES.
+
+Your code should include two global dictionaries, one named "consonants" and the
+other named "vowels". These should contain the phonemes mapped to their relative
+frequencies. Thus for example, a partial consonant dictionary might include:
+
+consonants = {"m": 3, "n": 7 ...}
+
+Please make sure you include needed functions and imports in your code.
+
+Finally, place your resulting code in the block <OUTPUT></OUTPUT>.
+PLEASE DO NOT PUT ANYTHING EXCEPT THE PYTHON CODE WITHIN THIS BLOCK.
+
+This is iteration {{which_iteration}} out of {{num_iterations}} iterations on
+this task. If you are getting close to the end and/or if you believe that your
+previous code is doing a reasonable job, please do NOT provide a new program,
+but instead respond as follows:
+
+<OUTPUT>NO CHANGES TO MAKE.</OUTPUT>
+
+This task will depend on your deep knowledge of linguistics, and Python
+programming.  Good luck!
+</INSTRUCTIONS>

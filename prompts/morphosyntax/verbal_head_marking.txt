@@ -1,0 +1,33 @@
+In section {section_number} we will consider the verbal (verb) category of
+head marking.
+
+Languages may mark information about nominal arguments of the verb on the verb
+itself. A language may have no head marking, or mark various nominal
+arguments. This can happen even when the language has no case marking on nouns.
+
+For a Nominative-Accusative language the head might be marked as follows:
+
+VNOM:  Nominative. E.g. "John leaves" -> "John leave-VNOM"
+VACC:  Accusative. E.g. "see the dog" -> "see-VACC dog"
+VDAT:  Dative. E.g. "give to the dog " -> "give-VDAT dog"
+
+Note the "V" prefix on the categories to distinguish them from nominal case marking.
+
+A language might mark just Nominative, Nominative and Accusative, or all three.
+
+Similarly for Ergative-Absolutive languages we would find:
+
+VERG:  Ergative. E.g. "John eats something" -> "John eat-VERG"
+VABS:  Absolutive. E.g. "see the dog" -> "see-VABS dog";  "John leaves" -> "John leave-VABS"
+
+(We omit dative since that behaves the same as above.)
+
+Please note the following important point: you should only head-mark a verb for
+an argument if the verb really has the argument in question. Thus
+
+"leave-PRES-VERG-VABS John-ABS"
+
+where "John" is the subject would be WRONG, because the verb "leave" does not
+have an Ergative argument in this case!!!
+
+Our language marks "{{head_marking}}".

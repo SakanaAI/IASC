@@ -1,0 +1,243 @@
+<INSTRUCTIONS>
+Finally we will write a grammar and reader for our ConLang.
+
+1. NAME
+
+The first thing you need to do is come up with a LANGUAGE_NAME for the ConLang.
+
+2. PHONOLOGY
+
+Then you describe the phonology.
+
+The set of phonemes (in IPA) that you developed for this language, is as follows:
+
+Consonants: {{consonants}}
+Vowels:     {{vowels}}
+
+3. ORTHOGRAPHY
+
+Next you will describe the orthography, which is handled by the following code:
+
+# Begin orthography code
+{{orthography_code}}
+# End orthography code
+
+4. LEXICON
+
+A subset of the lexicon with terms needed for the sample story is as follows:
+
+# Begin lexicon
+{{lexicon}}
+# End lexicon
+
+5. MORPHOSYNTAX
+
+The morphosyntactic description on which you based your morphosyntax was as
+follows. Below I remind you what the different annotations mean, and which
+particular annotations were chosen for our language:
+
+NOMINAL MARKING
+
+Number:
+SING: Singular	(one)
+PLUR: Plural    (more than one)
+DUAL: Dual      (exactly two)
+Our language has: "{{number_marking}}".
+
+Case:
+NOM-ACC or ERG-ABS
+GEN:	Genitive. E.g. "John's book" -> "John-GEN book"
+DAT:	Dative. E.g. "gave to John" -> "gave John-DAT"
+LOC:	Locative: E.g. "in Rome" -> "Rome-LOC"
+ABL:	Ablative: E.g. "by Rome"/"with Rome" -> "Rome-ABL"
+INS:	Instrumental: E.g. "with glue" -> "glue-INS"
+Our language has "{{case_marking}}" case marking.
+
+VERBAL MARKING
+
+Tense-Aspect:
+PRES:    Present tense. E.g. "goes" -> "go-PRES"
+PAST:    Past tense. E.g. "went" -> "go-PAST"
+FUT:	 Future tense. E.g. "will go" -> "go-FUT"
+REMPAST: Remote past. E.g. "went (a long time ago)" -> "go-REMPAST"
+IMPF: Imperfective.	       E.g. "went" -> "go-IMPF"
+PERF: Perfective.	       E.g. "has gone" -> "go-PERF"
+
+Our language marks "{{tense_aspect}}".
+
+Head marking and/or person agreement:
+VNOM:  Nominative. E.g. "John leaves" -> "John leave-VNOM"
+VACC:  Accusative. E.g. "see the dog" -> "see-VACC dog"
+VERG:  Ergative. E.g. "John eats something" -> "John eat-VERG"
+VABS:  Absolutive. E.g. "see the dog" -> "see-VABS dog";  "John leaves" -> "John leave-VABS"
+VDAT:  Dative. E.g. "give to the dog " -> "give-VDAT dog"
+
+Or a more detailed person-agreement system such as:
+
+1SGNOM:	   1st person singular nominative: E.g. "I leave" -> "I leave-1SGNOM"
+2SGNOM:	   2nd person singular nominative: E.g. "thou leavest" -> "thou leave-2SGNOM"
+3SGNOM:	   3rd person singular nominative: E.g. "John leaves" -> "John leave-3SGNOM"
+1SGACC:	   1st person singular accusative: E.g. "leave me" -> "leave-1SGACC me"
+1SGDAT:	   1st person singular dative:     E.g. "give to me" -> "give-1SGDAT me"
+
+or
+
+1SGERG:	   1st person singular ergative: E.g. "I see" -> "I see-1SGERG"
+1SGABS:	   1st person singular ergative: E.g. "I run" -> "I run-1SGABS"; "see me" -> "see-1SGABS me"
+
+Our language marks "{{head_marking}}".
+
+In addition to the above, you may have invented some further morphosyntactic
+markers, which you can discover in the lexicon in all upper-case entries.
+
+INCLUSIVE-EXCLUSIVE DISTINCTION
+
+The inclusive-exclusive distinction applies in particular to the First Person
+Plural pronoun "we", and anything that agrees with it (such as a verb).
+
+In English "we" is ambiguous as to whether or not it includes the listener. On
+the other hand, many languages distinguish between
+
+1PLINCL	  Inclusive First Person Plural	   "we" including the listener
+1PLEXCL	  Exclusive First Person Plural	   "we" excluding the listener
+
+Thus if we translate:
+
+"we like you"
+
+into a language with the INCLUSIVE_EXCLUSIVE distinction, we would translate
+"we" here as "1PLEXCL", since it is clear from the meaning that in this case
+"we" does not include the listener. On the other hand
+
+"we all agree"
+
+spoken to a group of people, would have "we" translated as "1PLINCL".
+
+Our language has: "{{inclusive_exclusive}}".
+
+GENDER
+
+Many languages have grammatical gender, as distinct from the natural gender
+exhibited in English. Well-known examples include Masculine-Feminine gender
+systems of Romance languages; the Masculine-Feminine-Neuter system of German or
+Russian; or the Common-Neuter system in Dutch or in some Scandinavian
+languages. Many languages of Africa have non-sex-based gender systems. Since
+sex-based systems are the majority (75% of the sample of gendered languages in
+the World Atlas of Language Structures), we will assume a gender-based
+system. Options are:
+
+MASC:	Masculine:	E.g. John-MASC, pumpkin-MASC
+FEM:	Feminine:	E.g. Sally-FEM, sea-FEM
+NEUT:	Neuter:		E.g. snake-NEUT
+COMM:	Common gender:	E.g. John-COMM, Sally-COMM
+
+The following gendered systems are possible:
+
+1. MASC, FEM
+2. MASC, FEM, NEUT
+3. COMMON, NEUT
+
+For personal names, gender appropriate affixes were chosen. For common nouns,
+since English does not have gender, you made a decision as to what gender to
+assign to the noun, with the injunction: be creative, but be consistent!
+
+Our language marks "{{gender_marking}}".
+
+NUMERAL CLASSIFIERS
+
+Many languages have classifiers that go with numbers, and mark the type of noun
+associated with the number.
+
+There are a variety of classifier systems, with some languages like Japanese, or
+Chinese, having dozens of classifiers. Classifiers are usually semantically
+based, depending on visual or taxonomic features of the noun's meaning.
+
+A typical classifier system might include:
+
+CLFLAT:	  Used with flat objects like paper:		  three CLFLAT paper   "3 pieces of paper"
+CLROUND:  Used with round objects like coins:		  twenty CLROUND coin  "20 coins"
+CLLONG:	  Used with long objects like string, or rivers:  one CLLONG string "1 piece of string"
+CLANIMAL: Used with animals:				  two CLANIMAL cow  "2 cows"
+
+Since the set of possible classifiers is rather open ended, I am simply going to
+tell you if our language (a) HAS_CLASSIFIERS or (b) NONE (= no classifiers).
+You based your classifier system on what you know about classifiers in languages
+that you have read about. The classifier should be introduced between the noun
+and the number in your translation.
+
+For our language: "{{numeral_classifier}}".
+
+6. SYNTAX/WORD ORDER
+
+Main:
+VSO: "drink John water"
+SVO: "John drink water"
+SOV: "John water drink"
+VOS: "drink water John"
+OVS: "water drink John"
+OSV: "water John drink"
+
+Adjective-Noun:
+NA: "book red"
+AN: "red book"
+
+Adposition-Noun:
+PN: "on table"
+NP: "table on"
+
+Our language has
+
+"{{main_word_order}}" main word order.
+"{{adj_noun_word_order}}" adjective-noun word order.
+"{{adposition_noun_word_order}}" adposition-noun word order.
+
+7. TEXTS
+
+An example text is as follows, where after "==" the first line is the
+morphosyntactic gloss, the second is the phonetic transcription and the final is
+the orthographic transcription:
+
+# BEGIN EXAMPLE TEXT
+{{sample_text}}
+# END EXAMPLE TEXT
+
+==========================
+
+Arrange your handbook according to the format specified between the BEGIN and
+END lines below. Try to make your handbook between 500 and 1000 words long:
+
+<!-- TODO(rws): Have this output HTML? Or LaTeX? -->
+# BEGIN HANDBOOK TEMPLATE
+TITLE: A Grammar and Handbook of LANGUAGE_NAME
+
+PHONOLOGY
+
+# Details of the phonology, with some commentary.
+
+ORTHOGRAPHY
+
+# Details of the orthography, with some commentary.
+
+MORPHOSYNTAX
+
+# Details of the morphosyntax, with some commentary.
+
+SYNTAX
+
+# Details of the syntax/word order, with some commentary.
+
+EXAMPLE TEXT
+
+# GIVE SEVERAL EXAMPLES FROM THE PROVIDED TEXT. Give the orthographic version of
+# the text, and please also include the gloss and an English translation.
+
+LEXICON
+
+# Lexicon
+# END HANDBOOK TEMPLATE
+
+Place your resulting text in the block <OUTPUT></OUTPUT>.
+
+This task will depend on your deep knowledge of linguistics, and Python
+programming.  Good luck!
+</INSTRUCTIONS>

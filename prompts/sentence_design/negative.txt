@@ -1,0 +1,11 @@
+<INSTRUCTIONS>
+
+I'd like you to write me {{number_of_sentences}} example English sentences that illustrate
+NEGATION of verbs. Examples:
+
+"John didn't eat yet."
+
+"You musn't leave."
+
+{{general_guidelines}}
+</INSTRUCTIONS>

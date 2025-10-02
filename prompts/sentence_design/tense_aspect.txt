@@ -1,0 +1,34 @@
+<INSTRUCTIONS>
+
+I'd like you to write me {{number_of_sentences}} example English sentences that illustrate
+TENSE and ASPECT in verbs. Of particular interest are PRESENT, PAST, FUTURE,
+PERFECT, REMOTE PAST.
+
+For example:
+
+PRESENT:
+
+I am leaving now.
+
+PAST:
+
+John went there yesterday.
+
+FUTURE:
+
+The club will meet tomorrow.
+
+PERFECT:
+
+Nancy has finished her work.
+
+PAST PERFECT:
+
+By Friday morning, all the mail had arrived.
+
+REMOTE PAST:
+
+I did that a long time ago.
+
+{{general_guidelines}}
+</INSTRUCTIONS>

@@ -1,0 +1,45 @@
+<INSTRUCTIONS>
+We are going to develop a 'translator' for our ConLang, which will 'translate' from English sentences into an abstract language that has English content words, but may mark them with additional morphosyntactic information, and where the English phrases may be reordered.
+
+Morphosyntactic markers may show up as affixes or separate words. For affixes, our convention for marking suffixes is to place a dash before the affix, and for prefixes to place a dash after the affix:
+
+"-XXX" is a suffix: when one attaches "-XXX" to "word", one gets "word-XXX"
+"XXX-" is a prefix: when one attaches "XXX-" to "word", one gets "XXX-word"
+
+In this stage, we will consider the relativization in the language. Relativization refers to the process by which a clause is embedded within a noun phrase to modify a noun, creating what is known as a relative clause.
+
+Consider example English sentences below:
+
+I read a book. The book was fascinating.
+
+In English, "book" can be relativized as: The book that I read was fascinating. In this example, "that" is the relativizer, and "that I read" is the relative clause.
+
+There are four variables to consider in the typology of relativization: (1) head-initial or head-final, (2) head-marking or dependent-marking, (3) marking position (prepositional or postpositional), and (4) morpheme (word or affix).
+Here are some examples:
+
+In a language that introduces a relative clause in (1) head-initial order with a (2) head-marking (3) postpositional (4) word, we would have: "book REL I read was fascinating".
+In a language that introduces a relative clause in (1) head-final order with a (2) dependent-marking (3) postpositional (4) affix, we would have: "I read-REL book was fascinating."
+
+Note that adjectival modification on a noun is not relativization. Therefore, in the first example language above, "fascinating book" would just be "fascinating book", and not "book REL fascinating".
+
+Our language marks negation by (1) "{{relativization_order}}" with a (2) "{{relativization_marking}}" (3) "{{relativizer_position}}" (4) "{{relativizer_morpheme}}".
+
+Your task is to 'translate' the text under SAMPLE TEXT below. This text is itself a translation of an original text that you did on the previous round. This original text is given under ORIGINAL TEXT for your reference, but you should use the SAMPLE TEXT as the starting point.
+
+Do not change any affixes that have been added on a previous phase.
+
+Place a period at the end of each sentence, as in the original text. Don't forget to translate the title, if there is one. Downcase all content words, except proper names, which are to be left capitalized. Thus "Man" would become "man", "We" would become "we", but "John" would remain "John".
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE SAMPLE TEXT. THAT IS IF THE SAMPLE TEXT HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES, AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+# ORIGINAL TEXT BEGINS
+{{original_text}}
+# ORIGINAL TEXT ENDS
+
+# SAMPLE TEXT BEGINS
+{{previous_translation}}
+# SAMPLE TEXT ENDS
+
+Please put your response within <OUTPUT></OUTPUT> tags.
+
+</INSTRUCTIONS>

@@ -1,0 +1,15 @@
+In section {section_number} we will consider the nominal (noun) category of
+number marking.
+
+A language may have no number marking, or it may distinguish:
+
+SING: Singular	(one)
+PLUR: Plural    (more than one)
+DUAL: Dual      (exactly two)
+
+So in a language with "SING PLUR" marking, one would mark "cat" as "cat-SING"
+and "cats" as "cat-PLUR".  If the language has "SING PLUR DUAL" marking, then
+"two cats" is "cat-DUAL" and "cat-PLUR" means "three or more cats". If the
+language has "NONE", then leave the noun unmarked.
+
+Our language has: "{{number_marking}}".

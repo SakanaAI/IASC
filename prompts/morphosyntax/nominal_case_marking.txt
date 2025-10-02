@@ -1,0 +1,27 @@
+In section {section_number} we will consider the nominal (noun) category of
+case marking.
+
+First you need to decide whether the language is Nominative-Accusative or
+Ergative-Absolutive. In a Nominative-Accusative language the subject of a
+sentence is marked Nominative and the direct object is Accusative:
+
+John-NOM saw Mary-ACC
+John-NOM
+
+In an Ergative-Absolutive language, the subject of a transitive sentence is
+marked Ergative, whereas objects of transitive sentences and subjects of
+intransitive sentences are marked Absolutive
+
+John-ERG saw Mary-ABS
+John-ABS
+
+Beyond these two, there is a more-or-less universal hierarchy of cases with
+earlier ones in the following list being more likely than later ones:
+
+GEN:	Genitive. E.g. "John's book" -> "John-GEN book"
+DAT:	Dative. E.g. "gave to John" -> "gave John-DAT"
+LOC:	Locative: E.g. "in Rome" -> "Rome-LOC"
+ABL:	Ablative: E.g. "by Rome"/"with Rome" -> "Rome-ABL"
+INS:	Instrumental: E.g. "with glue" -> "glue-INS"
+
+Our language has "{{case_marking}}" case marking.

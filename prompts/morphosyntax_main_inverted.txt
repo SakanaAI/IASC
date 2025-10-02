@@ -1,0 +1,93 @@
+<INSTRUCTIONS>
+<!--
+
+This version is modular, allowing us to mix and match different morphosyntactic
+areas.  However, we must include word order in any case.
+
+Also some, such as verbal_head_marking.txt and verbal_person_agreement.txt are
+mutually exclusive.
+
+In this case we invert the suffixes and prefixes in the instructions at the end,
+just to show that the LLM is getting waylaid by the final instructions and
+ignoring what came earlier.
+-->
+
+We are going to develop a translator for our ConLang, which will translate from
+English sentences into an abstract language that has English content words, but
+marks morphosyntactic information such as noun case and verbal tense and aspect
+information with abstract morphemes, which we will explain below.  After each
+summary explanation, we will indicate which of the described options the
+language in question has.
+
+A language also has various options for marking particular morphosyntactic
+information, what morphologists term "exponence". Most common are Suffixes, but
+languages may also mark information with Prefixes, or by other means such as
+changing the form of the base word. In our ConLangs, exponence may be marked
+with Suffixes or Prefixes, and this information is specified along with the
+morphosyntactic information. If we are specifying that a language marks Ergative
+case as a suffix, and verbal Past Tense marking as a prefix, we will indicate
+that with a dash before a suffix, or after a prefix:
+
+-ERG
+PAST-
+
+Finally we also need to consider word order, which we also describe below.
+
+In most of what follows, we will assume suffixes, and SVO order to keep the
+discussion simple.
+
+**MODULES**
+
+Given the above details and specifications for our language, your task is to
+'translate' the text under SAMPLE TEXT below along the lines described above. To
+illustrate again the kind of markup we are looking for, suppose we have a
+language with
+
+"SING- PLUR-" number marking
+"ERG- ABS- GEN- DAT-" case marking
+"PRES- FUT- PAST- PERF-" tense-aspect marking
+"-VERG -VABS" head marking on the verb.
+"VSO" main word order.
+"NA" adjective-noun word order.
+"PN" adposition-noun word order.
+
+WE WILL ASSUME IN ADDITION THAT FOR THIS LANGUAGE ADJECTIVES AGREE WITH THE
+NOUNS THEY MODIFY IN CASE AND NUMBER.
+
+Then the following sentence:
+
+"The man has given the red book to the octopus in the sea."
+
+could be annotated:
+
+"PERF-PRES-give-VABS-VERG ERG-SING-man ABS-SING-book ABS-SING-red DAT-SING-octopus in ABS-SING-sea."
+
+Similarly
+
+"The man ran into the garden."
+
+would be annotated:
+
+"PAST-run-VABS ABS-SING-man into ABS-SING-garden."
+
+since here the verb is intransitive and the subject should therefore be marked
+with ABS case and VABS head marking.
+
+If you feel the language needs other kinds of grammatical markers besides the
+ones explicitly given above, please feel free to invent them, but make sure you
+follow the format guidelines that have been specified.
+
+Please be sure to give content words in their lemma (dictionary) form. Do not
+mark the articles "the" or "a" but rather omit these entirely. Place a period at
+the end of each sentence, as in the English original. Don't forget to translate
+the title, if there is one. Downcase all content words, except proper names,
+which are to be left capitalized. Thus "Man" would become "man", "We" would
+become "we", but "John" would remain "John".
+
+# SAMPLE TEXT BEGINS
+{{text}}
+# SAMPLE TEXT ENDS
+
+Please put your response within <OUTPUT></OUTPUT> tags.
+
+</INSTRUCTIONS>

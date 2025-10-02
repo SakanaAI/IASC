@@ -1,0 +1,953 @@
+d a . m ə . n ə . w a ː </s>
+j a ː p ə n ə j ə ‿ r a ː d ͡ ʒ ə d a ː n i j ə </s>
+k o ʋ u l a ː </s>
+ɡ u . ɭ i . j ə </s>
+r i . j ə . ᵑ ɡ ə </s>
+d a . t ə </s>
+a ʋ ə r i j ə </s>
+k e . ɭ i . n ə . w a ː </s>
+s r i ː </s>
+k a ɖ i n ə m ə </s>
+p o k u r ə </s>
+n æ ɡ e n a h i r a </s>
+a r ə h e ː </s>
+a l ː ə n ə w a ː </s>
+m i . ʈ i . j ə </s>
+m a t . t a </s>
+p a t u n </s>
+k o . ɭ ə . ᵐ b ə </s>
+e k . s a t ‿ r a ː . d ͡ ʒ a . d a ː . n i . j a </s>
+k u l ə p ː u w ə </s>
+m u d u n ə </s>
+p a ʈ ə </s>
+ɭ ə j ə </s>
+m u ː ʈ ː u w ə </s>
+a ᵐ b ə </s>
+m æ ɳ i k ə </s>
+k ə r ə ʋ ə ɭ ə </s>
+h a . p a . n a . ʋ a ː </s>
+u r ə n ə w a ː </s>
+t a ː t ̚ . t ͡ ʃ i . j ə </s>
+d ̪ e m ə l ə </s>
+d i ɭ i ⁿ d ə </s>
+p a ː ʋ e n ̪ ə ʋ a ː </s>
+ɡ a </s>
+æ . d u . r u </s>
+o l u ʋ ə </s>
+æ ʋ i d ̪ i n ̪ ə ʋ a ː </s>
+t e t </s>
+r a </s>
+d a ɳ ɖ ə j ə </s>
+p i ː . n ə . n ə . ʋ a ː </s>
+ɡ a n . n a . w a ː </s>
+p a n d ə m ə </s>
+k a ɖ i j a ː ɭ ə m ə </s>
+h a ⁿ d ə </s>
+b a n ə </s>
+p o r o t ː u w ə </s>
+i l ə k ː ə j ə </s>
+ˈ p r a ː n t ə j ə </s>
+m u d ə l a ː l i </s>
+s i s </s>
+ʋ i ː </s>
+s a b ə r ə ɡ ə m u ʋ ə ‿ p a ɭ a ː t ə </s>
+t ̪ u ʋ ə k ə . k u ʋ ə </s>
+p i ʈ ː u </s>
+k a ː s i j ə </s>
+k ə k u l ə </s>
+n o ː m ̃ d ͡ ʒ ə l </s>
+m a h a n u ʋ ə r ə r a ː d ͡ ʒ ə d a ː n i j ə </s>
+o p ː u w ə </s>
+k ə ʈ u ʋ ə </s>
+h i . ʈ i . n ə . w a ː </s>
+r i . d e . n a . ʋ a ː </s>
+d æ ɖ i </s>
+d a . ɖ a . j a </s>
+u r u ʋ ə </s>
+ə t ͡ ʃ ː u ʋ ə </s>
+k æ . ⁿ d a . n a . ʋ a ː </s>
+k a . ᵐ b u . r a ː </s>
+l a ᵐ b ə </s>
+p ə n ə </s>
+k a . n i . n a . ʋ a ː </s>
+i </s>
+k o l ː ə j ə </s>
+u t s ə ʋ ə j ə </s>
+h i . ʈ i . n a . ʋ a ː </s>
+j a . m ə </s>
+j e . ɭ ə </s>
+m i . d u . l ə </s>
+k a s ə ɭ ə </s>
+ɡ a . ɭ a . p a . n a . ʋ a ː </s>
+n ̪ i d ̪ ə n ̪ ə ʋ a ː </s>
+s a t a ː </s>
+b a ː . n ə . w a ː </s>
+u d ə w ː ə </s>
+p a k ə j a ː </s>
+æ m e r i k a ː ʋ ə </s>
+k o m b u w ə </s>
+o k ː o m ə </s>
+r u . p i . j ə . l ə </s>
+m a . ɖ i l . l ə </s>
+p o r ə j ə </s>
+k a . r a </s>
+a ⁿ ̪ d ̪ u r ə </s>
+k e ʈ i </s>
+o </s>
+d i . ɡ ə </s>
+ɡ i . t e l </s>
+m a h a p . p ɑ ː </s>
+n æ h æ </s>
+ɡ ə . h ə . n ə . w a ː </s>
+k a ː n d ə m ə </s>
+p o ː t ͡ ʃ . t ͡ ʃ i . j a </s>
+p e . ⁿ d ə </s>
+u p u ʈ ə n ə w a ː </s>
+n e . r a . n a . v a ː </s>
+ɡ æ ː n i ː </s>
+a ː </s>
+ʋ a j ə ᵐ b ə ‿ p a ɭ a ː t ə </s>
+i ː j e ː </s>
+k u . l i </s>
+h a ː . n ə . w a ː </s>
+s u ɭ ə ᵑ ɡ ə </s>
+s n e ː h ə j ə </s>
+m a . r ə </s>
+e . k ə . t u </s>
+s a . w u . d ̪ i a . r a ː . b i . j a ː . w a </s>
+æ ɳ ə j ə </s>
+o t ː ə </s>
+ʋ a j d j ə </s>
+s a k ə </s>
+p a s ː ə </s>
+u t u r u ‿ p a ɭ a ː t ə </s>
+d e . n ə . w a ː </s>
+k ə ɳ ə </s>
+k a ː p ː u w ə </s>
+a ː d ̪ a ː j ə m ə </s>
+p a ɭ o l </s>
+r æ h æ </s>
+r i . j ə n </s>
+u ː ɾ a ː </s>
+u . ɡ a n . n a . ʋ a ː </s>
+ˈ b a p ə </s>
+s a j ʋ ə </s>
+ɡ o . t a . n a . ʋ a ː </s>
+ɡ u m u ʋ ə </s>
+s e j ə </s>
+d o . ɭ a </s>
+k a l ə l ə </s>
+t a n ə </s>
+m u . ɡ u . r ə </s>
+m e ː </s>
+u . p u . r a . n a . ʋ a ː </s>
+p r e ː . t ə </s>
+k i ᵐ b u l a ː </s>
+k e ɳ ɖ ə j ə </s>
+t o p i </s>
+a u </s>
+m i s r ə </s>
+n a . ɡ a . n a . ʋ a ː </s>
+t o m o ː </s>
+n æ ɡ e n ə h i r ə ‿ p ə ɭ a ː t ə </s>
+u t u r u ‿ m æ d a ‿ p a ɭ a ː t a </s>
+ʋ a l i ɡ ə j ə </s>
+a s ə l ə </s>
+m u h u d u </s>
+t a m b i j a ː </s>
+k o t ː ə m ə l ː i </s>
+k a ː l ə j ə </s>
+a p . p a </s>
+h a ː . n a . ʋ a ː </s>
+p a ᶯ ɖ u </s>
+h i t ə n ə w a ː </s>
+h i n a ː ʋ e n ə w a ː </s>
+m i ː ɡ ə m u ʋ ə </s>
+d ͡ ʒ a m b u d ̪ ʋ i ː p ə j ə </s>
+ʋ i ː s i k ə r ə n ̪ ə ʋ a ː </s>
+s ə m r ̩ d ̪ ː ə </s>
+r æ ː </s>
+m o ʈ ə </s>
+ʋ e ɭ u w ə </s>
+ʈ i k ə k </s>
+ˈ h i v ə ˈ l a ː </s>
+d u . ʋ ə . n ə . ʋ a ː </s>
+k i ʈ ː u w e n ə w a ː </s>
+s e m b u w ə </s>
+b a . b ə . l ə . n ə . w a ː </s>
+p e m ə </s>
+k ə . ɖ ə . n ə . ʋ a ː </s>
+u . d a </s>
+k a </s>
+u . p u . r ə . n ə . w a ː </s>
+a ɖ ə ŋ ɡ u </s>
+ɡ r a n . t ə </s>
+ʈ a . k ə . n ə . w a ː </s>
+p a ɭ i j ə </s>
+s i h i n </s>
+t a n i </s>
+a ː t ː a ː </s>
+l i </s>
+b ə . ⁿ d i . n ə . w a ː </s>
+b i ː d ͡ ʒ ə </s>
+ɸ </s>
+l i j ə n ̪ ə ʋ a ː </s>
+s i ŋ . h a . l a </s>
+s a l ː i j ə </s>
+d u . n u </s>
+ʋ a ⁿ d ə </s>
+p e . r a </s>
+b ə d ə </s>
+b a . l a </s>
+a u s ə d ə j ə </s>
+ə k ː a ː </s>
+t ̪ ə n ̪ ə j ə </s>
+r æ s ə </s>
+m u d ə l i </s>
+e k . ʋ e . n ə . w a ː </s>
+d ͡ ʒ e p p a ː </s>
+m a </s>
+k a . ʈ u . p i . l a </s>
+m a . ɖ a . k a . l a . p u . ʋ a </s>
+æ h e n ə w a ː </s>
+u . p a n </s>
+k o ɭ ə j ə </s>
+k a ː ʋ ə l ə </s>
+b ɑ ː p . p ɑ ː </s>
+m a . h a . n u . ʋ a . r a </s>
+n d ͡ ʒ a </s>
+u t u r u ‿ p a ɭ a ː t a </s>
+k a ː r ə j a ː </s>
+ɡ </s>
+a w u r u d ː ə </s>
+n e j i j a ː ɖ ə m ə </s>
+h a . p ə . n ə . w a ː </s>
+o m u s e ː </s>
+t r ̩ s ɳ a ː w ə </s>
+m ə h ə n ̪ ə ʋ a ː </s>
+ˈ b r a ː h m ə n ə ˈ j a ː </s>
+s e r e p ə . p u ʋ ə </s>
+k æ r ə p o t ː a ː </s>
+ʋ æ l ː ə </s>
+a t u l ː ə n ə w a ː </s>
+m a ː m a ː </s>
+s o t ː i </s>
+k e l i n </s>
+ɡ a . n i . n a . ʋ a ː </s>
+p r e ː m ə j ə </s>
+ɡ a . ɖ u . ʋ a </s>
+b o h o m ə </s>
+i ⁿ d ə ɡ ə n ː ə w a ː </s>
+d a . ᶯ ɖ u </s>
+p a ː l ə m ə </s>
+k a s ə j a ː </s>
+t ̪ u ɭ ə </s>
+p o ɖ i </s>
+l ə . b ə . n ə . w a ː </s>
+k ə ʈ ə </s>
+u . d ə </s>
+t i j u n u </s>
+p e ː </s>
+n ə s i n ə w a ː </s>
+v a n . s a </s>
+d ̪ a ᵐ b ə d ̪ i ʋ ə </s>
+n a m </s>
+i ⁿ d u </s>
+l ə n ̪ ə ʋ a ː </s>
+ʋ ə ʈ ə </s>
+s a . d a . n a . ʋ a ː </s>
+ɡ æ ɭ ə </s>
+b r a . s i ː . l a . j a </s>
+d a . t a </s>
+ˈ b a ː ɾ ə t ̪ ə j ə </s>
+m a d j a m a </s>
+k o ʈ i j a ː </s>
+a p ː ə t ͡ ʃ ː i </s>
+t ̪ a ː t ̪ ə . t ̪ a ː </s>
+b a m ̃ . ɡ a . l a ː . d ̪ e ː . ʃ a . j a </s>
+ʋ i s ɳ u </s>
+k o l ː ə k ə n ə w a ː </s>
+p ä . n a ː . w ä </s>
+e . k a ː . n u ː . w ə </s>
+k u . ɭ u </s>
+m a . h a . n u . ʋ ə . r ə </s>
+k u l i j ə </s>
+b e . r a . j a </s>
+u . ⁿ d u . n a </s>
+p a . n a ː . ʋ a </s>
+a . ʋ u . r u d . d a </s>
+a ɡ ə j ə </s>
+p a l . l ə </s>
+k i . j ə . t ə </s>
+ʋ e d a ː </s>
+ʋ i j ə l i </s>
+d a k u n u ‿ p a ɭ a ː t ə </s>
+d o . ɭ ə </s>
+ɡ u ɭ u </s>
+m u ː ɖ i j ə </s>
+ɡ a . n i . n ə . w a ː </s>
+a n ɖ ə j ə </s>
+h u j ə </s>
+d ͡ ʒ a </s>
+ʋ e h e r ə </s>
+k o ɳ ɖ ə j ə </s>
+m e k . s i . k o ː . w a </s>
+t a r u w ə </s>
+s i ŋ . h ə . l ə </s>
+k e l ə ‿ ɡ a s ə n ə w a ː </s>
+p u ː s a ː </s>
+s a ʋ ə j ə </s>
+t r i . k u . n a ː . m a . l a . j a </s>
+k a ɳ ː a ː ɖ i j ə </s>
+p æ ɭ e n ə w a ː </s>
+k æ r i j a ː </s>
+ɡ æ b i ɳ i j ə </s>
+p u ː ʈ ː u k ə r ə n ə w a ː </s>
+e </s>
+i ᵑ ɡ u r u </s>
+k a ː d j ə </s>
+k a r u ɳ ə </s>
+k a ɳ i s ə m ə </s>
+s o h o j u r a ː </s>
+k o h o m ə </s>
+d a ː </s>
+a l i j a ː </s>
+p i . ʈ a </s>
+a r ə </s>
+e k ə . s ə t ̪ ə . </s>
+k a ɖ ə j ə </s>
+t a . n a </s>
+v i . d u . l i . j a </s>
+n u ᵐ b ə </s>
+a r t ̪ a ː p a l </s>
+a ː s i j a ː ʋ ə </s>
+k u n ɖ ə l i j ə </s>
+j a ː . p ə . n ə . j ə </s>
+b a l ə n ə w a ː </s>
+k u r u n æ ː ɡ a l ə </s>
+p a . ʋ u . r a </s>
+h o . ʋ i . n ə . w a ː </s>
+a h ə s ə </s>
+ˈ b u ː m i j ə </s>
+ɡ r a n . t a </s>
+k o . ʈ ə . n ə . ʋ a ː </s>
+ᵐ b a </s>
+k o ː ʋ i l ə </s>
+r a ː . d ͡ ʒ ə . d a ː . n i . j ə </s>
+b o ː k . k u . ʋ a </s>
+ⁿ d a </s>
+k a w ə d a ː </s>
+m ə l ə j ə </s>
+r u . p i . j a . l a </s>
+u ː </s>
+ɡ i . ɡ u . r u . m a </s>
+p ə ŋ s u </s>
+s v a ː . s a </s>
+s a j u r ə </s>
+p e r u ŋ k a ː j ə m </s>
+k a l u s u d ̪ d ̪ a ː </s>
+ʋ e r i </s>
+ɡ a . s ə </s>
+m a . h a . t a </s>
+k i ʈ ː u </s>
+s a h i n ə w a ː </s>
+ɡ u ː . t ̪ a </s>
+n a ː ɖ ə ɡ ə m ə </s>
+d ̪ a </s>
+k r i s ɳ a </s>
+d a . ʋ a . n a . ʋ a ː </s>
+a t ː i k ː a ː </s>
+a ː d ̪ ə r ə j ə </s>
+n u ᵐ b ə l a ː </s>
+p o n n ə j a ː </s>
+m u n u b u r a ː </s>
+a . k u . r a </s>
+p æ . n i </s>
+t ̪ u r . k i . j a </s>
+ɡ e r i j a ː </s>
+p a ː . k i s . t ̪ a ː . n ̪ ə . j ə </s>
+i ɖ ə m ə </s>
+p a r ə n ə </s>
+p i h a ː ʈ u w ə </s>
+d ə . ʋ ə . n ə . w a ː </s>
+b e . k a </s>
+m a . ɖ i l . l a </s>
+d i . ɡ a </s>
+s e ŋ k ə m a ː ɭ ə j ə </s>
+k e . ɭ i . n a . ʋ a ː </s>
+p i . ʈ ə </s>
+d ̪ ə ᵑ ɡ ə j ə </s>
+u . k u . n u </s>
+ɡ ə l ə n ̪ ə ʋ a ː </s>
+æ m e r i k a ː e k ə . s ə t ̪ ə . d ͡ ʒ ə n ̪ ə p ə d ̪ ə j ə </s>
+b e . r ə . j ə </s>
+ɡ u . ɭ i . j a </s>
+m a d j a m a ‿ p a ɭ a ː t a </s>
+k i . j a . t a </s>
+æ . ⁿ d ə </s>
+m a ː ɭ u w a ː </s>
+m a . ᶯ ɖ i . n ə . w a ː </s>
+s u ɭ i j ə </s>
+j o ː ɡ j ə </s>
+h æ m ə </s>
+t o ː </s>
+d a s ʈ ə k ə r ə n a ː </s>
+r u ʋ ə l ə . </s>
+ɡ e . n e . n a . ʋ a ː </s>
+r æ . l i </s>
+ʋ a r . ɡ a </s>
+t ͡ ʃ i ː n ̪ ə j ə </s>
+s ə . w u . d ̪ i ə . r a ː . b i . j a ː . w ə </s>
+u . t u . r a . n a . ʋ a ː </s>
+ɡ u ː </s>
+ʋ a . ɾ e . n j a </s>
+k i . r a . n a . ʋ a ː </s>
+s i t ə </s>
+p u . r u . d u </s>
+k a k u ɭ u w a ː </s>
+r a . ɭ u </s>
+b i r i ⁿ d ə </s>
+ʈ a </s>
+ʋ æ h æ p </s>
+d i . r i </s>
+t a ʈ ː ə </s>
+t r i . k u . n a ː . m ə . l ə . j ə </s>
+u . p ə n </s>
+t a ɭ ə n ə w a ː </s>
+o u </s>
+b a ː . n a . ʋ a ː </s>
+u . n u </s>
+h e . ɭ a . n a . ʋ a ː </s>
+m i n i h a ː </s>
+k u ː ɖ u w ə </s>
+d i k ː a ː r ə </s>
+a . t ə </s>
+a m b ə l ə m ə </s>
+h u ɳ ɖ u ʋ ə </s>
+b u d . d i </s>
+k i . r ə . n ə . w a ː </s>
+m i . ʈ i . j a </s>
+ʋ ə . r ə </s>
+ˈ s i ŋ h ə ˈ j a ː </s>
+ˈ m i ː ʈ a r </s>
+e k . s a t ‿ r a ː . d ͡ ʒ ə . d a ː . n i . j ə </s>
+s ə . ʋ a ː m i j a ː </s>
+m i n i t ̪ t ̪ u ʋ ə </s>
+ɡ a . s a </s>
+s i ː n i </s>
+ɡ a u r ə ʋ ə j ə </s>
+ʋ æ ɖ ə </s>
+d ̪ e m ə l a ː </s>
+u ː ʋ a ‿ p a ɭ a ː t a </s>
+b a ᵐ b ə </s>
+s a . l a . n a . ʋ a ː </s>
+s ə n ɖ u w ə </s>
+j a . m a </s>
+r i </s>
+k u . ᵐ b u . ɾ u . ʋ e l </s>
+h e . ɭ ə . n ə . w a ː </s>
+m e ː d ə j ə </s>
+u . ⁿ d u . n ə </s>
+d i l . l i . j a </s>
+s u . l u p . p u . ʋ a </s>
+a . t u . r a . n a . ʋ a ː </s>
+m u ʈ ː i j ə </s>
+m a ː m ̃ </s>
+ˈ p æ n i </s>
+ˈ b o ː d ͡ ʒ ə n ə j ə </s>
+b æ . h æ . r a </s>
+k a . h i . n ə . w a ː </s>
+b ə m ̃ . ɡ ə . l a ː . d ̪ e ː . ʃ ə . j ə </s>
+s e m e </s>
+i r ə ʈ ː ə </s>
+ʋ a n ə j ə </s>
+t u m a ː </s>
+b a . ʈ u </s>
+ʋ e ː s ʈ ə j ə </s>
+æ ː </s>
+u ɭ u k ː u w ə </s>
+k o . k u m </s>
+b a s n a ː h i r ə ‿ p a ɭ a ː t ə </s>
+r i . d e . n ə . w a ː </s>
+l i ː </s>
+p i h i ʈ ə </s>
+k æ . ⁿ d ə . n ə . w a ː </s>
+p o t ː ə </s>
+m e l ː ə </s>
+k u h ə k ə </s>
+u </s>
+æ d i l i j ə </s>
+p a r ə ʋ i j a ː </s>
+e . k a . t u </s>
+a . n u . r a ː . d ə . p u . r ə </s>
+i ɡ i l e n ə w a ː </s>
+m a . n ə </s>
+d a n ː ə ʋ a ː </s>
+ʋ j ɑ ː ɡ ʱ r ə j a ː </s>
+t a ʈ ː u k ə r ə n ə w a ː </s>
+b a d u l l a </s>
+ɡ a n ə </s>
+u t u r u ‿ m æ d ə ‿ p a ɭ a ː t ə </s>
+b u d u </s>
+k a j i t a ː ɭ ə m </s>
+b a . r ə </s>
+p ə r i p ə . p u </s>
+a ː d ̪ e s ə </s>
+a ː . d ͡ ʒ a n ̪ . ʈ i . n ̪ a ː . w a </s>
+n ̪ a . w a s i ː . l a n ̪ . t ̪ a . j a </s>
+p o ɖ i ‿ ʋ e n ə w a ː </s>
+m a w ə </s>
+æ m b æ ʈ ː ə j a ː </s>
+h a . k u . ɾ u </s>
+k æ s ə </s>
+m u l ə </s>
+b a . r a </s>
+n ̪ ə m ə </s>
+t æ p æ l </s>
+m e k . s i . k o ː . w ə </s>
+n i m i t ː ə </s>
+d ͡ ʒ ɲ a </s>
+p a ɭ a ː t ̪ a </s>
+a p ː a ː </s>
+a r ə ᵐ b ə j ə </s>
+b ə . d ə . n ə . w a ː </s>
+n ̪ ə . w ə s i ː . l ə n ̪ . t ̪ ə . j ə </s>
+i ː d ͡ ʒ i p ə . t ̪ u ʋ ə </s>
+a . n u . r a ː . d a . p u . r a </s>
+s u d ̚ d ə </s>
+k a p ː i </s>
+s u . l u p ̚ . p u . w ə </s>
+ɡ æ ᵐ b u r u </s>
+b o ː k ̚ . k u . w ə </s>
+f </s>
+m o n ə ʋ a ː </s>
+h a ː </s>
+k a . p a . n a . w a ː </s>
+a ː p ː ə j ə </s>
+d ͡ ʒ ə n ̪ ə p ə d ̪ ə j ə </s>
+s r i ː ‿ d ͡ ʒ a . j ə . ʋ ə r . d ə . n ə . p u . r ə ‿ k o ː t ̚ . t e ː </s>
+j u r o ː p ə j ə </s>
+ʋ a j a ᵐ b a ‿ p a ɭ a ː t a </s>
+m a l ː i </s>
+m i s r a </s>
+a k m a ː w ə </s>
+ʋ æ w ə </s>
+n a h ə j ə </s>
+ɡ a . ɖ u . w ə </s>
+k a ɖ ə </s>
+d a d ə j ə </s>
+u ɖ æ k ː i j ə </s>
+d e ʋ i j a ː </s>
+k o . r ə </s>
+a ᵑ ɡ ə </s>
+ɡ ə t ̪ ə </s>
+a i j o ː </s>
+s u d d a </s>
+t ͡ ʃ a </s>
+m e j a ː </s>
+s u . b ə </s>
+k u n ɖ a l i j a </s>
+e h e ː </s>
+s u ː r ə n ə w a ː </s>
+p i p i ɲ ə . ɲ a ː </s>
+e k . s a t ‿ d ͡ ʒ a . n ̪ a . p a . d ̪ a . j a </s>
+p a r ə k ː u w e n ə w a ː </s>
+a ː ɳ ɖ u ʋ ə </s>
+æ </s>
+b e . k ə </s>
+s ̪ u ɾ u ʈ ʈ u ʋ ə </s>
+ʋ i l ə </s>
+k a w u d ə </s>
+æ ᵑ ɡ i l i </s>
+d æ n </s>
+ʋ æ d ː a ː </s>
+k o ː ɳ a m a </s>
+ä . t u . r ä . n ä . w a ː </s>
+b a . ⁿ d i . n a . ʋ a ː </s>
+s a </s>
+b æ . h æ . r ə </s>
+p r e ː . t a </s>
+t ̪ i r i s ə n ̪ a ː </s>
+ʋ æ t i r e n ə w a ː </s>
+p i r i m i j a ː </s>
+k a n i n ə w a ː </s>
+m a d j ə m ə ‿ p a ɭ a ː t ə </s>
+k æ ʈ i k ə r ə n ̪ ə ʋ a ː </s>
+k a . p u </s>
+b i . r i </s>
+ɡ a ː s ə w a ː </s>
+ɡ a ᵑ ɡ ə </s>
+r a t n a p u r a </s>
+b o b </s>
+ˈ b u d ː i </s>
+u ː ʋ ə ‿ p a ɭ a ː t ə </s>
+b a s n a ː h i r a </s>
+n e . r ə . n ə . w a ː </s>
+s r i ː ‿ d ͡ ʒ a . j a . ʋ a r . d a . n a . p u . r a ‿ k o ː t . t e ː </s>
+t e m e ː </s>
+p o r ə w ə </s>
+a ʈ u ʋ ə </s>
+j o ː n i j ə </s>
+u t ̪ u r u </s>
+a h ə n ̪ ə ʋ a ː </s>
+k a m b i j ə </s>
+m u ɭ u </s>
+b a j j a ː </s>
+ɡ e . n e . n ə . w a ː </s>
+k a j i p ː u </s>
+d e . n a . ʋ a ː </s>
+t a ʈ ː u w ə </s>
+t a i l ə j ə </s>
+i ː j ə m </s>
+j e . ɭ a </s>
+u r u m ə j ə </s>
+æ l m ə </s>
+ʋ a j a ᵐ b a </s>
+p i h i n ə w a ː </s>
+m a . r a </s>
+p ə ɭ a ː t ̪ ə </s>
+k o ː ʈ u w ə </s>
+s o . b ə . n ə </s>
+d a ʋ ə d ͡ ʒ ə j ə </s>
+p o ː t ̚ . t ͡ ʃ i . j a </s>
+b a m ə n ə w a ː </s>
+p ə . ʈ ə n </s>
+e d ̪ i r i j ə </s>
+e k . ʋ e . n a . ʋ a ː </s>
+r a ː d ͡ ʒ ə p ə k ə . ʃ ə </s>
+k a r p u ː r ə </s>
+ʋ ə r . ɡ ə </s>
+p a l ː i j ə </s>
+s i ʈ i n ə w a ː </s>
+i . ⁿ d i . n a . ʋ a ː </s>
+p e . r ə </s>
+k a p ː ə m ə </s>
+u n u h u m ə </s>
+a d ̪ i n ̪ ə ʋ a ː </s>
+i s ə </s>
+t a r ə m ə </s>
+p ə ʋ ə s ə n ̪ ə ʋ a ː </s>
+n a r ə k ə </s>
+k o ɖ i j ə </s>
+k e ː </s>
+k o h e ː </s>
+ʋ a . d a . n a . ʋ a ː </s>
+d ̪ i ʋ i j a ː </s>
+k a . h i . n a . ʋ a ː </s>
+ʋ æ ʈ e n ə w a ː </s>
+t ̪ a </s>
+w a . d ə . n ə . w a ː </s>
+n a </s>
+n o ː n a ː </s>
+h u t ̪ t ̪ a ː </s>
+k o . t a . ᵐ b u . r u </s>
+k ə . n i . n ə . w a ː </s>
+a i </s>
+p a . n u . ʋ a ː </s>
+ˈ n i ɭ i j ə </s>
+u k u n a ː </s>
+s o h o j u r i ː </s>
+d i . j ə </s>
+a ŋ k i t ə </s>
+k a m ə </s>
+e k . s a t ‿ d ͡ ʒ ə . n ̪ ə . p ə . d ̪ ə . j ə </s>
+j a ː p a n a j a ‿ r a ː d ͡ ʒ a d a ː n i j a </s>
+p i j a ː p ə t ̪ ə </s>
+p a . n u . w a ː </s>
+h u n u </s>
+j a . ʈ ə </s>
+s i ː </s>
+p a t ː u k ə r ə n ə w a ː </s>
+n o ɳ ɖ i </s>
+m a . h ə . t ə </s>
+p r a ː r t ə n ə j ə </s>
+h i m i j a ː </s>
+t æ t i ɡ ə n ː ə w a ː </s>
+s a b a r a ɡ a m u ʋ a ‿ p a ɭ a ː t a </s>
+m æ r e n ə w a ː </s>
+t ̪ u r . k i . j ə </s>
+m a . ɖ ə </s>
+l e ː </s>
+ɡ i . ɡ u . r ə . n ə . w a ː </s>
+a ː ɡ n a ː w ə </s>
+h e . n ə </s>
+a n ː a ː s i </s>
+ʋ ə m ə </s>
+p u ɲ t ͡ ʃ i </s>
+ɡ æ ʈ ə ɡ ə s ə n ̪ ə ʋ a ː </s>
+v a n . s ə </s>
+ˈ b a ː ɾ ə t ə j ə </s>
+b a s n a ː h i r a ‿ p a ɭ a ː t a </s>
+ɡ a ː l l a </s>
+s a . d ə . n ə . w a ː </s>
+s o ː d ə n ə w a ː </s>
+k a ᵐ b ə j ə </s>
+ɡ a . ɭ ə . p ə . n ə . w a ː </s>
+m u r ə ɳ ɖ u </s>
+j a ː . p a . n a . j a </s>
+i d ̪ i m e n ̪ ə ʋ a ː </s>
+s a ː . h i t . j a . j a </s>
+k o . r a </s>
+k u r u n æ ː ɡ a l a </s>
+s a . l ə . n ə . w a ː </s>
+s i s i l </s>
+d a k u n u ‿ p a ɭ a ː t a </s>
+ˈ n a ɾ i ˈ j a ː </s>
+k e s ə </s>
+p a . ʈ a n </s>
+r i . d i ː </s>
+t ͡ ʃ a ɳ ɖ i j a ː </s>
+d u m ə </s>
+b a . d a . n a . ʋ a ː </s>
+s a ʈ ə n k ə r ə n ə w a ː </s>
+u . d u . n ə </s>
+n ̪ i s a ː </s>
+j a . h a . n a </s>
+t ̪ i r i s ə n ̪ ə . </s>
+ɡ æ ʈ ə j ə </s>
+r i ː </s>
+k o . ɭ a . ᵐ b a </s>
+m i ː d u m ə </s>
+s e k ː u w ə </s>
+n u ʋ ə r ə </s>
+b a ː </s>
+o h e ː </s>
+ɲ a </s>
+l a </s>
+p ə ⁿ d u r ə </s>
+n u ː l ə </s>
+e . k a ː . n u ː . ʋ a </s>
+k a ː p i r i j a ː </s>
+h a l a ː ʋ ə t ə </s>
+s a m ə ɡ ə </s>
+k u . ᵐ b u . ɾ u . w e l </s>
+p a </s>
+n ə . ɡ ə . n ə . ʋ a ː </s>
+m a ᵑ ɡ ə </s>
+u ː r a ː </s>
+b o n ̪ ə ʋ a ː </s>
+j a . ʈ a </s>
+m i . d u . l a </s>
+s i ⁿ ̪ d ̪ i n ̪ ə ʋ a ː </s>
+r a k u s a ː </s>
+r u ː </s>
+a ː . d ͡ ʒ ə n ̪ . ʈ i . n ̪ a ː . w ə </s>
+v i . d u . l i . j ə </s>
+h ə m ə . b ə n ̪ ə . t ̪ o ʈ ə </s>
+ʋ i k ə n ə w a ː </s>
+u r ə j ə </s>
+e ː </s>
+n a ː ʈ ə k ə j ə </s>
+n i j ə p o t ː ə </s>
+æ . ⁿ d a </s>
+a p i r i s i d u </s>
+a ɖ ə </s>
+m a . ɖ ə . k ə . l ə . p u . w ə </s>
+k a ː ɳ ɖ ə j ə </s>
+s æ d ̪ æ h æ </s>
+t a ː t ͡ ʃ . t ͡ ʃ i . j a </s>
+p i ᵐ b i n ə w a ː </s>
+j o ː n i </s>
+ɡ i r i </s>
+ʃ u k ə . r a ː ɳ u ʋ ə </s>
+p e ː r u ‿ w æ ʈ ə n ə w a ː </s>
+ɡ i . ɡ u . r a . n a . ʋ a ː </s>
+s a h o ː d ə r ə </s>
+i r ə </s>
+a . w u . r u d . d ə </s>
+k ä . ʈ u . p i . l ä </s>
+o t ː u w ə </s>
+ɡ a . h a . n a . ʋ a ː </s>
+d a . ʋ ə . l ə </s>
+ɡ o . t ə . n ə . w a ː </s>
+p a ɖ i j ə </s>
+k a w ə d a ː d ə </s>
+k e ɳ ɖ i j ə </s>
+n æ ː n a ː </s>
+p a n d ə l ə m ə </s>
+h o . ʋ i . n a . ʋ a ː </s>
+a n i ʈ u </s>
+ʋ a . ɭ a </s>
+a p ː o t ͡ ʃ ː i </s>
+b u . ʋ ə . n ə </s>
+a . v a . ʈ a </s>
+p a l . l a . l a </s>
+m i . t u . r u </s>
+n æ ɡ e n a h i r a ‿ p a ɭ a ː t a </s>
+h u . ɭ u </s>
+æ d ə h i l ː ə </s>
+r u ː ʋ ə </s>
+ˈ l a k s ə j ə </s>
+u . ɡ ə n . n ə . w a ː </s>
+j a </s>
+m e h e </s>
+r ə . ʈ ə </s>
+b a . t ə </s>
+m a r ə n ə w a ː </s>
+i ː </s>
+ɡ a r ə h ə n ə w a ː </s>
+a ɭ u </s>
+k a p ː i j ə </s>
+a ɖ a ː </s>
+t a ː l i j ə </s>
+s i n i d u </s>
+k a s ə n ə w a ː </s>
+l a . b a . n a . ʋ a ː </s>
+a j ə . j a ː </s>
+h a ː m u d u r u ʋ o ː </s>
+h u s m ə ‿ ɡ a n ː ə w a ː </s>
+ʃ i ʃ n ə j ə </s>
+p r a ː t ͡ ʃ i ː r ə j ə </s>
+p a l . l a </s>
+u ː ʋ a </s>
+ɡ i . ɡ u . r u . m ə </s>
+m ə h a ː </s>
+a </s>
+ʃ u k r ə </s>
+a . ᶯ ɖ a </s>
+h i t ə </s>
+i s . s ə . r ə </s>
+s u r u k u </s>
+k æ n ̪ ə ɖ a ː ʋ ə </s>
+ɳ a </s>
+k a m ə l ə </s>
+j a . h ə . n ə </s>
+p a ʈ u </s>
+p æ d u m ə </s>
+i . r ə . n ə . w a ː </s>
+ɡ a ː l l ə </s>
+s u d ̪ d ̪ a ː </s>
+h u t ̪ t ̪ ə </s>
+ˈ p æ ɳ i </s>
+b a </s>
+h o ⁿ d ə </s>
+s w a ː . s ə </s>
+p a . w u . r ə </s>
+p a d ə k ː ə m ə </s>
+n i j ə p o t u </s>
+a m ː a ː </s>
+p u t ͡ ʃ ː ə n ə w a ː </s>
+t a . n ə </s>
+k a . p ə . n ə . w a ː </s>
+i . r a . n a . ʋ a ː </s>
+d ͡ ʒ a ː ɖ i j ə </s>
+u . d u . n a </s>
+m a . ɖ a </s>
+ɖ a </s>
+ʋ a . ɾ e . n j ə </s>
+m a . n a </s>
+n a m ̃ ɡ i ː </s>
+k u r u l ː a ː </s>
+k a l ə w ə m ə </s>
+p a ː . k i s . t ̪ a ː . n ̪ a . j a </s>
+k o ʈ ː ə j ə </s>
+i s . s a . r a </s>
+p u ː n ə ‿ n u ː l ə </s>
+a . w ə . ʈ ə </s>
+n i m i t i </s>
+h o r i </s>
+ʋ a . ɭ ə </s>
+d ͡ ʒ o ː ɖ u ʋ ə </s>
+m a s ː i n a ː </s>
+p i . l i </s>
+b e d ə n ə w a ː </s>
+t u n ɖ u w ə </s>
+m u ɖ u k ː u w ə </s>
+b a . b a . l a . n a . ʋ a ː </s>
+k u ᵐ b ə l a ː </s>
+ʋ a </s>
+r a ː . d ͡ ʒ a . d a ː . n i . j a </s>
+t a ᵐ b ə </s>
+m u d ə l ə </s>
+k a ɡ ə j ə </s>
+ʋ a ʈ ː i j ə </s>
+p i . ʈ i </s>
+m æ . ʈ i </s>
+p a ɭ ə l </s>
+d a ɖ ə j ə m k ə r ə n ə w a ː </s>
+s a l ə </s>
+h e . n a </s>
+m ə j i l </s>
+a ː l ə j ə </s>
+k a ʈ u </s>
+p a j j ə </s>
+t o ː ɖ u w ə </s>
+ʋ a ʈ ə j ə </s>
+ˈ b r a ː h m ə ɳ ə ˈ j a ː </s>
+t a . ᵐ b a . r a </s>
+m i j ə n ə w a ː </s>
+ʋ a n ə </s>
+ʋ a . r a </s>
+o . s ə . w ə . n ə . w a ː </s>
+ʋ e . n a . ʋ a ː </s>
+ə . ᶯ ɖ ə </s>
+h a ɳ ə </s>
+m a . ᶯ ɖ i . n a . ʋ a ː </s>
+i t ͡ ʃ ː a ː ʋ ə </s>
+b a d u l ː ə </s>
+m i r i k ə n ə w a ː </s>
+k a l l a ː </s>
+a ɡ ə l ə </s>
+ə . ɾ ə . n ə . ʋ a ː </s>
+a . ɾ a . n a . ʋ a ː </s>
+t u s a ː r ə j ə </s>
+d a k i n ə w a ː </s>
+p a r ə </s>
+m a r ə k ː ə l ə j ə </s>
+b a . l ə </s>
+p a ː ɖ ə m ə </s>
+p a r ə j a ː </s>
+k i ɳ u </s>
+m i h i ᵑ ɡ u w ə </s>
+ɡ ʱ a </s>
+m u r u m ̃ ɡ a ː </s>
+d a . ɖ ə . j ə </s>
+o ʋ </s>
+k a . r ə </s>
+ɡ o ː . n ̪ i . j a </s>
+ᶯ ɖ a </s>
+u ɭ u </s>
+k a ɖ ɡ ə j ə </s>
+k u ɖ ə j ə </s>
+b r ə . s i ː . l ə . j ə </s>
+u . t u . r ə . n ə . w a ː </s>
+n a ɡ u l ə </s>
+s a ː . h i t . j ə . j ə </s>
+p e . ⁿ d a </s>
+a t ː i ʋ a ː ɾ ə m ə </s>
+u ᵐ b ə j a ː </s>
+d a d ə r ə j a ː </s>
+e ː r o p ə . p e </s>
+d a k u n u </s>
+ʋ a m ə n ə j ə k ə r ə n ə w a ː </s>
+ʋ e . n ə . w a ː </s>
+t a l ː u k ə r ə n ə w a ː </s>
+b a . p a </s>
+r a t n ə p u r ə </s>
+o ː </s>
+p a k ə </s>
+ʋ a h ə n s e ː </s>
+b i . h i . r i </s>
+k u ː ɖ ə m ə </s>
+ᵑ ɡ </s>
+p u ɾ u s ə </s>
+o . s a . ʋ a . n a . ʋ a ː </s>
+r u </s>
+æ s ə </s>
+p a ʈ i j ə </s>
+k a p u r u </s>
+d a . m a . n a . ʋ a ː </s>
+s a b a r a ɡ a m u ʋ a </s>
+a ᵑ ɡ u ɳ u ʋ ə </s>
+i l ə k ː ə m ə </s>
+i . ⁿ d i . n ə . ʋ a ː </s>
+m u ŋ </s>
+ʋ i n ̪ a ː ɖ i j ə </s>
+k æ r i </s>
+m u . ɡ u . r a </s>
+ɡ o ː . n ̪ i . j ə </s>
+- j ə </s>
+p i ː . n a . n a . ʋ a ː </s>
+b a . t a </s>
+k u l ə l ə </s>
+k a j i j e l i j ə </s>

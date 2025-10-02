@@ -1,0 +1,54 @@
+<INSTRUCTIONS>
+We will now develop an orthography for our ConLang. At present we will develop
+an orthography using the {{script}} script, which may include extensions with
+diacritics, as in the {{script}}-Extended-A and {{script}}-Extended-B Unicode blocks.
+
+The set of phonemes (in IPA) that you developed for this language, is as follows:
+
+Consonants: {{consonants}}
+Vowels:     {{vowels}}
+
+A sample of words assuming the above IPA symbols can be found below within the
+<LEXICON></LEXICON> block.
+
+<LEXICON>
+{{lexicon_sample}}
+</LEXICON>
+
+In developing your orthography, feel free to take as examples the spelling
+systems of any languages you are familiar with that use the {{script}} script in
+their writing system.
+
+Your orthography does not need to be completely "phonetic" in that the
+pronunciation is completely reconstructable from the spelling, but it should be
+reasonable in that it does not deviate too much from a "shallow orthography".
+
+Once you have developed your spelling system, you should write a Python program
+that will convert from the phonetic transcriptions of words into the written
+form.
+
+Notice that the input examples above have the phonemes separated by spaces: in
+your code you should assume that the phonetic input will have the phonemes
+separated in this way. However, the letters in the spelled form should NOT be
+space-separated.  If there are symbols in the script that naturally correspond
+to more than one phoneme, feel free to include a rule for that, but again be
+aware that the phonemes will come in space-separated.
+
+There may also be syllable boundary markers ".". These should be ignored in your
+orthography, so please make sure these get deleted and NOT converted into letters.
+
+Your function should be called "ipa_to_orthography", and it should take as input
+a word transcribed in IPA, and return a spelling for that word.
+
+Please also provide a main function so that one can feed words in IPA to your
+program from the command line: have it read from standard in.
+
+Please make sure you include needed functions and imports in your code.
+
+Place your code in the block <OUTPUT></OUTPUT>.
+PLEASE DO NOT PUT ANYTHING EXCEPT VALID PYTHON CODE WITHIN THIS BLOCK.
+THIS MUST BE IMPORTABLE AS IS.
+
+This task will depend on your deep knowledge of linguistics, and Python
+programming.  Good luck!
+</INSTRUCTIONS>

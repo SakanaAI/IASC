@@ -1,0 +1,63 @@
+<INSTRUCTIONS>
+<!--
+
+In this version we attempt to cumulate the morphosyntactic information, starting
+with word order.
+
+Rather than try to do the transformations in one step, ask the model to do one
+thing at a time --- manipulate the word order, add case marking, and so forth.
+
+Each time we give instructions about starting with an English original, and
+transforming it into the structure of the target language. For all subsequent
+steps beyond the first step, we feed it the original English text, and the most
+recent transformation, and tell it to construct its updated translation on the
+basis of the most recent transformation.
+
+-->
+
+We are going to develop a 'translator' for our ConLang, which will 'translate' from English sentences into an abstract language that has English content words, but may mark them with additional morphosyntactic information, and where the English phrases may be reordered.
+
+Morphosyntactic markers may show up as affixes (prefixes or suffixes) or words (prepositional or postpositional). Our convention for marking suffixes is to place a dash before the affix, and for prefixes to place a dash after the affix:
+
+"-XXX" is a suffix: when one attaches "-XXX" to "word" one gets "word-XXX"
+"XXX-" is a prefix: when one attaches "XXX-" to "word" one gets "XXX-word"
+
+In this stage, we will consider the adjectival (adjective) category of comparative and superlative.
+
+In the description below, we will use suffixes for the sake of example, but a language may use either suffixes, affixes, prepositional words, or postpositional words to mark this information.
+
+For comparatives and superlatives, languages may mark the following:
+
+COMP:   Comparative degree. E.g. "higher" -> "high-COMP"
+SUP:    Superlative degree. E.g. "highest" -> "high-SUP"
+EQU:    Equative degree. E.g. "as high (as)" -> "high-EQU (as)"
+
+Our language marks "{{comparative}}", and they are marked by "{{comparative_marking_strategy}}".
+
+If the above specification for comparative degree is "NONE", then it means that the language does not have a grammatically specified way of expressing comparatives. In this case, simply use the words ("more" for comparative, "most" for superlative, and "as" for equative.)
+
+Your task is to 'translate' the text under SAMPLE TEXT below. This text isf itself a translation of an original text that you did on the previous round. This original text is given under ORIGINAL TEXT for your reference, but you should use the SAMPLE TEXT as the starting point.
+
+Any verbs you mark for tense should have tense information removed and thus appear in their lemma form, except that you shouldn't remove negative affixes like "n't" from modal verbs!  Thus "ate-PAST" would become "eat-PAST".
+
+<!-- TODO(rws): Possibly omit the following instruction. -->
+<!-- (ct): Omitted.
+Do not mark the articles "the" or "a" but rather omit these entirely.
+-->
+Do not change any affixes that have been added on a previous phase.
+
+Place a period at the end of each sentence, as in the original text. Don't forget to translate the title, if there is one. Downcase all content words, except proper names, which are to be left capitalized. Thus "Man" would become "man", "We" would become "we", but "John" would remain "John".
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE SAMPLE TEXT. THAT IS IF THE SAMPLE TEXT HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES, AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+# ORIGINAL TEXT BEGINS
+{{original_text}}
+# ORIGINAL TEXT ENDS
+
+# SAMPLE TEXT BEGINS
+{{previous_translation}}
+# SAMPLE TEXT ENDS
+
+Please put your response within <OUTPUT></OUTPUT> tags.
+
+</INSTRUCTIONS>

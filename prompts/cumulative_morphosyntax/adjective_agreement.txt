@@ -1,0 +1,47 @@
+<INSTRUCTIONS>
+We are going to develop a 'translator' for our ConLang, which will 'translate' from English sentences into an abstract language that has English content words, but may mark them with additional morphosyntactic information, and where the English phrases may be reordered.
+
+Morphosyntactic markers may show up as affixes or separate words. For affixes, our convention for marking suffixes is to place a dash before the affix, and for prefixes to place a dash after the affix:
+
+"-XXX" is a suffix: when one attaches "-XXX" to "word", one gets "word-XXX"
+"XXX-" is a prefix: when one attaches "XXX-" to "word", one gets "XXX-word"
+
+In this stage we will consider the agreement marking on adjective modifiers.
+
+Agreement on adjective modifiers refers to a grammatical phenomenon where an adjective changes its form to match certain features of the noun it modifies, such as:
+- Number (e.g., singular, plural)
+- Case (e.g., nominative, accusative, etc.)
+- Definiteness
+
+Consider example English sentences below:
+
+I saw the big white cats.
+
+Suppose that a language marks agreement on adjective modifiers for number, case, and definiteness. Assuming that these are all marked by suffixes, then our example sentence above would be:
+
+I saw big-PLUR-ACC-DEF white-PLUR-ACC-DEF cat-PLUR-ACC-DEF.
+
+Languages may also not mark definiteness or indefiniteness at all, in which case we specify "NONE".
+
+In our language, adjective modifiers show agreement for "{{adjective_agreement}}", and it is marked by "{{adjective_agreement_marking_strategy}}".
+
+If the above agreement is "NONE", then the language does not have agreement of adjective modifiers.
+
+Your task is to 'translate' the text under SAMPLE TEXT below. This text is itself a translation of an original text that you did on the previous round. This original text is given under ORIGINAL TEXT for your reference, but you should use the SAMPLE TEXT as the starting point.
+Do not change any affixes that have been added on a previous phase.
+
+Place a period at the end of each sentence, as in the original text. Don't forget to translate the title, if there is one. Downcase all content words, except proper names, which are to be left capitalized. Thus "Man" would become "man", "We" would become "we", but "John" would remain "John".
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE SAMPLE TEXT. THAT IS IF THE SAMPLE TEXT HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES, AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+# ORIGINAL TEXT BEGINS
+{{original_text}}
+# ORIGINAL TEXT ENDS
+
+# SAMPLE TEXT BEGINS
+{{previous_translation}}
+# SAMPLE TEXT ENDS
+
+Please put your response within <OUTPUT></OUTPUT> tags.
+
+</INSTRUCTIONS>

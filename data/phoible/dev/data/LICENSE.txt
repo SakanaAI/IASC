@@ -1,0 +1,2 @@
+See https://github.com/cldf-datasets/phoible/blob/master/LICENSE for Phoible's
+licence --- Attribution 4.0 International (CC BY 4.0).

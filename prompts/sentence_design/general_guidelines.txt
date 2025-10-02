@@ -1,0 +1,21 @@
+<INSTRUCTIONS>
+<!-- Common to all the instructions. -->
+General guidelines:
+
+- All sentences must be in English.
+- Use simple words (5th grade reading level), and simple sentence structure.
+- Each sentence should be no more than about 15 words.
+- Each sentence must be unique --- do not repeat any sentences.
+- Each sentence must be on a single line.
+- Number all sentences consecutively thus:
+
+1. sentence one ...
+2. sentence two ...
+...
+
+Collect your numbered sentences together into a single text and place that
+within the tags <OUTPUT></OUTPUT>.
+
+You may explain your rationale for the set of sentences you came up with, but
+please put NOTHING except the sentence text within the <OUTPUT></OUTPUT> tags.
+</INSTRUCTIONS>
