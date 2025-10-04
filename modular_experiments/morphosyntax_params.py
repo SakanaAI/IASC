@@ -1,11 +1,3 @@
-"""Parameters for morphosyntax experiments.
-
-# TODO:
-- make some morphological features (Mood, Tense, etc.) a BaseModel subclass, defining
-  the features and their marking strategy, so that we can use the different marking strategy
-  for different features.
-"""
-
 from typing import Literal, List
 from pydantic import BaseModel, Field
 
@@ -253,9 +245,7 @@ class Morphology(BaseModel, extra="allow"):
 class Morphosyntax(BaseModel):
     syntax: Syntax
     morphology: Morphology
-
-
-# Maybe I should use a yaml file to store these parameters instead of hardcoding them?
+    
 
 def sample_params_ainu():
     """Sample parameters based on Ainu morphology.
@@ -273,59 +263,40 @@ def sample_params_ainu():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="SOV",
-            adj_noun_word_order="AN",  # Adjectives typically precede nouns
-            posspron_noun_word_order="PossN",  # Possessive prefixes on nouns
-            num_noun_word_order="NumN",  # Numerals precede nouns
-            adposition_noun_word_order="NP",  # Postpositions (head-final)
-            morphology_type="agglutinative",  # Polysynthetic tendencies
+            adj_noun_word_order="AN",
+            posspron_noun_word_order="PossN",
+            num_noun_word_order="NumN",
+            adposition_noun_word_order="NP",
+            morphology_type="agglutinative",
             alignment="nominative-accusative"
         ),
         morphology=Morphology(
-            pro_drop="pro-drop",  # Rich person marking allows null subjects
-            case=None,  # No morphological case marking on nouns
-            gender=None,  # No grammatical gender
-            definiteness=None,  # No articles or definiteness marking
-            adjective_agreement=None,  # No adjective agreement
-            comparative=None,  # Comparative constructions are periphrastic
-            # tense_aspect=TenseAspect(
-            #     tense_aspect=["present", "past"],  # Limited tense marking, more aspect-based
-            #     tense_aspect_marking_strategy="suffix"  # Various aspect suffixes documented
-            # ),
+            pro_drop="pro-drop",
+            case=None,
+            gender=None,
+            definiteness=None,
+            adjective_agreement=None,
+            comparative=None,
             tense_aspect=None,
-            mood=None,  # No dedicated mood morphology
+            mood=None,
             voice=None,
-            # voice=Voice(
-            #     voice=["active", "passive"],  # Has antipassive (i-), middle voice (ci-)
-            #     voice_marking_strategy="prefix"  # Voice prefixes like i-, ci-, si-
-            # ),
             person=Person(
-                person_agreement=["first", "second", "third"],  # Rich person system with 1st, 2nd, 3rd, 4th person
-                person_marking_strategy="prefix",  # Person prefixes: k(u)-, c(i)-, e-, eci-, a-
-                verbal_number_agreement=["singular", "plural"],  # Singular/plural distinctions in person marking
-                verbal_number_marking_strategy="prefix"  # Number encoded in person prefixes
+                person_agreement=["first", "second", "third"],
+                person_marking_strategy="prefix",
+                verbal_number_agreement=["singular", "plural"],
+                verbal_number_marking_strategy="prefix"
             ),
-            inclusive_exclusive=True,  # Has explicit inclusive/exclusive distinction
-            nominal_number=None,  # No obligatory plural marking on nouns
-            # nominal_number=NominalNumber(
-            #     nominal_number=["singular", "plural"],  # Plural suffixes like -utara, -utah
-            #     nominal_number_marking_strategy="suffix"  # Plural suffixes on nouns
-            # ),
+            inclusive_exclusive=True,
+            nominal_number=None,
             relativization=Relativization(
                 relativization_order="head-final",
                 relativization_marking=None,
                 relativizer_position=None,
-                relativizer_morpheme=None,  # No dedicated relative clause morphology documented
+                relativizer_morpheme=None,
             ),
-            # relativization=Relativization(
-            #     relativization_order="head-final",  # SOV language pattern
-            #     relativization_marking="dependent-marking",  # Relative clauses modify head
-            #     relativizer_position="postpositional",  # Follows SOV pattern
-            #     relativizer_morpheme="affix"  # Likely suffixal relative marking
-            # ),
-            # negation="prefix",  # Negation strategies vary, but prefixal patterns exist
-            negation="prepositional word", # somo
-            infinitive=None,  # No dedicated infinitive morphology documented
-            extras=None # none for now; ["applicatives", "extensive_derivational_morphology", "valency_changing_prefixes"]  # Key features: e-, ko-, o- applicatives; causatives -re, -te, -e; many derivational prefixes
+            negation="prepositional word",
+            infinitive=None,
+            extras=None
         )
     )
 
