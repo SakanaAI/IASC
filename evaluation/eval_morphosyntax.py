@@ -86,6 +86,12 @@ def get_args() -> argparse.Namespace:
         type=str,
         help="The path to the scores output file."
     )
+    parser.add_argument(
+        "--skip_structuralize",
+        action="store_true",
+        help="If set, the structuralization step will be skipped."
+    )
+    
     return parser.parse_args()
 
 
@@ -110,8 +116,9 @@ class MorphosyntaxMetrics:
         ser_score = self.compute_ser(hyps, refs)
         mfer_score = self.compute_mfer(hyps, refs)
         mser_score = self.compute_mser(hyps, refs)
-        morph_acc = self.morpheme_accuracy(hyps, refs)
-        word_acc = self.word_accuracy(hyps, refs)
+        # morph_acc = self.morpheme_accuracy(hyps, refs)
+        # word_acc = self.word_accuracy(hyps, refs)
+        lemma_prec, lemma_rec, lemma_f1 = self.compute_lemmaf1(hyps, refs)
         
         if print_scores:
             print(f"BLEU: {bleu_score}")
@@ -122,8 +129,11 @@ class MorphosyntaxMetrics:
             print(f"SER: {ser_score}")
             print(f"MFER: {mfer_score}")
             print(f"MSER: {mser_score}")
-            print(f"MORPHEME ACCURACY: {morph_acc}")
-            print(f"WORD ACCURACY: {word_acc}")
+            # print(f"MORPHEME ACCURACY: {morph_acc}")
+            # print(f"WORD ACCURACY: {word_acc}")
+            print(f"LEMMA PRECISION: {lemma_prec}")
+            print(f"LEMMA RECALL: {lemma_rec}")
+            print(f"LEMMA F1: {lemma_f1}")
         
         return {
             "BLEU": bleu_score,
@@ -134,8 +144,11 @@ class MorphosyntaxMetrics:
             "SER": ser_score,
             "MFER": mfer_score,
             "MSER": mser_score,
-            "Morpheme accuracy": morph_acc,
-            "Word accuracy": word_acc
+            # "Morpheme accuracy": morph_acc,
+            # "Word accuracy": word_acc,
+            "Lemma precision": lemma_prec,
+            "Lemma recall": lemma_rec,
+            "Lemma F1": lemma_f1,
         }
     
 
@@ -632,9 +645,7 @@ class MorphosyntaxMetrics:
             
         if isinstance(hyp, str):
             hyp = [hyp]
-            
-        # print("ref:", ref)
-        # print("hyp:", hyp)
+        
         return jiwer.wer(ref, hyp) * 100
     
     def compute_cer(self,
@@ -652,9 +663,130 @@ class MorphosyntaxMetrics:
         if isinstance(hyp, str):
             hyp = [hyp]
         
-        # print("ref:", ref)
-        # print("hyp:", hyp)
         return jiwer.cer(ref, hyp) * 100
+    
+    def compute_lemmaf1(self,
+                        ref: str | List[str],
+                        hyp: str | List[str],
+                        average: Literal["micro", "macro", "weighted"] = "macro"
+                        ) -> Tuple[float, float, float]:
+        """Compute Lemma F1 score.
+        
+        Args:
+            ref (str | List[str]): Reference gloss or list of glosses.
+            hyp (str | List[str]): Hypothesis gloss or list of glosses.
+            
+        Returns:
+            tuple: (precision, recall, f1)
+        """
+        def _lemmatize(gloss: str) -> List[str]:
+            """A simple lemmatizer that removes morphological features from a gloss."""
+            return [m for m in gloss.replace("-", " ").split() if m.islower()]
+        
+        def _get_lemma_counts(lemmas_list: List[List[str]]) -> Dict[str, int]:
+            """Get lemma counts from a list of lemma lists."""
+            all_lemmas = []
+            for lemmas in lemmas_list:
+                all_lemmas.extend(lemmas)
+            return Counter(all_lemmas)
+        
+        if isinstance(ref, str):
+            ref = [ref]
+        if isinstance(hyp, str):
+            hyp = [hyp]
+            
+        # ref: List[List[str]] -> List[str]  # list of reference glosses 
+        # hyp: List[str]  # list of hypothesis glosses
+        # For now, we only use the first reference gloss if multiple are provided
+        ref = [r[0] if isinstance(r, list) else r for r in ref]
+
+        if average == "micro":
+            # Micro-averaging: aggregate counts across all sentences
+            ref_counter = _get_lemma_counts([_lemmatize(r) for r in ref])
+            hyp_counter = _get_lemma_counts([_lemmatize(h) for h in hyp])
+            
+            # Calculate true positives, false positives, false negatives
+            true_positives = 0
+            for lemma, count in hyp_counter.items():
+                true_positives += min(count, ref_counter.get(lemma, 0))
+                
+            false_positives = sum(hyp_counter.values()) - true_positives
+            false_negatives = sum(ref_counter.values()) - true_positives
+            
+            precision = true_positives / (true_positives + false_positives) if (true_positives + false_positives) > 0 else 0.0
+            recall = true_positives / (true_positives + false_negatives) if (true_positives + false_negatives) > 0 else 0.0
+            f1 = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0.0
+            
+            return precision * 100, recall * 100, f1 * 100
+            
+        elif average == "macro":
+            # Macro-averaging: calculate F1 for each sentence and average
+            precisions = []
+            recalls = []
+            f1s = []
+            
+            for r, h in zip(ref, hyp):
+                r_counter = _get_lemma_counts([_lemmatize(r)])
+                h_counter = _get_lemma_counts([_lemmatize(h)])
+                
+                tp = 0
+                for lemma, count in h_counter.items():
+                    tp += min(count, r_counter.get(lemma, 0))
+                
+                fp = sum(h_counter.values()) - tp
+                fn = sum(r_counter.values()) - tp
+                
+                precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
+                recall = tp / (tp + fn) if (tp + fn) > 0 else 0.0
+                f1 = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0.0
+                
+                precisions.append(precision)
+                recalls.append(recall)
+                f1s.append(f1)
+            
+            precision = sum(precisions) / len(precisions) if precisions else 0.0
+            recall = sum(recalls) / len(recalls) if recalls else 0.0
+            f1 = sum(f1s) / len(f1s) if f1s else 0.0
+            
+            return precision * 100, recall * 100, f1 * 100
+            
+        elif average == "weighted":
+            # Weighted averaging: macro-average weighted by support (number of true lemmas)
+            sentence_weights = [len(r) for r in ref]
+            total_weight = sum(sentence_weights)
+            
+            weighted_precision = 0.0
+            weighted_recall = 0.0
+            weighted_f1 = 0.0
+            
+            for r, h, weight in zip(ref, hyp, sentence_weights):
+                r_counter = _get_lemma_counts([_lemmatize(r)])
+                h_counter = _get_lemma_counts([_lemmatize(h)])
+                
+                tp = 0
+                for lemma, count in h_counter.items():
+                    tp += min(count, r_counter.get(lemma, 0))
+                
+                fp = sum(h_counter.values()) - tp
+                fn = sum(r_counter.values()) - tp
+                
+                precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
+                recall = tp / (tp + fn) if (tp + fn) > 0 else 0.0
+                f1 = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0.0
+                
+                weighted_precision += precision * weight
+                weighted_recall += recall * weight
+                weighted_f1 += f1 * weight
+            
+            precision = weighted_precision / total_weight if total_weight > 0 else 0.0
+            recall = weighted_recall / total_weight if total_weight > 0 else 0.0
+            f1 = weighted_f1 / total_weight if total_weight > 0 else 0.0
+            
+            return precision * 100, recall * 100, f1 * 100
+            
+        else:
+            raise ValueError("average must be 'micro', 'macro', or 'weighted'.")
+        
 
 class TestMTER(unittest.TestCase):
     """Unit tests for MorphosyntaxMetrics class."""
@@ -772,71 +904,154 @@ class TestMTER(unittest.TestCase):
             (0.0 + (1 / 3 + 1 / 3 + 0 + 1 / 3) / 4) / 2,
         )
 
-    def test_morpheme_accuracy(self):
-        # Test case 1: Identical morphemes
-        reference = "cat-NOM sit-PAST"
-        hypothesis = "cat-NOM sit-PAST"
-        self.assertEqual(
-            self.morph_metrics.morpheme_accuracy(reference, hypothesis), 1.0
-        )
+    # def test_morpheme_accuracy(self):
+    #     # Test case 1: Identical morphemes
+    #     reference = "cat-NOM sit-PAST"
+    #     hypothesis = "cat-NOM sit-PAST"
+    #     self.assertEqual(
+    #         self.morph_metrics.morpheme_accuracy(reference, hypothesis), 1.0
+    #     )
 
-        # Test case 2: The first morpheme is wrong
-        reference = "cat-NOM sit-PAST"
-        hypothesis = "dog-NOM sit-PAST"
-        self.assertEqual(
-            self.morph_metrics.morpheme_accuracy(reference, hypothesis), 3 / 4
-        )
+    #     # Test case 2: The first morpheme is wrong
+    #     reference = "cat-NOM sit-PAST"
+    #     hypothesis = "dog-NOM sit-PAST"
+    #     self.assertEqual(
+    #         self.morph_metrics.morpheme_accuracy(reference, hypothesis), 3 / 4
+    #     )
 
-        # Test case 3: Some morphemes match
-        reference = "cat-NOM sit-PAST"
-        hypothesis = "cat-NOM stand-PAST"
-        self.assertEqual(
-            self.morph_metrics.morpheme_accuracy(reference, hypothesis), 3 / 4
-        )
+    #     # Test case 3: Some morphemes match
+    #     reference = "cat-NOM sit-PAST"
+    #     hypothesis = "cat-NOM stand-PAST"
+    #     self.assertEqual(
+    #         self.morph_metrics.morpheme_accuracy(reference, hypothesis), 3 / 4
+    #     )
 
-        # Test case 4: Insertion
-        reference = "cat-NOM sit-PAST"
-        hypothesis = "cat-NOM at home sit-PAST"
-        self.assertEqual(
-            self.morph_metrics.morpheme_accuracy(reference, hypothesis), 2 / 4
-        )
+    #     # Test case 4: Insertion
+    #     reference = "cat-NOM sit-PAST"
+    #     hypothesis = "cat-NOM at home sit-PAST"
+    #     self.assertEqual(
+    #         self.morph_metrics.morpheme_accuracy(reference, hypothesis), 2 / 4
+    #     )
 
-    def test_word_accuracy(self):
-        # Test case 1: Identical words
-        reference = "cat-NOM sit-PAST"
-        hypothesis = "cat-NOM sit-PAST"
-        self.assertEqual(self.morph_metrics.word_accuracy(reference, hypothesis), 1.0)
+    # def test_word_accuracy(self):
+    #     # Test case 1: Identical words
+    #     reference = "cat-NOM sit-PAST"
+    #     hypothesis = "cat-NOM sit-PAST"
+    #     self.assertEqual(self.morph_metrics.word_accuracy(reference, hypothesis), 1.0)
 
-        # Test case 2: The first morpheme is wrong
-        reference = "cat-NOM sit-PAST"
-        hypothesis = "dog-NOM sit-PAST"
-        self.assertEqual(self.morph_metrics.word_accuracy(reference, hypothesis), 0.5)
+    #     # Test case 2: The first morpheme is wrong
+    #     reference = "cat-NOM sit-PAST"
+    #     hypothesis = "dog-NOM sit-PAST"
+    #     self.assertEqual(self.morph_metrics.word_accuracy(reference, hypothesis), 0.5)
 
-        # Test case 3: Some morphemes match
-        reference = "cat-NOM sit-PAST"
-        hypothesis = "cat-NOM stand-PAST"
-        self.assertEqual(self.morph_metrics.word_accuracy(reference, hypothesis), 0.5)
+    #     # Test case 3: Some morphemes match
+    #     reference = "cat-NOM sit-PAST"
+    #     hypothesis = "cat-NOM stand-PAST"
+    #     self.assertEqual(self.morph_metrics.word_accuracy(reference, hypothesis), 0.5)
+        
+    def test_lemmaf1(self):
+        # Test case 1: Identical glosses
+        reference = "DEF-cat sit-PAST on DEF-mat"
+        hypothesis = "DEF-cat sit-PAST on DEF-mat"
+        precision, recall, f1 = self.morph_metrics.compute_lemmaf1(reference, hypothesis)
+        self.assertEqual((precision, recall, f1), (100.0, 100.0, 100.0))
+
+        # Test case 2: Some matching lemmas
+        reference = "DEF-cat sit-PAST on DEF-mat"
+        hypothesis = "cat sit on mat"
+        precision, recall, f1 = self.morph_metrics.compute_lemmaf1(reference, hypothesis)
+        self.assertEqual((precision, recall, f1), (100.0, 100.0, 100.0))
+
+        # Test case 3: No matching lemmas
+        reference = "DEF-cat sit-PAST on DEF-mat"
+        hypothesis = "dog run FUT in house"
+        precision, recall, f1 = self.morph_metrics.compute_lemmaf1(reference, hypothesis)
+        self.assertEqual((precision, recall, f1), (0.0, 0.0, 0.0))
         
 
 def eval_output(model_output_file: str,
                 label_file: str,
                 source_sentences_file: str = "sentence_design_output/grammatical_test_sentences.txt",
-                eval_user_prompt_file: str = "evaluation/eval_user_prompt_template.txt") -> None:
+                eval_user_prompt_file: str = "evaluation/eval_user_prompt_template.txt",
+                skip_structuralize: bool = False) -> None:
     """Evaluate the model outputs."""
-    print("Structuralizing the model outputs...")
-    client = openai.OpenAI()
+    if results_file is None:
+        model_output_dir = model_output_file.split("/")[-2]
+        idx = os.path.splitext(model_output_dir)[0].split("_")[-1]
+        results_file = f"evaluation/translation_results_0_{idx}.csv"
     
-    # Read the source sentences
-    with open(source_sentences_file, "r") as f:
-        source_sentences = f.read().strip()
-    
-    # Read the structuralization user prompt
-    with open(eval_user_prompt_file, "r") as f:
-        eval_user_prompt = f.read().strip()
-    
-    with open(model_output_file, "r") as f:
-        model_output = f.read().strip()
+    # if args.results_file is None and results_file is None:
+    #     model_output_dir = model_output_file.split("/")[-2]
+    #     idx = os.path.splitext(model_output_dir)[0].split("_")[-1]
+    #     results_file = f"evaluation/translation_results_0_{idx}.csv"
+    # else:
+    #     results_file = args.results_file
         
+    if not skip_structuralize:
+        print("Structuralizing the model outputs...")
+        client = openai.OpenAI()
+        
+        # Read the source sentences
+        with open(source_sentences_file, "r") as f:
+            source_sentences = f.read().strip()
+        
+        # Read the structuralization user prompt
+        with open(eval_user_prompt_file, "r") as f:
+            eval_user_prompt = f.read().strip()
+        
+        with open(model_output_file, "r") as f:
+            model_output = f.read().strip()
+            
+        if label_file.endswith(".csv"):
+            labels_df = pd.read_csv(label_file)
+            labels = labels_df["label"].tolist()
+        elif label_file.endswith(".txt"):    
+            with open(label_file, "r") as f:
+                labels = f.read().strip()
+        else:
+            raise ValueError("Label file must be a .csv or .txt file")
+            
+        # format the user prompt
+        input_text = f"### Source sentences\n{source_sentences}\n\n### Translation glosses\n{model_output}"
+
+        if not eval_user_prompt.endswith("\n"):
+            eval_user_prompt += "\n"
+            
+        user_prompt = eval_user_prompt + input_text
+        
+        # structuralize the output
+        print(f"Structuralizing the output with {args.model}...")
+        sentence_pair_list = structuralize(
+            model=args.model,
+            client=client,
+            user_prompt=user_prompt,
+            system_prompt=DEFAULT_SYSTEM_PROMPT,
+            text_format=StructuralizedOutput,
+            temperature=0.0
+        )
+        print(f"Structuralization completed. Found {len(sentence_pair_list)} sentence pairs.")
+        
+        # check if the number of sentence pairs matches the number of labels
+        assert len(sentence_pair_list) == len(labels), (
+            f"Number of structuralized sentence pairs ({len(sentence_pair_list)}) does not match "
+            f"the number of labels ({len(labels)})."
+        )
+        
+        with open(results_file, "w") as f:
+            f.write("source_sentence,translation_gloss,label\n")
+            for i, pair in enumerate(sentence_pair_list):
+                if not args.no_print:
+                    print(f"Source Sentence: {pair.source_sentence}")
+                    print(f"Translation Gloss: {pair.translation_gloss}")
+                    print(f"Reference Gloss: {labels[i]}")
+                    print("-" * 40)
+
+                f.write(f'"{pair.source_sentence}","{pair.translation_gloss}","{labels[i]}"\n')
+        
+        print(f"Structuralized output saved to {results_file}")
+        
+    assert os.path.exists(results_file), f"Results file {results_file} does not exist."
+    
     if label_file.endswith(".csv"):
         labels_df = pd.read_csv(label_file)
         labels = labels_df["label"].tolist()
@@ -845,52 +1060,6 @@ def eval_output(model_output_file: str,
             labels = f.read().strip()
     else:
         raise ValueError("Label file must be a .csv or .txt file")
-        
-    # format the user prompt
-    input_text = f"### Source sentences\n{source_sentences}\n\n### Translation glosses\n{model_output}"
-
-    if not eval_user_prompt.endswith("\n"):
-        eval_user_prompt += "\n"
-        
-    user_prompt = eval_user_prompt + input_text
-    
-    # structuralize the output
-    print(f"Structuralizing the output with {args.model}...")
-    sentence_pair_list = structuralize(
-        model=args.model,
-        client=client,
-        user_prompt=user_prompt,
-        system_prompt=DEFAULT_SYSTEM_PROMPT,
-        text_format=StructuralizedOutput,
-        temperature=0.0
-    )
-    print(f"Structuralization completed. Found {len(sentence_pair_list)} sentence pairs.")
-    
-    # check if the number of sentence pairs matches the number of labels
-    assert len(sentence_pair_list) == len(labels), (
-        f"Number of structuralized sentence pairs ({len(sentence_pair_list)}) does not match "
-        f"the number of labels ({len(labels)})."
-    )
-    
-    if args.results_file is None:
-        model_output_dir = model_output_file.split("/")[-2]
-        idx = os.path.splitext(model_output_dir)[0].split("_")[-1]
-        results_file = f"evaluation/translation_results_0_{idx}.csv"
-    else:
-        results_file = args.results_file
-    
-    with open(results_file, "w") as f:
-        f.write("source_sentence,translation_gloss,label\n")
-        for i, pair in enumerate(sentence_pair_list):
-            if not args.no_print:
-                print(f"Source Sentence: {pair.source_sentence}")
-                print(f"Translation Gloss: {pair.translation_gloss}")
-                print(f"Reference Gloss: {labels[i]}")
-                print("-" * 40)
-
-            f.write(f'"{pair.source_sentence}","{pair.translation_gloss}","{labels[i]}"\n')
-    
-    print(f"Structuralized output saved to {results_file}")
     
     # Now, run the evaluation.
     model_outputs_df = pd.read_csv(results_file)
@@ -995,7 +1164,8 @@ if __name__ == "__main__":
             model_output_file=args.model_outputs_file,
             label_file=args.reference_glosses,
             # source_sentences_file=args.source_sentences_file,
-            eval_user_prompt_file=args.eval_user_prompt_file
+            eval_user_prompt_file=args.eval_user_prompt_file,
+            skip_structuralize=args.skip_structuralize
         ) # eval_output prints the scores by default
         with open(args.scores_file, "w") as f:
             json.dump(scores, f, indent=4)

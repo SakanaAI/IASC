@@ -40,19 +40,12 @@ If the language is specified with "NONE" for number marking, then "dogs" would b
 
 Our language has: "{{nominal_number}}" number marking, marked by "{{nominal_number_marking_strategy}}".
 
-<!-- (ct): paraphrased
-If the above number marking is not "NONE", then be sure to pay attention to
-whether the number markers are specified as prefixes or suffixes.
--->
 If the above number marking is "NONE", then the language does not mark nominal number grammatically.
 
 Your task is to 'translate' the text under SAMPLE TEXT below. This text is itself a translation of an original text that you did on the previous round. This original text is given under ORIGINAL TEXT for your reference, but you should use the SAMPLE TEXT as the starting point.
 
 Any nouns you mark with number should be presented in their lemma form, except that you shouldn't remove negative affixes like "n't" from modal verbs! Thus "dogs-PLUR" should become "dog-PLUR".
 
-<!-- TODO(rws): Possibly omit the following instruction. -->
-<!-- (ct): omitted. -->
-<!-- Do not mark the articles "the" or "a" but rather omit these entirely. -->
 Do not change any affixes that have been added on a previous phase.
 
 Place a period at the end of each sentence, as in the original text. Don't forget to translate the title, if there is one. Downcase all content words, except proper names, which are to be left capitalized. Thus "Man" would become "man", "We" would become "we", but "John" would remain "John".

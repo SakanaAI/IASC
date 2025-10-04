@@ -68,10 +68,6 @@ Your task is to 'translate' the text under SAMPLE TEXT below. This text is itsel
 
 Any pronouns that you case mark should be presented in their lemma form with the case marking: e.g., "our-GEN" should become "we-GEN".
 
-<!-- TODO(rws): Possibly omit the following instruction. -->
-<!-- (ct): Omitted. Definiteness will be handled by another feature.
-Do not mark the articles "the" or "a" but rather omit these entirely. -->
-
 Do not change any affixes that have been added on a previous phase.
 
 Place a period at the end of each sentence, as in the original text. Don't forget to translate the title, if there is one. Downcase all content words, except proper names, which are to be left capitalized. Thus "Man" would become "man", "We" would become "we", but "John" would remain "John".

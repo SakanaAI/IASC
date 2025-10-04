@@ -90,20 +90,16 @@ Examples for various language configurations are given below:
 . ./modular_experiments/controlled_corpus_creation_claude_1.sh
 . ./modular_experiments/controlled_handbook_claude.sh
 ```
-<!-- Last stage found is infinitive. -->
 
 ## Run (morphosyntax)
 This workflow does not include instructions on phonotactics/phonology.
 The example below uses Claude as the LLM and the French-like feature sets.
 
-<!-- 1. `./modular_experiments/controlled_morphosyntax_claude_french.sh` -->
 - `./modular_experiments/controlled_morphosyntax/claude/french.sh`
 - `./modular_experiment_outputs_controlled/claude/french/metascripts/word_order.sh`
 - `./modular_experiment_outputs_controlled/claude/french/metascripts/morphosyntax_0_0_0.sh`
 - `./modular_experiment_outputs_controlled/claude/french/metascripts/morphosyntax_0_1_0.sh`
 - `./modular_experiment_outputs_controlled/claude/french/metascripts/morphosyntax_0_2_0.sh`
-
-<!-- Todo: Create a Python program to create the metascripts for every LLM and every language. -->
 
 A metascript `morphosyntax_0_0_0.sh` includes the following shell scripts (for now):
 - `./modular_experiment_outputs_controlled/claude/inclusive_exclusive_0_0_0/script.sh`
@@ -198,7 +194,6 @@ Next, add a code block to `llm_predict()` in `llm/llm.py` to run the LLM inferen
 Finally, add the newly added model name to the `--model` argument in the argument parser in `get_args()` in `modular_experiments/run_morphosyntax.py`.
 
 ## Run translation
-
 `modular_experiments/controlled_translation_claude.sh` gives an illustration of how to translate a new text into the target language. This can then
 be followed by `modular_experiments/controlled_corpus_creation_claude_3.sh`, which will add new words to the lexicon and produce a written
 corpus of the new translation using the language's orthography. This assumes you
@@ -213,10 +208,6 @@ which uses the Latin script.
     If any of the preceding tasks did not run successfully, you do not get the output.
     Make sure that the preceding tasks are successfully executed.
 
-## What we want to do from now
-The task we are implementing is to have LLMs construct a language that follows the instructions/specifications given by the user about the language.
-In particular, one of the hard issues in this task is that the model has to modify the morphosyntax of the input language (English, in our experiments) to the one that meets the specifications.
-Since there is currently no evaluation data for this task, we need to create one.
 
 # Evaluation data
 The structure of the evaluation is as follows:
@@ -226,6 +217,10 @@ The structure of the evaluation is as follows:
 - Output:
   - output text (str): The output text as a gloss.
 
+Let's say that the input text is "He is the smartest student in our school." and the input features are the French-like set.
+Then, the output should be something like "he be-PRES-3SG the student-SING smart-SUP in we-GEN school."
+
+<!--
 An example French-like input feature set looks like this:
 ```
 def sample_params_french():
@@ -251,9 +246,7 @@ def sample_params_french():
         )
     )
 ```
-
-Let's say that the input text is "He is the smartest student in our school." and the input features are the French-like set.
-Then, the output should be something like "he be-PRES-3SG the student-SING smart-SUP in we-GEN school."
+-->
 
 # Publication
 

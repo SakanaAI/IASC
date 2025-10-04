@@ -1,12 +1,7 @@
 <INSTRUCTIONS>
-We are going to develop a 'translator' for our ConLang, which will 'translate'
-from English sentences into an abstract language that has English content words,
-but may mark them with additional morphosyntactic information, and where the
-English phrases may be reordered.
+We are going to develop a 'translator' for our ConLang, which will 'translate' from English sentences into an abstract language that has English content words, but may mark them with additional morphosyntactic information, and where the English phrases may be reordered.
 
-Morphosyntactic markers may show up as affixes or separate words. For affixes,
-our convention for marking suffixes is to place a dash before the affix, and
-for prefixes to place a dash after the affix:
+Morphosyntactic markers may show up as affixes or separate words. For affixes, our convention for marking suffixes is to place a dash before the affix, and for prefixes to place a dash after the affix:
 
 "-XXX" is a suffix: when one attaches "-XXX" to "word", one gets "word-XXX"
 
@@ -14,28 +9,20 @@ for prefixes to place a dash after the affix:
 
 In this stage we will consider the strategy of voice marking on a verb.
 
-Grammatical voice refers to the way a language expresses the relationship
-between the action of a verb and the participants (subject, object, etc.)
-involved in that action.
+Grammatical voice refers to the way a language expresses the relationship between the action of a verb and the participants (subject, object, etc.) involved in that action.
 
 Consider the example English sentences below:
 
 - Active voice: "John chases Mike."
 - Passive voice: "John is chased by Mike."
 
-In a language that marks active and passive voice with a suffix, then our
-example sentence above in active voice would be: John chase-ACT Mike.
-In passive voice, it would be: Mike chase-PASS by John (we are not considering
-tense and person agreement marking here).
+In a language that marks active and passive voice with a suffix, then our example sentence above in active voice would be: John chase-ACT Mike. In passive voice, it would be: Mike chase-PASS by John (we are not considering tense and person agreement marking here).
 
-Languages may also not mark active or passive voice grammatically at all,
-in which case we specify "NONE".
+Languages may also not mark active or passive voice grammatically at all, in which case we specify "NONE".
 
-For voice, our language marks has "{{voice}}". and these features are marked by
-"{{voice_marking_strategy}}".
+For voice, our language marks has "{{voice}}". and these features are marked by "{{voice_marking_strategy}}".
 
-If the above voice marking is not "NONE", then be sure to pay attention to whether voice is specified as prefixes, suffixes, prepositional words, or postpositional words.
-On the other hand, if the above voice marking is "NONE", then there is no voice marking in the language, and a passivized source sentence should be translated as an active sentence. For example, "John is chased by Mike." would be interpreted as "Mike chases John."
+If the above voice marking is not "NONE", then be sure to pay attention to whether voice is specified as prefixes, suffixes, prepositional words, or postpositional words. On the other hand, if the above voice marking is "NONE", then there is no voice marking in the language, and a passivized source sentence should be translated as an active sentence. For example, "John is chased by Mike." would be interpreted as "Mike chases John."
 
 Your task is to 'translate' the text under SAMPLE TEXT below. This text is itself a translation of an original text that you did on the previous round. This original text is given under ORIGINAL TEXT for your reference, but you should use the SAMPLE TEXT as the starting point.
 

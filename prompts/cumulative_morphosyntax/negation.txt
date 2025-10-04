@@ -20,7 +20,6 @@ With a postpositional word, we would have: I eat NEG fish.
 Our language marks negation by "{{negation}}", and it is marked by "{{negation_marking_strategy}}".
 
 Your task is to 'translate' the text under SAMPLE TEXT below. This text is itself a translation of an original text that you did on the previous round. This original text is given under ORIGINAL TEXT for your reference, but you should use the SAMPLE TEXT as the starting point.
-<!-- ct: added instruction below -->
 Only modify the sentences that are already negated in the original text.
 Do not change any affixes that have been added on a previous phase.
 

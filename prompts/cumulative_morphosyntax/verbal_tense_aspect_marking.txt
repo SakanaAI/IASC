@@ -58,10 +58,6 @@ Your task is to 'translate' the text under SAMPLE TEXT below. This text is itsel
 
 Any verbs you mark for tense should have tense information removed and thus appear in their lemma form, except that you shouldn't remove negative affixes like "n't" from modal verbs!  Thus "ate-PAST" would become "eat-PAST".
 
-<!-- TODO(rws): Possibly omit the following instruction. -->
-<!-- (ct): Ommited.
-Do not mark the articles "the" or "a" but rather omit these entirely.
--->
 Do not change any affixes that have been added on a previous phase.
 
 Place a period at the end of each sentence, as in the original text. Don't forget to translate the title, if there is one. Downcase all content words, except proper names, which are to be left capitalized. Thus "Man" would become "man", "We" would become "we", but "John" would remain "John".
