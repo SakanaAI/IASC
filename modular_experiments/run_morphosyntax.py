@@ -17,22 +17,20 @@ Edit by Chihiro:
 - Change the indent style from 2 spaces to 4 spaces.
 - Remove unused imports.
 """
-# TODO list:
-# - Add a evaluation script creation function.
-# - Add a functionality to create scripts for all models and all languages at once.
 
 import sys
 import os
 sys.path.append(os.path.abspath("."))
 import copy
 from jinja2 import Template
-# from llm import llm
-# from modular_experiments.morphosyntax_params import PARAMS, SAFE_PARAMS
-from modular_experiments import morphosyntax_params
-from utils.common_utils import find_last_stage
-from typing import Any, Dict, Tuple
+from typing import Any, Dict, Tuple, Optional
 import argparse
 import glob
+
+
+# local imports
+from modular_experiments import morphosyntax_params
+from utils.common_utils import find_last_stage
 
 
 def get_args() -> argparse.Namespace:
@@ -110,7 +108,6 @@ def get_args() -> argparse.Namespace:
         required=False,
         help="Path to the reference glosses file for evaluation.",
     )
-    # Add more arguments as needed.
 
     return parser.parse_args()
 
@@ -120,8 +117,8 @@ def story_path(story: str,
     """Creates the path to the story file.
 
     Args:
-        storydir: Directory containing the stories.
         story: Name of the story to use.
+        storydir: Directory containing the stories.
     Returns:
         Path to the story file.
     """
@@ -135,15 +132,19 @@ COMMON_ARGS = Template("""    --model="{{model}}" \\
     --num_iterations=1"""
     )
 
+
 CREATE = "python3 create/create.py"
 
-def create_common_args(open_ai_api_key: str | None,
+
+def create_common_args(open_ai_api_key: Optional[str],
                        model: str,
                        story: str,
                        storydir: str) -> str:
     """Creates the common set of arguments used by the experiments.
 
     Args:
+        open_ai_api_key: OpenAI API key for the model.
+        model: Model to use for the experiments.
         story: Name of the story to use.
         storydir: Directory containing the stories.
     Returns:
@@ -161,14 +162,16 @@ def create_output_dir(model: str,
                       stage: str,
                       setting_number: int,
                       iter_number: int,
-                      premade_params_language: str | None) -> str:
+                      premade_params_language: Optional[str] = None) -> str:
     """Creates the output directory for the experiment.
 
     Args:
-        stage: Morphosyntactic stage of the experiment.
-        setting_number: Which of the n settings in the parameters for this stage we
-        are using.
-        iter_number: Which iteration of the setting out of NUM_ITER.
+        model: Model to use for the experiments.
+        modular_experiment_outputs: Subdirectory for the experimental data.
+        stage: Which morphosyntactic stage we are at.
+        setting_number: Which setting number we are at.
+        iter_number: Which iteration number we are at.
+        premade_params_language: Language for the premade parameters.
     Returns:
         Path to created output directory.
     """
@@ -247,20 +250,18 @@ LANGUAGE_TO_PARAMS = {
 def run_word_order_experiment(story: str,
                               storydir: str,
                               model: str,
-                            #   use_safe_params: bool,
                               num_iter: int,
                               metascript_dir: str,
                               modular_experiment_outputs: str,
-                              open_ai_api_key: str | None,
-                              run_commands: bool,
-                              premade_params_language: str) -> Dict[str, Any]:
+                              premade_params_language: str,
+                              open_ai_api_key: Optional[str],
+                              run_commands: bool = False) -> Dict[str, Any]:
     """First stage: Run the word order experiments.
 
     Args:
         story: Name of the story to use.
         storydir: Directory containing the stories.
         model: Model to use for the experiments.
-        use_safe_params: **DEPRECATED** Whether to use the 'safe' parameters.
         num_iter: Number of iterations for each setting.
         metascript_dir: Directory to store the metascripts.
         modular_experiment_outputs: Subdirectory for the experimental data.
@@ -294,7 +295,6 @@ def run_word_order_experiment(story: str,
         stage_params = [stage_params]
     for setting_number, features in enumerate(stage_params):
         # `params` are already model_dump()-ed; of type dict
-        # print(features)
         main_word_order = features["main_word_order"]
         adj_noun_word_order = features["adj_noun_word_order"]
         posspron_noun_word_order = features["posspron_noun_word_order"]
@@ -345,23 +345,11 @@ def run_word_order_experiment(story: str,
     return word_order_params
 
 
-# TODO: Maybe modify this? This corresponds to the original `InflectionBundle` class
-# The original `InflectionBundle` class contains the following fields:
-# - inclusive_exclusive
-# - nominal_number_marking
-# - nominal_case_marking
-# - verbal_tense_aspect_marking
-# - verbal_person_agreement
-# - extras
-
-# one stage corresponds to one LLM inference.
 STAGES = [
     "inclusive_exclusive",
     "negation",
     "nominal_number",
-    # "gender", # we don't do gender for now
-    "definiteness", # new
-    # "pro_drop", # let's not do pro-drop for now
+    "definiteness",
     "adjective_agreement",
     "comparative",
     "case",
@@ -374,26 +362,16 @@ STAGES = [
     "extras",
 ]
 
-# new one, based on the `Morphosyntax` class
-# keys are stages (defined in morphosyntax_params.py), and
-# flags are for command line arguments in the generated scripts.
 STAGE_FLAGS = {
     "inclusive_exclusive": "inclusive_exclusive",
     "negation": "negation",
     "nominal_number": "nominal_number",
-    # "nominal_number_marking": "number",
     "definiteness": "definiteness",
-    # "definiteness_marking_strategy": "definiteness_marking_strategy",
-    # "pro_drop": "pro_drop", # skipped for now
     "adjective_agreement": "adjective_agreement",
     "case": "case",
     "tense_aspect": "tense_aspect_marking",
     "mood": "mood",
-    # "verbal_tense_aspect_marking": "tense_aspect",
-    # "person": "person_agreement",
     "person": "person",
-    # "verbal_person_agreement": "person",
-    # "gender": "gender_marking",
     "voice": "voice",
     "relativization": "relativization",
     "infinitive": "infinitive",
@@ -417,7 +395,6 @@ def get_flag(stage: str) -> str:
     return STAGE_FLAGS[stage]
 
 
-# TODO: Modify
 def run_stage(stage: str,
               story: str,
               model: str,
@@ -433,11 +410,14 @@ def run_stage(stage: str,
     Args:
         stage: Which morphosyntactic stage we are at.
         story: Name of the story to use.
+        model: Model to use for the experiments.
         new_directory: Directory for this stage on this iteration.
         previous_translation: Path to previous translation.
         params: Params specific to this stage.
         previous_params: Cumulated parameters up to now.
         storydir: Directory containing the stories.
+        open_ai_api_key: OpenAI API key for the model.
+        run_commands: Whether to actually run the commands.
     Returns:
         Tuple of parameters up to this stage, the path to the
         output for the next phase, and the script produced.
@@ -461,7 +441,7 @@ def run_stage(stage: str,
     # then, later in create.py, we will have to reconstruct the original dict in the cumulative_morphosyntax_params(),
     # which maps the cmd flag name to the actual parameter and will be called in create.py().
 
-    print(f"{stage}: {stage_params}") # debug
+    print(f"{stage}: {stage_params}")  # debug
 
     previous_params[stage] = stage_params
     previous_params = dump_params(
@@ -482,7 +462,7 @@ def run_stage(stage: str,
         f'   --previous_translation="{previous_translation}"',
     ]
     if flag:
-        cmd.append(f'    --{flag}="{str(stage_params)}"') # This is typically added for morphological stages.
+        cmd.append(f'    --{flag}="{str(stage_params)}"')  # This is typically added for morphological stages.
     cmd = " \\\n".join(cmd)
     if run_commands:
         os.system(cmd)
@@ -496,8 +476,9 @@ def run_rest(story: str,
              model: str,
              word_order_params: Dict[str, Any],
              metascript_dir: str,
-            #  use_safe_params: bool,
-             premade_params_language: str) -> None:
+             premade_params_language: str,
+             open_ai_api_key: Optional[str] = None,
+             run_commands: bool = False) -> None:
     """Run the rest of the morphosyntactic construction.
 
     Args:
@@ -506,7 +487,8 @@ def run_rest(story: str,
         model: Model to use for the experiments.
         word_order_params: Parameters from the previous word-order run.
         metascript_dir: Directory to store the metascripts.
-        use_safe_params: Whether to use the 'safe' parameters.
+        open_ai_api_key: OpenAI API key for the model.
+        run_commands: Whether to actually run the commands.
     """
     try:
         params = LANGUAGE_TO_PARAMS[premade_params_language]().model_dump()
@@ -541,6 +523,8 @@ def run_rest(story: str,
                     params=features,
                     previous_params=previous_params,
                     storydir=storydir,
+                    open_ai_api_key=open_ai_api_key,
+                    run_commands=run_commands
                 )
                 scripts.append(script)
             cmd = "\n".join(scripts)
@@ -578,12 +562,14 @@ def run_evaluation(output_dir: str,
 
     for i in range(num_iter):
         prediction_file = os.path.join(script_dir, f"{last_stage}_0_{i}_0", prediction_file_name)
-        # TODO: Create the evaluation script.
         # In evaluation/eval_morphosyntax.py, add a step to structuralize the output text for output format standardization.
         # Then, based on the JSON structured data, run the evaluation.
         results_file = os.path.join(script_dir, f"structured_result_0_{i}_0.csv")
-        # scores_file = os.path.join(script_dir, f"scores_0_{i}_0.json")
-        scores_file = os.path.join("evaluation", "results", model, premade_params_language, f"scores_0_{i}.json")
+        scores_file = os.path.join("evaluation",
+                                   "results",
+                                   model,
+                                   premade_params_language,
+                                   f"scores_0_{i}.json")
         if not os.path.exists(os.path.dirname(scores_file)):
             os.makedirs(os.path.dirname(scores_file), exist_ok=True)
         scripts = [
@@ -609,30 +595,6 @@ def new_directory(directory: str,
     return f"{directory}_{idx}"
 
 
-# TODO: Delete the comments below when solved
-# Create meta scripts for running first the word order, then the individual
-# strands.
-# def main(unused_argv):
-#   global METASCRIPT_DIR
-#   METASCRIPT_DIR = os.path.join(
-#     MODULAR_EXPERIMENT_OUTPUTS.value,
-#     MODEL.value,
-#     "metascripts",
-#   )
-#   try:
-#     os.makedirs(METASCRIPT_DIR)
-#   except FileExistsError:
-#     pass
-#   word_order_params = run_word_order_experiment(
-#     story=STORY.value,
-#     storydir=STORYDIR.value,
-#   )
-#   run_rest(
-#     story=STORY.value,
-#     storydir=STORYDIR.value,
-#     word_order_params=word_order_params,
-#   )
-
 def main(args: argparse.Namespace) -> None:
     """Main function."""
     # test
@@ -652,7 +614,6 @@ def main(args: argparse.Namespace) -> None:
         story=args.story,
         storydir=args.storydir,
         model=args.model,
-        # use_safe_params=args.use_safe_params,
         num_iter=args.num_iter,
         metascript_dir=metascript_dir,
         modular_experiment_outputs=args.modular_experiment_outputs,
@@ -668,7 +629,6 @@ def main(args: argparse.Namespace) -> None:
         model=args.model,
         word_order_params=word_order_params,
         metascript_dir=metascript_dir,
-        # use_safe_params=args.use_safe_params,
         premade_params_language=args.premade_params_language,
     )
 
