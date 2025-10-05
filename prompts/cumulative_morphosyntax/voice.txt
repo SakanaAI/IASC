@@ -13,8 +13,8 @@ Grammatical voice refers to the way a language expresses the relationship betwee
 
 Consider the example English sentences below:
 
-- Active voice: "John chases Mike."
-- Passive voice: "John is chased by Mike."
+ACT:    Active voice. e.g. "John chases Mike."
+PASS:   Passive voice. e.g. "John is chased by Mike."
 
 In a language that marks active and passive voice with a suffix, then our example sentence above in active voice would be: John chase-ACT Mike. In passive voice, it would be: Mike chase-PASS by John (we are not considering tense and person agreement marking here).
 

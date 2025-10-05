@@ -34,7 +34,9 @@ A subset of the lexicon with terms needed for the sample story is as follows:
 
 The morphosyntactic description on which you based your morphosyntax was as
 follows. Below I remind you what the different annotations mean, and which
-particular annotations were chosen for our language:
+particular annotations were chosen for our language. If a specification says
+"NONE", then it means that the morphosyntax in the language does not mark
+the feature morphologically.
 
 NOMINAL MARKING
 
@@ -42,7 +44,9 @@ Number:
 SING: Singular	(one)
 PLUR: Plural    (more than one)
 DUAL: Dual      (exactly two)
-Our language has: "{{number_marking}}".
+PAUC: Paucal    (a few)
+Our language has: "{{nominal_number}}".
+Nominal number is marked by "{{nominal_number_marking_strategy}}".
 
 Case:
 NOM-ACC or ERG-ABS
@@ -52,28 +56,49 @@ LOC:	Locative: E.g. "in Rome" -> "Rome-LOC"
 ABL:	Ablative: E.g. "by Rome"/"with Rome" -> "Rome-ABL"
 INS:	Instrumental: E.g. "with glue" -> "glue-INS"
 Our language has "{{case_marking}}" case marking.
+Case marking is marked by "{{case_marking_strategy}}".
+Oblique noun phrases are marked by "{{oblique_case_marking}}".
+
+Definiteness:
+DEF:    Definite. E.g. "the cat" -> "DEF cat"
+INDEF:  Indefinite. E.g. "a cat" -> "INDEF cat"
+Our language has "{{definiteness}}".
+In/definiteness is marked by "{{definiteness_marking_strategy}}".
+In addition, definiteness marking in our language agrees with "{{definiteness_agreement}}".
+
+ADJECTIVAL MARKING
+
+Adjective agreement:
+Agreement on adjective modifiers refers to a grammatical phenomenon where an adjective changes its form to match certain features of the noun it modifies, such as:
+- Number (e.g., singular, plural)
+- Case (e.g., nominative, accusative, etc.)
+- Definiteness
+In our language, adjective modifiers show agreement for "{{adjective_agreement}}".
+The adjective agreement is marked by "{{adjective_agreement_marking_strategy}}".
+
+Comparative:
+COMP:   Comparative degree. E.g. "higher" -> "high-COMP"
+SUP:    Superlative degree. E.g. "highest" -> "high-SUP"
+EQU:    Equative degree. E.g. "as high (as)" -> "high-EQU (as)"
+Our language marks "{{comparative}}".
+Comparatives are marked by "{{comparative_marking_strategy}}".
 
 VERBAL MARKING
 
 Tense-Aspect:
-PRES:    Present tense. E.g. "goes" -> "go-PRES"
-PAST:    Past tense. E.g. "went" -> "go-PAST"
-FUT:	 Future tense. E.g. "will go" -> "go-FUT"
-REMPAST: Remote past. E.g. "went (a long time ago)" -> "go-REMPAST"
-IMPF: Imperfective.	       E.g. "went" -> "go-IMPF"
-PERF: Perfective.	       E.g. "has gone" -> "go-PERF"
-
+PRES:       Present tense. E.g. "goes" -> "go-PRES"
+PAST:       Past tense. E.g. "went" -> "go-PAST"
+FUT:	    Future tense. E.g. "will go" -> "go-FUT"
+IMPERF:     Imperfect tense. E.g. "was going" or "used to go" -> "go-IMPERF"
+IMMPAST:    Immediate past. E.g. "went (just now)" -> "go-IMMPAST"
+RECPAST:    Recent past. E.g. "went (recently)" -> "go-RECPAST"
+REMPAST:    Remote past. E.g. "went (a long time ago)" -> "go-REMPAST"
+IMPF:       Imperfective aspect. E.g. "went" -> "go-IMPF"
+PERF:       Perfective aspect. E.g. "has gone" -> "go-PERF"
 Our language marks "{{tense_aspect}}".
+Tense and aspect are marked by "{{tense_aspect_marking_strategy}}".
 
-Head marking and/or person agreement:
-VNOM:  Nominative. E.g. "John leaves" -> "John leave-VNOM"
-VACC:  Accusative. E.g. "see the dog" -> "see-VACC dog"
-VERG:  Ergative. E.g. "John eats something" -> "John eat-VERG"
-VABS:  Absolutive. E.g. "see the dog" -> "see-VABS dog";  "John leaves" -> "John leave-VABS"
-VDAT:  Dative. E.g. "give to the dog " -> "give-VDAT dog"
-
-Or a more detailed person-agreement system such as:
-
+Person marking:
 1SGNOM:	   1st person singular nominative: E.g. "I leave" -> "I leave-1SGNOM"
 2SGNOM:	   2nd person singular nominative: E.g. "thou leavest" -> "thou leave-2SGNOM"
 3SGNOM:	   3rd person singular nominative: E.g. "John leaves" -> "John leave-3SGNOM"
@@ -85,7 +110,38 @@ or
 1SGERG:	   1st person singular ergative: E.g. "I see" -> "I see-1SGERG"
 1SGABS:	   1st person singular ergative: E.g. "I run" -> "I run-1SGABS"; "see me" -> "see-1SGABS me"
 
-Our language marks "{{head_marking}}".
+Our language marks "{{person_agreement}}".
+Person agreement is marked by "{{person_marking_strategy}}".
+Similarly, our language marks verbal number for "{{verbal_number_agreement}}".
+Verbal number agreement is marked by "{{verbal_number_marking_strategy}}".
+
+Mood:
+IND:    Indicative mood. E.g. "you go to school." -> "you go-IND to school."
+IMP:    Imperative mood. E.g. "Go to school!" -> "go-IMP to school!"
+SUB:    Subjunctive mood. E.g. "(I hope that) you go to school." -> "you go-SUB to school."
+COND:   Conditional mood. E.g. "(If you had a chance,) you would go to school." -> " "you go-COND to school."
+Our language marks "{{mood}}".
+Grammatical mood is marked by "{{mood_marking_strategy}}".
+
+Voice:
+ACT:    Active voice. e.g. "John chases Mike."
+PASS:   Passive voice. e.g. "John is chased by Mike."
+Our language marks "{{voice}}".
+Grammatical voice is marked by "{{voice_marking_strategy}}".
+
+Infinitive:
+INF:    Infinitive.
+Our language marks "{{infinitive}}".
+Infinitive is marked by "{{infinitive_marking_strategy}}".
+
+Negation:
+Our language marks negation (NEG) by "{{negation}}".
+
+Relativization:
+Our language marks relativization (REL) by (1) "{{relativization_order}}" with a (2) "{{relativization_marking}}" (3) "{{relativizer_position}}" (4) "{{relativizer_morpheme}}".
+For example, let's say we have a relativized phrase "The book that I read was fascinating".
+- In a language that introduces a relative clause in (1) head-initial order with a (2) head-marking (3) postpositional (4) word, we would have: "book REL I read was fascinating".
+- In a language that introduces a relative clause in (1) head-final order with a (2) dependent-marking (3) postpositional (4) affix, we would have: "I read-REL book was fascinating."
 
 In addition to the above, you may have invented some further morphosyntactic
 markers, which you can discover in the lexicon in all upper-case entries.
@@ -115,58 +171,6 @@ spoken to a group of people, would have "we" translated as "1PLINCL".
 
 Our language has: "{{inclusive_exclusive}}".
 
-GENDER
-
-Many languages have grammatical gender, as distinct from the natural gender
-exhibited in English. Well-known examples include Masculine-Feminine gender
-systems of Romance languages; the Masculine-Feminine-Neuter system of German or
-Russian; or the Common-Neuter system in Dutch or in some Scandinavian
-languages. Many languages of Africa have non-sex-based gender systems. Since
-sex-based systems are the majority (75% of the sample of gendered languages in
-the World Atlas of Language Structures), we will assume a gender-based
-system. Options are:
-
-MASC:	Masculine:	E.g. John-MASC, pumpkin-MASC
-FEM:	Feminine:	E.g. Sally-FEM, sea-FEM
-NEUT:	Neuter:		E.g. snake-NEUT
-COMM:	Common gender:	E.g. John-COMM, Sally-COMM
-
-The following gendered systems are possible:
-
-1. MASC, FEM
-2. MASC, FEM, NEUT
-3. COMMON, NEUT
-
-For personal names, gender appropriate affixes were chosen. For common nouns,
-since English does not have gender, you made a decision as to what gender to
-assign to the noun, with the injunction: be creative, but be consistent!
-
-Our language marks "{{gender_marking}}".
-
-NUMERAL CLASSIFIERS
-
-Many languages have classifiers that go with numbers, and mark the type of noun
-associated with the number.
-
-There are a variety of classifier systems, with some languages like Japanese, or
-Chinese, having dozens of classifiers. Classifiers are usually semantically
-based, depending on visual or taxonomic features of the noun's meaning.
-
-A typical classifier system might include:
-
-CLFLAT:	  Used with flat objects like paper:		  three CLFLAT paper   "3 pieces of paper"
-CLROUND:  Used with round objects like coins:		  twenty CLROUND coin  "20 coins"
-CLLONG:	  Used with long objects like string, or rivers:  one CLLONG string "1 piece of string"
-CLANIMAL: Used with animals:				  two CLANIMAL cow  "2 cows"
-
-Since the set of possible classifiers is rather open ended, I am simply going to
-tell you if our language (a) HAS_CLASSIFIERS or (b) NONE (= no classifiers).
-You based your classifier system on what you know about classifiers in languages
-that you have read about. The classifier should be introduced between the noun
-and the number in your translation.
-
-For our language: "{{numeral_classifier}}".
-
 6. SYNTAX/WORD ORDER
 
 Main:
@@ -185,11 +189,21 @@ Adposition-Noun:
 PN: "on table"
 NP: "table on"
 
+PossessivePronoun-Noun:
+PossN: "his book"
+NPoss: "book his"
+
+Numeral-Noun:
+NumN: "three books"
+NNum: "books three"
+
 Our language has
 
 "{{main_word_order}}" main word order.
 "{{adj_noun_word_order}}" adjective-noun word order.
 "{{adposition_noun_word_order}}" adposition-noun word order.
+"{{posspron_noun_word_order}}" possessive pronoun-noun word order.
+"{{num_noun_word_order}} numeral-noun word order.
 
 7. TEXTS
 

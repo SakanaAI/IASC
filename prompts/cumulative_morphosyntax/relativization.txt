@@ -12,7 +12,7 @@ Consider example English sentences below:
 
 I read a book. The book was fascinating.
 
-In English, "book" can be relativized as: The book that I read was fascinating. In this example, "that" is the relativizer, and "that I read" is the relative clause.
+In English, "book" can be relativized as: "The book that I read was fascinating." In this example, "that" is the relativizer, and "that I read" is the relative clause.
 
 There are four variables to consider in the typology of relativization: (1) head-initial or head-final, (2) head-marking or dependent-marking, (3) marking position (prepositional or postpositional), and (4) morpheme (word or affix).
 Here are some examples:
@@ -22,7 +22,7 @@ In a language that introduces a relative clause in (1) head-final order with a (
 
 Note that adjectival modification on a noun is not relativization. Therefore, in the first example language above, "fascinating book" would just be "fascinating book", and not "book REL fascinating".
 
-Our language marks negation by (1) "{{relativization_order}}" with a (2) "{{relativization_marking}}" (3) "{{relativizer_position}}" (4) "{{relativizer_morpheme}}".
+Our language marks relativization by (1) "{{relativization_order}}" with a (2) "{{relativization_marking}}" (3) "{{relativizer_position}}" (4) "{{relativizer_morpheme}}".
 
 Your task is to 'translate' the text under SAMPLE TEXT below. This text is itself a translation of an original text that you did on the previous round. This original text is given under ORIGINAL TEXT for your reference, but you should use the SAMPLE TEXT as the starting point.
 

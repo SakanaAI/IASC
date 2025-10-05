@@ -20,7 +20,7 @@ COND:   Conditional mood. E.g. "(If you had a chance,) you would go to school." 
 
 A language may also not mark for mood at all.
 
-Our language marks "{{mood}}".
+Our language marks "{{mood}}", and mood is marked by "{{mood_marking_strategy}}".
 
 If the above specification for tense/aspect is not "NONE", then be sure to pay attention to whether the tense/aspect markers are specified as prefixes or suffixes.
 
