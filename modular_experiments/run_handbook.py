@@ -28,7 +28,7 @@ LANGUAGES = flags.DEFINE_list(
 )
 SCRIPTS = flags.DEFINE_list(
     "scripts",
-    ["Latin", "Cyrillic", "Arabic", "Greek"],
+    ["Latin", "Cyrillic", "Arabic", "Greek", "Hangul Jamo"],
     "List of scripts to base the orthography on.",
 )
 MORPHOSYNTAX_LANGUAGE = flags.DEFINE_string(
