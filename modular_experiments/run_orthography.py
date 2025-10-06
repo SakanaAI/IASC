@@ -33,7 +33,7 @@ MORPHOSYNTAX_LANGUAGE = flags.DEFINE_string(
 )
 SCRIPTS = flags.DEFINE_list(
     "scripts",
-    ["Latin", "Cyrillic", "Arabic", "Greek"],
+    ["Latin", "Cyrillic", "Arabic", "Greek", "Hangul Jamo"],
     "List of scripts to base the orthography on.",
 )
 MODULAR_EXPERIMENT_OUTPUTS = flags.DEFINE_string(
