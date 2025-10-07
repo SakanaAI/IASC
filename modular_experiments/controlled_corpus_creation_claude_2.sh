@@ -16,10 +16,10 @@ STORIES="${STORIES},llm_stories/story_the_two_towers.txt"
 STORIES="${STORIES},llm_stories/story_a_clear_day_in_spring.txt"
 BASE="modular_experiment_outputs_controlled/${MODEL}"
 MDIR="${BASE}/arabic/relativization_0_0_0/"
-TRANS="${MDIR}/sentence_design_output.txt"
+TRANS="${MDIR}/grammatical_test_sentences.txt"
 TRANS="${TRANS},${MDIR}/story_the_two_towers_translation.txt"
 TRANS="${TRANS},${MDIR}/story_a_clear_day_in_spring_translation.txt"
-PHONOTACTICS="${BASE}/phonology/Japanese/phonotactics_09.py"
+PHONOTACTICS=$(ls -t ${BASE}/phonology/Japanese/phonotactics_*.py | sed 1q)
 OUTDIR="${MDIR}/Japanese/Latin"
 ORTHOGRAPHY="${OUTDIR}/orthography.py"
 python3 corpus/construct_corpus.py \

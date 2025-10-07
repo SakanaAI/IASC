@@ -10,9 +10,9 @@ STORIES=llm_stories
 # Two examples one might use to illustrate the translation of DUAL:
 STORY=story_the_two_towers
 STORY=story_a_clear_day_in_spring
-ODIR=$(ls -td modular_experiment_outputs_controlled/claude/arabic/* | sed 1q)
+ODIR=$(ls -td modular_experiment_outputs_controlled/claude/arabic/*0_0_0 | sed 1q)
 SAMPLE_TEXT=sentence_design_output/grammatical_test_sentences.txt
-TRANSLATION="${ODIR}/sentence_design_output.txt"
+TRANSLATION="${ODIR}/grammatical_test_sentences.txt"
 # Choose Japanese phonology and Latin Orthography
 HANDBOOK="${ODIR}/Japanese/Latin/handbook.txt"
 echo "Base translation is ${TRANSLATION}"
