@@ -1,0 +1,96 @@
+TITLE: A Grammar and Handbook of Sanalang
+
+PHONOLOGY
+
+Sanalang has a relatively simple phonological system consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language features several distinctive sounds, including the dental fricative /θ/, the palatal nasal /ɲ/, and the palatal lateral approximant /ʎ/. The presence of both a tap /ɾ/ and a trill /r/ is also noteworthy.
+
+Syllable structure appears to be primarily CV, though some consonant clusters are permitted.
+
+ORTHOGRAPHY
+
+Sanalang uses an Arabic-inspired script for its writing system. Each phoneme is represented by a unique character:
+
+Consonants:
+p پ, b ب, t ت, d د, k ک, g گ, f ف, θ ث, s س, x خ, tʃ چ,
+m م, n ن, ɲ ڽ, l ل, ʎ ڵ, ɾ ر, r ڕ, j ي, ʝ ژ
+
+Vowels:
+a ا, e ە, i ی, o ۆ, u و
+
+The script is written from right to left, following the Arabic tradition. Diacritical marks are not used, making the script relatively simple to learn and use.
+
+MORPHOSYNTAX
+
+Sanalang exhibits a rich morphological system, particularly in its verbal inflections:
+
+1. Nouns:
+   - Number: Singular (-nۆ) and plural (-ری) markers
+   - No case marking
+
+2. Verbs:
+   - Tense-aspect: Non-past (-سا), immediate past (-رۆ), recent past (-سا), remote past (-سی)
+   - Person agreement: 1SG (-دۆ), 2SG (-لی), 3SG (-سۆ), 1PL (-را), 3PL (-نۆس)
+   - Other markers: Relative clause (-لەس), Negative (-ران)
+
+3. Pronouns:
+   - Inclusive/exclusive distinction in first person plural (1PLINCL سی, 1PLEXCL نەر)
+
+4. Adjectives:
+   - Comparative (رە), Equative (رۆ), and Superlative (نا) forms
+
+5. Numeral classifiers are used, though specific forms are not provided in the lexicon.
+
+SYNTAX
+
+Sanalang follows an Object-Verb-Subject (OVS) word order for main clauses, which is relatively rare among the world's languages. Other syntactic features include:
+
+1. Adjective-Noun (AN) order
+2. Preposition-Noun (PN) order
+3. Relative clauses are formed using the suffix -لەس on the verb
+
+The language uses postpositions for some grammatical functions, such as سۆنا for "to" or "towards".
+
+EXAMPLE TEXT
+
+Here are a few example sentences from the provided text, showcasing various aspects of Sanalang grammar:
+
+1. سۆدی دەنۆ رە ەسسانۆ سۆلۆ ۆبرۆ سۆنانۆ وگنا نۆساساسۆلەس نۆساساسۆ
+   so.di de.no ɾe es.sa-no so.lo ob.ɾo so.na-no ug.na no.sa-sa-so-les no.sa-sa-so
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG
+   "He is the smartest student in our school."
+
+2. سۆلۆ سۆدی ارنونۆ سۆدی ەبداری نۆنەسانۆس
+   so.lo so.di aɾ.nu-no so.di eb.da-ɾi no.ne-sa-nos
+   in the park-SING the child-PLUR play-RECPAST-3PL
+   "The children played in the park."
+
+3. نۆلۆ ەرنا سەنو سۆدی ەترانۆ سالاساسۆ
+   no.lo eɾ.na se.nu so.di et.ɾa-no sa.la-sa-so
+   at eight o'clock the movie-SING start-NPAST-3SG
+   "The movie starts at eight o'clock."
+
+These examples demonstrate the OVS word order, noun and verb inflections, and the use of postpositions.
+
+LEXICON
+
+A small sample of the Sanalang lexicon:
+
+ەندە (en.de) - go
+نۆسا (no.sa) - be
+ەسسا (es.sa) - student
+سۆنا (so.na) - school
+ەترا (et.ɾa) - movie
+ارنو (aɾ.nu) - park
+ەبدا (eb.da) - child
+دەنۆ (de.no) - smart
+ۆبرۆ (ob.ɾo) - our
+سۆدی (so.di) - the
+سۆلۆ (so.lo) - in
+نۆلۆ (no.lo) - at
+
+This lexicon showcases some of the basic vocabulary of Sanalang, including nouns, verbs, adjectives, and grammatical particles.

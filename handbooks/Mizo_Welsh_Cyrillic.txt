@@ -1,0 +1,104 @@
+TITLE: A Grammar and Handbook of Krylovik
+
+PHONOLOGY
+
+Krylovik has a rich phonemic inventory consisting of 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+
+The language features several uncommon consonants, including the voiceless alveolar lateral fricative /ɬ/ and its devoiced counterpart /ɬ̥/, as well as a devoiced trill /r̥/. The presence of both dental and alveolar fricatives (/θ, ð/ and /s, z/) adds to the phonemic richness.
+
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The vowel system includes both tense and lax vowels, a central vowel /ə/, and three diphthongs. The high central vowel /ɨ/ is a relatively uncommon phoneme that adds to the language's distinctive sound.
+
+ORTHOGRAPHY
+
+Krylovik uses a modified Cyrillic alphabet for its orthography. Some notable features include:
+
+1. Use of 'ң' for the velar nasal /ŋ/
+2. 'ѳ' represents the voiceless dental fricative /θ/
+3. 'ђ' is used for the voiced dental fricative /ð/
+4. 'ԓ' represents the voiceless alveolar lateral fricative /ɬ/
+5. Diacritics are used to distinguish certain vowels: 'ӥ' for /ɪ/, 'ӧ' for /ɔ/, 'ӯ' for /ʊ/, 'ӕ' for /æ/
+
+The orthography aims to maintain a close correspondence between phonemes and graphemes, with a few digraphs for complex sounds like /tʃ/ (ч) and /dʒ/ (џ).
+
+MORPHOSYNTAX
+
+Krylovik exhibits an ergative-absolutive case system, marked by postpositional words. The main cases are:
+
+1. Ergative (ERG): нӕб
+2. Absolutive (ABS): му
+3. Genitive (GEN): (not shown in the sample, but mentioned as present)
+4. Instrumental (INS): һә
+
+The language lacks number marking on nouns but has a rich system of verbal agreement markers for person and number in both ergative and absolutive alignments. For example:
+
+- 1SGERG: (not shown in the sample, but part of the system)
+- 3SGABS: (not explicitly shown, but implied in verb forms)
+
+Other notable morphosyntactic features include:
+
+- Comparative marker (COMP): мән
+- Equative marker (EQU): гэг
+- Superlative marker (SUP): ӥк
+- Negation suffix: -ек
+- Relativizer suffix: -но
+
+The language uses classifiers with numbers, though no examples were provided in the sample text.
+
+SYNTAX
+
+Krylovik has an Object-Subject-Verb (OSV) word order for main clauses. This is a relatively rare word order cross-linguistically, found in only about 0.3% of the world's languages.
+
+Adjectives follow the nouns they modify (NA order), and adpositions are postpositions (NP order). For example:
+
+- ѳркус мән хэсә (smart COMP student) "smarter student"
+- флдән-но (in-REL) "in which"
+
+The language uses postpositional words for case marking, which appear after the noun phrase they modify.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthographic transcription, gloss, and English translation:
+
+1. Ўэсу гўрӥт скчӥд крԓомно гэсе ђӯфи ѳргихи гэг гэсе лӧнэ му рәђу снпӧр грнайм лаўбэн.
+   new phone old model-REL as twice expensive EQU as the ABS is with third singular
+   "The new phone is twice as expensive as the old model."
+
+2. Һӧфффи снлӯб мән кӥвӧ нӕб йӥђино йане му рәђу снпӧр грнайм лаўбэн.
+   delicious cake COMP i ERG tasted-REL this ABS is with third singular
+   "This is the most delicious cake I have tasted."
+
+3. Крдэр му флдән бәмо му кўдың снпӧр грнайм стсик.
+   wind ABS in leaves ABS rustled with third plural
+   "The leaves rustled in the wind."
+
+These examples showcase the OSV word order, postpositional case marking, and the use of various morphosyntactic features like the comparative marker and relativizer.
+
+LEXICON
+
+A small sample of the Krylovik lexicon:
+
+ўэсу - new
+гўрӥт - phone
+скчӥд - old
+крԓом - model
+ђӯфи - twice
+ѳргихи - expensive
+лӧнэ - the
+рәђу - is
+снпӧр - with
+грнайм - third
+лаўбэн - singular
+һӧфффи - delicious
+снлӯб - cake
+кӥвӧ - I
+йӥђи - tasted
+крдэр - wind
+бәмо - leaves
+кўдың - rustled
+стсик - plural
+
+This lexicon demonstrates some of the phonological and orthographic features of Krylovik, such as the use of special Cyrillic characters and diacritics.

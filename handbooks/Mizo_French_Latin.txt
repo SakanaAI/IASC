@@ -1,0 +1,96 @@
+TITLE: A Grammar and Handbook of Sénalang
+
+PHONOLOGY
+
+Sénalang has a rich phonological inventory with 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, as well as rounded front vowels (y, ø, œ) which are relatively uncommon cross-linguistically. The consonant inventory includes the uvular fricative ʁ and the palatal nasal ɲ, adding to the language's distinctive sound.
+
+ORTHOGRAPHY
+
+Sénalang uses a Latin-based alphabet with some diacritics to represent its sounds. Notable features include:
+
+- 'c' represents /k/
+- 'ch' represents /ʃ/
+- 'j' represents /ʒ/
+- 'ń' represents /ɲ/
+- 'r' represents /ʁ/
+- 'y' represents /j/
+- 'ü' represents /ɥ/
+- 'ou' represents /u/
+- 'oe' represents /œ/
+- 'eu' represents /ø/
+- Nasal vowels are marked with a cedilla: ą (/ɑ̃/), ǫ (/ɔ̃/), ę (/ɛ̃/)
+
+The orthography aims to be phonemic, with each letter or digraph corresponding to a single phoneme in most cases.
+
+MORPHOSYNTAX
+
+Sénalang exhibits an ergative-absolutive case system, marked by postpositional words. The main cases are:
+
+- Ergative (ERG): marked by 'é'
+- Absolutive (ABS): marked by 'tér'
+- Instrumental (INS): marked by 'ou'
+
+The language lacks grammatical gender and does not mark tense on verbs. However, it has a complex system of verbal agreement, marking both ergative and absolutive arguments on the verb for person and number.
+
+Other notable morphosyntactic features include:
+
+- Comparative (COMP): marked by 'rin'
+- Superlative (SUP): marked by 'ò'
+- Equative (EQU): marked by 'a'
+- Relative clause marker (REL): suffix '-è'
+- Negation (NEG): suffix '-ąr'
+
+Sénalang also employs numeral classifiers, although the specific classifiers are not detailed in the provided information.
+
+SYNTAX
+
+Sénalang has an unusual Object-Subject-Verb (OSV) word order for main clauses. This is a rare word order, found in only about 0.3% of the world's languages.
+
+Other syntactic features include:
+
+- Noun-Adjective (NA) order
+- Noun-Postposition (NP) order
+
+These word orders contribute to the language's head-final tendencies, which is consistent with its OSV main clause order.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showing the orthography, gloss, and English translation:
+
+1. Siché rin tisé sésa é rousa tér gltisè falè tér cèsé nèńa fisò trlin.
+   smart COMP student we ERG school ABS in-REL he ABS is with first singular
+   "We are smarter than the student who is in school."
+
+2. Gouja ò drjoes plcas é tér glyét dańòè grtit tér cèsé nèńa scsac trlin.
+   hot SUP day year ERG ABS so far-REL today ABS is with third singular
+   "Today is the hottest day of the year so far."
+
+3. Tanoe tér dépa cènu tér snnér gltis sprén nèńa scsac pldil.
+   trees ABS from leaves ABS autumn in fall with third plural
+   "Leaves fall from the trees in autumn."
+
+These examples demonstrate the OSV word order, case marking, and verbal agreement system of Sénalang.
+
+LEXICON
+
+A small sample of the Sénalang lexicon:
+
+neta - I
+brlar - you
+falè - he/she
+sésa - we
+saté - they
+cèsé - is/are
+crjor - go
+plsén - eat
+vrzit - want
+siché - smart
+dani - new
+gouja - hot
+méti - easy
+éząchę - delicious

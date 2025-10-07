@@ -1,0 +1,86 @@
+TITLE: A Grammar and Handbook of Neolekta
+
+PHONOLOGY
+
+Neolekta has a rich phonemic inventory consisting of 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features a contrast between voiced and voiceless consonants, as well as a three-way distinction in place of articulation for stops and fricatives (labial, coronal, and velar/uvular). The vowel system is particularly complex, with front rounded vowels and nasal vowels that are typical of languages like French.
+
+ORTHOGRAPHY
+
+Neolekta uses a modified Greek alphabet for its orthography. Some notable features include:
+
+- The use of 'ου' to represent /u/
+- Diacritics to represent nasal vowels (e.g., 'α̃' for /ɑ̃/)
+- The use of 'ϸ' and 'ϸ́' for /ʃ/ and /ʒ/ respectively
+- 'ϵ' represents /œ/ and /ø/
+
+This orthography allows for a unique visual representation while maintaining some connection to the Greek alphabet.
+
+MORPHOSYNTAX
+
+Neolekta exhibits a rich morphological system with both fusional and agglutinative features:
+
+1. Nouns are marked for number (singular -κε, plural -ϸα̃) and case (nominative -κε̃σ, accusative -εμ, dative -ϸερ, genitive -ο, ablative -ο, locative -α, instrumental -ε).
+
+2. Verbs are marked for tense (present -ι, past -νο̃λ, future -κε), mood (indicative -ουλ, conditional -δατ), person and number (e.g., 1SG -μα, 3PL -ελ), and voice (active -ουτ, passive -ε).
+
+3. The language uses suffixes for various grammatical functions, such as negation (-ε), relativization (-λϵν), and comparison (comparative ϵ, superlative σελ).
+
+4. Neolekta employs a complex system of verbal agreement, marking both subject and object on the verb.
+
+SYNTAX
+
+Neolekta follows an SOV (Subject-Object-Verb) word order, which is relatively uncommon among the world's languages. Other syntactic features include:
+
+1. Adjective-Noun order: Adjectives precede the nouns they modify.
+2. Postpositions: Adpositions follow their noun phrases, contrary to the more common prepositional structure.
+3. Relative clauses: Based on the examples, it appears that relative clauses follow their head nouns and are marked with the suffix -λϵν on the verb.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various features of Neolekta:
+
+1. Φριισκε̃σ ωεροο ραμεκεα ϵ γαμι βοδεκεκε̃σ ριβεκε̃σ δενοιουλλακουτ.
+   he-NOM we-GEN school-SING-LOC COMP smart student-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "He is the smartest student in our school."
+
+2. Λαρεκε̃σ βρτετκε̃σ το̃ϸειμαουτ λεραλϵν σελ ενϵνα μυλεκεκε̃σ ριβεκε̃σ δενοιουλλακουτ.
+   this-NOM i-NOM taste-PRES-1SG-ACT have-REL SUP delicious cake-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "This is the most delicious cake I have ever tasted."
+
+3. Ωεροκε̃σ γρβαμ βοσαο ρεκακεα λερε δϵσυισερουτ ιετο, τα̃κε τοδϵκεκε̃σ ριβεκε̃σ σπκεν δενοκεδατλακουτ.
+   we-NOM next week-GEN vacation-SING-LOC on go-PRES-1PL-ACT are, so office-SING-NOM the-NOM closed be-FUT-COND-3SG-ACT
+   "We are going on vacation next week, so the office would be closed."
+
+These examples demonstrate the SOV word order, case marking, verbal morphology, and other grammatical features of Neolekta.
+
+LEXICON
+
+A small sample of the Neolekta lexicon:
+
+βρτετ - I
+ν̃ιτε - you
+φριισ - he
+φρζϵτ - she
+ωερο - we
+ρενε̃ - they
+δενο - be
+δϵσυ - go
+σιϸι - play
+κλκερ - eat
+δρμεν - see
+λερα - have
+πρρατ - like
+κρνατ - need
+σνβεν - house
+ραμε - school
+τοδϵ - office
+μυλε - cake
+γρλϵρ - dog
+λυδου - cat
+
+This lexicon showcases some basic vocabulary items in Neolekta, illustrating the language's phonological and orthographic conventions.

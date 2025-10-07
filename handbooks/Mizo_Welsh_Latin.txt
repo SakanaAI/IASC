@@ -1,0 +1,102 @@
+TITLE: A Grammar and Handbook of Thrlangai
+
+PHONOLOGY
+
+Thrlangai has a rich phonological inventory consisting of 26 consonants and 15 vowels. The consonant system includes plosives, nasals, fricatives, affricates, and approximants, with some less common sounds such as the voiceless lateral fricative /ɬ/ and the voiceless trill /r̥/. The vowel system is equally diverse, featuring both monophthongs and diphthongs.
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The language allows for complex consonant clusters, as seen in words like 'skchïd' (old) and 'thrshýl' (grocery).
+
+ORTHOGRAPHY
+
+Thrlangai uses a modified Latin alphabet to represent its sounds. Most consonants are represented by their IPA equivalents, with some exceptions:
+
+- /ŋ/ is written as 'ng'
+- /θ/ is written as 'th'
+- /ʃ/ is written as 'sh'
+- /χ/ is written as 'kh'
+- /ð/ is written as 'dh'
+- /tʃ/ is written as 'ch'
+- /dʒ/ is written as 'j'
+- /ɬ/ and /ɬ̥/ are both written as 'lh'
+- /r̥/ is written as 'rh'
+
+Vowels use diacritics to distinguish between similar sounds:
+
+- /e/ is written as 'é'
+- /ɪ/ is written as 'ï'
+- /o/ is written as 'ó'
+- /ʊ/ is written as 'ü'
+- /ə/ is written as 'ë'
+- /ɨ/ is written as 'ý'
+
+The diphthongs /aɪ/, /aʊ/, and /ɔɪ/ are written as 'ai', 'au', and 'oi' respectively.
+
+MORPHOSYNTAX
+
+Thrlangai exhibits an ergative-absolutive case system, with postpositional words marking case. The language uses the following cases: ergative (ERG), absolutive (ABS), genitive (GEN), and instrumental (INS).
+
+Verbs in Thrlangai do not mark tense or aspect. However, they do show agreement with both the ergative and absolutive arguments, distinguishing between singular and plural for first, second, and third person.
+
+The language employs several additional morphosyntactic markers, including:
+
+- NEG: Negation marker
+- REL: Relative clause marker
+- COMP: Comparative marker
+- EQU: Equative marker
+- SUP: Superlative marker
+
+Thrlangai does not mark grammatical gender or have an inclusive-exclusive distinction in pronouns.
+
+The language employs a classifier system, though the specific classifiers are not detailed in the provided information.
+
+SYNTAX
+
+Thrlangai follows an Object-Subject-Verb (OSV) word order for main clauses. This is a relatively rare word order among the world's languages.
+
+Adjectives follow the nouns they modify (NA order), and adpositions follow their noun complements (NP order). These characteristics align with the language's general head-final tendency, as seen in the OSV word order.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text:
+
+1. Thrkus mën khesë nükhai næb plyóv mu fldënnó stmam mu rëdhu snpor gwnëng lauben.
+   smart COMP student we ERG school ABS in-REL he ABS is with first singular
+   "We are smarter students than he is in school."
+
+2. Wýfë ïk brngév krfæg næb mu tïfo krtóthnó frgep mu rëdhu snpor grnaim lauben.
+   hot SUP day year ERG ABS so far-REL today ABS is with third singular
+   "Today is the hottest day of the year so far."
+
+3. Chacho shitho krsüb nükhai næb rékólh there nonü noli snpor grnaim lauben.
+   climate change country we ERG together address needs to with third singular
+   "Our country needs to address climate change together."
+
+LEXICON
+
+A small sample of the lexicon:
+
+kïvo: I
+nükhai: we
+kwlet: you
+stmam: he
+müvæ: she
+nýfa: they
+pete: house
+rengï: job
+tïyau: week
+krfæg: year
+matha: go
+rëdhu: is
+snpor: with
+noli: to
+mu: ABS (absolutive marker)
+næb: ERG (ergative marker)
+hë: INS (instrumental marker)
+-nó: REL (relative clause marker)
+-ék: NEG (negation marker)
+mën: COMP (comparative marker)
+ïk: SUP (superlative marker)
+geg: EQU (equative marker)

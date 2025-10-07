@@ -1,0 +1,93 @@
+TITLE: A Grammar and Handbook of Threlkish
+
+PHONOLOGY
+
+Threlkish has a rich phonemic inventory with 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+
+The language features several uncommon sounds, including the voiceless lateral fricative /ɬ/ and its devoiced counterpart /ɬ̥/, as well as the voiceless alveolar trill /r̥/. The presence of both /θ/ and /ð/ is relatively rare cross-linguistically.
+
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The vowel system is quite complex, with 11 monophthongs and 4 diphthongs. It includes both tense and lax vowels, as well as a central vowel /ə/.
+
+ORTHOGRAPHY
+
+Threlkish uses a modified Latin alphabet. Most consonants are represented by their IPA equivalents, with some exceptions:
+
+- /ŋ/ is written as 'ng'
+- /θ/ is written as 'th'
+- /ʃ/ is written as 'sh'
+- /χ/ is written as 'kh'
+- /ð/ is written as 'dh'
+- /tʃ/ is written as 'ch'
+- /dʒ/ is written as 'j'
+- /ɬ/ and /ɬ̥/ are both written as 'lh'
+- /r̥/ is written as 'rh'
+
+Vowels use diacritics to distinguish similar sounds:
+
+- /e/ is written as 'é'
+- /ɪ/ is written as 'ï'
+- /o/ is written as 'ó'
+- /ʊ/ is written as 'ü'
+- /ə/ is written as 'ë'
+- /ɨ/ is written as 'ÿ'
+
+The diphthongs are written as 'ai', 'au', and 'oi', while /æ/ retains its IPA symbol.
+
+MORPHOSYNTAX
+
+Threlkish is a highly agglutinative language with a complex system of suffixes. Nouns are marked for number (singular -fëk, plural -wël, dual -nit) and case (nominative -él, accusative -kë, genitive -voj). There's also a definite article prefix érh- and an indefinite suffix -dhéb.
+
+Verbs are marked for tense (present -ong, past -lu, future -ek), person, and number. They also have active (-the) and passive (-shaulh) voice markers. Person markers include -shów (1SG), -yiv (2SG), -osh (3SG), -shi (1PL), and -the (3PL).
+
+Adjectives agree with nouns in number, case, and definiteness. They can also take comparative (-wuk) and superlative (-aw) suffixes.
+
+Other notable morphemes include the subordinate marker -il, the locative case -tho, and various derivational suffixes.
+
+SYNTAX
+
+Threlkish follows a VSO (Verb-Subject-Object) word order. Adjectives follow the nouns they modify (NA order), and prepositions precede their objects (PN order).
+
+Relative clauses are introduced by the particle 'nó' and follow the noun they modify. The language uses prepositions rather than postpositions, consistent with its PN order.
+
+Negation is expressed by the particle 'kó' placed before the verb. Questions are likely formed through intonation, as no specific question particles or word order changes are evident in the provided examples.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthographic transcription, gloss, and English translation:
+
+1. Tïbëongosh thrnor érhklpóthfëk nó lofïawfëkélfoig krdhalh érhkhüyifëk lïtuvoj.
+   be-PRES-3SG he DEF-student-SING REL smart-SUP-SING-NOM-DEF in DEF-school-SING we-GEN
+   "He is the smartest student in our school."
+
+2. Thrlanongthethe érhchóbówël drlur érhgrtïtwëlvoj krdhalh kwlhachvoj.
+   fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN
+   "The leaves fall from the trees in autumn."
+
+3. Frmurongoshthe érhflbÿrhfëkél pausén trkaulvoj.
+   blow-PRES-3SG-ACT DEF-wind-SING-NOM strongly today-GEN
+   "The wind blows strongly today."
+
+These examples demonstrate the VSO word order, the use of case and number markers, and the relative clause structure.
+
+LEXICON
+
+A small sample of the Threlkish lexicon:
+
+tïbë - be
+blténg - go
+pohë - see
+gwboh - play
+thrlan - fall
+frmur - blow
+smfel - like
+prshæb - need
+sntól - have
+skgash - build
+faihi - bake
+thrgel - elect
+
+This lexicon shows a preference for monosyllabic or disyllabic root words, often with consonant clusters that reflect the language's complex phonology.

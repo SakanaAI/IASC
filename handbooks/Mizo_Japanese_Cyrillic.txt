@@ -1,0 +1,281 @@
+TITLE: A Grammar and Handbook of Kytolang
+
+PHONOLOGY
+
+Kytolang has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows both open and closed syllables, with a preference for CV structure. Consonant clusters are limited, typically occurring only across syllable boundaries.
+
+Notable features:
+- The presence of both /ʃ/ and /tʃ/ allows for a distinction between these similar sounds.
+- The inclusion of both voiced and voiceless pairs (e.g., k/g, t/d, s/z) provides a rich consonantal inventory.
+- The five-vowel system is symmetrical and common among world languages.
+
+ORTHOGRAPHY
+
+Kytolang uses a modified Cyrillic alphabet for its orthography. This choice adds a unique visual aspect to the language while maintaining a connection to existing writing systems. The orthography is largely phonemic, with each sound represented by a single character:
+
+к (k), с (s), т (t), н (n), х (h), м (m), р (r), г (g), з (z), д (d), б (b), п (p), ш (ʃ), ч (tʃ), й (j), в (w)
+а (a), о (o), у (u), е (e), и (i)
+
+The orthography is straightforward, with a one-to-one correspondence between sounds and symbols in most cases. The only digraph is 'ч' representing /tʃ/.
+
+MORPHOSYNTAX
+
+Kytolang exhibits an ergative-absolutive case system, which is marked through postpositional words. The main cases are:
+
+- Ergative (ра): Marks the subject of transitive verbs
+- Absolutive (у): Marks the object of transitive verbs and the subject of intransitive verbs
+- Genitive (-а): Marks possession
+- Instrumental (бан): Marks the instrument used in an action
+
+The language does not mark grammatical number on nouns, relying instead on context or explicit number words.
+
+Verbs in Kytolang show a complex agreement system, marking both ergative and absolutive arguments for person and number. This results in a rich set of verbal affixes, including:
+
+- 1SGERG, 2SGERG, 3SGERG, 1PLERG, 2PLERG, 3PLERG
+- 1SGABS, 2SGABS, 3SGABS, 1PLABS, 2PLABS, 3PLABS
+
+The language also employs several comparative and equative markers:
+- COMP (хен): Comparative
+- EQU (ту): Equative
+- SUP (го): Superlative
+
+Kytolang uses classifiers with numbers, adding a layer of semantic categorization to quantification.
+
+SYNTAX
+
+Kytolang follows an Object-Subject-Verb (OSV) word order, which is relatively rare among world languages. This order is consistently maintained in both main and subordinate clauses.
+
+Other syntactic features include:
+- Noun-Adjective (NA) order: Adjectives follow the nouns they modify
+- Noun-Postposition (NP) order: Postpositions follow their noun phrases
+
+The consistent head-final structure (OSV, NA, NP) gives Kytolang a distinctive syntactic profile.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various aspects of Kytolang grammar:
+
+1. Хоке хен наби сита ра ругу у шошоа хама у хада сета коза сансо.
+   smart COMP student we ERG school ABS in-REL he ABS is with first singular
+   "We are smarter students than he is in school."
+
+2. Кити го насе паро ра у неко сопоа хоте у хада сета хуша сансо.
+   hot SUP day year ERG ABS so far-REL today ABS is with third singular
+   "Today is the hottest day of the year so far."
+
+3. Капа у зупу хеги у мере шошо шоги сета хуша куки.
+   trees ABS from leaves ABS autumn in fall with third plural
+   "Leaves fall from the trees in autumn."
+
+These examples demonstrate the OSV word order, case marking, and verb agreement system of Kytolang.
+
+LEXICON
+
+A small sample of the Kytolang lexicon:
+
+биху (address)
+зама (always)
+кишу (am)
+така (and)
+мухо (are)
+веба (art)
+кого (as)
+качу (at)
+хуойи (attic)
+мере (autumn)
+диату (backyard)
+нуну (baked)
+сана (be)
+чупу (bicycle)
+гуса (bloom)
+сачо (blows)
+сису (blue)
+поко (bone)
+нира (book)
+суте (bought)
+гако (bread)
+дино (built)
+йоче (buried)
+кабо (bus)
+кеши (but)
+нада (cake)
+мушу (cat)
+хира (change)
+даба (chased)
+манси (children)
+нане (class)
+каго (climate)
+коову (closed)
+некеху (contractor)
+мушо (cottage)
+зибе (country)
+вене (cousin)
+насе (day)
+кена (decided)
+тамайе (delicious)
+тасеси (department)
+ховози (different)
+йеси (dinner)
+сугохи (discovered)
+нону (dog)
+таде (easy)
+руша (eat)
+пасе (eight)
+хото (elected)
+сузу (enough)
+хоето (exercise)
+нозойе (expensive)
+шоги (fall)
+сопо (far)
+коза (first)
+виду (flowers)
+тухо (food)
+суси (for)
+кама (found)
+весу (friend)
+соку (frog)
+зупу (from)
+бука (garden)
+кузу (get)
+биту (go)
+мире (going)
+теге (graded)
+нуги (grocery)
+гуге (had)
+тена (have)
+хама (he)
+сето (here)
+рага (hole)
+кити (hot)
+хуте (house)
+муме (i)
+шошо (in)
+сакихи (interested)
+нути (into)
+месе (invited)
+хада (is)
+меко (it)
+тапо (its)
+тари (job)
+саха (join)
+суко (last)
+румо (later)
+хеги (leaves)
+соойа (lent)
+боку (letter)
+теко (like)
+тузо (lived)
+ремо (loaves)
+кура (man)
+сехе (many)
+тути (map)
+паго (meadow)
+камо (melted)
+созе (minutes)
+госе (model)
+туто (month)
+муки (mouse)
+шета (movie)
+йато (movies)
+чати (moving)
+доре (need)
+нухи (needs)
+кери (new)
+коно (next)
+тада (night)
+зето (o'clock)
+коса (office)
+геху (old)
+даро (on)
+кошо (park)
+тиру (party)
+зохо (pen)
+йехе (phone)
+бохи (piano)
+киму (picnic)
+часо (planted)
+неаве (plants)
+мубо (plastic)
+теийу (play)
+кето (played)
+саси (playing)
+куки (plural)
+бекеве (president)
+рема (project)
+вепо (ran)
+мако (rustled)
+хисата (sandcastle)
+риси (saw)
+ругу (school)
+новиху (scientist)
+таха (second)
+йошу (she)
+хиута (shopping)
+руму (shovels)
+сансо (singular)
+меша (sky)
+деко (small)
+хоке (smart)
+чаме (snowman)
+неко (so)
+гету (soccer)
+ниду (species)
+хема (spicy)
+како (sports)
+нуто (stars)
+гаса (start)
+йари (starts)
+сота (stay)
+каево (store)
+тууне (strongly)
+наби (student)
+нонсо (students)
+маехо (sunlight)
+рохи (sunny)
+нуте (swim)
+сиха (tasted)
+кидо (teacher)
+йеса (tests)
+реду (the)
+хасе (there)
+вако (they)
+хуша (third)
+меови (this)
+роса (thou)
+ноде (to)
+хоте (today)
+таосу (together)
+виру (tomato)
+хонда (treasure)
+капа (trees)
+рууйе (true)
+дусу (twice)
+шиусо (twinkled)
+сому (two)
+сигу (until)
+тути (used)
+йоато (vacation)
+сосеха (vegetables)
+саха (very)
+носе (waiting)
+како (want)
+кохе (was)
+сита (we)
+хаайе (week)
+ниса (well)
+хоко (went)
+мага (when)
+кого (while)
+вену (whole)
+руга (will)
+визи (wind)
+сета (with)
+нуку (wrote)
+паро (year)
+таби (you)
+гисе (younger)

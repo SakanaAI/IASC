@@ -1,0 +1,97 @@
+TITLE: A Grammar and Handbook of Shalāmik
+
+PHONOLOGY
+
+Shalāmik has a rich phonemic inventory consisting of 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+
+The language features several uncommon consonants, including the voiceless alveolar lateral fricative /ɬ/, its voiceless counterpart /ɬ̥/, and a voiceless rhotic /r̥/.
+
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The vowel system includes both monophthongs and diphthongs, with a distinction between tense and lax vowels (e.g., /i/ vs. /ɪ/).
+
+ORTHOGRAPHY
+
+Shalāmik uses a modified Arabic script for its orthography. Some notable features include:
+
+1. Vowels are fully represented, unlike in standard Arabic orthography.
+2. New characters have been introduced for sounds not present in Arabic, such as ڭ for /ŋ/ and ڵ for /ɬ/.
+3. Diacritics are used to distinguish between similar sounds, e.g., ڕ for /r̥/ vs. ر for /r/.
+
+Examples:
+/ɬwlək/ (be) -> ڵولəک
+/glʃim/ (go) -> گلشیم
+/θrɬe.nu/ (delicious) -> ثرڵێنو
+
+MORPHOSYNTAX
+
+Shalāmik exhibits a rich morphological system with several notable features:
+
+1. Noun Number: Marked by suffixes -سىچ (-sɨtʃ) for singular and -يە (-jɛ) for plural.
+
+2. Verb Tense: Four tenses marked by suffixes:
+   - Non-past: -شۆر (-ʃor)
+   - Immediate past: -تەت (-tæt)
+   - Recent past: -دəو (-dəw)
+   - Remote past: -فىج (-fɨdʒ)
+
+3. Person Agreement: Verbs agree with both subject and object, marked by suffixes:
+   - 1SG: -ٮڵ (-ɪɬ)
+   - 2SG: -ىب (-ɨb)
+   - 3SG: -کێ (-ke)
+   - 1PL: -لə (-lə)
+   - 3PL: -ٮک (-ɪk)
+
+4. Negation: Marked by the infix -دێد- (-ded-)
+
+5. Relative Clause Marker: -ەس (-ɛs)
+
+6. Inclusive/Exclusive Distinction: Separate pronouns for inclusive (نە) and exclusive (سێن) first person plural.
+
+7. Classifiers: Used with numbers, though specific forms are not provided in the lexicon.
+
+SYNTAX
+
+Shalāmik follows an Object-Verb-Subject (OVS) word order for main clauses. Other syntactic features include:
+
+1. Adjective-Noun (AN) order: e.g., سنلىي بٮهۆ پرموبسىچ (snlɨj bɪ.ho prmub-sɨtʃ) "a new job"
+
+2. Preposition-Noun (PN) order: e.g., هێڭا سمثێف نێپیسىچ (he.ŋa smθef ne.pi-sɨtʃ) "in the park"
+
+3. Relative clauses follow the noun they modify and are marked with the suffix -ەس (-ɛs) on the verb.
+
+4. Subordinate clauses generally precede the main clause.
+
+EXAMPLE TEXT
+
+Here are two example sentences from the provided text, with orthography, gloss, and English translation:
+
+1. سمثێف سٮتە نێن پرسیتسىچ کاهۆ سمثێف بربٮذسىچ برنۇي سنکیڤ فəتا ڵولəکشۆرکێەس ڵولəکشۆرکێ.
+   smθef sɪ.tɛ nen prsit-sɨtʃ ka.hɔ smθef brbɪð-sɨtʃ brnʊj snkiv fə.ta ɬwlək-ʃor-ke-ɛs ɬwlək-ʃor-ke .
+   the hot SUP day-SING of the year-SING so far today be-NPAST-3SG-REL be-NPAST-3SG .
+   "Today is the hottest day of the year so far."
+
+2. سنلىي ڭورۆک لیهəسىچ هێڭا سمثێف ڵوتəفسىچ نە گلپەکدəولə.
+   snlɨj ŋu.rok li.hə-sɨtʃ he.ŋa smθef ɬwtəf-sɨtʃ nɛ glpɛk-dəw-lə .
+   a treasure map-SING in the attic-SING 1PLINCL find-RECPAST-1PL .
+   "We found a treasure map in the attic."
+
+LEXICON
+
+A small sample of the Shalāmik lexicon:
+
+ڵولəک (ɬwlək) - be
+گلشیم (glʃim) - go
+ثرڵێنو (θrɬe.nu) - delicious
+پرسیت (prsit) - day
+بربٮذ (brbɪð) - year
+فəتا (fə.ta) - today
+ڭورۆک (ŋu.rok) - treasure
+لیهə (li.hə) - map
+ڵوتəف (ɬwtəf) - attic
+گلپەک (glpɛk) - find
+نە (nɛ) - we (inclusive)
+سێن (sen) - we (exclusive)
+سمثێف (smθef) - the

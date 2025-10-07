@@ -1,0 +1,89 @@
+TITLE: A Grammar and Handbook of Cyrillic Ergative (CyrErg)
+
+PHONOLOGY
+
+CyrErg has a phonological inventory consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language features a mix of common and less common sounds. Notable features include:
+- The dental fricative θ (as in English "think")
+- The palatal nasal ɲ (as in Spanish "ñ")
+- The palatal lateral approximant ʎ (as in Italian "gli")
+- The alveolar tap ɾ and trill r contrast (as in Spanish)
+- The palatal approximant j and fricative ʝ contrast
+
+The syllable structure is generally (C)V(C), allowing for some consonant clusters.
+
+ORTHOGRAPHY
+
+CyrErg uses a modified Cyrillic alphabet. Each phoneme is represented by a single letter, with some adaptations:
+
+p: п, b: б, t: т, d: д, k: к, g: г, f: ф, θ: ѳ, s: с, x: х, tʃ: ч,
+m: м, n: н, ɲ: њ, l: л, ʎ: љ, ɾ: р, r: р, j: й, ʝ: ј,
+a: а, e: е, i: и, o: о, u: у
+
+Note that ɾ and r are both represented by р, as the distinction is not considered phonemic in the orthography.
+
+MORPHOSYNTAX
+
+CyrErg is an ergative-absolutive language with a rich case system and complex verbal agreement. Key features include:
+
+1. Case marking: Ergative (ERG), Absolutive (ABS), Genitive (GEN), and Instrumental (INS) cases are marked using postpositional words.
+
+2. Number: The language distinguishes singular and plural, but not dual.
+
+3. Verbal agreement: Verbs agree with both the ergative and absolutive arguments in person and number. The markers are:
+   ERG: 1SG: -орру, 2SG: -адло, 3SG: -сало, 1PL: -орру, 2PL: -адло, 3PL: -сало
+   ABS: 1SG: -лела, 2SG: -лела, 3SG: -лела, 1PL: -дера, 2PL: -дера, 3PL: -дера
+
+4. Tense-Aspect: Not marked morphologically.
+
+5. Negation: Marked by the suffix -ро on verbs.
+
+6. Relativization: Marked by the suffix -нир on the head noun.
+
+7. Comparison: Comparative (COMP) and equative (EQU) constructions use separate particles.
+
+8. Numeral classifiers: The language employs a classifier system, though specific classifiers are not provided in the sample.
+
+SYNTAX
+
+CyrErg has an unusual Object-Subject-Verb (OSV) word order, which is relatively rare cross-linguistically. Other syntactic features include:
+
+1. Adjective-Noun order: Noun-Adjective (NA)
+2. Adposition-Noun order: Noun-Postposition (NP)
+3. Relative clauses: Head-internal, marked with the suffix -нир on the head noun
+4. Comparison constructions: The standard of comparison precedes the adjective
+
+EXAMPLE TEXT
+
+Here are two example sentences from the provided text:
+
+1. Ниси син ибре окно лал сесе рос рисанир асну рос ресо умна орру лела .
+   smart COMP student we ERG school ABS in-REL he ABS is with first singular .
+   "We are smarter students than he is in school."
+
+2. Нели ефди осла ехсонир дала рено серос не дала лера рос ресо умна сало лела .
+   new phone old model-REL as twice expensive EQU as the ABS is with third singular .
+   "The new phone is twice as expensive as the old model."
+
+These examples demonstrate the OSV word order, postpositional case marking, and complex verbal agreement system of CyrErg.
+
+LEXICON
+
+A small sample of the CyrErg lexicon:
+
+амди (amdi) - cat
+ебну (ebnu) - strongly
+ејра (eʝra) - whole
+етло (etlo) - this
+инра (inra) - bus, job
+лала (lala) - singular
+лене (lene) - year
+нани (nani) - to
+окно (okno) - we
+ресо (reso) - is
+рос (ros) - ABS (absolutive case marker)
+умна (umna) - with

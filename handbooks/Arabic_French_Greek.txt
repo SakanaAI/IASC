@@ -1,0 +1,91 @@
+TITLE: A Grammar and Handbook of Neokoine
+
+PHONOLOGY
+
+Neokoine has a rich phonemic inventory with 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, as well as rounded front vowels (y, œ, ø) which are typologically less common. The consonant inventory includes the uvular fricative /ʁ/ and the palatal nasal /ɲ/, giving the language a somewhat French-like quality.
+
+ORTHOGRAPHY
+
+Neokoine uses a modified Greek alphabet for its orthography. Some notable features include:
+
+- Use of digraphs for some sounds: ου /u/, αι /ɛ/
+- Repurposing of obsolete Greek letters: ϸ /ʃ/, ϻ /ʒ/, ϙ /œ/
+- Use of diacritics for nasal vowels: ᾶ /ɑ̃/, ῶ /ɔ̃/, ᾶι /ɛ̃/
+- The letter υ represents /y/ when alone, but /ɥ/ after vowels
+
+Some orthographic rules apply, such as σ becoming ζ before voiced consonants, and simplification of double σ to single σ.
+
+MORPHOSYNTAX
+
+Neokoine exhibits a rich morphological system with both prefixes and suffixes. Key features include:
+
+1. Nominal morphology:
+   - Number: singular (-λω), plural (-να), dual (-αι)
+   - Case: nominative (-ασ), accusative (-πε), genitive (-ϸϵρ)
+   - Definiteness: definite (δϙμ-), indefinite (-σιρ)
+
+2. Verbal morphology:
+   - Tense: present (-νιρ), past (-ωρ), future (-ε)
+   - Aspect: perfective (-ω), imperfective (-ερ)
+   - Person agreement: 1sg (-ταιλ), 2sg (-ι), 3sg (-ρων), 1pl (-ω), 3pl (-οϋ)
+   - Voice: active (-ω), passive (-ερ)
+
+3. Adjective morphology:
+   - Degree: comparative (-υ), superlative (-ον)
+
+4. Other features:
+   - Subordination marker (-ιν)
+   - Locative case (-τεκ)
+
+SYNTAX
+
+Neokoine follows a VSO (Verb-Subject-Object) word order for main clauses. Other syntactic features include:
+
+1. Noun-Adjective (NA) order: The adjective follows the noun it modifies.
+2. Preposition-Noun (PN) order: Prepositions precede their object nouns.
+3. Relative clauses are introduced by the particle υμ and follow the noun they modify.
+4. Negation is expressed by the particle οτ placed before the verb.
+
+EXAMPLE TEXT
+
+Here are some example sentences from the provided text, with gloss and English translation:
+
+1. Γρκιννιρρων καμα δϙμδεβοϋλω υμ βλρϙμονλωασταν ρασι δϙμβρωαινλω κεϋωϸϵρ.
+   be-PRES-3SG he DEF-student-SING REL smart-SUP-SING-NOM-DEF in DEF-school-SING we-GEN
+   "He is the smartest student in our school."
+
+2. Δενᾶνιροϋω δϙμτρσιρνα ποραι δϙμζνλϵκναϸϵρ ρασι δρσασϸϵρ.
+   fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN
+   "The leaves fall from the trees in autumn."
+
+3. Γλϻυνωρρωνω καμαασ δϙμλετιλω φλφᾶνλωπεταν μϵγαι δϙμβεϸοϋλω φλφᾶνλωϸϵρταν.
+   lend-PAST-3SG-ACT he-NOM DEF-bicycle-SING his-SING-ACC-DEF to DEF-cousin-SING his-SING-GEN-DEF
+   "He lent his bicycle to his cousin."
+
+LEXICON
+
+A small sample of the Neokoine lexicon:
+
+βεμϙ - i
+καμα - he
+τᾶιβϙ - she
+κεϋω - we
+κϙρϵ - they
+γρκιν - be
+λϵσᾶι - go
+τεβε - eat
+ζϵσε - see
+βλωϵκ - want
+κϙτᾶι - like
+γλβαρ - have
+ρασι - in
+μϵγαι - to
+λιτϙ - for
+σερε - with
+οτ - NEG (negation particle)
+υμ - REL (relative clause marker)

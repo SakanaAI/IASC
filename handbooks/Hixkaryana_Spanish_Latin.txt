@@ -1,0 +1,131 @@
+TITLE: A Grammar and Handbook of Nerosian
+
+PHONOLOGY
+
+Nerosian has a relatively simple phonological system consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language includes some less common sounds like the palatal nasal ɲ, the palatal lateral approximant ʎ, and the voiced palatal fricative ʝ. It distinguishes between a tap ɾ and a trill r.
+
+Syllable structure appears to be (C)V(C), allowing both open and closed syllables.
+
+ORTHOGRAPHY
+
+Nerosian uses a Latin-based alphabet with some modifications:
+
+- ɲ is written as ñ
+- ʎ is written as ll
+- ɾ is written as r
+- r (trill) is written as rr
+- j is written as y
+- ʝ is written as j
+- x is written as ch
+- θ is written as th
+- tʃ is written as tch
+
+Other sounds are written as in the IPA. This orthography allows for a relatively close correspondence between pronunciation and spelling.
+
+MORPHOSYNTAX
+
+Nerosian exhibits an ergative-absolutive alignment in its verbal morphology. Verbs agree with both the ergative and absolutive arguments through suffixes.
+
+Tense is marked on verbs with the following suffixes:
+- -sa: Non-past/Recent past
+- -ro: Immediate past
+- -si: Remote past
+
+Person agreement suffixes:
+- -do: 1SG
+- -li: 2SG
+- -so: 3SG
+- -ra: 1PL
+- -nos: 3PL
+
+Other verbal suffixes include:
+- -ran: Negative
+- -les: Relative clause marker
+
+Nouns are marked for number:
+- -no: Singular
+- -ri: Plural
+
+Nerosian distinguishes between inclusive and exclusive first person plural pronouns:
+- ner: 1PL exclusive
+- si: 1PL inclusive
+
+The language uses comparative and superlative particles:
+- re: Comparative
+- ro: Equative
+- na: Superlative
+
+Nerosian employs numeral classifiers, though the specific classifiers are not provided in the given information.
+
+SYNTAX
+
+Nerosian has an OVS (Object-Verb-Subject) main word order, which is relatively rare among the world's languages. It uses prepositions (PN order) and places adjectives before nouns (AN order).
+
+Example of OVS order:
+sodi etrano salasaso
+the movie-SING start-NPAST-3SG
+"The movie starts."
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text:
+
+1. Sodi deno re essano solo obro sonano ugna nosasasoles nosasaso.
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG
+   "The smartest student in our school is he."
+
+2. Lodo sodi riniri solo oyni sodi utlari unnosanos.
+   from the tree-PLUR in autumn the leaf-PLUR fall-NPAST-3PL
+   "From the trees in autumn, the leaves fall."
+
+3. Amlo nani sero ednono sodi efdono upda nasesaso.
+   with a blue pen-SING the letter-SING she write-RECPAST-3SG
+   "With a blue pen, she wrote the letter."
+
+4. Nani sela nilino rili nosasali, sura erno nerasado alle erda amnu.
+   a true friend-SING thou be-NPAST-2SG, when i need-NPAST-1SG thee always there
+   "You are a true friend, always there when I need you."
+
+LEXICON
+
+A small selection from the lexicon:
+
+nosa: be
+ende: go
+rasi: have
+nale: see
+epsa: eat
+rira: like
+nera: need
+sela: plant, true
+nosi: discover
+omni: build
+asli: melt
+nuro: run
+ipna: swim
+rala: bake
+nanu: elect
+
+Pronouns:
+erno: I
+rili: thou
+ugna: he
+upda: she
+ner: we (exclusive)
+si: we (inclusive)
+
+Numbers:
+orrla: one
+issu: two
+erna: eight
+
+Time:
+insa: today
+ursa: year
+sali: week
+urro: month

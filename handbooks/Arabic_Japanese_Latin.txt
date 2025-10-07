@@ -1,0 +1,120 @@
+TITLE: A Grammar and Handbook of Zashuni
+
+PHONOLOGY
+
+Zashuni has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows consonant clusters and diphthongs. Syllable structure is typically (C)V(C), with most words being disyllabic or trisyllabic.
+
+Notable features:
+- The presence of both /s/ and /ʃ/ (sh) allows for contrastive sibilants
+- The affricate /tʃ/ (ch) adds complexity to the consonant inventory
+- The five-vowel system is symmetrical and common cross-linguistically
+
+ORTHOGRAPHY
+
+Zashuni uses a modified Latin alphabet. Most sounds correspond directly to their IPA equivalents, with a few exceptions:
+
+- /ʃ/ is written as 'sh'
+- /tʃ/ is written as 'ch'
+- /j/ is written as 'y'
+
+Long vowels are marked with a circumflex:
+- /ii/ becomes 'î'
+- /uu/ becomes 'û'
+
+Example: /tʃoko/ is written as "choco"
+
+The orthography is largely phonemic, making it relatively easy to read and write once the basic rules are learned.
+
+MORPHOSYNTAX
+
+Zashuni is an agglutinative language with a rich system of suffixes. Key morphosyntactic features include:
+
+1. Nominal marking:
+   - Number: singular (-o) and plural (-hu)
+   - Case: nominative (-o), accusative (-u), genitive (-nin)
+   - Definiteness: definite (-sa), indefinite (-ra)
+
+2. Verbal marking:
+   - Tense: present (-sa), past (-han), future (-tu)
+   - Person and number agreement: 1SG (-u), 2SG (-bu), 3SG (-i), 1PL (-a), 3PL (-nen)
+   - Voice: active (-i), passive (-u)
+
+3. Adjectives:
+   - Comparative: -ton
+   - Superlative: -pon
+
+4. Other markers:
+   - Locative: -u
+   - Subordinate: -ta
+
+Zashuni does not mark gender grammatically and lacks an inclusive-exclusive distinction in pronouns.
+
+SYNTAX
+
+Zashuni follows a VSO (Verb-Subject-Object) word order in main clauses. Other syntactic features include:
+
+1. Adjective-Noun order: NA (Noun-Adjective)
+2. Adposition-Noun order: PN (Preposition-Noun)
+3. Relative clauses are marked with the particle 'a' and follow the noun they modify
+4. Negation is expressed using the particle 'ne' before the verb
+
+The VSO order, combined with the NA adjective order, gives Zashuni a distinct syntactic profile that sets it apart from many other languages.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showing the orthography, gloss, and English translation:
+
+1. Zarusai maco cubomoo a soceponoosa reze cucasio taginin.
+   be-PRES-3SG he DEF-student-SING REL smart-SUP-SING-NOM-DEF in DEF-school-SING we-GEN
+   "He is the smartest student in our school."
+
+2. Cizesaneni cunegahu sete cugimohunin reze tacinin.
+   fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN
+   "The leaves fall from the trees in autumn."
+
+3. Sogasaî cubozuo nisuoosa gogo pira zachio sumuoura cunshu.
+   need-PRES-3SG-ACT DEF-country-SING our-SING-NOM-DEF to address change-SING climate-SING-ACC-INDEF together
+   "Our country needs to address climate change together."
+
+These examples demonstrate various aspects of Zashuni grammar, including VSO word order, case marking, tense marking, and the use of particles and affixes.
+
+LEXICON
+
+A small sample of the Zashuni lexicon:
+
+zaru - be
+chuto - go
+muta - like
+ciewo - eat
+hura - buy
+sope - write
+cahi - build
+rino - bury
+seho - bake
+tora - elect
+
+muaye - house
+gimo - tree
+catu - flower
+husu - dog
+gocu - cat
+rimo - child
+bomo - student
+rusi - teacher
+hoco - year
+deayi - day
+
+cime - hot
+zego - new
+hûya - old
+pumu - small
+soce - smart
+nabu - sunny
+hawaco - delicious
+
+This lexicon shows a mix of verbs, nouns, and adjectives, giving a glimpse into the vocabulary of Zashuni. The language appears to use mostly disyllabic or trisyllabic roots, with a phonological structure that reflects the overall sound system of the language.

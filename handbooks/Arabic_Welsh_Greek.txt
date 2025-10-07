@@ -1,0 +1,99 @@
+TITLE: A Grammar and Handbook of Thalassian
+
+PHONOLOGY
+
+Thalassian has a rich phonemic inventory with 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+Notable features include:
+- A three-way distinction between voiced, voiceless, and aspirated consonants
+- Both dental and alveolar fricatives
+- A voiceless lateral fricative (ɬ) and its aspirated counterpart (ɬ̥)
+- A rich vowel system with both monophthongs and diphthongs
+
+The language allows complex syllable structures, including consonant clusters.
+
+ORTHOGRAPHY
+
+Thalassian uses a modified Greek alphabet for its writing system. Some key correspondences include:
+
+- ς represents /ʃ/ (except word-finally where it represents /s/)
+- χ represents /χ/
+- γγ represents /ŋ/
+- ου represents /u/
+- αι, αυ, οι represent the diphthongs /aɪ/, /aʊ/, /ɔɪ/ respectively
+
+Special combinations:
+- τς represents /tʃ/
+- τζ represents /dʒ/
+- λλ represents /ɬ/
+- λχ represents /ɬ̥/
+- ρχ represents /r̥/
+
+The orthography includes some context-sensitive rules, such as using ς for word-final /s/.
+
+MORPHOSYNTAX
+
+Thalassian is a highly agglutinative language with a rich system of affixes. Key features include:
+
+1. Nominal morphology:
+   - Number: singular (-φεκ), plural (-ωελ), dual (-νιτ)
+   - Case: nominative (-ηλ), accusative (-κε), genitive (-βοτζ)
+   - Definiteness: definite (ηρχ-), indefinite (-δηβ)
+
+2. Verbal morphology:
+   - Tense: present (-ογγ), past (-λου), future (-εκ)
+   - Aspect: perfective (-θε), imperfective (unmarked)
+   - Voice: active (-θε), passive (-ςαυλλ)
+   - Person agreement: 1sg (-ςωω), 2sg (-ιιβ), 3sg (-ος), 1pl (-ςι), 3pl (-θε)
+
+3. Adjectives:
+   - Comparative: -ωουκ
+   - Superlative: -αω
+
+4. Other features:
+   - Locative case: -θο
+   - Subordinate marker: -ιλ
+
+SYNTAX
+
+Thalassian follows a VSO (Verb-Subject-Object) word order in main clauses. Other syntactic features include:
+
+1. Adjective-Noun order: NA (Noun-Adjective)
+2. Adposition-Noun order: PN (Preposition-Noun)
+3. Relative clauses are introduced by the particle νω and follow the noun they modify
+4. Negation is expressed by the particle κω placed before the verb
+5. Questions are formed by intonation rather than word order change
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthographic transcription, gloss, and English translation:
+
+1. Τιβεογγος θρνορ ηρχκλπωθφεκ νω λοφιαωφεκηλφοιγ κρδαλλ ηρχχυιιφεκ λιτουβοτζ.
+   be-PRES-3SG he DEF-student-SING REL smart-SUP-SING-NOM-DEF in DEF-school-SING we-GEN
+   "He is the smartest student in our school."
+
+2. Θρλανογγθεθε ηρχτςωβωωελ δρλουρ ηρχγρτιτωελβοτζ κρδαλλ κωλλατςβοτζ.
+   fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN
+   "The leaves fall from the trees in autumn."
+
+3. Γωβοχλουθεθε ηρχσκτςαδωεληλ κρδαλλ ηρχτςηθυφεκβοτζ.
+   play-PAST-3PL-ACT DEF-child-PLUR-NOM in DEF-park-SING-GEN
+   "The children played in the park."
+
+LEXICON
+
+A small sample of the Thalassian lexicon:
+
+βλτηγγ - go
+σαμα - house
+τιδε - friend
+γωςιμ - day
+σετοι - food
+λλωθουπ - eat
+ποχε - see
+βετυ - write
+σπσερ - live
+τενω - bicycle

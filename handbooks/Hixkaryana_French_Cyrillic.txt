@@ -1,0 +1,90 @@
+TITLE: A Grammar and Handbook of Cyrillic
+
+PHONOLOGY
+
+Cyrillic has a rich phonemic inventory consisting of 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, as well as rounded front vowels (y, œ, ø). The consonant inventory includes the uvular fricative /ʁ/ and the palatal nasal /ɲ/, giving the language a somewhat French-like quality in its phonology.
+
+ORTHOGRAPHY
+
+Cyrillic uses a modified Cyrillic alphabet for its orthography. Some notable correspondences include:
+
+- /ɥ/ is represented by ю
+- /w/ is represented by ў
+- /ə/ is represented by ъ
+- /ɛ/ is represented by э
+- /œ/ is represented by ё
+- /ɔ/ is represented by ѳ
+- /ɑ̃/ is represented by ѧ
+- /ɔ̃/ is represented by ѫ
+- /ɛ̃/ is represented by ѩ
+- /ø/ is represented by ѳ
+
+This orthography allows for a unique visual representation of the language while maintaining a connection to Cyrillic-using cultures.
+
+MORPHOSYNTAX
+
+Cyrillic exhibits an ergative-absolutive alignment in its verbal morphology. The language marks tense-aspect through suffixes, with four distinctions: nonpast, immediate past, recent past, and remote past.
+
+Nouns are marked for number (singular and plural) but not for case. The language features an inclusive-exclusive distinction in first-person plural pronouns.
+
+Verbal agreement is complex, with markers for both ergative and absolutive arguments:
+
+- Ergative markers: -йек (1SG), -ѳ (2SG), -е (3SG), -бен (1PL), -ръм (3PL)
+- Absolutive markers are not explicitly shown in the provided examples
+
+Other notable morphological features include:
+
+- Relative clause marker: -э
+- Negation marker: -ёс
+- Comparative: кас
+- Equative: ас
+- Superlative: е
+
+SYNTAX
+
+Cyrillic has an unusual Object-Verb-Subject (OVS) main word order, which is relatively rare among the world's languages. Adjectives precede nouns (AN), and the language uses prepositions (PN).
+
+Example of OVS order:
+расает ўади йенѫет гртѳсёсюате
+food-SING the cat-SING eat-NEG-NPAST-3SG
+"The cat doesn't eat its food."
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text:
+
+1. Ўади сэсъ кас низеет пѳре блфър грдърет дртан серыюатеэ серыюате.
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG
+   "He is the smartest student in our school."
+
+2. Клним ўади глпену пѳре тэде ўади гржѩму сптѳсюатръм.
+   from the tree-PLUR in autumn the leaf-PLUR fall-NPAST-3PL
+   "The leaves fall from the trees in autumn."
+
+3. Нёру снкър ѳкыты вртефѩет дрнѫл ўаса флкесет рим смсанембен тррал блпик.
+   with a different contractor-SING for this project-SING 1PLEXCL decide-RECPAST-1PL to go
+   "We decided to go with a different contractor for this project."
+
+These examples showcase the OVS word order, the use of case markers and tense-aspect suffixes, and the inclusive-exclusive distinction in pronouns.
+
+LEXICON
+
+A small sample of the lexicon:
+
+блпик - go
+врнар - enough
+гѳма - today
+дрнэт - new
+кањи - swim
+лэпо - well
+низе - student
+пѳре - in
+рэтъ - phone
+сата - I
+тэже - want
+флвѳс - live

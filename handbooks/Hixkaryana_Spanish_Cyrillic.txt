@@ -1,0 +1,114 @@
+TITLE: A Grammar and Handbook of Nerusan
+
+PHONOLOGY
+
+Nerusan has a phoneme inventory consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language features a mix of common and less common sounds. Notable features include:
+- A dental fricative /θ/
+- Palatal nasal /ɲ/ and lateral /ʎ/
+- Both a tap /ɾ/ and trill /r/
+- Palatal approximant /j/ and fricative /ʝ/
+
+The vowel system is a standard five-vowel system common in many languages.
+
+ORTHOGRAPHY
+
+Nerusan uses a Cyrillic-inspired script. Some key correspondences:
+
+- /θ/ is written as ѳ
+- /ɲ/ as њ
+- /ʎ/ as љ
+- /r/ (trill) as р̃
+- /ʝ/ as ј
+
+Most other sounds use their closest Cyrillic equivalent. This orthography allows Nerusan to have a distinct visual identity while maintaining some familiarity for readers of Cyrillic-using languages.
+
+MORPHOSYNTAX
+
+Nerusan exhibits an ergative-absolutive alignment in its verbal morphology. Verbs agree with both the ergative and absolutive arguments through suffixes.
+
+Tense is marked through suffixes with four distinctions:
+- Nonpast (-са)
+- Immediate past (-ро)
+- Recent past (-са)
+- Remote past (-си)
+
+Number is marked on nouns with singular (-но) and plural (-ри) suffixes.
+
+The language features an inclusive/exclusive distinction in first person plural pronouns:
+- 1PLINCL: си (inclusive "we")
+- 1PLEXCL: нер (exclusive "we")
+
+Other notable morphological features include:
+- Comparative (ре) and superlative (на) markers
+- A relative clause marker (-лес)
+- A negation suffix (-ран)
+
+Nerusan uses numeral classifiers, though the specific classifiers are not detailed in the provided information.
+
+SYNTAX
+
+Nerusan has an OVS (Object-Verb-Subject) main word order, which is relatively rare among the world's languages. This can be seen in sentences like:
+
+соди есдоно сасасасо ассе инса
+the wind-SING blow-NPAST-3SG strongly today
+"The wind blows strongly today"
+
+Adjectives precede the nouns they modify (AN order):
+
+нани етре дерано
+a new office-SING
+"a new office"
+
+Adpositions precede their noun complements (PN order):
+
+соло соди арнуно
+in the park-SING
+"in the park"
+
+EXAMPLE TEXT
+
+Here are a few example sentences from the provided text:
+
+1. Соди дено ре ессано соло обро сонано угна носасасолес носасасо.
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG
+   "He is the smartest student in our school."
+
+2. Лодо соди ринири соло ойни соди утлари унносанос.
+   from the tree-PLUR in autumn the leaf-PLUR fall-NPAST-3PL
+   "The leaves fall from the trees in autumn."
+
+3. Амло нани серо едноно соди ефдоно упда насесасо.
+   with a blue pen-SING the letter-SING she write-RECPAST-3SG
+   "She wrote the letter with a blue pen."
+
+These examples showcase the OVS word order, the use of case markers, and the tense-aspect system of Nerusan.
+
+LEXICON
+
+A small sample of the Nerusan lexicon:
+
+носа - be
+енде - go
+нале - see
+рира - like
+епса - eat
+насе - write
+урла - use
+ридо - want/stay
+сала - start
+нера - need
+
+Pronouns:
+ерно - I
+рили - thou
+угна - he
+упда - she
+си - we (inclusive)
+нер - we (exclusive)
+
+Nouns often end in -но (singular) or -ри (plural), while verbs typically end in -а in their base form.

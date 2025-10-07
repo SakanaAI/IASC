@@ -1,0 +1,96 @@
+TITLE: A Grammar and Handbook of Kethosian
+
+PHONOLOGY
+
+Kethosian has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows consonant clusters and diphthongs. Syllable structure is generally (C)V(C), with some more complex structures permitted.
+
+Notable features:
+- Presence of both /s/ and /ʃ/ (sh)
+- Inclusion of the affricate /tʃ/ (ch)
+- Lack of voiced fricatives other than /z/
+- Use of both approximants /j/ and /w/
+
+ORTHOGRAPHY
+
+Kethosian uses a modified Greek alphabet for its writing system. Some key correspondences:
+
+- ʃ is represented by ϸ
+- tʃ is written as τϸ
+- j is written as ι
+- w is written as ω
+
+The orthography is largely phonemic, with a close correspondence between sounds and symbols. This makes reading and writing Kethosian relatively straightforward once the system is learned.
+
+MORPHOSYNTAX
+
+Kethosian exhibits a rich morphological system with both nominal and verbal inflection.
+
+Nouns are marked for:
+- Number (singular -tu, plural -tu)
+- Case (nominative -zo, accusative -a, dative -u, genitive -pu, ablative -u, locative -go, instrumental -u)
+
+Verbs are marked for:
+- Tense (present -o, past -i, future -a)
+- Aspect (perfective -se)
+- Mood (indicative -o, conditional -ton)
+- Person and number agreement (e.g. 1sg -a, 3sg -ten, 3pl -a)
+- Voice (active -se, passive -a)
+
+Other notable morphological features:
+- Comparative marker: san
+- Superlative marker: u
+- Negation marker: -u
+
+SYNTAX
+
+Kethosian follows an SOV (Subject-Object-Verb) word order in main clauses. Other syntactic features include:
+
+- Adjectives precede the nouns they modify (AN order)
+- Postpositions are used instead of prepositions (NP order)
+- Relative clauses are formed using the suffix -mo on the verb
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthography, gloss, and English translation:
+
+1. Τατεζο ωοχυπυ μυδετυγο σαν ζετυ δανατυζο κομεζο ρεϸαοοτενσε.
+   ta.te-zo wo.hu-pu mu.de-tu-go san ze.tu da.na-tu-zo ko.me-zo re.ʃa-o-o-ten-se
+   he-NOM we-GEN school-SING-LOC COMP smart student-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "He is the smartest student in our school."
+
+2. Συγετυζο κομεζο ωασεγο δαμετυυ κομευ κυγυ νεροοοασε.
+   su.ge-tu-zo ko.me-zo wa.se-go da.me-tu-u ko.me-u ku.gu ne.ro-o-o-a-se
+   leaf-PLUR-NOM the-NOM autumn-LOC tree-PLUR-ABL the-ABL from fall-PRES-IND-3PL-ACT
+   "The leaves fall from the trees in autumn."
+
+3. Κυκιζο μιγα χετο ροζυ ροσα ζεγευοοασε.
+   ku.ki-zo mi.ga he.to ro.zu ro.sa ze.ge-u-o-o-a-se
+   i-NOM very well swim to can't-NEG-PRES-IND-1SG-ACT
+   "I can't swim very well."
+
+LEXICON
+
+A small sample of the Kethosian lexicon:
+
+κυκι (ku.ki) - I
+τατε (ta.te) - he
+κεϸι (ke.ʃi) - she
+ωοχυ (wo.hu) - we
+ϸεδο (ʃe.do) - they
+μυδε (mu.de) - school
+δανα (da.na) - student
+ζετυ (ze.tu) - smart
+ρεϸα (re.ʃa) - to be
+συγε (su.ge) - leaf
+δαμε (da.me) - tree
+νερο (ne.ro) - to fall
+ωασε (wa.se) - autumn
+ροζυ (ro.zu) - to swim
+ζεγε (ze.ge) - can't
+μιγα (mi.ga) - very
+χετο (he.to) - well

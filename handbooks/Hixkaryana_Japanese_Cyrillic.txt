@@ -1,0 +1,94 @@
+TITLE: A Grammar and Handbook of Kuhoran
+
+PHONOLOGY
+
+Kuhoran has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows for both open and closed syllables, with a preference for CV structure. Consonant clusters are permitted but generally limited to two consonants. The phonotactics favor alternating consonants and vowels, giving the language a rhythmic quality.
+
+Notable features include:
+- The presence of both the palatal approximant /j/ and the labiovelar approximant /w/
+- A distinction between /s/ and /ʃ/, as well as /t/ and /tʃ/
+- No phonemic vowel length distinction
+
+ORTHOGRAPHY
+
+Kuhoran uses a modified Cyrillic alphabet for its orthography. Each phoneme corresponds to a single Cyrillic letter:
+
+k -> к, s -> с, t -> т, n -> н, h -> х, m -> м, r -> р, g -> г, z -> з, d -> д, 
+b -> б, p -> п, ʃ -> ш, tʃ -> ч, j -> й, w -> ў
+a -> а, o -> о, u -> у, e -> е, i -> и
+
+This orthography provides a one-to-one correspondence between sounds and symbols, making the writing system highly phonemic and easy to learn.
+
+MORPHOSYNTAX
+
+Kuhoran exhibits an ergative-absolutive alignment in its verbal morphology. The language marks tense-aspect through suffixes on the verb, with four distinctions: nonpast (-ре), immediate past (-ни), recent past (-у), and remote past (-о).
+
+Person and number are marked on the verb through suffixes:
+- First person singular: -хо
+- Second person singular: -сун
+- Third person singular: -рон
+- First person plural: -а
+- Third person plural: -та
+
+The language distinguishes between inclusive and exclusive first person plural pronouns: 'а' for inclusive and 'сон' for exclusive.
+
+Nouns are marked for number with -а for singular and -сон for plural. There is no grammatical gender or case marking on nouns.
+
+Additional morphological features include:
+- Negation suffix: -го
+- Relative clause marker: -и
+- Comparative marker: ме
+- Superlative marker: е
+
+Kuhoran uses numeral classifiers, which are placed between the noun and the number.
+
+SYNTAX
+
+Kuhoran follows an Object-Verb-Subject (OVS) word order for main clauses. This relatively rare word order gives the language a distinct character. Adjectives precede the nouns they modify (AN), and prepositions are used before noun phrases (PN).
+
+Relative clauses are formed using the suffix -и on the verb of the relative clause. The relative clause typically follows the noun it modifies.
+
+Questions are formed by intonation rather than word order change, with question words remaining in situ.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text:
+
+1. Гозе кеза ме ўукаа чете техе конеа теайо кухорерони кухорерон.
+   go.ze ke.za me wu.ka-a tʃe.te te.he ko.ne-a teajo ku.ho-re-ron-i ku.ho-re-ron
+   "The smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG"
+   Translation: "He is the smartest student in our school."
+
+2. Тинда хоса гозе казуа кемурерон.
+   ti.nda ho.sa go.ze ka.zu-a ke.mu-re-ron
+   "strongly today the wind-SING blow-NPAST-3SG"
+   Translation: "The wind is blowing strongly today."
+
+3. Норе йону шоке негаа сон рагиреа, таке паку ўере гизираа кагорерон.
+   no.re jo.nu ʃo.ke ne.ga-a son ra.gi-re-a , ta.ke pa.ku we.re gi.zi.ra-a ka.go-re-ron
+   "to a new office-SING 1PLEXCL move-NPAST-1PL , but here your department-SING stay-NPAST-3SG"
+   Translation: "We are moving to a new office, but your department is staying here."
+
+LEXICON
+
+A small sample of the Kuhoran lexicon:
+
+кухо (ku.ho) - be
+гека (ge.ka) - go
+пасу (pa.su) - eat
+нагу (na.gu) - like
+сохо (so.ho) - see
+техе (te.he) - our
+ўере (we.re) - your
+гозе (go.ze) - the
+йону (jo.nu) - a
+куса (ku.sa) - and
+таке (ta.ke) - but
+норе (no.re) - to
+чете (tʃe.te) - in
+тита (ti.ta) - with

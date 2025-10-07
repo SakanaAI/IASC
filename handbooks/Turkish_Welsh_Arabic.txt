@@ -1,0 +1,87 @@
+TITLE: A Grammar and Handbook of Kethoric
+
+PHONOLOGY
+
+Kethoric has a rich phonemic inventory consisting of 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The consonant inventory includes several less common phonemes such as the voiceless lateral fricative /ɬ/ and its devoiced counterpart /ɬ̥/, as well as the voiceless alveolar trill /r̥/. The vowel system is quite extensive, featuring both monophthongs and diphthongs.
+
+ORTHOGRAPHY
+
+Kethoric uses an Arabic-inspired script for its orthography. Some notable correspondences include:
+
+- /p/ → پ
+- /tʃ/ → چ
+- /ŋ/ → ڭ
+- /ɬ/ → ڵ
+- /ɬ̥/ → ڶ
+- /r̥/ → ڕ
+- /ɪ/ → ࢨ
+- /ɨ/ → ࢩ
+- /æ/ → ࢰ
+
+This orthography allows for a unique visual representation of the language while maintaining a connection to existing writing systems.
+
+MORPHOSYNTAX
+
+Kethoric exhibits a complex agglutinative morphology with numerous affixes for grammatical functions:
+
+1. Number: Singular (-نۇ) and plural (-رəپ)
+2. Case: Nominative (-اوڕ), accusative (-ڭەک), dative (-ێو), genitive (-ذۇ), ablative (-ون), locative (-هی), instrumental (-رێڭ)
+3. Tense: Present (-ات), past (-رࢨ), future (-کۆن)
+4. Aspect: Perfective (-جاچ)
+5. Mood: Indicative (-وگ), conditional (-مۇث)
+6. Voice: Active (-جاچ), passive (-مۆ)
+7. Person agreement: 1SG (-جەر), 2SG (-ايم), 3SG (-لال), 1PL (-ۆف), 3PL (-ۆل)
+8. Negation: (-کاي)
+9. Relativizer: (-وێ)
+
+Kethoric also uses prefixes for comparison: COMP (ریچ-) and SUP (اين-).
+
+SYNTAX
+
+Kethoric follows an SOV (Subject-Object-Verb) word order for main clauses. Adjectives precede the nouns they modify (AN order), while adpositions follow their noun complements (NP order).
+
+Example of basic word order:
+گوتۆگاوڕ نۆيێنۇذۇ ماولا کوشیم ڭاوویرəپڭەک سیسەرࢨوگۆفجاچ
+gwtɔg-aʊr̥ no.je-nʊ-ðʊ maʊ.la kwʃim ŋaʊ.wi-rəp-ŋɛk si.sɛ-rɪ-ug-of-dʒatʃ
+we-NOM bread-SING-GEN of two loaf-PLUR-ACC buy-PAST-IND-1PL-ACT
+"We bought two loaves of bread."
+
+EXAMPLE TEXT
+
+1. سکلاش برڭیينۇاوڕ دوذەاوڕ سکلəذ گاشونۇذۇ دوذەذۇ ڵəرۆ ترثات وࢰننثە گێچەاتوگلالجاچ
+sklaʃ brŋij-nʊ-aʊr̥ du.ðɛ-aʊr̥ skləð ga.ʃu-nʊ-ðʊ du.ðɛ-ðʊ ɬə.ro trθat wæ.nnθɛ ge.tʃɛ-at-ug-lal-dʒatʃ
+new phone-SING-NOM the-NOM old model-SING-GEN the-GEN as twice expensive be-PRES-IND-3SG-ACT
+"The new phone is twice as expensive as the old model."
+
+2. گوتۆگاوڕ فرنوو کلڭۇگذۇ ياکوکنۇهی خیلە بلتۇکاتۆفجاچ سترۆک, کورا پرنۆگنۇاوڕ دوذەاوڕ نوڶۆ گێچەکۆنمۇثلالجاچ
+gwtɔg-aʊr̥ frnuw klŋʊg-ðʊ ja.kuk-nʊ-hi χi.lɛ bltʊk-at-of-dʒatʃ strok , ku.ra prnɔg-nʊ-aʊr̥ du.ðɛ-aʊr̥ nu.ɬ̥ɔ ge.tʃɛ-kɔn-mʊθ-lal-dʒatʃ
+we-NOM next week-GEN vacation-SING-LOC on go-PRES-1PL-ACT are , so office-SING-NOM the-NOM closed be-FUT-COND-3SG-ACT
+"We are going on vacation next week, so the office will be closed."
+
+3. سکلاش گريێل ستسۆمنۇاوڕ فرچەشاوڕ لࢰگگمانۇون دوذەون جəنə رۇخۇبرࢨوگلالمۆ گێچەرࢨوگلالجاچ
+sklaʃ grjel stsɔm-nʊ-aʊr̥ frtʃɛʃ-aʊr̥ lægg.ma-nʊ-un du.ðɛ-un dʒə.nə rʊ.χʊb-rɪ-ug-lal-mo ge.tʃɛ-rɪ-ug-lal-dʒatʃ
+new frog species-SING-NOM a-NOM scientist-SING-ABL the-ABL by discover-PAST-IND-3SG-PASS be-PAST-IND-3SG-ACT
+"A new frog species was discovered by the scientist."
+
+LEXICON
+
+A small selection from the Kethoric lexicon:
+
+بلتۇک (bltʊk) - go
+گێچە (ge.tʃɛ) - be
+نوفا (nu.fa) - have
+دۆرə (do.rə) - to
+سايخۆ (saɪ.χɔ) - for
+ڕیبێ (r̥i.be) - in
+خیلە (χi.lɛ) - on
+ثینو (θi.nu) - with
+نوجۆ (nu.dʒɔ) - and
+سنگێه (sngeh) - but
+کورا (ku.ra) - so
+دادࢩ (da.dɨ) - when
+بۆمی (bo.mi) - while

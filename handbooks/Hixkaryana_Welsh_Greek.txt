@@ -1,0 +1,98 @@
+TITLE: A Grammar and Handbook of Zethalian
+
+PHONOLOGY
+
+Zethalian has a rich phonological inventory with 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+
+The language features several unusual consonants, including the voiceless lateral fricative ɬ and its devoiced counterpart ɬ̥, as well as a devoiced trill r̥. The presence of both θ and ð is relatively uncommon cross-linguistically.
+
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The vowel system is quite extensive, including both tense and lax vowels (e.g., i/ɪ, u/ʊ) and three diphthongs. The presence of ɨ adds to the richness of the vowel space.
+
+ORTHOGRAPHY
+
+Zethalian uses a modified Greek alphabet for its orthography. Some notable features include:
+
+1. Use of digraphs for certain sounds: 'ου' for /u/, 'αι' for /aɪ/, 'αυ' for /aʊ/, 'οι' for /ɔɪ/.
+2. Diacritics to represent some consonants: 'σ̱' for /ʃ/, 'λ̥' for /ɬ/, 'ρ̥' for /r̥/.
+3. Repurposing of Greek letters: 'β' represents /b/ instead of /v/.
+4. Use of 'γγ' for /ŋ/, similar to some Greek dialects.
+
+The orthography system allows for a unique visual representation of the language while maintaining some familiarity for those acquainted with the Greek alphabet.
+
+MORPHOSYNTAX
+
+Zethalian exhibits a rich morphological system with several notable features:
+
+1. Number: Singular (-συτσ) and plural (-ιε) are marked on nouns.
+2. Tense-Aspect: Four tenses are marked on verbs through suffixes:
+   - Non-past (-σ̱ωρ)
+   - Immediate past (-τατ)
+   - Recent past (-δεω)
+   - Remote past (-φυτζ)
+
+3. Person Agreement: The language uses an ergative-absolutive alignment with person markers for both the ergative and absolutive cases. For example:
+   - 1SG ergative: -ιλ̥
+   - 3PL absolutive: -ικ
+
+4. Negation: Verbs can be negated using the suffix -δηδ.
+
+5. Comparative and Superlative: Marked by 'υκ' (comparative) and 'νην' (superlative).
+
+6. Inclusive-Exclusive Distinction: The language distinguishes between inclusive (νε) and exclusive (σην) first person plural pronouns.
+
+7. Classifiers: Zethalian uses classifiers, although the specific system is not detailed in the provided information.
+
+SYNTAX
+
+Zethalian follows an Object-Verb-Subject (OVS) word order, which is relatively rare among the world's languages. This order is exemplified in sentences like:
+
+σμθεφ φρπανσυτσ σετα κρνιγγ σκποπδεωκη
+the.mouse until it run-RECPAST-3SG
+"Until the mouse ran"
+
+Other syntactic features include:
+
+1. Adjective-Noun (AN) order: Adjectives precede the nouns they modify.
+2. Preposition-Noun (PN) order: Prepositions come before their object nouns.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various features of Zethalian:
+
+1. Ζμθηφ λ̥ωπαχ υκ βρνουσ̱συτσ χηγγα σ̱ουτου φουρουσυτσ φρθεν λ̥ωλεκσ̱ωρκηεσ λ̥ωλεκσ̱ωρκη.
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG
+   "He is the smartest student in our school."
+
+This sentence demonstrates the comparative construction, singular marking, and the relative clause structure.
+
+2. Σιμου ζμθηφ ωυσ̱ειε χηγγα ταυδυ ζμθηφ νυβυιε δρβυλ̥σ̱ωρικ.
+   from the tree-PLUR in autumn the leaf-PLUR fall-NPAST-3PL
+   "The leaves fall from the trees in autumn."
+
+This example shows plural marking, the use of prepositions, and verb agreement with a plural subject.
+
+3. Χηγγα ζμθηφ νηπισυτσ ζμθηφ τσασαυιε βουιωδεωικ.
+   in the park-SING the child-PLUR play-RECPAST-3PL
+   "The children played in the park."
+
+This sentence illustrates the contrast between singular and plural marking, as well as the recent past tense.
+
+LEXICON
+
+A small sample of the Zethalian lexicon:
+
+βρνουσ̱ - student
+φουρου - school
+λ̥ωλεκ - to be
+ωυσ̱ε - tree
+νυβυ - leaf
+δρβυλ̥ - to fall
+νηπι - park
+τσασαυ - child
+βουιω - to play
+φρπαν - mouse
+σκποπ - to run

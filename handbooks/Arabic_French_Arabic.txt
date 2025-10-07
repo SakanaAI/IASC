@@ -1,0 +1,94 @@
+TITLE: A Grammar and Handbook of Dömkala
+
+PHONOLOGY
+
+Dömkala has a rich phonemic inventory with 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language distinguishes between voiced and voiceless consonants, and includes several nasal vowels. The presence of both /y/ and /u/ is notable, as is the inclusion of the uvular fricative /ʁ/. The vowel system is quite symmetrical, with front rounded vowels balancing their unrounded counterparts.
+
+ORTHOGRAPHY
+
+Dömkala uses a modified Arabic script for its writing system. Each phoneme is represented by a single character, with some creative adaptations to represent sounds not typically found in Arabic. For example:
+
+- /p/ is represented by پ
+- /v/ is represented by ڤ
+- /ɲ/ is represented by ڽ
+- /y/ is represented by ۆ
+- /ø/ is represented by ۊ
+
+Nasal vowels are indicated by the addition of a small alif above the vowel character, e.g., اٰ for /ɑ̃/.
+
+MORPHOSYNTAX
+
+Dömkala exhibits a rich morphological system with both prefixes and suffixes. Nouns are marked for number (singular, plural, dual) and case (nominative, accusative, genitive). Verbs are marked for tense (present, past, future), aspect, and person/number agreement.
+
+Notable features include:
+
+1. Three-way number distinction: singular (-lۇ), plural (-na), and dual (-ە)
+2. Case marking: nominative (-as), accusative (-pe), genitive (-شٱغ)
+3. Definite (-tan) and indefinite (-سيغ) markers
+4. Verbal person/number agreement (e.g., -غۇن for 3SG, -ۇ for 3PL)
+5. Tense markers: present (-نيغ), past (-ۇغ), future (-ە)
+6. Comparative (-ۆ) and superlative (-ۆن) suffixes
+7. Passive voice marker (-ەغ)
+
+The language also uses prefixes, such as دۉم- for definiteness.
+
+SYNTAX
+
+Dömkala follows a VSO (Verb-Subject-Object) word order in main clauses. Adjectives follow the nouns they modify (NA order), and prepositions precede their objects (PN order).
+
+Example of basic word order:
+تەڤەەغۇنۇ ۆت دۉمفغتٱللۇاس شيۋالۇ ڤغسەکلۇپەتان
+te.ve-e-ʁɔn-ɔ ot dœm-fʁtəl-lɔ-as ʃi.ɥa-lɔ vʁsɛk-lɔ-pe-tan
+eat-FUT-3SG-ACT NEG DEF-cat-SING-NOM food-SING its-SING-ACC-DEF
+"The cat will not eat its food."
+
+Relative clauses are introduced by the particle ۆم (ym) and follow the noun they modify.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text:
+
+1. گغکيننيغغۇن کاما دۉمدەبولۇ ۆم بلغۉمۆنلۇاستان غاسي دۉمڤغوەنلۇ کەۋۇشٱغ
+gʁkin-niʁ-ʁɔn ka.ma dœm-de.bu-lɔ ym blʁœm-on-lɔ-as-tan ʁa.si dœm-vʁwɛn-lɔ ke.ɥɔ-ʃəʁ
+be-PRES-3SG he DEF-student-SING REL smart-SUP-SING-NOM-DEF in DEF-school-SING we-GEN
+"He is the smartest student in our school."
+
+2. دەناٰنيغوۇ دۉمتغسيغنا پۆغە دۉمسنلٱکناشٱغ غاسي دغساسشٱغ
+de.nɑ̃-niʁ-u-ɔ dœm-tʁsiʁ-na po.ʁɛ dœm-snlək-na-ʃəʁ ʁa.si dʁsas-ʃəʁ
+fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN
+"The leaves fall from the trees in autumn."
+
+3. گلژۆنۇغغۇنۇ کامااس دۉملەتيلۇ فلفاٰنلۇپەتان مٱگە دۉمڤەشولۇ فلفاٰنلۇشٱغتان
+glʒyn-ɔʁ-ʁɔn-ɔ ka.ma-as dœm-le.ti-lɔ flfɑ̃n-lɔ-pe-tan mə.gɛ dœm-ve.ʃu-lɔ flfɑ̃n-lɔ-ʃəʁ-tan
+lend-PAST-3SG-ACT he-NOM DEF-bicycle-SING his-SING-ACC-DEF to DEF-cousin-SING his-SING-GEN-DEF
+"He lent his bicycle to his cousin."
+
+LEXICON
+
+A small sample of the Dömkala lexicon:
+
+تەلە (te.lɛ) - address
+تالٱ (ta.lə) - always
+گۇبۇ (gɔ.bɔ) - and
+غينە (ʁi.nɛ) - as
+سکڤاغ (skvaʁ) - at
+دەنۇ (dɛ.nɔ) - attic
+دغساس (dʁsas) - autumn
+نيگا (ni.ga) - backyard
+والەٰ (wa.lɛ̃) - bake
+گغکين (gʁkin) - be
+لەتي (le.ti) - bicycle
+فەڤو (fe.vu) - bloom
+ديغۆ (di.ʁo) - blow
+سپنەل (spnɛl) - blue
+کغناک (kʁnak) - bone
+کلسٱم (klsəm) - book
+فلسۇت (flsɔt) - bread
+تۆتا (to.ta) - build
+دەسا (de.sa) - bury
+فغنان (fʁnan) - bus

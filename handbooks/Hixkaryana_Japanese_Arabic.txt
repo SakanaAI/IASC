@@ -1,0 +1,94 @@
+TITLE: A Grammar and Handbook of Zuhkari
+
+PHONOLOGY
+
+Zuhkari has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows for both open and closed syllables, with a preference for CV structure. Consonant clusters are permitted but generally limited to two consonants. Stress typically falls on the penultimate syllable.
+
+ORTHOGRAPHY
+
+Zuhkari uses a modified Arabic script for its writing system. Consonants are represented by Arabic letters, while vowels are indicated by diacritical marks above or below the consonants. Some notable features include:
+
+- The use of پ (pe) for /p/, چ (che) for /tʃ/, and غ (ghain) for /g/
+- Short vowels are represented by diacritics: َ (fatha) for /a/, ُ (damma) for /o/, ِ (kasra) for /i/, ٜ for /e/, and ٗ for /u/
+- Word-initial vowels are carried by alif (ا)
+
+This orthography allows for a compact writing system that reflects the phonological structure of the language.
+
+MORPHOSYNTAX
+
+Zuhkari exhibits a mix of agglutinative and fusional morphology. Key features include:
+
+1. Nominal marking:
+   - Number: Singular (-a) and plural (-son) suffixes
+   - No case marking on nouns
+
+2. Verbal marking:
+   - Tense-aspect: Non-past (-re), immediate past (-ni), recent past (-u), remote past (-o) suffixes
+   - Person agreement: Ergative-absolutive alignment with suffixes (e.g., -ho for 1SG, -ron for 3SG)
+   - Negation: Suffix -go
+
+3. Inclusive-exclusive distinction in first person plural pronouns:
+   - 1PLINCL: a
+   - 1PLEXCL: son
+
+4. Other notable morphemes:
+   - Relative clause marker: -i
+   - Comparative: em
+   - Superlative: e
+   - Plural: -son
+
+SYNTAX
+
+Zuhkari follows an OVS (Object-Verb-Subject) word order for main clauses, which is relatively rare among the world's languages. Other syntactic features include:
+
+1. Adjective-Noun order: Adjectives precede the nouns they modify (AN)
+2. Adposition-Noun order: Prepositions are used (PN)
+3. Relative clauses: Marked with the suffix -i on the verb and typically follow the noun they modify
+4. Question formation: Primarily through intonation, with question words remaining in situ
+5. Coordination: Conjunctions like "kusa" (and) join clauses or phrases
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various aspects of Zuhkari grammar:
+
+1. ُغٜز ٜكَز ٜم ٗوَكاَ ٜچٜت ٜتٜه ُكٜناَ ٜتاَُي ٗكُهٜرُرِن ٗكُهٜرُرن
+   go.ze ke.za me wu.ka-a tʃe.te te.he ko.ne-a teajo ku.ho-re-ron-i ku.ho-re-ron
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG
+   "The smartest student in our school is he."
+
+2. ٜهٜن ُغٜز ٗسُتُسن ٜچٜت ِسُن ُغٜز َكُمُسن ٗسٗهٜرَت
+   he.ne go.ze su.to-son tʃe.te si.no go.ze ka.mo-son su.hu-re-ta
+   from the tree-PLUR in autumn the leaf-PLUR fall-NPAST-3PL
+   "From the trees in autumn, the leaves fall."
+
+3. ِتَت ُيٗن ٜسَتٜو ِچَمِداَ ٗوٜغ ِكُس ُدٗكاَ ُسن ُغِداٗاَ ُنٜر ٜغَك
+   ti.ta jo.nu se.tawe tʃi.ma.di-a wu.ge ki.so do.ku-a son go.di-u-a no.re ge.ka
+   with a different contractor-SING for this project-SING 1PLEXCL decide-RECPAST-1PL to go
+   "With a different contractor for this project, we (excl.) decided to go."
+
+These examples demonstrate the OVS word order, use of case markers, tense-aspect suffixes, and the inclusive-exclusive distinction in pronouns.
+
+LEXICON
+
+A small sample of the Zuhkari lexicon:
+
+ُغٜز (go.ze) - the
+ٜكَز (ke.za) - smart
+ٗوَك (wu.ka) - student
+ُكٜن (ko.ne) - school
+ٗكُه (ku.ho) - to be
+ٜغَك (ge.ka) - to go
+َنِه (na.hi) - to need
+ٜتُك (te.ko) - to want
+َنٗغ (na.gu) - to like
+ُسُه (su.ho) - to see
+َپٗس (pa.su) - to eat
+ٗكَن (ku.na) - to live
+ِنُك (ni.ko) - to have
+ُسن (son) - 1PLEXCL (we, exclusive)
+اَ (a) - 1PLINCL (we, inclusive)

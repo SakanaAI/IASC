@@ -1,0 +1,76 @@
+TITLE: A Grammar and Handbook of Shosholang
+
+PHONOLOGY
+
+Shosholang has a relatively simple phonological system consisting of 16 consonants and 5 vowels.
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows for both open and closed syllables, with a preference for CV structure. Consonant clusters are relatively rare, occurring mainly in loanwords or at morpheme boundaries.
+
+ORTHOGRAPHY
+
+The orthography of Shosholang is largely phonemic, with a few digraphs for sounds not represented by single letters in the Latin alphabet:
+
+- 'sh' represents /ʃ/
+- 'ch' represents /tʃ/
+- 'y' represents /j/
+
+Most other sounds are represented by their IPA equivalents. One notable orthographic rule is that a double 'o' at the end of a word is written as 'oo' rather than 'o'.
+
+MORPHOSYNTAX
+
+Shosholang exhibits an ergative-absolutive case system, marked by postpositional words. The main case markers are:
+
+- 'ra' for ergative
+- 'u' for absolutive
+- 'ban' for instrumental
+
+The language does not mark grammatical gender or have an inclusive-exclusive distinction in pronouns. It also lacks overt tense marking on verbs.
+
+Verbs agree with both the ergative and absolutive arguments in person and number. For example:
+
+- '-seta coza sanso' marks 1st person singular ergative
+- '-seta husha sanso' marks 3rd person singular ergative
+- '-seta coza cuci' marks 1st person plural ergative
+
+Shosholang uses classifiers with numbers, although the specific classifiers are not detailed in the provided information.
+
+SYNTAX
+
+Shosholang has an unusual Object-Subject-Verb (OSV) word order for its main clauses. This is relatively rare among the world's languages.
+
+Adjectives follow the nouns they modify (NA order), and adpositions follow their noun phrases (NP order). These postpositional phrases often function as case markers.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text:
+
+1. Ceri yehe gehu gosea cogo dusu nozoye tu cogo redu u hada seta husha sanso.
+   new phone old model-REL as twice expensive EQU as the ABS is with third singular
+   "The new phone is twice as expensive as the old model."
+
+2. Capa u zupu hegi u mere shosho shogi seta husha cuci.
+   trees ABS from leaves ABS autumn in fall with third plural
+   "Leaves fall from the trees in autumn."
+
+3. Yoato daro cono haaye sita u mire, cosa u neco coowu ruga sana seta husha sanso.
+   vacation on next week we ABS going, office ABS so closed will be with third singular
+   "We are going on vacation next week, so the office will be closed."
+
+LEXICON
+
+A small sample of the Shosholang lexicon:
+
+hute: house
+nira: book
+bitu: go
+cido: teacher
+mushu: cat
+nonu: dog
+tamaye: delicious
+hira: change
+cago: climate
+bihu: address
+zibe: country

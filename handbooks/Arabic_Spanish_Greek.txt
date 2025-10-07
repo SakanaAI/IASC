@@ -1,0 +1,88 @@
+TITLE: A Grammar and Handbook of Ετνανο (Etnano)
+
+PHONOLOGY
+
+Ετνανο has a relatively simple phonological system consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language features a contrast between voiced and voiceless stops, as well as a rich set of fricatives and liquids. The presence of palatal consonants (ɲ, ʎ, ʝ) adds complexity to the system.
+
+ORTHOGRAPHY
+
+Ετνανο uses a modified Greek alphabet for its orthography. Most letters correspond directly to their IPA equivalents, with a few exceptions:
+
+- 'ου' represents /u/
+- 'τσ' represents /tʃ/
+- 'νι' represents /ɲ/
+- 'λι' represents /ʎ/
+- 'ρρ' represents /r/ (as opposed to 'ρ' for /ɾ/)
+- 'γι' represents /ʝ/
+
+The orthography is largely phonemic, making it relatively easy to read and write once the system is learned.
+
+MORPHOSYNTAX
+
+Ετνανο exhibits a rich morphological system with both nominal and verbal inflection.
+
+Nouns are marked for number (singular, plural) and case (nominative, accusative, genitive). Cases are marked by suffixes:
+- Nominative: -ρο
+- Accusative: -ρας
+- Genitive: -νες
+
+Verbs are marked for tense (present, past, future), aspect, and person/number agreement. The language uses a nominative-accusative alignment system. Verb suffixes include:
+- Present: -νο
+- Past: -σαλ
+- Future: -λε
+
+Person agreement is marked by suffixes such as:
+- 1SG: -ριν
+- 3SG: -λε
+- 3PL: -διν
+
+The language also has a range of other grammatical markers, including:
+- Definite article: νου-
+- Comparative: -ρας
+- Superlative: -λερ
+- Passive: -λιν
+
+Ετνανο does not mark grammatical gender and does not have an inclusive-exclusive distinction in pronouns.
+
+SYNTAX
+
+Ετνανο follows a VSO (Verb-Subject-Object) word order in main clauses. Adjectives follow the nouns they modify (NA order), and the language uses prepositions (PN order).
+
+Relative clauses are introduced by the particle 'ραρ' and follow the noun they modify.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text:
+
+1. Ετνανολε νουατλοσες ραρ σοροσεσρονα ρινουδρασσεσρονα σερο νιρι νουαρλεσες ραρ ναλασεσρονα.
+   be-PRES-3SG DEF-phone-SING REL new-SING-NOM-DEF expensive-COMP-SING-NOM-DEF twice as DEF-model-SING REL old-SING-NOM-DEF.
+   "The new phone is twice as expensive as the old model."
+
+2. Ετνανορι σαρανορινα ισσαρο ανρι νουρελερανες ουνσι, ετρανοδα ανρι ανρα ισσαρας?
+   be-PRES-1PL go-PRES-1PL-ACT we-NOM to DEF-movie-PLUR-GEN later, want-PRES-2SG to join we-ACC?
+   "We are going to the movies later, do you want to join us?"
+
+3. Ενδασαλδιννα νουλολιραρο ασρασεσρας, λενου σανοσαλλενα σεραρο ραροσες ραρ αμλεσεσνεσνα.
+   build-PAST-3PL-ACT DEF-child-PLUR-NOM snowman-SING-ACC, and melt-PAST-3SG-ACT it-NOM day-SING REL next-SING-GEN-DEF.
+   "The children built a snowman, and it melted the next day."
+
+LEXICON
+
+A small sample of the lexicon:
+
+ετνα - be
+σαρα - go
+νου- - DEF (definite article prefix)
+-ρο - NOM (nominative suffix)
+-ρας - ACC (accusative suffix)
+-νες - GEN (genitive suffix)
+ραρ - REL (relative clause marker)
+λενου - and
+σαν - NEG (negation particle)
+αλλε - in
+ανρι - to

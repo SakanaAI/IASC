@@ -1,0 +1,109 @@
+TITLE: A Grammar and Handbook of Saralang
+
+PHONOLOGY
+
+Saralang has a phoneme inventory consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language features a mix of common and less common sounds. Notable features include:
+- A three-way distinction between /l/, /ʎ/, and /ɾ/
+- Inclusion of the dental fricative /θ/
+- Palatal nasal /ɲ/ and palatal lateral approximant /ʎ/
+- Both a tap /ɾ/ and a trill /r/
+
+The syllable structure appears to be (C)V(C), allowing both open and closed syllables.
+
+ORTHOGRAPHY
+
+Saralang uses a modified Arabic script for its orthography. Some key features:
+
+- Vowels are represented by full letters rather than diacritics
+- Some consonants use modified forms of Arabic letters
+- The script is written right-to-left
+
+Examples:
+/p/ -> پ
+/tʃ/ -> چ
+/ɲ/ -> ڽ
+/ʎ/ -> ڵ
+/ɾ/ -> ر
+/r/ -> ڕ
+
+Vowels:
+/a/ -> ا
+/e/ -> ە
+/i/ -> ی
+/o/ -> ۆ
+/u/ -> و
+
+A hamza (ء) is added before word-initial vowels.
+
+MORPHOSYNTAX
+
+Saralang exhibits an ergative-absolutive case system with the following cases:
+- Ergative (ERG): marked by لال (lal)
+- Absolutive (ABS): marked by رۆس (ros)
+- Genitive (GEN): not seen in the sample text
+- Instrumental (INS): marked by لی (li)
+
+The language uses postpositional words for case marking.
+
+Verbal morphology includes person agreement for both ergative and absolutive arguments:
+- 1SGERG, 2SGERG, 3SGERG, 1PLERG, 2PLERG, 3PLERG
+- 1SGABS, 2SGABS, 3SGABS, 1PLABS, 2PLABS, 3PLABS
+
+Other notable morphological features:
+- Comparative marker: سین (sin)
+- Equative marker: نە (ne)
+- Superlative marker: لی (li)
+- Relative clause marker: نیر (-nir)
+- Negation marker: رۆ- (-ro)
+
+The language uses numeral classifiers, though examples are not provided in the sample text.
+
+SYNTAX
+
+Saralang has an Object-Subject-Verb (OSV) word order for main clauses. Other syntactic features include:
+
+- Noun-Adjective order (NA)
+- Noun-Postposition order (NP)
+- Relative clauses are formed with the suffix -nir
+- Auxiliaries follow the main verb
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text:
+
+1. نیسی سین ءیبرە ءۆکنۆ لال سەسە رۆس ریسانیر ءاسنو رۆس رەسۆ ءومنا ءۆڕرو لەلا
+ni.si sin ib.ɾe ok.no lal se.se ɾos ɾi.sa-niɾ as.nu ɾos ɾe.so um.na or.ɾu le.la .
+smart COMP student we ERG school ABS in-REL he ABS is with first singular .
+"We are smarter than the student who is in school."
+
+2. ءۆکلە لی سیلو لەنە لال رۆس ءۆلنۆ سونۆنیر ءۆکری رۆس رەسۆ ءومنا سالۆ لەلا
+ok.le li si.lu le.ne lal ɾos ol.no su.no-niɾ ok.ɾi ɾos ɾe.so um.na sa.lo le.la .
+hot SUP day year ERG ABS so far-REL today ABS is with third singular .
+"Today is the hottest day of the year so far."
+
+3. سەسار لانۆ سین ریدۆ لال ءۆلنونیر ءەتلۆ رۆس رەسۆ ءومنا سالۆ لەلا
+se.saɾ la.no sin ɾi.do lal ol.nu-niɾ et.lo ɾos ɾe.so um.na sa.lo le.la .
+delicious cake COMP i ERG tasted-REL this ABS is with third singular .
+"This is more delicious than the cake I tasted."
+
+LEXICON
+
+A small sample of the lexicon:
+
+ءیبرە (ib.re) - student
+سەسە (se.se) - school
+ءاسنو (as.nu) - he
+ءۆکنۆ (ok.no) - we
+سیلو (si.lu) - day
+لەنە (le.ne) - year
+ءۆکری (ok.ri) - today
+لانۆ (la.no) - cake
+ریدۆ (ri.do) - I
+ءەتلۆ (et.lo) - this
+رەسۆ (re.so) - is
+ءومنا (um.na) - with

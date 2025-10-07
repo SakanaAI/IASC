@@ -1,0 +1,108 @@
+TITLE: A Grammar and Handbook of Cyrillic
+
+PHONOLOGY
+
+Cyrillic has a relatively simple phonological system consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+Notable features include:
+- A voiceless dental fricative /θ/
+- A palatal nasal /ɲ/ and lateral /ʎ/
+- Both a tap /ɾ/ and trill /r/
+- Palatal approximant /j/ and fricative /ʝ/
+
+The language lacks some common sounds like /v/, /z/, and /ʃ/, giving it a distinctive phonetic character.
+
+ORTHOGRAPHY
+
+Cyrillic uses a modified Cyrillic alphabet for its orthography. Some notable correspondences include:
+
+- /θ/ is represented by ѳ
+- /ɲ/ is represented by њ
+- /ʎ/ is represented by љ
+- /ɾ/ is represented by р
+- /r/ is represented by р̃
+- /j/ is represented by й
+- /ʝ/ is represented by ј
+
+This creates an interesting blend of familiar Cyrillic letters with some unique additions to represent the language's specific phonemes.
+
+MORPHOSYNTAX
+
+Cyrillic exhibits a rich morphological system with both nominal and verbal inflection:
+
+Nominal morphology:
+- Two numbers: singular (-са) and plural (-са)
+- Seven cases: nominative (-рен), accusative (-не), dative (-на), genitive (-се), ablative (-рур), locative (-ле), instrumental (-са)
+
+Verbal morphology:
+- Three tenses: present (-со), past (-ла), future (-лен)
+- Person and number agreement: 1SG (-лу), 2SG (-нод), 3SG (-сал), 1PL (-нер), 3PL (-ди)
+- Mood markers: indicative (-са), conditional (-си)
+- Voice markers: active (-рал), passive (-на)
+
+Other notable morphemes:
+- Negation: -су
+- Relative clause marker: -нен
+
+The language uses suffixes extensively for grammatical marking, creating complex word forms.
+
+SYNTAX
+
+Cyrillic follows an SOV (Subject-Object-Verb) word order for main clauses. Other syntactic features include:
+
+- Adjectives precede the nouns they modify (AN order)
+- Postpositions are used instead of prepositions (NP order)
+- The language uses numeral classifiers
+- There is no inclusive/exclusive distinction in pronouns
+- The language does not mark grammatical gender
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthography, gloss, and English translation:
+
+1. Аднерен атнисе нулосале си орни ебрусарен аљсурен сасесосасалрал.
+   ad.ne-ɾen at.ni-se nu.lo-sa-le si oɾ.ni eb.ɾu-sa-ɾen aʎ.su-ɾen sa.se-so-sa-sal-ɾal
+   he-NOM we-GEN school-SING-LOC COMP smart student-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "He is the smartest student in our school."
+
+2. Атнирен расу осдосале ессоле есне насисонеррал енно, насе сисесе лаблдусарен дасе ерноленсисалрал.
+   at.ni-ɾen ɾa.su os.do-sa-le es.so-le es.ne na.si-so-neɾ-ɾal en.no , na.se si.se-se labl.du-sa-ɾen da.se eɾ.no-len-si-sal-ɾal
+   we-NOM new office-SING-LOC a-LOC to move-PRES-1PL-ACT are , but you-GEN department-SING-NOM here stay-FUT-COND-3SG-ACT
+   "We are moving to a new office, but your department will stay here."
+
+3. Ласесарен аљсурен опсисале аљсуле седа росоласадирал.
+   la.se-sa-ɾen aʎ.su-ɾen op.si-sa-le aʎ.su-le se.da ɾo.so-la-sa-di-ɾal
+   child-PLUR-NOM the-NOM park-SING-LOC the-LOC in play-PAST-IND-3PL-ACT
+   "The children played in the park."
+
+LEXICON
+
+A small sample of the lexicon:
+
+атни - we
+нуло - school
+орни - smart
+ебру - student
+расу - new
+акле - phone
+сасни - expensive
+ирро - today
+епсо - year
+ајса - hot
+ахна - day
+онре - exercise
+нади - book
+сина - easy
+нола - one
+ајле - cake
+нано - leaf
+агра - tree
+игри - wind
+осну - bicycle
+нило - movie
+даса - vacation
+сено - garden
+реро - tomato

@@ -1,0 +1,91 @@
+TITLE: A Grammar and Handbook of Alnari
+
+PHONOLOGY
+
+Alnari has a phoneme inventory consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language features a contrast between dental and palatal laterals (l vs. ʎ) and between a tap and trill (ɾ vs. r). It also has both a palatal approximant and fricative (j vs. ʝ).
+
+The syllable structure is generally (C)V(C), allowing for consonant clusters in onset and coda positions.
+
+ORTHOGRAPHY
+
+Alnari uses an Arabic-inspired script, with each phoneme represented by a unique character. Some notable correspondences include:
+
+- θ is written as ث
+- x is written as خ
+- tʃ is written as چ
+- ɲ is written as ڽ
+- ʎ is written as ڵ
+- ɾ is written as ر
+- r is written as ڕ
+- ʝ is written as ژ
+
+Vowels are represented as follows:
+a: ا, e: ە, i: ی, o: ۆ, u: و
+
+The script is written from right to left, following Arabic convention.
+
+MORPHOSYNTAX
+
+Alnari is an agglutinative language with a rich system of suffixes for grammatical functions.
+
+Nouns are marked for number (singular -sa, plural -sa), case (nominative -ren, accusative -ne, dative -na, genitive -se, ablative -rur, locative -le, instrumental -sa), and definiteness (definite -aʎsu).
+
+Verbs are marked for tense (present -so, past -la, future -len), aspect (imperfective -sa), mood (indicative -sa, conditional -si), person/number agreement (1SG -lu, 2SG -nod, 3SG -sal, 1PL -ner, 3PL -di), and voice (active -ral, passive -na).
+
+Other notable morphemes include:
+- Comparative: si
+- Superlative: do
+- Negation: -su
+- Relative clause marker: -nen
+
+SYNTAX
+
+Alnari follows a Subject-Object-Verb (SOV) word order. Adjectives precede the nouns they modify, while adpositions follow their noun complements (postpositions).
+
+Relative clauses are formed using the suffix -nen on the verb and precede the noun they modify.
+
+The language uses postpositions rather than prepositions, consistent with its SOV structure.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthographic representation, gloss, and English translation:
+
+1. ادنەرەن اتنیسە نولۆسالە سی ۆرنی ەبروسارەن اڵسورەن ساسەسۆساسالرال
+ad.ne-ren at.ni-se nu.lo-sa-le si or.ni eb.ru-sa-ren aʎ.su-ren sa.se-so-sa-sal-ral
+he-NOM we-GEN school-SING-LOC COMP smart student-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+"He is the smartest student in our school."
+
+2. یررۆرەن ەپسۆساسە اڵسوسە نەرە نانە وللۆ دۆ اژسا اخناسارەن اڵسورەن ساسەسۆساسالرال
+ir.ro-ren ep.so-sa-se aʎ.su-se ne.re na.ne ul.lo do aʝ.sa ax.na-sa-ren aʎ.su-ren sa.se-so-sa-sal-ral
+today-NOM year-SING-GEN the-GEN of so far SUP hot day-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+"Today is the hottest day of the year so far."
+
+3. نانۆسارەن اڵسورەن لۆلولە اگراسارور اڵسورور ۆبری ۆدنیسۆسادیرال
+na.no-sa-ren aʎ.su-ren lo.lu-le ag.ra-sa-rur aʎ.su-rur ob.ri od.ni-so-sa-di-ral
+leaf-PLUR-NOM the-NOM autumn-LOC tree-PLUR-ABL the-ABL from fall-PRES-IND-3PL-ACT
+"The leaves fall from the trees in autumn."
+
+LEXICON
+
+A small sample of the Alnari lexicon:
+
+اتنی (at.ni) - we
+ەررا (er.ra) - I
+سیسە (si.se) - you
+ادنە (ad.ne) - he
+ۆسسو (os.su) - she
+راسو (ra.su) - they
+نولۆ (nu.lo) - school
+ەبرو (eb.ru) - student
+اخنا (ax.na) - day
+ەپسۆ (ep.so) - year
+اگرا (ag.ra) - tree
+نانۆ (na.no) - leaf
+لۆلو (lo.lu) - autumn
+ساسە (sa.se) - to be
+ۆدنی (od.ni) - to fall

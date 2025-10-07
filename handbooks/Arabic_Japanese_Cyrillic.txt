@@ -1,0 +1,97 @@
+TITLE: A Grammar and Handbook of Saruvian
+
+PHONOLOGY
+
+Saruvian has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows consonant clusters and diphthongs. Syllable structure is generally (C)V(C), with some more complex structures permitted.
+
+Notable features:
+- The presence of both /ʃ/ and /tʃ/ provides a contrast between these similar sounds
+- The inclusion of both /w/ and /j/ as semivowels adds phonetic variety
+- The five-vowel system is common cross-linguistically and provides a good balance of sounds
+
+ORTHOGRAPHY
+
+Saruvian uses a modified Cyrillic alphabet for its orthography. Each phoneme is represented by a single character:
+
+к (k), с (s), т (t), н (n), х (h), м (m), р (r), г (g), з (z), д (d), б (b), п (p), ш (ʃ), ч (tʃ), й (j), в (w)
+а (a), о (o), у (u), е (e), и (i)
+
+This orthography provides a one-to-one correspondence between sounds and symbols, making it relatively easy to learn and use. The use of Cyrillic gives the language a distinct visual character while maintaining phonetic clarity.
+
+MORPHOSYNTAX
+
+Saruvian exhibits a rich morphological system with both prefixes and suffixes. Key features include:
+
+1. Number: Singular (-о), Plural (-ху), and Dual (-е) markers
+2. Case: Nominative (-о), Accusative (-у), Genitive (-нин)
+3. Definiteness: Definite prefix (ку-), Indefinite suffix (-ра)
+4. Tense: Present (-са), Past (-хан), Future (-ту)
+5. Person agreement: 1SG (-у), 2SG (-бу), 3SG (-и), 1PL (-а), 3PL (-нен)
+6. Aspect: Active (-и)
+7. Comparison: Comparative (-тон), Superlative (-пон)
+8. Other markers: Passive (-у), Subordinate (-та)
+
+Nouns inflect for number, case, and definiteness. Verbs show complex agreement patterns and mark tense and aspect. Adjectives can inflect for case, number, and comparison.
+
+The language uses postpositions, as evidenced by the locative (-у) and genitive (-нин) case markers.
+
+SYNTAX
+
+Saruvian follows a VSO (Verb-Subject-Object) word order in main clauses. This is a relatively uncommon order cross-linguistically, found in about 9% of the world's languages.
+
+Other syntactic features include:
+1. Adjective-Noun: NA (Noun-Adjective) order
+2. Adposition-Noun: PN (Preposition-Noun) order
+
+The combination of VSO main order with NA adjective order is particularly rare, occurring in less than 4% of languages globally.
+
+Relative clauses are marked with the particle 'а' and follow the noun they modify.
+
+EXAMPLE TEXT
+
+Here are two example sentences from the provided text, with orthography, gloss, and English translation:
+
+1. Зарусаи мако кубомоо а сокепонооса резе кукасио тагинин.
+   za.ru-sa-i ma.ko ku-bo.mo-o a so.ke-pon-o-o-sa re.ze ku-ka.si-o ta.gi-nin .
+   be-PRES-3SG he DEF-student-SING REL smart-SUP-SING-NOM-DEF in DEF-school-SING we-GEN .
+   "He is the smartest student in our school."
+
+2. Кизесанени кунегаху сете кугимохунин резе такинин.
+   ki.ze-sa-nen-i ku-ne.ga-hu se.te ku-gi.mo-hu-nin re.ze ta.ki-nin .
+   fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN .
+   "The leaves fall from the trees in autumn."
+
+These examples showcase several key features of Saruvian, including VSO word order, complex verbal morphology, and the use of case markers and definiteness prefixes.
+
+LEXICON
+
+A small sample of the Saruvian lexicon:
+
+зару (zaru) - be
+чуто (tʃuto) - go
+киево (kievo) - eat
+мута (muta) - like
+сапо (sapo) - live
+каху (kahu) - get
+мехи (mehi) - see
+сопе (sope) - write
+кахи (kahi) - build
+нира (nira) - chase
+
+муайе (muaje) - house
+раку (raku) - book
+гоку (goku) - cat
+хусу (husu) - dog
+деайи (deaji) - day
+хоко (hoko) - year
+тате (tate) - friend
+римо (rimo) - child
+йеси (jesi) - man
+тесо (teso) - she
+
+This lexicon shows a preference for CVCV syllable structure, though other patterns are also present. The vocabulary items reflect basic concepts and actions, providing a foundation for more complex expressions in the language.

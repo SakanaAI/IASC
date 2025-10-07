@@ -1,0 +1,104 @@
+TITLE: A Grammar and Handbook of Allsurian
+
+PHONOLOGY
+
+Allsurian has a phoneme inventory consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language features a mix of common and less common sounds. Notable features include:
+- A dental fricative /θ/
+- A palatal nasal /ɲ/ and lateral /ʎ/
+- Both a tap /ɾ/ and trill /r/
+- Palatal approximant /j/ and fricative /ʝ/
+
+Syllable structure appears to be (C)V(C), allowing both open and closed syllables.
+
+ORTHOGRAPHY
+
+Allsurian uses a Latin-based alphabet with some digraphs and diacritics:
+
+p, b, t, d, c, g, f, th, s, ch, m, n, ñ, l, ll, r, rr, y
+
+Notable features:
+- 'c' represents /k/
+- 'th' represents /θ/
+- 'ch' represents both /x/ and /tʃ/
+- 'ñ' represents /ɲ/
+- 'll' represents /ʎ/
+- 'r' represents /ɾ/, while 'rr' represents /r/
+- 'y' represents both /j/ and /ʝ/
+
+Vowels are written as in IPA: a, e, i, o, u
+
+MORPHOSYNTAX
+
+Allsurian is a highly agglutinative language with rich morphology:
+
+Nouns:
+- Mark number (singular, plural)
+- Case system with suffixes: nominative (-ren), accusative (-ne), dative (-na), genitive (-se), ablative (-rur), locative (-le), instrumental (-sa)
+- No grammatical gender
+
+Verbs:
+- Mark tense (present -so, past -la, future -len)
+- Person agreement (e.g., 1SG -lu, 3SG -sal, 1PL -ner, 3PL -di)
+- Mood markers (e.g., indicative -sa, conditional -si)
+- Voice markers (active -ral, passive -na)
+
+Other features:
+- Comparative marker 'si'
+- Superlative marker 'do'
+- Negation suffix -su
+
+SYNTAX
+
+Allsurian has SOV (Subject-Object-Verb) word order as its basic structure. Other syntactic features include:
+
+- Adjectives precede nouns (AN)
+- Postpositions follow nouns (NP)
+- Relative clauses are formed with the suffix -nen on the verb
+- Subordinate clauses often use the complementizer 'si'
+- Numeral classifiers are used between numbers and nouns
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthographic transcription, gloss, and English translation:
+
+1. Adneren atnise nulosale si orni ebrusaren allsuren sasesosasalral.
+   he-NOM we-GEN school-SING-LOC COMP smart student-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "He is the smartest student in our school."
+
+2. Atniren rasu osdosale essole esne nasisonerral enno, nase sisese labldusaren dase ernolensisalral.
+   we-NOM new office-SING-LOC a-LOC to move-PRES-1PL-ACT are, but you-GEN department-SING-NOM here stay-FUT-COND-3SG-ACT
+   "We are moving to a new office, but your department will stay here."
+
+3. Radesaren allsuren annoren upsa runisale essole onsi nosalasasalralnen ipsisane allsune epdolasasalral.
+   cat-SING-NOM the-NOM it-NOM small hole-SING-LOC a-LOC into run-PAST-IND-3SG-ACT-REL mouse-SING-ACC the-ACC chase-PAST-IND-3SG-ACT
+   "The cat chased the mouse that ran into a small hole."
+
+LEXICON
+
+A small sample of the Allsurian lexicon:
+
+achna - day
+agra - tree
+allsu - the
+anno - live, it
+atni - we
+dena - this
+epso - year
+erra - I
+essa - have
+irro - today
+lase - child
+nadi - book
+nale - see, decide
+nero - house
+nuso - like
+rale - job
+rinu - go
+sase - be
+sise - you
+utro - bread

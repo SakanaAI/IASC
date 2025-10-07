@@ -1,0 +1,98 @@
+TITLE: A Grammar and Handbook of Zaru
+
+PHONOLOGY
+
+Zaru has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows for consonant clusters and diphthongs. Syllable structure appears to be (C)V(C), with most words following a CV pattern.
+
+Notable features:
+- The presence of both /s/ and /ʃ/, as well as /z/
+- Inclusion of the affricate /tʃ/
+- Lack of /l/, with /r/ likely filling both roles
+- A balanced five-vowel system
+
+ORTHOGRAPHY
+
+Zaru uses an Arabic-inspired script, with some modifications to accommodate its phonological system. Consonants are represented by full letters, while vowels are typically indicated by diacritical marks above or below the consonants.
+
+Some key features:
+- Vowels at the beginning of words or following another vowel use alif (ا) as a carrier
+- The script is written from right to left
+- Some letters have been adapted or borrowed from other Arabic-script languages to represent sounds not found in Arabic, such as /p/ (پ) and /tʃ/ (چ)
+
+Examples:
+زَرٗ (za.ru) - "be"
+كَتٗ (ka.tu) - "flower"
+سُكِ (so.ke) - "smart"
+
+MORPHOSYNTAX
+
+Zaru exhibits a rich morphological system with both prefixes and suffixes. Key features include:
+
+1. Nominal marking:
+   - Number: Singular (-o), Plural (-hu)
+   - Case: Nominative (-o), Accusative (-u), Genitive (-nin)
+   - Definiteness: Definite (ku-), Indefinite (-ra)
+
+2. Verbal marking:
+   - Tense: Present (-sa), Past (-han), Future (-tu)
+   - Person and number agreement: 1SG (-u), 2SG (-bu), 3SG (-i), 1PL (-a), 3PL (-nen)
+   - Voice: Active (-i), Passive (-u)
+
+3. Adjectives:
+   - Comparative (-ton)
+   - Superlative (-pon)
+
+4. Other features:
+   - Relative clause marker: a
+   - Negation: ne (preverbal particle)
+
+SYNTAX
+
+Zaru follows a VSO (Verb-Subject-Object) word order for main clauses. Other syntactic features include:
+
+1. Adjective-Noun order: NA (Noun-Adjective)
+2. Adposition-Noun order: PN (Preposition-Noun)
+3. Relative clauses follow the noun they modify
+4. Auxiliaries precede main verbs
+5. Negation is expressed through a preverbal particle
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthography, gloss, and English translation:
+
+1. زَرٗسَاٍ مَكُ كٗبُمُاُ اَ سُكِپُنُاُسَ رِزِ كٗكَسٍاُ تَغٍنٍن
+   za.ru-sa-i ma.ko ku-bo.mo-o a so.ke-pon-o-o-sa re.ze ku-ka.si-o ta.gi-nin
+   be-PRES-3SG he DEF-student-SING REL smart-SUP-SING-NOM-DEF in DEF-school-SING we-GEN
+   "He is the smartest student in our school."
+
+2. كٍزِسَنِنٍ كٗنِغَهٗ سِتِ كٗغٍمُهٗنٍن رِزِ تَكٍنٍن
+   ki.ze-sa-nen-i ku-ne.ga-hu se.te ku-gi.mo-hu-nin re.ze ta.ki-nin
+   fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN
+   "The leaves fall from the trees in autumn."
+
+3. سُغَسَاٍاٍ كٗبُزٗاُ نٍسٗاُاُسَ غُغُ پٍرَ زَچٍاُ سٗمٗاُاٗرَ كٗنشٗ
+   so.ga-sa-i-i ku-bo.zu-o ni.su-o-o-sa go.go pi.ra za.tʃi-o su.mu-o-u-ra ku.nʃu
+   need-PRES-3SG-ACT DEF-country-SING our-SING-NOM-DEF to address change-SING climate-SING-ACC-INDEF together
+   "Our country needs to address climate change together."
+
+LEXICON
+
+A small sample of the Zaru lexicon:
+
+zaru (زَرٗ) - be
+bomo (بُمُ) - student
+soke (سُكِ) - smart
+kasi (كَسٍ) - school
+kize (كٍزِ) - fall
+nega (نِغَ) - leaf
+gimo (غٍمُ) - tree
+taki (تَكٍ) - autumn
+bozu (بُزٗ) - country
+zatʃi (زَچٍ) - change
+sumo (سٗمٗ) - climate
+kunʃu (كٗنشٗ) - together

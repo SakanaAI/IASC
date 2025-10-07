@@ -1,0 +1,96 @@
+TITLE: A Grammar and Handbook of Etnaril
+
+PHONOLOGY
+
+Etnaril has a phoneme inventory consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language features several palatal consonants (ɲ, ʎ, ʝ) and distinguishes between a tap (ɾ) and trill (r). The consonant inventory includes both dental (θ) and velar (x) fricatives, which is relatively uncommon cross-linguistically.
+
+ORTHOGRAPHY
+
+Etnaril uses a Cyrillic-based orthography. Some notable correspondences include:
+
+θ -> ѳ
+ɲ -> њ
+ʎ -> љ
+r -> р̃ (r with tilde)
+ʝ -> ј
+
+The orthography is largely phonemic, with most sounds having a one-to-one correspondence with letters. This makes reading and writing Etnaril relatively straightforward once the system is learned.
+
+MORPHOSYNTAX
+
+Etnaril exhibits a rich morphological system with both nominal and verbal inflection.
+
+Nouns are marked for number (singular, plural, dual) and case (nominative, accusative, genitive). Case is indicated through suffixes:
+- Nominative: -ро
+- Accusative: -рас
+- Genitive: -нес
+
+Verbs are marked for tense (present, past, future), aspect, and person agreement. Tense markers include:
+- Present: -но
+- Past: -сал
+- Future: -ле
+
+Person agreement is complex, with distinct markers for subject and object agreement. For example:
+- 1st person singular subject: -рин
+- 3rd person plural subject: -дин
+
+The language also employs various derivational affixes, such as:
+- Superlative: -лер
+- Comparative: -рас
+- Passive: -лин
+
+Etnaril uses classifiers with numbers, though the specific classifier system is not detailed in the provided information.
+
+SYNTAX
+
+Etnaril follows a VSO (Verb-Subject-Object) word order, which is relatively uncommon among the world's languages. Adjectives follow the nouns they modify (NA order), and prepositions precede their noun phrases (PN order).
+
+Relative clauses are introduced with the particle рар and follow the noun they modify.
+
+EXAMPLE TEXT
+
+Here are two example sentences from the provided text:
+
+1. Етнаноле нуатлосес рар соросесрона ринудрассесрона серо нири нуарлесес рар наласесрона.
+
+Gloss: be-PRES-3SG DEF-phone-SING REL new-SING-NOM-DEF expensive-COMP-SING-NOM-DEF twice as DEF-model-SING REL old-SING-NOM-DEF
+
+Translation: "The new phone is twice as expensive as the old model."
+
+2. Насесалдинна нулолираро алле нуносесеснес.
+
+Gloss: play-PAST-3PL-ACT DEF-child-PLUR-NOM in DEF-park-SING-GEN
+
+Translation: "The children played in the park."
+
+These examples demonstrate the VSO word order, the use of case markers, and the placement of relative clauses.
+
+LEXICON
+
+A small sample of the Etnaril lexicon:
+
+етна - be
+сара - go
+реде - like
+насе - play
+саса - see
+оссо - bake
+адно - bury
+нуне - they
+исса - we
+дени - I
+едлу - thou
+рода - she
+етла - he
+нуотса - cat
+нуседи - dog
+нуафлу - house
+нусадо - school
+нуреле - book
+
+This lexicon shows some patterns in word formation, such as the use of ну- as a definite article prefix for nouns.

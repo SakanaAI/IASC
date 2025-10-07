@@ -1,0 +1,105 @@
+TITLE: A Grammar and Handbook of Shalāni
+
+PHONOLOGY
+
+Shalāni has a rich phonemic inventory consisting of 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, as well as rounded and unrounded front vowels. The consonant inventory includes the uvular fricative /ʁ/ and the palatal nasal /ɲ/, which are relatively uncommon cross-linguistically.
+
+ORTHOGRAPHY
+
+Shalāni uses a modified Arabic script for its orthography. Vowels are represented by both full letters and diacritical marks. Some notable features include:
+
+- The use of پ (p), گ (g), and ڤ (v) for sounds not typically found in Arabic
+- Representation of /ɲ/ with ڽ
+- Use of ۆ for /ɥ/
+- Diacritical marks for vowels, e.g., ِ (i), ُ (u), َ (a)
+- Special combinations for nasal vowels, e.g., اٰ (ɑ̃), وٰ (ɔ̃)
+
+The orthography is written right-to-left, following Arabic convention.
+
+MORPHOSYNTAX
+
+Shalāni exhibits an ergative-absolutive case system, marked by postpositional words. The main cases are:
+
+- Ergative (ٍ)
+- Absolutive (غٍت)
+- Genitive (not shown in examples)
+- Instrumental (وُ)
+
+The language lacks grammatical gender and does not mark tense on verbs. However, it has a complex system of person agreement markers for both ergative and absolutive arguments:
+
+Ergative: 1SGERG-, 2SGERG-, 3SGERG-, 1PLERG-, 2PLERG-, 3PLERG-
+Absolutive: -1SGABS, -2SGABS, -3SGABS, -1PLABS, -2PLABS, -3PLABS
+
+Shalāni uses numeral classifiers, although examples are not provided in the given text.
+
+Other notable morphological features include:
+
+- Comparative marker (نيِغ)
+- Superlative marker (ٜ)
+- Equative marker (اَ)
+- Relative clause marker (-َ)
+- Negation suffix (-غٰا)
+
+SYNTAX
+
+Shalāni follows an Object-Subject-Verb (OSV) word order, which is relatively rare among the world's languages. Other syntactic features include:
+
+- Noun-Adjective order (NA)
+- Noun-Postposition order (NP)
+
+Relative clauses are marked with the suffix -َ on the verb.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various features of Shalāni:
+
+1. ٍشيِس نيِغ ٍسيِت اَسٍس ٍ اَسوُغ غٍت َسيِتلگ َلاَف غٍت ٍسَک اَڽَن ٜسيِف نيِلغت
+si.ʃe ʁin ti.se se.sa e ʁu.sa teʁ gltis-ɛ fa.lɛ teʁ kɛ.se nɛ.ɲa fi.sɔ tʁlin .
+smart COMP student we ERG school ABS in-REL he ABS is with first singular .
+"We are smarter students than he who is in school."
+
+This example demonstrates the comparative construction, ergative-absolutive case marking, and the relative clause structure.
+
+2. اَژوُگ ٜ سٛژغد ساَکلپ ٍ غٍت تٍيلگ َٜڽاَد تيِتغگ غٍت ٍسَک اَڽَن کاَسکس نيِلغت
+gu.ʒa ɔ dʁʒœs plkas e teʁ gljet da.ɲɔ-ɛ gʁtit teʁ kɛ.se nɛ.ɲa sksak tʁlin .
+hot SUP day year ERG ABS so far-REL today ABS is with third singular .
+"Today is the hottest day of the year so far."
+
+This sentence shows the superlative construction and the use of the relative clause marker.
+
+3. َٰشٰازٍ اَغَک نيِغ اَتٚن ٍ َلٍنلب تٚملپ غٍت ٍسَک اَڽَن کاَسکس نيِلغت
+ez.ɑ̃ʃɛ̃ kɛ.ʁa ʁin nə.ta e blnel-ɛ plmət teʁ kɛ.se nɛ.ɲa sksak tʁlin .
+delicious cake COMP i ERG tasted-REL this ABS is with third singular .
+"This is the most delicious cake I have tasted."
+
+This example illustrates the OSV word order, ergative marking on the first-person pronoun, and the use of the comparative marker in a superlative context.
+
+LEXICON
+
+A small selection from the Shalāni lexicon:
+
+سٜتغگ - the
+اَتٚن - I
+غاَلغب - you
+َلاَف - he
+تيِتغد - she
+اَسٍس - we
+ٍتاَس - they
+ٍسَک - is/are
+ٰالٍل - be
+غُژغک - go
+نٍکلپ - going
+اَسوُغ - school
+ٍسيِت - student
+ٍشيِس - smart
+اَژوُگ - hot
+سٛژغد - day
+ساَکلپ - year
+تيِتغگ - today
+َٰشٰازٍ - delicious
+اَغَک - cake

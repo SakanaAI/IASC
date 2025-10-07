@@ -1,0 +1,99 @@
+TITLE: A Grammar and Handbook of Cyrillic Ergative (Сирилик Ергатив)
+
+PHONOLOGY
+
+Cyrillic Ergative has a rich phonological inventory with 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, as well as rounded and unrounded front vowels. The consonant inventory includes the uvular fricative /ʁ/ and the labio-palatal approximant /ɥ/, which are relatively uncommon cross-linguistically.
+
+ORTHOGRAPHY
+
+Cyrillic Ergative uses a modified Cyrillic alphabet. Some notable features include:
+
+- The use of ъ for /ə/
+- ў for /w/
+- њ for /ɲ/
+- ѧ, ѫ, ѩ for nasal vowels /ɑ̃/, /ɔ̃/, /ɛ̃/ respectively
+- ѳ for both /ɔ/ and /ø/
+
+This orthography allows for a unique visual representation of the language while maintaining a connection to Cyrillic traditions.
+
+MORPHOSYNTAX
+
+Cyrillic Ergative, as its name suggests, employs an ergative-absolutive case system. The language marks case using postpositional words:
+
+- Ergative: е
+- Absolutive: тер
+- Instrumental: у
+
+The language does not mark number on nouns, but it does have a complex verbal agreement system that marks both ergative and absolutive arguments on the verb. For example:
+
+- 1SGERG: (not shown in examples)
+- 3SGABS: тер
+
+Other notable morphosyntactic features include:
+
+- Comparative: рин
+- Superlative: ѳ
+- Equative: а
+- Relative clause marker: -э
+
+Negation is marked with the suffix -ѧр.
+
+SYNTAX
+
+Cyrillic Ergative has an unusual Object-Subject-Verb (OSV) word order, which is rare among the world's languages. This is consistently applied in the example sentences.
+
+Other syntactic features include:
+
+- Noun-Adjective order (NA): "book red" instead of "red book"
+- Noun-Postposition order (NP): "table on" instead of "on table"
+
+These features combine to give Cyrillic Ergative a distinct syntactic profile that sets it apart from many other languages.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthography, gloss, and English translation:
+
+1. Сише рин тисе сеса е руса тер глтисэ фалэ тер кэсе нэња фисѳ трлин .
+   smart COMP student we ERG school ABS in-REL he ABS is with first singular .
+   "We are smarter students than he is in school."
+
+2. Гужа ѳ држёс плкас е тер глйет дањѳэ гртит тер кэсе нэња сксак трлин .
+   hot SUP day year ERG ABS so far-REL today ABS is with third singular .
+   "Today is the hottest day of the year so far."
+
+3. Танё тер депа кэны тер сннер глтис спрен нэња сксак плдил .
+   trees ABS from leaves ABS autumn in fall with third plural .
+   "Leaves fall from the trees in autumn."
+
+4. Врвѧк нъйа нъта е ралиѧр нэња фисѳ трлин .
+   very well i ERG swim-NEG with first singular .
+   "I don't swim very well."
+
+These examples showcase the OSV word order, case marking, and verbal agreement system of Cyrillic Ergative.
+
+LEXICON
+
+A small sample of the lexicon:
+
+тер - ABS (Absolutive case marker)
+е - ERG (Ergative case marker)
+у - INS (Instrumental case marker)
+рин - COMP (Comparative marker)
+ѳ - SUP (Superlative marker)
+а - EQU (Equative marker)
+-э - REL (Relative clause marker)
+-ѧр - NEG (Negation suffix)
+кэсе - is
+нэња - with
+трлин - singular
+плдил - plural
+сеса - we
+фалэ - he
+дртит - she
+нъта - I
+брлар - you

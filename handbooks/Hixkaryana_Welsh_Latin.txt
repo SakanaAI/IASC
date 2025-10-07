@@ -1,0 +1,103 @@
+TITLE: A Grammar and Handbook of Lhwénai
+
+PHONOLOGY
+
+Lhwénai has a rich phonemic inventory consisting of 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+
+The language features several uncommon consonants, including the voiceless lateral fricative /ɬ/ and its devoiced counterpart /ɬ̥/, as well as the voiceless alveolar trill /r̥/. These sounds add a unique character to the language's phonetic profile.
+
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The vowel system includes both monophthongs and diphthongs, with a distinction between tense and lax vowels (e.g., /i/ vs /ɪ/, /u/ vs /ʊ/). The central vowel /ɨ/ adds to the language's phonetic complexity.
+
+ORTHOGRAPHY
+
+Lhwénai uses a Latin-based alphabet with some diacritics and digraphs to represent its phonemes. Notable features include:
+
+- 'ng' for /ŋ/
+- 'th' for /θ/, 'dh' for /ð/
+- 'sh' for /ʃ/, 'kh' for /χ/
+- 'ch' for /tʃ/, 'j' for /dʒ/
+- 'lh' for both /ɬ/ and /ɬ̥/
+- 'rh' for /r̥/
+
+Vowels use diacritics to distinguish between similar sounds:
+- 'é' for /e/, 'ó' for /o/
+- 'ï' for /ɪ/, 'ü' for /ʊ/
+- 'ë' for /ə/, 'ý' for /ɨ/
+- 'æ' for /æ/
+
+Diphthongs are written as combinations of vowels: 'ai', 'au', 'oi'.
+
+MORPHOSYNTAX
+
+Lhwénai exhibits a rich morphological system, particularly in its verbal morphology:
+
+1. Nominal marking:
+   - Number: Singular (-sých) and Plural (-ye) suffixes
+   - No case marking on nouns
+
+2. Verbal marking:
+   - Tense-aspect: Non-past (-shór), Immediate past (-tæt), Recent past (-dëw), Remote past (-fýj)
+   - Person agreement: Ergative-Absolutive alignment
+     - Ergative suffixes: -ïlh (1SG), -ýb (2SG), -ké (3SG), -lë (1PL), -ïk (3PL)
+     - Absolutive suffixes are not explicitly shown in the examples
+
+3. Other morphological features:
+   - Negation: -déd suffix
+   - Relative clause marker: -es suffix
+   - Inclusive/Exclusive distinction in first person plural pronouns: 
+     'ne' (1PLINCL) vs 'sén' (1PLEXCL)
+
+4. Numeral classifiers: The language uses classifiers, but specific examples are not provided in the text.
+
+SYNTAX
+
+Lhwénai has an Object-Verb-Subject (OVS) word order for main clauses. This is a rare word order among the world's languages, adding to the uniqueness of Lhwénai.
+
+Other syntactic features include:
+- Adjective-Noun (AN) order
+- Preposition-Noun (PN) order
+
+These word order characteristics create an interesting mix of head-initial (PN) and head-final (AN, OV) structures.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various features of Lhwénai:
+
+1. Smthéf lhwpæh ük brnushsých hénga shutu furusých frthen lhwlëkshórkées lhwlëkshórké.
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG
+   "He is the smartest student in our school."
+
+This sentence demonstrates the comparative construction (ük), singular marking (-sých), and the relative clause structure (-es).
+
+2. Sïmu smthéf wüsheye hénga taudü smthéf nübüye drbülhshórïk.
+   from the tree-PLUR in autumn the leaf-PLUR fall-NPAST-3PL
+   "The leaves fall from the trees in autumn."
+
+This example shows plural marking (-ye) and the non-past tense with third-person plural agreement (-shórïk).
+
+3. Kani smthéf trlhehye mauwü sén glshimshórlë, kani sndïkh mæli prlochshórýb?
+   to the movie-PLUR later 1PLEXCL go-NPAST-1PL, to join us want-NPAST-2SG
+   "We (exclusive) are going to the movies later, do you want to join us?"
+
+This sentence illustrates the use of the exclusive first-person plural pronoun (sén) and the second-person singular verb agreement (-shórýb).
+
+LEXICON
+
+A small sample of the Lhwénai lexicon:
+
+bïhó - new
+brnush - student
+fëta - today
+furusých - school (singular)
+glmaiv - I
+glshim - go
+hénga - in
+kani - to
+lhwlëk - be
+lhwpæh - smart
+prloch - want
+smthéf - the

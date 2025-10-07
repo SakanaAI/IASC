@@ -1,0 +1,110 @@
+TITLE: A Grammar and Handbook of Kethébik
+
+PHONOLOGY
+
+Kethébik has a rich phonological inventory with 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+
+The language features several uncommon consonants, including the voiceless lateral fricative /ɬ/ and its devoiced counterpart /ɬ̥/, as well as the voiceless uvular fricative /χ/. The presence of both /r/ and /r̥/ (voiceless alveolar trill) is also noteworthy.
+
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The vowel system is quite extensive, including both monophthongs and diphthongs. The presence of both tense and lax vowels (e.g., /i/ vs /ɪ/, /u/ vs /ʊ/) allows for fine distinctions in vowel quality.
+
+ORTHOGRAPHY
+
+Kethébik uses a modified Latin alphabet. Most consonants are represented straightforwardly, with a few exceptions:
+
+- /ŋ/ is written as 'ng'
+- /θ/ is written as 'th'
+- /ʃ/ is written as 'sh'
+- /χ/ is written as 'kh'
+- /ð/ is written as 'dh'
+- /tʃ/ is written as 'ch'
+- /dʒ/ is written as 'j'
+- /ɬ/ and /ɬ̥/ are both written as 'lh'
+- /r̥/ is written as 'rh'
+
+Vowels use diacritics to distinguish between similar sounds:
+
+- /e/ is written as 'é'
+- /o/ is written as 'ó'
+- /ɪ/ is written as 'ï'
+- /ʊ/ is written as 'ü'
+- /ə/ is written as 'ë'
+- /ɨ/ is written as 'y'
+
+The diphthongs /aɪ/, /aʊ/, and /ɔɪ/ are written as 'ai', 'au', and 'oi' respectively. The vowel /æ/ retains its IPA symbol in the orthography.
+
+MORPHOSYNTAX
+
+Kethébik is a highly agglutinative language with a rich system of suffixes. Nouns are marked for number (singular -nü, plural -rëp) and case. The case system includes:
+
+- Nominative: -aurh
+- Accusative: -ngek
+- Dative: -éw
+- Genitive: -dhü
+- Ablative: -un
+- Locative: -hi
+- Instrumental: -réng
+
+Verbs are marked for tense (present -at, past -rï, future -kon), mood (indicative -ug, conditional -müth), person, and number. They also distinguish between active (-jach) and passive (-mó) voice. Negation is marked by the suffix -kai.
+
+Other notable morphological features include:
+- Comparative: rich
+- Superlative: ain
+- Relative clause marker: -wé
+
+SYNTAX
+
+Kethébik follows an SOV (Subject-Object-Verb) word order. Adjectives precede the nouns they modify (AN), while adpositions follow their noun phrases (NP).
+
+Example of basic word order:
+Krchiraurh linunüngek rütærïuglaljach.
+I-NOM book-ACC write-PAST-IND-3SG-ACT
+"I wrote the book."
+
+Modifiers typically come before the noun:
+Sklash linunüaurh dudheaurh gécheatuglaljach.
+new book-NOM the-NOM be-PRES-IND-3SG-ACT
+"The new book exists."
+
+Postpositions are used instead of prepositions:
+Shusinühi rhibé
+school-LOC in
+"in the school"
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text:
+
+1. Maushëaurh gwtogdhü shusinühi rich glfeh trchesnüaurh dudheaurh gécheatuglaljach.
+   he-NOM we-GEN school-SING-LOC COMP smart student-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "He is the smartest student in our school."
+
+2. Shawaaurh krthannüdhü dudhedhü maula kura yaimé ain thrkëlh khómïnüaurh dudheaurh gécheatuglaljach.
+   today-NOM year-SING-GEN the-GEN of so far SUP hot day-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "Today is the hottest day of the year so far."
+
+3. Prpivrëpaurh dudheaurh sptophi rhóbïrëpun dudheun stchés gwfofatugoljach.
+   leaf-PLUR-NOM the-NOM autumn-LOC tree-PLUR-ABL the-ABL from fall-PRES-IND-3PL-ACT
+   "The leaves fall from the trees in autumn."
+
+LEXICON
+
+A small sample of the Kethébik lexicon:
+
+bltük (v.) - to go
+dudhe (det.) - the
+géche (v.) - to be
+gwtog (pron.) - we
+khómï (n.) - day
+krchir (pron.) - I
+linu (n.) - book
+maushë (pron.) - he
+rütæ (v.) - to write
+shusi (n.) - school
+sklash (adj.) - new
+snbew (pron.) - she
+thrkëlh (adj.) - hot

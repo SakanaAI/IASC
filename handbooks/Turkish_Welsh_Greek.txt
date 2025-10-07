@@ -1,0 +1,99 @@
+TITLE: A Grammar and Handbook of Kythosian
+
+PHONOLOGY
+
+Kythosian has a rich phonemic inventory with 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+Notable features include:
+- A three-way distinction in plosives (voiced, voiceless, aspirated)
+- Both voiced and voiceless lateral fricatives (ɬ, ɬ̥)
+- A voiceless rhotic (r̥)
+- A rich vowel system including diphthongs
+
+The language allows complex syllable structures, with consonant clusters permitted in both onset and coda positions.
+
+ORTHOGRAPHY
+
+Kythosian uses a modified Greek alphabet for its orthography. Some notable correspondences include:
+
+- ŋ is represented by γγ
+- ʃ is represented by ς
+- tʃ is represented by τς
+- dʒ is represented by τζ
+- ɬ is represented by λλ
+- h is represented by ͱ
+- ɬ̥ is represented by λ̥λ
+- r̥ is represented by ρ̥
+- u is represented by ου
+- ɨ is represented by υ
+
+Diphthongs are represented by combinations of vowel letters: αι for aɪ, αυ for aʊ, οι for ɔɪ.
+
+MORPHOSYNTAX
+
+Kythosian is a highly agglutinative language with a rich system of suffixes marking various grammatical categories:
+
+Nouns:
+- Number: Singular (-νυ) and Plural (-ρεπ)
+- Case: Nominative (-αυρ̥), Accusative (-γγεκ), Dative (-ηω), Genitive (-δυ), Ablative (-ουν), Locative (-ͱι), Instrumental (-ρηγγ)
+
+Verbs:
+- Tense: Present (-ατ), Past (-ρι), Future (-κον)
+- Mood: Indicative (-ουγ), Conditional (-μυθ)
+- Voice: Active (-τζατς), Passive (-μω)
+- Person/Number agreement: 1SG (-τζερ), 2SG (-αιμ), 3SG (-λαλ), 1PL (-ωφ), 3PL (-ολ)
+
+Other notable suffixes:
+- Negation: -και
+- Relative clause marker: -ωη
+
+Kythosian also uses prefixes for comparison:
+- Comparative: ριτς-
+- Superlative: αιν-
+
+SYNTAX
+
+Kythosian follows an SOV (Subject-Object-Verb) word order in main clauses. Other syntactic features include:
+
+- Adjectives precede the nouns they modify (AN order)
+- Adpositions follow their noun phrases (NP order)
+- Relative clauses are marked on the verb with the suffix -ωη and typically follow the noun they modify
+- Subordinate clauses generally precede the main clause
+- Questions are formed by intonation rather than word order change
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthographic transcription, gloss, and English translation:
+
+1. Μαυςεαυρ̥ δρσουβ μαυρανυηω δωρε δρσουβ τατςενυγγεκ βηγγαριουγλαλτζατς.
+   maʊ.ʃə-aʊr̥ drsub maʊ.ra-nʊ-ew do.rə drsub ta.tʃɛ-nʊ-ŋɛk be.ŋa-rɪ-ug-lal-dʒatʃ
+   he-NOM his cousin-SING-DAT to his bicycle-SING-ACC lend-PAST-IND-3SG-ACT
+   "He lent his bicycle to his cousin."
+
+2. Γωτογαυρ̥ σκλας πρνογνυͱι φρτςεςͱι δωρε λεβεατωφτζατς στρωκ, σνγηͱ κρταμδυ νωττπιχνυαυρ̥ κασυ βρχενκονμυθλαλτζατς.
+   gwtɔg-aʊr̥ sklaʃ prnɔg-nʊ-hi frtʃɛʃ-hi do.rə lə.bɛ-at-of-dʒatʃ strok, sngeh krtam-ðʊ nott.pɪχ-nʊ-aʊr̥ ka.sɨ brχɛn-kɔn-mʊθ-lal-dʒatʃ
+   we-NOM new office-SING-LOC a-LOC to move-PRES-1PL-ACT are, but you-GEN department-SING-NOM here stay-FUT-COND-3SG-ACT
+   "We are moving to a new office, but your department will stay here."
+
+3. Στγγεγνυαυρ̥ δουδεαυρ̥ σκγιτζ ριμωνυγγεκ γωτορ̥καικονμυθλαλτζατς.
+   stŋɛg-nʊ-aʊr̥ du.ðɛ-aʊr̥ skgidʒ ri.mo-nʊ-ŋɛk gwtɔr̥-kaɪ-kɔn-mʊθ-lal-dʒatʃ
+   cat-SING-NOM the-NOM its food-SING-ACC eat-NEG-FUT-COND-3SG-ACT
+   "The cat will not eat its food."
+
+LEXICON
+
+A small sample of the Kythosian lexicon:
+
+βλτυκ (bltʊk) - go
+γητςε (ge.tʃɛ) - be
+δουδε (du.ðɛ) - the
+κρτςιρ (krtʃir) - I
+λαπου (la.pu) - play
+νουφα (nu.fa) - have
+σαιχο (saɪ.χɔ) - for
+στρωκ (strok) - are
+φρτςες (frtʃɛʃ) - a
+χωμι (χo.mɪ) - day

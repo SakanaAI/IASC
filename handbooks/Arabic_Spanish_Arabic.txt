@@ -1,0 +1,104 @@
+TITLE: A Grammar and Handbook of Alnari
+
+PHONOLOGY
+
+Alnari has a phoneme inventory consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language features a mix of common and less common sounds. Notable features include:
+- A three-way distinction between /l/, /ʎ/, and /ɾ/
+- Both a trill /r/ and a tap /ɾ/
+- The palatal nasal /ɲ/ and palatal lateral /ʎ/
+- The dental fricative /θ/ and velar fricative /x/
+
+The syllable structure appears to be (C)V(C), allowing both open and closed syllables.
+
+ORTHOGRAPHY
+
+Alnari uses an Arabic-inspired script for its writing system. Some key correspondences include:
+
+Consonants:
+p -> پ, b -> ب, t -> ت, d -> د, k -> ک, g -> گ
+f -> ف, θ -> ث, s -> س, x -> خ, tʃ -> چ
+m -> م, n -> ن, ɲ -> ڽ, l -> ل, ʎ -> ڵ
+ɾ -> ر, r -> ڕ, j -> ي, ʝ -> ژ
+
+Vowels:
+a -> ا, e -> ە, i -> ی, o -> ۆ, u -> و
+
+This orthography allows for a distinct visual representation of Alnari's phonemes, while drawing inspiration from Arabic script.
+
+MORPHOSYNTAX
+
+Alnari exhibits a rich morphological system with both nominal and verbal inflection.
+
+Nominal Morphology:
+- Number: Singular (-ses) and Plural (-ra)
+- Case: Nominative (-ro), Accusative (-ras), Genitive (-nes)
+- Definiteness: Definite (nu-) and Indefinite (-non)
+
+Verbal Morphology:
+- Tense: Present (-no), Past (-sal), Future (-le)
+- Person/Number agreement: 1SG (-rin), 2SG (-da), 3SG (-le), 1PL (-ri), 3PL (-din)
+- Voice: Active (-na), Passive (-lin)
+
+Other notable morphemes:
+- Comparative: -ras
+- Superlative: -ler
+- Locative: -ni
+- Subordinator: -nu
+
+Alnari uses suffixes for most grammatical markers, with the exception of the definite article which is a prefix.
+
+SYNTAX
+
+Alnari follows a VSO (Verb-Subject-Object) word order for main clauses. Other syntactic features include:
+
+- Adjective-Noun: NA (Noun-Adjective)
+- Adposition-Noun: PN (Preposition-Noun)
+- Relative clauses are marked with the particle 'rar' and follow the noun they modify
+- Numeral classifiers are used, placed between the noun and the number
+
+EXAMPLE TEXT
+
+Here are a few example sentences from Alnari, with orthographic representation, gloss, and English translation:
+
+1. ەتنانۆلە ەتلا نوەنلاسەس رار ەپلولەرسەسرۆنا اللە نوسادۆسەس یسسانەس
+   et.na-no-le et.la nu-en.la-ses rar ep.lu-ler-ses-ro-na al.le nu-sa.do-ses is.sa-nes .
+   be-PRES-3SG he DEF-student-SING REL smart-SUP-SING-NOM-DEF in DEF-school-SING we-GEN .
+   "He is the smartest student in our school."
+
+2. یژسەنۆدیننا نولیدیرا ۆڵلی نونانیرانەس اللە لۆدینەس
+   iʝ.se-no-din-na nu-li.di-ra oʎ.li nu-na.ni-ra-nes al.le lo.di-nes .
+   fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN .
+   "The leaves fall from the trees in autumn."
+
+3. ەنسوساللەنا ەتلارۆ نوساروسەس نۆراسەسراسنا انری نوسینۆسەس نۆراسەسنەسنا
+   en.su-sal-le-na et.la-ro nu-sa.ru-ses no.ra-ses-ras-na an.ri nu-si.no-ses no.ra-ses-nes-na .
+   lend-PAST-3SG-ACT he-NOM DEF-bicycle-SING his-SING-ACC-DEF to DEF-cousin-SING his-SING-GEN-DEF .
+   "He lent his bicycle to his cousin."
+
+LEXICON
+
+A small sample of the Alnari lexicon:
+
+ەتنا (et.na) - be
+سارا (sa.ra) - go
+ەنسو (en.su) - lend
+یژسە (iʝ.se) - fall
+ناسە (na.se) - play
+ەسنە (es.ne) - blow
+رۆسا (ro.sa) - wind
+سونا (su.na) - strongly
+ەمرە (em.re) - today
+نۆدا (no.da) - start
+رەلە (re.le) - movie
+ەچنۆ (etʃ.no) - at
+لیلو (li.lu) - o'clock
+نەسۆ (ne.so) - eight
+وننا (un.na) - vacation
+نالۆ (na.lo) - week
+املە (am.le) - next
+ەسنا (es.na) - office

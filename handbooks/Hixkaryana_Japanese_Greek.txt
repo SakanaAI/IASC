@@ -1,0 +1,146 @@
+TITLE: A Grammar and Handbook of Hellenikos
+
+PHONOLOGY
+
+Hellenikos has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows for some consonant clusters and diphthongs. Notable features include:
+- The presence of both /s/ and /ʃ/ (represented as 'ς' in the orthography)
+- The affricate /tʃ/
+- The approximants /j/ and /w/
+
+The phonotactics seem to favor CV syllable structure, though CVC and VC structures are also present.
+
+ORTHOGRAPHY
+
+Hellenikos uses a modified Greek alphabet for its orthography. Some key features include:
+
+- Most letters correspond directly to their IPA equivalents (e.g., κ = /k/, σ = /s/)
+- The letter 'ς' represents /ʃ/
+- The digraph 'τς' represents /tʃ/
+- 'ι' represents both /i/ and /j/
+- 'ω' represents /w/
+
+Some special orthographic rules:
+- 'ου' represents /ou/
+- 'εα' represents /ea/
+- 'αν' represents /anh/ when followed by 'h'
+
+This orthography allows for a clear representation of the language's phonology while maintaining a connection to the Greek alphabet.
+
+MORPHOSYNTAX
+
+Hellenikos exhibits a rich morphological system, particularly in its verbal morphology:
+
+1. Nominal Marking:
+   - Number: Singular (-α) and Plural (-σον)
+   - No case marking
+
+2. Verbal Marking:
+   - Tense-Aspect: Non-past (-ρε), Immediate past (-νι), Recent past (-υ), Remote past (-ο)
+   - Person agreement: 1SG (-χο), 2SG (-συν), 3SG (-ρον), 1PL (-α), 3PL (-τα)
+   - Other markers: Negative (-γο), Relative (-ι)
+
+3. Inclusive-Exclusive Distinction:
+   - 1PLEXCL: σον
+   - 1PLINCL: α
+
+4. No grammatical gender
+
+5. Classifiers: The language uses classifiers, though specific examples are not provided in the lexicon.
+
+6. Comparison:
+   - Comparative: με
+   - Equative: α
+   - Superlative: ε
+
+SYNTAX
+
+Hellenikos has the following word order characteristics:
+
+1. Main clause order: OVS (Object-Verb-Subject)
+   Example: γοζε καζυα κεμυρερον τινδα χοσα.
+            "the wind blows strongly today" (lit. "the wind-SING blow-NPAST-3SG strongly today")
+
+2. Adjective-Noun order: AN (Adjective before Noun)
+   Example: κεζα ωυκα
+            "smart student"
+
+3. Adposition-Noun order: PN (Preposition before Noun)
+   Example: τςετε γοζε ναγοα
+            "in the park"
+
+Other syntactic features:
+- Relative clauses are marked with the suffix -ι on the verb
+- Negation is expressed through the verbal suffix -γο
+- Questions are formed by intonation, without changing word order
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthography, gloss, and English translation:
+
+1. Γοζε κεζα με ωυκαα τςετε τεχε κονεα τεαιο κυχορερονι κυχορερον.
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG
+   "He is the smartest student in our school."
+
+2. Τινδα χοσα γοζε καζυα κεμυρερον.
+   strongly today the wind-SING blow-NPAST-3SG
+   "The wind blows strongly today."
+
+3. Νορε δυτι χεσεα δυτι δασυα τεαιο τατςευρον.
+   to his cousin-SING his bicycle-SING he lend-RECPAST-3SG
+   "He lent his bicycle to his cousin."
+
+4. Βατςο μαγεα ωερο ναγυγορερον.
+   spicy food-SING she like-NEG-NPAST-3SG
+   "She doesn't like spicy food."
+
+5. Ιονυ νατε κεσια νικι κυχορεσυν, νισι νινι ναχιρεχο τςαγε πασι ςοπο.
+   a true friend-SING thou be-NPAST-2SG, when i need-NPAST-1SG thee always there
+   "You are a true friend, always there when I need you."
+
+LEXICON
+
+A small sample of the lexicon:
+
+Nouns:
+ωυκα - student
+κονε - school
+καζυ - wind
+χεσε - cousin
+δασυ - bicycle
+μαγε - food
+κεσι - friend
+
+Verbs:
+κυχο - to be
+κεμυ - to blow
+τατςε - to lend
+ναγυ - to like
+ναχι - to need
+
+Adjectives:
+κεζα - smart
+βατςο - spicy
+νατε - true
+
+Adverbs:
+τινδα - strongly
+πασι - always
+
+Pronouns:
+τεαιο - he
+ωερο - she
+νικι - thou (you singular)
+νινι - I
+
+Prepositions:
+τςετε - in
+νορε - to
+
+Other:
+χοσα - today
+γοζε - the

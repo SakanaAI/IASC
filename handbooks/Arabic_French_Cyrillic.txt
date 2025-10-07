@@ -1,0 +1,90 @@
+TITLE: A Grammar and Handbook of Cyrillic Vostokan
+
+PHONOLOGY
+
+Cyrillic Vostokan has a rich phonemic inventory consisting of 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features several distinctive phonological characteristics:
+1. A three-way contrast in nasal vowels (ɑ̃, ɔ̃, ɛ̃)
+2. The presence of both front rounded (y, œ, ø) and back rounded (u, o, ɔ) vowels
+3. A uvular fricative (ʁ) alongside the more common alveolar liquid (l)
+4. Palatal (ɲ) and labio-palatal (ɥ) consonants
+
+This phonemic inventory allows for a wide range of distinctive sounds, contributing to the language's unique character.
+
+ORTHOGRAPHY
+
+Cyrillic Vostokan uses a modified Cyrillic alphabet to represent its sounds. Some notable features include:
+
+1. Use of ъ to represent the schwa (ə)
+2. Repurposing of ѳ for the open-mid back rounded vowel (ɔ)
+3. Use of њ for the palatal nasal (ɲ)
+4. Representation of nasal vowels with distinct characters (ѧ, ѫ, ѩ)
+
+The orthography aims to provide a one-to-one correspondence between phonemes and graphemes, with a few exceptions. This system allows for accurate representation of the language's sounds while maintaining a Cyrillic aesthetic.
+
+MORPHOSYNTAX
+
+Cyrillic Vostokan exhibits a rich morphological system with both fusional and agglutinative features. Key morphosyntactic characteristics include:
+
+1. Nominal marking:
+   - Number: Singular (-лѳ), Plural (-на), and Dual (-э)
+   - Case: Nominative (-ас), Accusative (-пе), Genitive (-шър)
+
+2. Verbal marking:
+   - Tense-aspect: Present (-нир), Past (-ѳр), Future (-е)
+   - Person agreement: Ergative-Absolutive alignment (e.g., -рѳн for 3SG.ERG, -тэл for 1SG.ABS)
+
+3. Other features:
+   - Definiteness marking: Definite (дём-...-тан), Indefinite (-сир)
+   - Comparison: Comparative (-ы), Superlative (-он)
+   - Voice: Active (-ѳ), Passive (-ер)
+
+The language makes extensive use of suffixes for grammatical marking, with some prefixing (e.g., for definiteness). This results in potentially long, information-rich word forms.
+
+SYNTAX
+
+Cyrillic Vostokan follows a Verb-Subject-Object (VSO) word order in main clauses. Other syntactic features include:
+
+1. Noun-Adjective order (NA): Adjectives follow the nouns they modify
+2. Preposition-Noun order (PN): Adpositions precede their noun complements
+
+These word order characteristics create a consistent head-initial pattern across different phrase types. Modifiers and complements generally follow their heads, contributing to a right-branching syntactic structure.
+
+EXAMPLE TEXT
+
+Here are two example sentences from the provided text, showcasing the language's orthography, morphosyntax, and syntax:
+
+1. Гркинниррѳн кама дёмдебулѳ ым блрёмонлѳастан раси дёмврўэнлѳ кеюѳшър.
+   gʁkin-niʁ-ʁɔn ka.ma dœm-de.bu-lɔ ym blʁœm-on-lɔ-as-tan ʁa.si dœm-vʁwɛn-lɔ ke.ɥɔ-ʃəʁ
+   be-PRES-3SG he DEF-student-SING REL smart-SUP-SING-NOM-DEF in DEF-school-SING we-GEN
+   "He is the smartest student in our school."
+
+2. Денѧнируѳ дёмтрсирна порэ дёмснлъкнашър раси дрсасшър.
+   de.nɑ̃-niʁ-u-ɔ dœm-tʁsiʁ-na po.ʁɛ dœm-snlək-na-ʃəʁ ʁa.si dʁsas-ʃəʁ
+   fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN
+   "The leaves fall from the trees in autumn."
+
+These examples demonstrate the VSO word order, case marking, tense-aspect marking, and the use of definite articles and relative clauses.
+
+LEXICON
+
+A small sample of the Cyrillic Vostokan lexicon:
+
+блрѩр (blʁɛ̃ʁ) - today
+врўэн (vʁwɛn) - school
+гркин (gʁkin) - to be
+дебу (de.bu) - student
+денѧ (de.nɑ̃) - to fall
+дрсас (dʁsas) - autumn
+кама (ka.ma) - he
+кеюѳ (ke.ɥɔ) - we
+порэ (po.ʁɛ) - from
+раси (ʁa.si) - in
+снлък (snlək) - tree
+трсир (tʁsiʁ) - leaf
+
+This lexicon showcases the language's phonological and orthographic features, as well as some basic vocabulary items.

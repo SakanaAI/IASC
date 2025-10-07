@@ -1,0 +1,92 @@
+TITLE: A Grammar and Handbook of Neofrancic
+
+PHONOLOGY
+
+Neofrancic has a rich phonological inventory with 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, as well as rounded front vowels (y, œ, ø), giving it a distinctly French-like quality. The consonant inventory includes the uvular fricative /ʁ/ and the palatal nasal /ɲ/, further reinforcing this impression.
+
+ORTHOGRAPHY
+
+Neofrancic uses a modified Latin alphabet. Some notable features include:
+
+- 'c' represents /k/
+- 'ch' represents /ʃ/
+- 'j' represents /ʒ/
+- 'ń' represents /ɲ/
+- 'r' represents /ʁ/
+- 'y' represents /j/
+- 'ü' represents /ɥ/
+- 'ou' represents /u/
+- 'oe' represents /œ/
+- 'eu' represents /ø/
+- Nasal vowels are marked with a cedilla: 'ą' /ɑ̃/, 'ǫ' /ɔ̃/, 'ę' /ɛ̃/
+
+This orthography allows for a relatively close correspondence between spelling and pronunciation while maintaining some familiar elements from languages like French.
+
+MORPHOSYNTAX
+
+Neofrancic is a highly agglutinative language with a rich system of suffixes. Key features include:
+
+1. Nominal marking:
+   - Number: singular (-lò), plural (-na), dual (-è)
+   - Case: nominative (-as), accusative (-pé), genitive (-cher)
+   - Definiteness: definite (-tan), indefinite (-cir)
+
+2. Verbal marking:
+   - Tense: present (-nir), past (-òr), future (-é)
+   - Aspect: active (-ò)
+   - Person agreement: 1sg (-tèl), 2sg (-i), 3sg (-ròn), 1pl (-ò), 3pl (-ou)
+
+3. Other markers:
+   - Comparative: -u
+   - Superlative: -on
+   - Locative: -téc
+   - Passive: -ér
+   - Subordinate: -in
+
+Neofrancic does not mark grammatical gender and lacks an inclusive-exclusive distinction in pronouns. It does, however, employ a system of numeral classifiers.
+
+SYNTAX
+
+Neofrancic follows a VSO (Verb-Subject-Object) word order in main clauses. Other syntactic features include:
+
+1. Adjective-Noun order: NA (Noun-Adjective)
+2. Adposition-Noun order: PN (Preposition-Noun)
+
+Relative clauses are introduced by the particle 'um' and follow the noun they modify.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthographic transcription, gloss, and English translation:
+
+1. Grcinnirròn cama doemdéboulò um blroemonlòastan raci doemvrwènlò céüòcher.
+   be-PRES-3SG he DEF-student-SING REL smart-SUP-SING-NOM-DEF in DEF-school-SING we-GEN
+   "He is the smartest student in our school."
+
+2. Dénąnirouò doemtrcirna porè doemsnlecnacher raci drsascher.
+   fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN
+   "The leaves fall from the trees in autumn."
+
+3. Gljunòrrònò camaas doemlétilò flfąnlòpétan megè doemvéchoulò flfąnlòchertan.
+   lend-PAST-3SG-ACT he-NOM DEF-bicycle-SING his-SING-ACC-DEF to DEF-cousin-SING his-SING-GEN-DEF
+   "He lent his bicycle to his cousin."
+
+LEXICON
+
+A small sample of the Neofrancic lexicon:
+
+bémeu - I
+cama - he
+céfę - house
+céüò - we
+dénąnir - fall (verb)
+doem- - definite article prefix
+grcinnir - to be
+lesę - to go
+megè - to
+um - relative pronoun
+vrwèn - school

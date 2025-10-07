@@ -1,0 +1,88 @@
+TITLE: A Grammar and Handbook of Neogrekos
+
+PHONOLOGY
+
+Neogrekos has a rich phonological inventory with 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, as well as rounded front vowels like /y/ and /ø/. The consonant inventory includes the uvular fricative /ʁ/ and the palatal nasal /ɲ/, which are less common cross-linguistically.
+
+ORTHOGRAPHY
+
+Neogrekos uses a modified Greek alphabet for its orthography. Some notable features include:
+
+- The use of 'ου' for /u/
+- 'ζ̌' represents /ʒ/
+- 'ν̃' represents the palatal nasal /ɲ/
+- Nasal vowels are marked with a tilde: 'α̃', 'ο̃', 'ε̃'
+
+The orthography aims to maintain a close correspondence with the phonology while utilizing familiar Greek letters.
+
+MORPHOSYNTAX
+
+Neogrekos exhibits an ergative-absolutive case system, marked by postpositional words. The main cases are:
+
+- Ergative (ε)
+- Absolutive (τερ)
+- Genitive (not specified in the sample)
+- Instrumental (ου)
+
+Verbs show agreement with both ergative and absolutive arguments, distinguishing singular and plural for all three persons. For example:
+
+- 1SGERG: First person singular ergative
+- 3PLABS: Third person plural absolutive
+
+The language lacks grammatical gender and does not mark tense or aspect on verbs. However, it employs various particles for comparison (ριν for comparative, α for equative, ο for superlative) and negation (-α̃ρ).
+
+Neogrekos uses numeral classifiers, although specific examples were not provided in the sample text.
+
+SYNTAX
+
+The basic word order in Neogrekos is Object-Subject-Verb (OSV), which is relatively rare among the world's languages. Adjectives follow the nouns they modify (NA order), and the language uses postpositions rather than prepositions (NP order).
+
+Example of OSV order:
+σεςε φλλεμ γλφοσ ε πλσενα̃ρ
+food its cat ERG eat-NEG
+"The cat doesn't eat its food."
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various features of Neogrekos:
+
+1. Σιςε ριν τισε σεσα ε ρουσα τερ γλτισε φαλε τερ κεσε νεν̃α φισο τρλιν .
+   smart COMP student we ERG school ABS in-REL he ABS is with first singular .
+   "We are smarter students than he is in school."
+
+2. Γουζ̌α ο δρζ̌οσ πλκασ ε τερ γλιετ δαν̃οε γρτιτ τερ κεσε νεν̃α σκσακ τρλιν .
+   hot SUP day year ERG ABS so far-REL today ABS is with third singular .
+   "Today is the hottest day of the year so far."
+
+3. Ν̃εσε σεςε δρτιτ ε κρνυτα̃ρ νεν̃α σκσακ τρλιν .
+   spicy food she ERG like-NEG with third singular .
+   "She doesn't like spicy food."
+
+These examples demonstrate the OSV word order, case marking, comparatives and superlatives, and verbal agreement in Neogrekos.
+
+LEXICON
+
+A small sample of the Neogrekos lexicon:
+
+σιςε - smart
+ρουσα - school
+κεσε - is
+νεν̃α - with
+φισο - first
+τρλιν - singular
+δρζ̌οσ - day
+πλκασ - year
+γρτιτ - today
+σεςε - food
+κρνυτ - like
+α̃ρ - NEG (negation suffix)
+ε - ERG (ergative case marker)
+τερ - ABS (absolutive case marker)
+ου - INS (instrumental case marker)
+ριν - COMP (comparative particle)
+ο - SUP (superlative particle)

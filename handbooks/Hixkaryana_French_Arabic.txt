@@ -1,0 +1,95 @@
+TITLE: A Grammar and Handbook of Shalāmi
+
+PHONOLOGY
+
+Shalāmi has a rich phonemic inventory with 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, as well as rounded front vowels (y, œ, ø). The consonant inventory includes the uvular fricative /ʁ/ and the palatal nasal /ɲ/, which are relatively uncommon cross-linguistically.
+
+Shalāmi allows for complex syllable structures, with consonant clusters permitted in both onset and coda positions. Stress is not phonemic and typically falls on the final syllable of a word.
+
+ORTHOGRAPHY
+
+Shalāmi uses an Arabic-inspired script, with each phoneme represented by a unique character. The orthography is largely phonemic, with a close correspondence between sounds and symbols. Some notable features include:
+
+- Vowel length is not distinguished in writing.
+- Nasal vowels are marked with a superscript alif (ٰ).
+- The script is written from right to left.
+
+Examples:
+/pøʁe/ (in) -> پۆرە
+/tɛ̃ʁa/ (garden) -> تعٰرا
+/ʁɛ̃sɔ̃/ (grocery) -> رٱسۅٰ
+
+MORPHOSYNTAX
+
+Shalāmi exhibits a mix of agglutinative and fusional morphology. Key features include:
+
+1. Nominal marking:
+   - Number: Singular (-et) and plural (-u) suffixes
+   - No case marking
+
+2. Verbal marking:
+   - Tense-aspect: Suffixes for nonpast (-ɥat), immediate past (-ɛn), recent past (-em), and remote past (-ka)
+   - Person agreement: Ergative-absolutive alignment with suffixes for person and number
+
+3. Other features:
+   - Inclusive-exclusive distinction in first person plural pronouns
+   - No grammatical gender
+   - Numeral classifiers
+
+Derivational morphology includes suffixes for comparatives (-kas) and superlatives (-e).
+
+SYNTAX
+
+Shalāmi has a relatively rare Object-Verb-Subject (OVS) word order for main clauses. Other syntactic features include:
+
+- Adjective-Noun order: Adjectives precede the nouns they modify
+- Adposition-Noun order: Prepositions are used rather than postpositions
+- Relative clauses are formed using the suffix -ɛ on the verb
+
+The language uses postverbal negation with the suffix -œs.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various features of Shalāmi:
+
+1. وادي سعسٱ کاس نيزەەت پۆرە بلفٱر گردٱرەت درتان سەرۆۆاتەع سەرۆۆاتە
+   wa.di sɛ.sə kas ni.ze-et pø.ʁe blfəʁ gʁdəʁ-et dʁtan se.ʁy-ɥat-e-ɛ se.ʁy-ɥat-e .
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG .
+   "The smartest student in our school is he."
+
+This example demonstrates the OVS word order, the use of the comparative suffix -kas, and the relative clause marker -ɛ.
+
+2. کلنيم وادي گلپەنو پۆرە تعدە وادي گرژعٰمو سپتۅسۆاترٱم
+   klnim wa.di glpen-u pø.ʁe tɛ.de wa.di gʁʒɛ̃m-u sptɔs-ɥat-ʁəm .
+   from the tree-PLUR in autumn the leaf-PLUR fall-NPAST-3PL .
+   "From the trees in autumn, the leaves fall."
+
+This sentence shows the use of plural marking (-u) and the nonpast tense with third person plural agreement (-ɥat-ʁəm).
+
+3. وودي لعپو ساتا کاڽيۏس سننۆکۆاتيەک
+   wo.di lɛ.po sa.ta ka.ɲi-œs snnøk-ɥat-jek .
+   very well i swim-NEG can-NPAST-1SG .
+   "Very well I cannot swim."
+
+This example illustrates the use of negation (-œs) and first person singular agreement in the nonpast tense (-ɥat-jek).
+
+LEXICON
+
+A small sample of the Shalāmi lexicon:
+
+بلپيک (blpik) - go
+سەرۆ (seʁy) - be
+نيزە (nize) - student
+گردٱر (gʁdəʁ) - school
+تعٰرا (tɛ̃ʁa) - garden
+کرتام (kʁtam) - year
+گۆما (gøma) - today
+تەپا (tepa) - exercise
+رۅرا (ʁɔʁa) - cake
+گلپەن (glpen) - tree
+کلدەر (kldeʁ) - wind

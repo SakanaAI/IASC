@@ -1,0 +1,118 @@
+TITLE: A Grammar and Handbook of Hellenikos
+
+PHONOLOGY
+
+Hellenikos has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows for some consonant clusters, particularly in syllable-initial position. The phonotactics generally follow a (C)(C)V(C) structure, with some restrictions on which consonants can appear together.
+
+Notable features include:
+- The presence of both the palato-alveolar fricative /ʃ/ and affricate /tʃ/
+- The inclusion of approximants /j/ and /w/
+- A balanced five-vowel system common in many world languages
+
+ORTHOGRAPHY
+
+Hellenikos uses a modified Greek alphabet for its orthography. Some key correspondences include:
+
+- /ʃ/ is represented by ς
+- /tʃ/ is represented by τς
+- /u/ is represented by ου
+- /j/ is represented by ι
+- /w/ is represented by ω
+
+The orthography is largely phonemic, with a few digraphs and special rules:
+- Double sigma (σσ) is simplified to a single σ
+- Word-initial /ʃ/ is written as σ instead of ς
+
+This system allows for a clear representation of the language's phonology while maintaining a connection to its Greek-inspired aesthetic.
+
+MORPHOSYNTAX
+
+Hellenikos exhibits an ergative-absolutive case system, which is relatively rare among the world's languages. The case marking is done through postpositional words, rather than affixes. The main cases are:
+
+- Ergative (ERG): ρα
+- Absolutive (ABS): ου
+- Genitive (GEN): (not specified in the given information)
+- Instrumental (INS): βαν
+
+The language does not mark grammatical number on nouns, lacking a singular-plural distinction.
+
+Verbs in Hellenikos do not mark tense or aspect. However, they do show agreement with both the ergative and absolutive arguments using prefixes. For example:
+
+- 1SGERG: (not specified)
+- 3SGABS: (not specified)
+
+Additional grammatical categories include:
+
+- Comparative (COMP): χεν
+- Equative (EQU): του
+- Superlative (SUP): γο
+- Relative clause marker (REL): -α
+- Negation (NEG): -ι
+
+Hellenikos also employs a system of numeral classifiers, though the specific classifiers are not provided in the given information.
+
+SYNTAX
+
+Hellenikos has a typologically unusual Object-Subject-Verb (OSV) word order for its main clauses. This order is quite rare among the world's languages.
+
+Other word order features include:
+- Noun-Adjective (NA) order
+- Noun-Postposition (NP) order
+
+These features combine to create a consistently head-final structure in noun phrases and adpositional phrases, contrasting with the object-initial structure of main clauses.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showing the orthography, gloss, and English translation:
+
+1. Χοκε χεν ναβι σιτα ρα ρουγου ου ςοςοα χαμα ου χαδα σετα κοζα σανσο .
+   smart COMP student we ERG school ABS in-REL he ABS is with first singular .
+   "We are smarter than the student who is in school."
+
+2. Κιτι γο νασε παρο ρα ου νεκο σοποα χοτε ου χαδα σετα χουσα σανσο .
+   hot SUP day year ERG ABS so far-REL today ABS is with third singular .
+   "Today is the hottest day of the year so far."
+
+3. Ωιδου σεχε βουκα ου ςοςο γουσα σετα χουσα κουκι .
+   flowers many garden ABS in bloom with third plural .
+   "Many flowers are blooming in the garden."
+
+These examples demonstrate the OSV word order, postpositional case marking, and verb-final structure of Hellenikos.
+
+LEXICON
+
+A small sample of the Hellenikos lexicon:
+
+βιχου - address
+ζαμα - always
+κιςου - am
+τακα - and
+μουχο - are
+ωεβα - art
+κογο - as
+κατςου - at
+χουοιι - attic
+μερε - autumn
+διατου - backyard
+νουνου - baked
+σανα - be
+ζουδε - been
+τςουπου - bicycle
+γουσα - bloom
+σατςο - blows
+σισου - blue
+ποκο - bone
+νιρα - book
+σουτε - bought
+γακο - bread
+δινο - built
+ιοτςε - buried
+καβο - bus
+κεςι - but
+ναδα - cake
+μουςου - cat

@@ -1,0 +1,121 @@
+TITLE: A Grammar and Handbook of Sitara
+
+PHONOLOGY
+
+Sitara has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows for syllable structures of CV, CVC, and V. Consonant clusters are not permitted within syllables. Stress typically falls on the penultimate syllable of a word.
+
+ORTHOGRAPHY
+
+Sitara uses a modified Arabic script for its writing system. Each phoneme is represented by a unique character:
+
+Consonants:
+k: ك, s: س, t: ت, n: ن, h: ه, m: م, r: ر, g: غ, z: ز, d: د, b: ب, p: پ, ʃ: ش, tʃ: چ, j: ي, w: و
+
+Vowels:
+a: ا, o: و, u: ُ, e: ِ, i: ي
+
+Some vowel combinations have special representations:
+ao: او
+ae: اے
+
+Words are written from right to left, following Arabic script conventions. Vowels are typically written as full letters rather than diacritics, making the script more readable for learners.
+
+MORPHOSYNTAX
+
+Sitara employs an ergative-absolutive case system, marked by postpositional words. The main cases are:
+
+- Ergative (ERG): را (ra)
+- Absolutive (ABS): ُ (u)
+- Instrumental (INS): بان (ban)
+
+The language does not mark grammatical gender or have an inclusive-exclusive distinction for pronouns. It does, however, use numeral classifiers, though the specific system is not detailed in the provided information.
+
+Verbs in Sitara do not mark tense or aspect morphologically. Instead, the language uses a complex system of person agreement markers for both ergative and absolutive arguments:
+
+Ergative markers: 1SGERG, 2SGERG, 3SGERG, 1PLERG, 2PLERG, 3PLERG
+Absolutive markers: 1SGABS, 2SGABS, 3SGABS, 1PLABS, 2PLABS, 3PLABS
+
+These markers are attached to the verb, indicating the person and number of both the subject and object.
+
+Additional morphosyntactic markers include:
+- Negation (-NEG): -ي (-i)
+- Relative clause marker (-REL): -ا (-a)
+- Comparative (COMP): هِن (hen)
+- Equative (EQU): تُ (tu)
+- Superlative (SUP): غو (go)
+
+SYNTAX
+
+Sitara follows an Object-Subject-Verb (OSV) word order for its main clauses. This is a relatively rare word order among the world's languages, making Sitara typologically interesting.
+
+Adjectives follow the nouns they modify (NA order), and adpositions come after their noun phrases (NP order). These postpositional phrases typically precede the verb in a sentence.
+
+Example of basic word order:
+تُهو تاپو مُشُ را رُشاي سِتا هُشا سانسو
+tu.ho ta.po mu.ʃu ra ru.ʃa-i se.ta hu.ʃa sa.nso
+food its cat ERG eat-NEG with third singular
+"The cat doesn't eat its food."
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various aspects of Sitara grammar:
+
+1. هوكِ هِن نابي سيتا را رُغُ ُ شوشوا هاما ُ هادا سِتا كوزا سانسو
+ho.ke hen na.bi si.ta ra ru.gu u ʃo.ʃo-a ha.ma u ha.da se.ta ko.za sa.nso
+smart COMP student we ERG school ABS in-REL he ABS is with first singular
+"We are smarter students than he is in school."
+
+This example demonstrates the comparative construction, ergative-absolutive case marking, and the relative clause marker.
+
+2. ويدُ سِهِ بُكا ُ شوشو غُسا سِتا هُشا كُكي
+wi.du se.he bu.ka u ʃo.ʃo gu.sa se.ta hu.ʃa ku.ki
+flowers many garden ABS in bloom with third plural
+"Many flowers bloom in the garden."
+
+This sentence shows the OSV word order and the use of the absolutive case for intransitive subjects.
+
+3. غاكو را رِمو سومُ سيتا را سُتِ سِتا كوزا كُكي
+ga.ko ra re.mo so.mu si.ta ra su.te se.ta ko.za ku.ki
+bread ERG loaves two we ERG bought with first plural
+"We bought two loaves of bread."
+
+This example illustrates the use of the ergative case for transitive subjects and the placement of numerals after the noun.
+
+LEXICON
+
+A small sample of the Sitara lexicon:
+
+Nouns:
+هُتِ (hu.te) - house
+نابي (na.bi) - student
+رُغُ (ru.gu) - school
+يِهِ (je.he) - phone
+ناسِ (na.se) - day
+
+Verbs:
+هادا (ha.da) - to be
+كِنا (ke.na) - to decide
+بيتُ (bi.tu) - to go
+ساها (sa.ha) - to join
+رُشا (ru.ʃa) - to eat
+
+Adjectives:
+هوكِ (ho.ke) - smart
+كِري (ke.ri) - new
+غِهُ (ge.hu) - old
+تامايِ (ta.maje) - delicious
+دِكو (de.ko) - small
+
+Adpositions:
+شوشو (ʃo.ʃo) - in
+دارو (da.ro) - on
+نودِ (no.de) - to
+سُسي (su.si) - for
+زُپُ (zu.pu) - from
+
+This lexicon represents only a small portion of the Sitara vocabulary but provides a glimpse into the language's word formation and semantic categories.

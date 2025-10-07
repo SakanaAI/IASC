@@ -1,0 +1,113 @@
+TITLE: A Grammar and Handbook of Shunari
+
+PHONOLOGY
+
+Shunari has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows consonant clusters and diphthongs. Syllable structure is generally (C)V(C), with most words following a CVCV pattern.
+
+Notable features:
+- The presence of both /ʃ/ and /tʃ/ affricates
+- Lack of /l/, with /r/ serving as the only liquid consonant
+- A balanced five-vowel system common in many world languages
+
+ORTHOGRAPHY
+
+Shunari uses a modified Latin alphabet. Most sounds correspond directly to their IPA equivalents, with a few exceptions:
+
+- /ʃ/ is written as 'sh'
+- /tʃ/ is written as 'ch'
+- /j/ is written as 'y'
+
+Long vowels are marked with a circumflex:
+- /ii/ becomes 'î'
+- /uu/ becomes 'û'
+
+Example: The word /muuji/ "minute" is written as "mûyi"
+
+MORPHOSYNTAX
+
+Shunari is an agglutinative language with a rich system of suffixes for both nouns and verbs.
+
+Nominal morphology:
+- Number: singular (-tu) and plural (-tu)
+- Case: nominative (-zo), accusative (-a), dative (-u), genitive (-pu), ablative (-u), locative (-go), instrumental (-u)
+
+Verbal morphology:
+- Tense: present (-o), past (-i), future (-a)
+- Aspect: perfective (-se)
+- Mood: indicative (-o), conditional (-ton)
+- Person agreement: 1sg (-a), 2sg (-i), 3sg (-ten), 1pl (-ten), 3pl (-a)
+- Voice: active (-se), passive (-a)
+
+Other notable morphemes:
+- Negation: -u
+- Relativizer: -mo
+
+Shunari does not mark gender grammatically and lacks an inclusive/exclusive distinction in pronouns.
+
+SYNTAX
+
+Shunari follows an SOV (Subject-Object-Verb) word order. Other syntactic features include:
+
+- Adjectives precede nouns (AN)
+- Postpositions follow nouns (NP)
+- Relative clauses precede the noun they modify
+- Subordinate clauses generally come before the main clause
+
+The language uses postpositions rather than prepositions, consistent with its head-final nature.
+
+EXAMPLE TEXT
+
+Here are two example sentences from the provided text, with gloss and translation:
+
+1. Wapu torutuzo comezo seca nigotupu comepu maco gibu riyago reshaootense.
+   new phone-SING-NOM the-NOM old model-SING-GEN the-GEN as twice expensive be-PRES-IND-3SG-ACT
+   "The new phone is twice as expensive as the old model."
+
+2. Wohuzo mana meritupu noga cuwuhu seharotû peseu caro haco rosa cabeotense nima.
+   we-NOM this project-SING-GEN for different contractor-SING-INS a-INS with go to decide-PRES-1PL-ACT have
+   "We have to decide to go with a different contractor for this project."
+
+These examples showcase several features of Shunari, including case marking, postpositions, and complex verb morphology.
+
+LEXICON
+
+A small sample of the Shunari lexicon:
+
+cuci - I
+sepi - you
+tate - he
+ceshi - she
+wohu - we
+shedo - they
+mude - school
+zetu - smart
+dana - student
+wapu - new
+toru - phone
+seca - old
+nigo - model
+riyago - expensive
+hushu - today
+gina - year
+cuze - hot
+saci - day
+huaso - exercise
+zaga - book
+yano - easy
+ruci - cake
+goyupu - delicious
+suge - leaf
+dame - tree
+nero - fall
+resha - child
+rido - park
+yagi - play
+bige - wind
+cuga - blow
+
+This lexicon demonstrates some of the basic vocabulary of Shunari, including pronouns, adjectives, and common nouns.

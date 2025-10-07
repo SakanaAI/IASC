@@ -1,0 +1,86 @@
+TITLE: A Grammar and Handbook of Zhevronian
+
+PHONOLOGY
+
+Zhevronian has a rich phonemic inventory consisting of 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, as well as rounded and unrounded front vowels. The consonant inventory includes the uvular fricative /ʁ/ and the palatal nasal /ɲ/, giving Zhevronian a distinctive sound profile.
+
+ORTHOGRAPHY
+
+Zhevronian uses a modified Arabic script for its orthography. Each phoneme is represented by a unique Arabic character or a modified version thereof. For example:
+
+- /p/ is represented by پ
+- /ʃ/ is represented by ش
+- /ɲ/ is represented by ڽ
+- /y/ is represented by ۆ
+
+The orthography is largely phonemic, with each sound having a consistent written representation. This makes reading and writing Zhevronian relatively straightforward once the script is learned.
+
+MORPHOSYNTAX
+
+Zhevronian exhibits a rich morphological system with both inflectional and derivational processes. Some key features include:
+
+1. Case system: Zhevronian has seven cases - nominative, accusative, dative, genitive, ablative, locative, and instrumental. These are marked by suffixes on nouns.
+
+2. Number: The language distinguishes between singular and plural, marked by suffixes (-ke for singular, -ʃɑ̃ for plural).
+
+3. Tense and aspect: Verbs are marked for present, past, and future tenses, as well as various aspects like perfective and imperfective.
+
+4. Person and number agreement: Verbs agree with their subjects in person and number.
+
+5. Voice: Active and passive voices are distinguished morphologically.
+
+6. Mood: Indicative and conditional moods are marked on verbs.
+
+7. Negation: Negation is expressed through a verbal suffix.
+
+8. Derivational morphology: Zhevronian has various affixes for deriving new words, such as the superlative prefix 'səl-'.
+
+SYNTAX
+
+Zhevronian follows an SOV (Subject-Object-Verb) word order in main clauses. Other syntactic features include:
+
+1. Adjectives precede the nouns they modify (AN order).
+2. Postpositions are used instead of prepositions (NP order).
+3. Relative clauses are formed using the suffix -lœn on the verb of the relative clause.
+4. Subordinate clauses generally precede the main clause.
+5. Question words typically appear in situ (in the same position as the corresponding non-question words would appear in a declarative sentence).
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showing the orthography, gloss, and English translation:
+
+1. فغييسکەںس وەغۆۆ غامےکےا ۆ گامي بودےکےکەںس غيبےکەںس دەنۆيوللاکوت
+   fʁjis-kɛ̃s wɛ.ʁɔ-ɔ ʁa.me-ke-a ø ga.mi bo.de-ke-kɛ̃s ʁi.be-kɛ̃s dɛ.nɔ-i-ul-lak-ut
+   he-NOM we-GEN school-SING-LOC COMP smart student-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "He is the smartest student in our school."
+
+2. لاغەکەںس بغتےتکەںس توںشەيماوت لےغالۆن سهل هنۆنا مۆلےکےکەںس غيبےکەںس دەنۆيوللاکوت
+   la.ʁɛ-kɛ̃s bʁtet-kɛ̃s tɔ̃.ʃɛ-i-ma-ut le.ʁa-lœn səl ən.øna my.le-ke-kɛ̃s ʁi.be-kɛ̃s dɛ.nɔ-i-ul-lak-ut
+   this-NOM i-NOM taste-PRES-1SG-ACT have-REL SUP delicious cake-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "This is the most delicious cake I have ever tasted."
+
+3. غيڽۆشاںکەںس غيبےکەںس وےکۆا توںتيشاںو غيبےو لەپە نوسايولےلوت
+   ʁi.ɲœ-ʃɑ̃-kɛ̃s ʁi.be-kɛ̃s we.kœ-a tɔ̃.ti-ʃɑ̃-o ʁi.be-o lɛ.pɛ no.sa-i-ul-el-ut
+   leaf-PLUR-NOM the-NOM autumn-LOC tree-PLUR-ABL the-ABL from fall-PRES-IND-3PL-ACT
+   "The leaves fall from the trees in autumn."
+
+LEXICON
+
+A small sample of the Zhevronian lexicon:
+
+بغتےت (bʁtet) - I
+دۆسۆ (dœ.sy) - go
+غامے (ʁa.me) - school
+گامي (ga.mi) - smart
+بودے (bo.de) - student
+مۆلے (my.le) - cake
+هنۆنا (ən.øna) - delicious
+غيڽۆ (ʁi.ɲœ) - leaf
+وےکۆ (we.kœ) - autumn
+توںتي (tɔ̃.ti) - tree
+نوسا (no.sa) - fall

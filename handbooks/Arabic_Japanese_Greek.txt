@@ -1,0 +1,99 @@
+TITLE: A Grammar and Handbook of Zetakos
+
+PHONOLOGY
+
+Zetakos has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows for consonant clusters and diphthongs. Syllable structure is generally (C)V(C), with most words following a CVCV pattern.
+
+Notable features:
+- The presence of both /ʃ/ and /tʃ/ allows for a distinction between these sounds.
+- The inclusion of both /w/ and /j/ provides for a range of glide sounds.
+- The five-vowel system is common among world languages and provides a good balance of vowel sounds.
+
+ORTHOGRAPHY
+
+Zetakos uses a modified Greek alphabet for its writing system. This choice gives the language a unique visual aesthetic while using familiar letter shapes. Some key correspondences include:
+
+- /ʃ/ is represented by ϸ
+- /tʃ/ is written as τϸ
+- /j/ uses ι
+- /w/ is represented by ω
+
+Vowels use their Greek counterparts: α (a), ο (o), υ (u), ε (e), ι (i)
+
+This orthography allows for easy representation of the language's phonemes while giving it a distinct appearance.
+
+MORPHOSYNTAX
+
+Zetakos exhibits a rich morphological system with both prefixes and suffixes. Key features include:
+
+1. Nominal marking:
+   - Number: Singular (-o), Plural (-hu), Dual (-e)
+   - Case: Nominative (-o), Accusative (-u), Genitive (-nin)
+   - Definiteness: Definite (ku-), Indefinite (-ra)
+
+2. Verbal marking:
+   - Tense: Present (-sa), Past (-han), Future (-tu)
+   - Person agreement: 1SG (-u), 2SG (-bu), 3SG (-i), 1PL (-a), 3PL (-nen)
+   - Voice: Active (-i), Passive (-u)
+
+3. Adjectives:
+   - Comparative (-ton)
+   - Superlative (-pon)
+
+4. Other features:
+   - Subordinate marker (-ta)
+   - Locative case (-u)
+
+The language makes extensive use of agglutination, with words often carrying multiple affixes to convey grammatical information.
+
+SYNTAX
+
+Zetakos follows a Verb-Subject-Object (VSO) word order, which is less common among world languages but provides a unique structure. Other syntactic features include:
+
+1. Adjective-Noun order: The adjective follows the noun (NA)
+2. Adposition-Noun order: Prepositions are used (PN)
+3. Relative clauses: Introduced by the particle "a" and follow the noun they modify
+4. Numeral classifiers: Used between numbers and nouns
+
+These features combine to create a distinct syntactic structure that sets Zetakos apart from many natural languages.
+
+EXAMPLE TEXT
+
+Here are two example sentences from the provided text, with orthography, gloss, and English translation:
+
+1. Ζαρυσαι κυσοκιο α ζεγοοοσα ωασεωυτονοοσα ωομο τετα κυιυκεο α χυυιαοοσα.
+   be-PRES-3SG DEF-phone-SING REL new-SING-NOM-DEF expensive-COMP-SING-NOM-DEF twice as DEF-model-SING REL old-SING-NOM-DEF.
+   "The new phone is twice as expensive as the old model."
+
+2. Κιζεσανενι κυνεγαχυ σετε κυγιμοχυνιν ρεζε τακινιν.
+   fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN.
+   "The leaves fall from the trees in autumn."
+
+These examples showcase the VSO word order, the use of case marking, and the relative clause structure of Zetakos.
+
+LEXICON
+
+A small sample of the Zetakos lexicon:
+
+ζαρυ - to be
+τϸυτο - to go
+κυ- - definite article
+-ο - singular/nominative marker
+-υ - accusative marker
+-νιν - genitive marker
+σοκι - phone
+ζεγο - new
+ωασεωυ - expensive
+ιυκε - model
+χυυια - old
+κιζε - to fall
+νεγα - leaf
+γιμο - tree
+τακι - autumn
+
+This lexicon demonstrates the root forms of words, which then take on various affixes to express grammatical relationships and meanings.

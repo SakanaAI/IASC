@@ -1,0 +1,96 @@
+TITLE: A Grammar and Handbook of Krylovik
+
+PHONOLOGY
+
+Krylovik has a rich phonemic inventory consisting of 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+
+The language features several uncommon consonants, including the voiceless lateral fricative /ɬ/ and its devoiced counterpart /ɬ̥/, as well as a devoiced trill /r̥/. The presence of both dental and alveolar fricatives (/θ/ and /s/) is also noteworthy.
+
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The vowel system is quite extensive, including both tense and lax vowels, a central vowel /ə/, and three diphthongs. The presence of both /i/ and /ɨ/ is particularly interesting, as it allows for fine distinctions in vowel quality.
+
+ORTHOGRAPHY
+
+Krylovik uses a modified Cyrillic alphabet for its orthography. Some notable features include:
+
+1. Use of 'ң' for the velar nasal /ŋ/
+2. 'ѳ' represents the dental fricative /θ/
+3. 'џ' is used for the affricate /dʒ/
+4. 'ԓ' represents the lateral fricative /ɬ/
+5. Diacritics are used to represent some vowels: 'ӥ' for /ɪ/, 'ӧ' for /ɔ/, 'ӯ' for /ʊ/, 'ӕ' for /æ/
+
+This orthography allows for a clear representation of the language's phonemic distinctions while maintaining a Cyrillic aesthetic.
+
+MORPHOSYNTAX
+
+Krylovik exhibits a rich agglutinative morphology with both nominal and verbal inflection.
+
+Nominal Morphology:
+- Number: Singular (-нӯ) and Plural (-рәп)
+- Case: Nominative (-аўр̥), Accusative (-ңэк), Dative (-еў), Genitive (-ђӯ), Ablative (-ун), Locative (-һи), Instrumental (-рең)
+
+Verbal Morphology:
+- Tense: Present (-ат), Past (-рӥ), Future (-кӧн)
+- Aspect: Perfective (-џач)
+- Mood: Indicative (-уг), Conditional (-мӯѳ)
+- Voice: Active (-џач), Passive (-мо)
+- Person agreement: 1SG (-џэр), 2SG (-айм), 3SG (-лал), 1PL (-оф), 3PL (-ӧл)
+
+Other notable morphemes:
+- Negation: -кай
+- Relativizer: -ўе
+
+The language also uses classifiers, though the specific system is not detailed in the provided information.
+
+SYNTAX
+
+Krylovik follows an SOV (Subject-Object-Verb) word order, which is typical for agglutinative languages. Other syntactic features include:
+
+1. Adjective-Noun order: Adjectives precede the nouns they modify
+2. Postpositions: Adpositions follow their noun phrases
+3. Relative clauses: Marked with the -ўе suffix on the verb, likely preceding the head noun
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various aspects of Krylovik grammar:
+
+1. Маўшәаўр̥ гўтӧгђӯ шусинӯһи рич глфэһ трчэснӯаўр̥ дуђэаўр̥ гечэатуглалџач.
+   he-NOM we-GEN school-SING-LOC COMP smart student-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "He is the smartest student in our school."
+
+This sentence demonstrates the use of case marking (nominative, genitive, locative), as well as verbal morphology for present tense, indicative mood, and third-person singular agreement.
+
+2. Гўтӧгаўр̥ фрнуў клңӯгђӯ йакукнӯһи хилэ блтӯкатофџач строк, кура прнӧгнӯаўр̥ дуђэаўр̥ нуԓ̥ӧ гечэкӧнмӯѳлалџач.
+   we-NOM next week-GEN vacation-SING-LOC on go-PRES-1PL-ACT are, so office-SING-NOM the-NOM closed be-FUT-COND-3SG-ACT
+   "We are going on vacation next week, so the office will be closed."
+
+This example shows the use of future tense and conditional mood, as well as the SOV word order and postpositional structure.
+
+3. Снбэўаўр̥ рәўэ римонӯңэк тотӧкайатуглалџач.
+   she-NOM spicy food-SING-ACC like-NEG-PRES-IND-3SG-ACT
+   "She doesn't like spicy food."
+
+This sentence demonstrates the use of the negative suffix -кай in verbal morphology.
+
+LEXICON
+
+A small sample of the Krylovik lexicon:
+
+нуџӧ - and
+снгеһ - but
+дорә - to
+р̥ибе - in
+хилэ - on
+сайхӧ - for
+ѳину - with
+џәнә - by
+ԓәро - as
+гуўэ - at
+кура - so
+боми - while
+дады - when
+
+This lexicon shows a preference for short, mostly monosyllabic words for common grammatical functions and prepositions.

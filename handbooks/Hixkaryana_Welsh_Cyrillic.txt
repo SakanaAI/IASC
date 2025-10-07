@@ -1,0 +1,93 @@
+TITLE: A Grammar and Handbook of Cyrillic Ergative (Кирилик Эргатив)
+
+PHONOLOGY
+
+Cyrillic Ergative has a rich phonemic inventory with 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The language features some uncommon sounds like the voiceless lateral fricative ɬ and its voiceless variant ɬ̥, as well as a voiceless trill r̥. The vowel system includes both monophthongs and diphthongs.
+
+ORTHOGRAPHY
+
+Cyrillic Ergative uses a modified Cyrillic alphabet to represent its sounds. Some notable correspondences include:
+
+ŋ -> ң
+θ -> ѳ
+ʃ -> ш
+χ -> х
+ð -> ђ
+w -> ў
+tʃ -> ч
+dʒ -> џ
+ɬ -> ԓ
+ɬ̥ -> ԓ̥
+r̥ -> р̥
+
+Vowels are represented as follows:
+ɪ -> ӥ
+ɔ -> ӧ
+ʊ -> ӯ
+ə -> ә
+ɨ -> ы
+æ -> ӕ
+
+Diphthongs are written as combinations of their component vowels.
+
+MORPHOSYNTAX
+
+Cyrillic Ergative exhibits an ergative-absolutive alignment in its verbal morphology. The language marks tense-aspect through suffixes, with four distinctions: nonpast (-шор), immediate past (-тӕт), recent past (-дәў), and remote past (-фыџ).
+
+Verbs agree with both the ergative and absolutive arguments:
+- Ergative markers: -ӥԓ (1SG), -ыб (2SG), -ке (3SG), -лә (1PL), -ӥк (3PL)
+- Absolutive markers are not explicitly shown in the provided examples
+
+The language distinguishes between inclusive and exclusive first person plural pronouns: нэ (1PLINCL) and сен (1PLEXCL).
+
+Nouns are marked for number with suffixes: -сыч (singular) and -йэ (plural).
+
+Other notable morphemes include:
+- -эс: relative clause marker
+- -дед: negation marker
+
+SYNTAX
+
+Cyrillic Ergative follows an Object-Verb-Subject (OVS) word order, which is typologically rare. Adjectives precede the nouns they modify (AN), and the language uses prepositions (PN).
+
+Example of OVS order:
+смѳеф сэтәсыч ўӧйдӧдедшорке прңиң файтайсыч
+the cat-SING eat-NEG-NPAST-3SG its food-SING
+"Its food, the cat doesn't eat."
+
+EXAMPLE TEXT
+
+1. Смѳеф ԓўпӕһ ӯк брнушсыч һеңа шуту фурусыч фрѳэн ԓўләкшоркеэс ԓўләкшорке.
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG
+   "He is the smartest student in our school."
+
+2. Накен фәта смѳеф смдэссыч р̥арашорке.
+   strongly today the wind-SING blow-NPAST-3SG
+   "The wind is blowing strongly today."
+
+3. Һеңа смѳеф ѳрѳэн ԓоѳӥсыч снлый битӕсыч нэ брфӧймдәўлә.
+   in the sunny meadow-SING a picnic-SING 1PLINCL have-RECPAST-1PL
+   "We (inclusive) had a picnic in the sunny meadow."
+
+These examples showcase the OVS word order, verbal morphology, and some of the unique phonological features of Cyrillic Ergative.
+
+LEXICON
+
+A small sample of the lexicon:
+
+брнуш - student
+фуру - school
+ԓўләк - be
+смдэс - wind
+р̥ара - blow
+битӕ - picnic
+брфӧйм - have
+ѳрѳэн - sunny
+ԓоѳӥ - meadow
+фәта - today
+накен - strongly

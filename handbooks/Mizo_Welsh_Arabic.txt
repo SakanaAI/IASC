@@ -1,0 +1,102 @@
+TITLE: A Grammar and Handbook of Thulāni
+
+PHONOLOGY
+
+Thulāni has a rich phonemic inventory with 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+
+The language features several uncommon sounds, including the voiceless alveolar lateral fricative /ɬ/ and its voiceless counterpart /ɬ̥/, as well as a voiceless alveolar trill /r̥/. These sounds add a unique character to the language's phonetic profile.
+
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The vowel system includes both monophthongs and diphthongs, with a distinction between tense and lax vowels (e.g., /i/ vs /ɪ/, /u/ vs /ʊ/). The central vowel /ə/ (schwa) and the high central vowel /ɨ/ add to the language's phonetic complexity.
+
+ORTHOGRAPHY
+
+Thulāni uses a modified Arabic script for its orthography. Some notable features include:
+
+1. Vowel representation: Most vowels are represented by full letters rather than diacritics, e.g., 'ا' for /a/, 'ی' for /i/.
+2. Additional characters: The script includes modified Arabic letters to represent sounds not found in standard Arabic, such as 'ڤ' for /v/ and 'چ' for /tʃ/.
+3. Digraphs: Some sounds are represented by digraphs, e.g., 'اي' for /aɪ/, 'او' for /aʊ/.
+
+The orthography aims to provide a one-to-one correspondence between phonemes and graphemes, with a few exceptions for digraphs and special characters.
+
+MORPHOSYNTAX
+
+Thulāni exhibits a complex morphosyntactic structure:
+
+1. Case System: The language uses an ergative-absolutive case system, with additional cases such as genitive and instrumental. Cases are marked by postpositional words.
+
+2. Verbal Agreement: Verbs agree with both the ergative and absolutive arguments in person and number. For example:
+   - 1SGERG: First person singular ergative
+   - 3PLABS: Third person plural absolutive
+
+3. Number: The language distinguishes between singular and plural, but not dual.
+
+4. Tense-Aspect: Interestingly, Thulāni does not mark tense or aspect on verbs.
+
+5. Negation: Negation is marked by the suffix '-ێک' (-ek).
+
+6. Relativization: Relative clauses are formed using the suffix '-نۆ' (-no).
+
+7. Comparison: Comparative and superlative forms are marked by 'مəن' (mən) and 'ࢨک' (ɪk) respectively.
+
+SYNTAX
+
+Thulāni follows an Object-Subject-Verb (OSV) word order, which is relatively rare among the world's languages. This order is consistently maintained in main clauses.
+
+Other syntactic features include:
+
+1. Adjective-Noun order: Adjectives follow the nouns they modify (NA).
+2. Adposition-Noun order: Postpositions are used instead of prepositions (NP).
+3. Subordinate clauses: These typically precede the main clause.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various features of Thulāni:
+
+1. ثرکوس مəن خەسə نۇخاي نࢧب پليۆڤ مو فلدəننۆ ستمام مو رəذو سنپۆر گونəڭ لاوبەن
+   θrkus mən χɛ.sə nʊ.χaɪ næb pljov mu fldən-no stmam mu rə.ðu snpɔr gwnəŋ laʊ.bɛn
+   smart COMP student we ERG school ABS in-REL he ABS is with first singular
+   "We are smarter than the student who is in school."
+
+This sentence demonstrates the comparative construction, ergative-absolutive case marking, and a relative clause.
+
+2. وࢩفə ࢨک برڭێڤ کرفࢧگ نࢧب مو تࢨفۆ کرتۆثنۆ فرگەپ مو رəذو سنپۆر گرنايم لاوبەن
+   wɨ.fə ɪk brŋev krfæg næb mu tɪ.fɔ krtoθ-no frgɛp mu rə.ðu snpɔr grnaɪm laʊ.bɛn
+   hot SUP day year ERG ABS so far-REL today ABS is with third singular
+   "Today is the hottest day of the year so far."
+
+This example shows the superlative construction and the use of the ergative case with an inanimate subject.
+
+3. چࢨيا فەيا کࢨڤۆ نࢧب دۆنəێک سنپۆر گونəڭ لاوبەن
+   tʃɪ.ja fɛ.ja kɪ.vɔ næb do.nə-ek snpɔr gwnəŋ laʊ.bɛn
+   very well i ERG swim-NEG with first singular
+   "I don't swim very well."
+
+This sentence illustrates the negation suffix and first-person singular ergative agreement on the verb.
+
+LEXICON
+
+The lexicon of Thulāni includes both content words and grammatical markers. Some notable entries:
+
+- نࢧب (næb): Ergative case marker
+- مو (mu): Absolutive case marker
+- هə (hə): Instrumental case marker
+- نۆ (-no): Relative clause marker
+- ێک (-ek): Negation suffix
+- مəن (mən): Comparative marker
+- ࢨک (ɪk): Superlative marker
+- سنپۆر (snpɔr): Verbal agreement marker "with"
+- چیگا (tʃi.ga): Coordinating conjunction "and"
+
+Content words show a mix of semantic fields, including:
+
+- پليۆڤ (pljov): "school"
+- کرفࢧگ (krfæg): "year"
+- دۆنə (do.nə): "swim"
+- پرنۆذ (prnɔð): "food"
+- کردەر (krdɛr): "wind"
+
+The lexicon demonstrates the language's unique phonological and orthographic features, as well as its morphosyntactic structures.

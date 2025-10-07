@@ -1,0 +1,95 @@
+TITLE: A Grammar and Handbook of Voshlang
+
+PHONOLOGY
+
+Voshlang has a rich phonemic inventory with 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+
+The language includes several less common sounds like the voiceless lateral fricative ɬ and its devoiced counterpart ɬ̥, as well as a devoiced trill r̥. The presence of both θ and ð is relatively rare cross-linguistically.
+
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The vowel system is quite extensive, including both the common five-vowel system (a, e, i, o, u) and additional distinctions like the near-close vowels ɪ and ʊ. The language also features three diphthongs: aɪ, aʊ, and ɔɪ.
+
+ORTHOGRAPHY
+
+Voshlang uses a modified Cyrillic alphabet for its orthography. Some notable features include:
+
+- The use of ң for the velar nasal ŋ
+- ѳ represents θ, while ђ represents ð
+- ў is used for w
+- џ represents dʒ
+- ԓ is used for ɬ, with ԓ̥ for the devoiced variant
+- р̥ represents the devoiced trill r̥
+- ӥ, ө, ӯ, ә, and ы represent ɪ, o, ʊ, ə, and ɨ respectively
+- ӕ is used for æ
+
+This orthography allows for a unique visual representation of Voshlang's phonology while maintaining some familiarity for speakers of languages using Cyrillic scripts.
+
+MORPHOSYNTAX
+
+Voshlang exhibits a complex agglutinative morphology with a rich system of affixes. Key features include:
+
+1. Nominal morphology:
+   - Number: Singular (-фәк), Plural (-ўәл), and Dual (-нит)
+   - Case: Nominative (-ел), Accusative (-кә), Genitive (-воџ)
+   - Definiteness: Definite (-фойг), Indefinite (-ђеб)
+
+2. Verbal morphology:
+   - Tense: Present (-оң), Past (-лу), Future (-эк)
+   - Aspect: Active (-ѳэ), Passive (-шаўԓ)
+   - Person agreement: 1SG (-шөў), 2SG (-йив), 3SG (-ош), 1PL (-ши), 3PL (-ѳэ)
+
+3. Adjectival morphology:
+   - Comparative (-ўук)
+   - Superlative (-аў)
+
+4. Other notable affixes:
+   - Locative (-ѳо)
+   - Subordinate (-ил)
+
+The language also uses prefixes, such as ер̥- for definiteness.
+
+SYNTAX
+
+Voshlang follows a VSO (Verb-Subject-Object) word order, which is relatively uncommon among the world's languages. Other syntactic features include:
+
+1. Adjective-Noun order: Nouns precede their modifying adjectives (NA)
+2. Adposition-Noun order: Prepositions are used rather than postpositions (PN)
+3. Relative clauses: Introduced by the particle нө and follow the noun they modify
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing Voshlang's grammar:
+
+1. Тӥбәоңош ѳрнор ер̥клпөѳфәк нө лофӥаўфәкелфойг крђаԓ ер̥хӯйифәк лӥтувоџ.
+   be-PRES-3SG he DEF-student-SING REL smart-SUP-SING-NOM-DEF in DEF-school-SING we-GEN
+   "He is the smartest student in our school."
+
+2. Ѳрланоңѳэѳэ ер̥чөбөўәл дрлур ер̥гртӥтўәлвоџ крђаԓ кўԓачвоџ.
+   fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN
+   "The leaves fall from the trees in autumn."
+
+3. Йэѳэлуошѳэ ѳрнорел ер̥тәнөфәк сӯлуфәккәфойг прхӯф ер̥глтэбфәк сӯлуфәквоџфойг.
+   lend-PAST-3SG-ACT he-NOM DEF-bicycle-SING his-SING-ACC-DEF to DEF-cousin-SING his-SING-GEN-DEF
+   "He lent his bicycle to his cousin."
+
+These examples demonstrate the VSO word order, case marking, and the use of the relative particle нө.
+
+LEXICON
+
+A small sample of the Voshlang lexicon:
+
+блтең (blteŋ) - go
+гўбоһ (gwbɔh) - play
+дӥги (dɪgi) - job
+ер̥- (er̥-) - DEF- (definite prefix)
+кө (ko) - NEG (negation particle)
+лӥту (lɪtu) - we
+нө (no) - REL (relative particle)
+прхӯф (prχʊf) - to
+сама (sama) - house
+тӥбә (tɪbə) - be
+
+This lexicon showcases some of the basic vocabulary and grammatical particles used in Voshlang.

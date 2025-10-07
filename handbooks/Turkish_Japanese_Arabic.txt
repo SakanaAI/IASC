@@ -1,0 +1,96 @@
+TITLE: A Grammar and Handbook of Keshoran
+
+PHONOLOGY
+
+Keshoran has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows for syllable structures of CV, CVC, and V. Consonant clusters are generally avoided, with the exception of the affricate /tʃ/.
+
+Notable features:
+- The presence of both /s/ and /ʃ/, allowing for contrastive sibilants
+- The inclusion of the palatal approximant /j/ and the labiovelar approximant /w/
+- A balanced set of stops, including voiced and voiceless pairs
+
+ORTHOGRAPHY
+
+Keshoran uses an Arabic-inspired script for its writing system. Each phoneme is represented by a unique character, with some special rules for vowel representation:
+
+- Short vowels /u/ and /e/ are represented as diacritics above the preceding consonant
+- Long vowels /a/, /o/, and /i/ are represented by full letters
+- The affricate /tʃ/ is represented by a single character
+
+Some notable orthographic rules:
+- When /i/, /u/, or /e/ precede /a/ or /o/, a hamza (ء) is inserted to indicate hiatus
+- Short vowels are placed after their associated consonant in the final orthographic representation
+
+MORPHOSYNTAX
+
+Keshoran exhibits a rich morphological system with both nominal and verbal inflection:
+
+Nominal morphology:
+- Number: Singular (-tu) and Plural (-tu)
+- Case: Nominative (-zo), Accusative (-a), Dative (-u), Genitive (-pu), Ablative (-u), Locative (-go), Instrumental (-u)
+
+Verbal morphology:
+- Tense: Present (-o), Past (-i), Future (-a)
+- Aspect: Perfective (-ses), Imperfective (-o)
+- Mood: Indicative (-o), Conditional (-ton)
+- Voice: Active (-se), Passive (-a)
+- Person agreement: 1SG (-a), 2SG (-i), 3SG (-ten), 1PL (-ten), 2PL (-ten), 3PL (-a)
+
+Other morphological features:
+- Negation: Suffix (-u)
+- Relativizer: Suffix (-mo)
+- Comparative: Prefix (san)
+- Superlative: Prefix (u)
+
+SYNTAX
+
+Keshoran follows an SOV (Subject-Object-Verb) word order for main clauses. Other syntactic features include:
+
+- Adjective-Noun: Adjectives precede the nouns they modify
+- Adposition-Noun: Postpositions are used instead of prepositions
+- Relative clauses: Precede the noun they modify and are marked with the -mo suffix on the verb
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various aspects of Keshoran grammar:
+
+1. تاتِتو ووهُهُپ مُمِدُتو سان زِزُت داناتُتو كومِمو رِراووتِتسِس
+ta.te-zo wo.hu-pu mu.de-tu-go san ze.tu da.na-tu-zo ko.me-zo re.ʃa-o-o-ten-se
+he-NOM we-GEN school-SING-LOC COMP smart student-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+"He is the smartest student in our school."
+
+2. ووهُهو واپُپ كيتيتُتو پِپِسو روسا سُسيءوتِتسِس هوشُش, مِما سِسيپُپ هوشاسِسُتو غاكِك ناچيءاتونتِتسِس
+wo.hu-zo wa.pu ki.ti-tu-go pe.se-go ro.sa su.mi-o-ten-se ho.ʃu , me.na se.pi-pu ho.ʃa.se-tu-zo ga.ke na.tʃi-a-ton-ten-se
+we-NOM new office-SING-LOC a-LOC to move-PRES-1PL-ACT are , but you-GEN department-SING-NOM here stay-FUT-COND-3SG-ACT
+"We are moving to a new office, but your department will stay here."
+
+3. شِشوزو داپِپ وِوتُتُُ كارو هاكوبُبُتا كومِما بُبييءواسِس
+ʃe.do-zo da.pe we.po-tu-u ka.ro ha.ko.bu-tu-a ko.me-a bu.ri-i-o-a-se
+they-NOM plastic shovel-PLUR-INS with sandcastle-SING-ACC the-ACC build-PAST-IND-3PL-ACT
+"They built the sandcastle with plastic shovels."
+
+LEXICON
+
+A small sample of the Keshoran lexicon:
+
+kome - the
+reSa - be
+hako - go
+seSo - friend
+kuki - I
+tate - he
+wohu - we
+pese - a/an
+sana - student
+mude - school
+kiti - office
+haSase - department
+dape - plastic
+wepo - shovel
+hakobu - sandcastle
+buri - build

@@ -1,0 +1,105 @@
+TITLE: A Grammar and Handbook of Vornese
+
+PHONOLOGY
+
+Vornese has a rich phonemic inventory with 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, as well as rounded and unrounded front vowels. The consonant inventory includes the uvular fricative /ʁ/ and the palatal nasal /ɲ/, giving Vornese a distinctive sound profile.
+
+ORTHOGRAPHY
+
+Vornese uses a modified Cyrillic alphabet for its orthography. Some notable correspondences include:
+
+- /ɲ/ is represented by њ
+- /ʁ/ is represented by р
+- /j/ is represented by й
+- /ɥ/ is represented by ю
+- /w/ is represented by ў
+- /ə/ is represented by ъ
+- /œ/ is represented by ё
+- /ɔ/ is represented by ѳ
+- /ɑ̃/ is represented by ѧ
+- /ɔ̃/ is represented by ѫ
+- /ɛ̃/ is represented by ѩ
+- /ø/ is represented by ѳ̈
+
+This orthography allows for a unique visual representation of Vornese while maintaining a connection to existing Cyrillic-based writing systems.
+
+MORPHOSYNTAX
+
+Vornese exhibits a complex morphosyntactic structure with extensive case marking and verbal inflection.
+
+Nominal Morphology:
+- Number: Singular (-ke) and Plural (-шѧ)
+- Case: Nominative (-кѩс), Accusative (-эм), Dative (-шер), Genitive (-ѳ), Ablative (-о), Locative (-а), Instrumental (-ъ)
+
+Verbal Morphology:
+- Tense: Present (-и), Past (-нѫл), Future (-кэ)
+- Aspect: Perfective (-ут)
+- Mood: Indicative (-ул), Conditional (-дат)
+- Person agreement: 1SG (-ма), 2SG (-рѧ), 3SG (-лак), 1PL (-сър), 3PL (-ел)
+- Voice: Passive (-е)
+
+Additional morphemes:
+- Negation: -е
+- Relative clause marker: -лён
+
+Vornese also uses classifiers with numbers, though the specific classifier system is not detailed in the provided information.
+
+SYNTAX
+
+Vornese follows an SOV (Subject-Object-Verb) word order for main clauses. Adjectives precede the nouns they modify (AN order), and the language uses postpositions rather than prepositions (NP order).
+
+Example of basic word order:
+Бртеткѩс дѫсаэм крнатиулмаут
+bʁtet-kɛ̃s dɔ̃.sa-ɛm kʁnat-i-ul-ma-ut
+I-NOM you-ACC need-PRES-IND-1SG-ACT
+"I need you"
+
+EXAMPLE TEXT
+
+Here are some examples from the provided text, showcasing various aspects of Vornese grammar:
+
+1. Фрйискѩс ўэрѳѳ рамекеа ѳ̈ гами бодекекѩс рибекѩс дэнѳиуллакут.
+fʁjis-kɛ̃s wɛ.ʁɔ-ɔ ʁa.me-ke-a ø ga.mi bo.de-ke-kɛ̃s ʁi.be-kɛ̃s dɛ.nɔ-i-ul-lak-ut
+he-NOM we-GEN school-SING-LOC COMP smart student-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+"He is the smartest student in our school."
+
+This example demonstrates case marking (nominative, genitive, locative), the comparative marker (ѳ̈), and verbal inflection for person, tense, and mood.
+
+2. Ларэкѩс бртеткѩс тѫшэимаут лералён съл ънѳ̈на мылекекѩс рибекѩс дэнѳиуллакут.
+la.ʁɛ-kɛ̃s bʁtet-kɛ̃s tɔ̃.ʃɛ-i-ma-ut le.ʁa-lœn səl ən.øna my.le-ke-kɛ̃s ʁi.be-kɛ̃s dɛ.nɔ-i-ul-lak-ut
+this-NOM i-NOM taste-PRES-1SG-ACT have-REL SUP delicious cake-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+"This is the most delicious cake I have ever tasted."
+
+This sentence showcases the use of the relative clause marker (-лён) and the superlative marker (съл).
+
+3. Рињёшѧкѩс рибекѩс ўекёа тѫтишѧо рибео лэпэ носаиулелут.
+ʁi.ɲœ-ʃɑ̃-kɛ̃s ʁi.be-kɛ̃s we.kœ-a tɔ̃.ti-ʃɑ̃-o ʁi.be-o lɛ.pɛ no.sa-i-ul-el-ut
+leaf-PLUR-NOM the-NOM autumn-LOC tree-PLUR-ABL the-ABL from fall-PRES-IND-3PL-ACT
+"The leaves fall from the trees in autumn."
+
+This example demonstrates plural marking, locative and ablative cases, and verbal agreement with a plural subject.
+
+LEXICON
+
+A small sample of the Vornese lexicon:
+
+бртет (bʁtet) - I
+дѫса (dɔ̃.sa) - you (singular)
+фрйис (fʁjis) - he
+фрзёт (fʁzœt) - she
+ўэрѳ (wɛ.ʁɔ) - we
+рънѩ (ʁə.nɛ̃) - they
+снбен (snben) - house
+раме (ʁa.me) - school
+дёсы (dœ.sy) - go
+крнат (kʁnat) - need
+дэнѳ (dɛ.nɔ) - be
+пррат (pʁʁat) - like
+сиши (si.ʃi) - play
+тѫшэ (tɔ̃.ʃɛ) - taste
+мыле (my.le) - cake

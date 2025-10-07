@@ -1,0 +1,110 @@
+TITLE: A Grammar and Handbook of Etlanese
+
+PHONOLOGY
+
+Etlanese has a phoneme inventory consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language features several distinctive sounds, including the palatal nasal /ɲ/, the palatal lateral approximant /ʎ/, and the voiced palatal fricative /ʝ/. These sounds add a unique flavor to the phonological system of Etlanese.
+
+The language allows for consonant clusters, particularly in word-initial and word-medial positions. Syllable structure tends to favor CV and CVC patterns, though more complex structures are possible.
+
+ORTHOGRAPHY
+
+Etlanese uses a Latin-based alphabet with some modifications to represent its phonemes. The orthography is largely phonemic, with most letters corresponding directly to a single phoneme. Some notable features include:
+
+- /θ/ is represented by 'th'
+- /x/ is represented by 'h'
+- /tʃ/ is represented by 'ch'
+- /ɲ/ is represented by 'ñ'
+- /ʎ/ is represented by 'll'
+- /ɾ/ is represented by 'r', while /r/ is represented by 'rr'
+- /j/ is represented by 'y'
+- /ʝ/ is represented by 'j'
+
+This orthographic system allows for a relatively straightforward relationship between spelling and pronunciation, making it easier for learners to read and write Etlanese.
+
+MORPHOSYNTAX
+
+Etlanese exhibits a rich morphological system with extensive use of suffixes to mark grammatical features. Some key aspects of Etlanese morphosyntax include:
+
+1. Number: The language distinguishes between singular (-ses) and plural (-ra) forms.
+
+2. Case: Etlanese uses a nominative-accusative system, with case markers including:
+   - Nominative: -ro
+   - Accusative: -ras
+   - Genitive: -nes
+
+3. Definiteness: Marked by prefixes (nu- for definite) and suffixes (-na for definite, -non for indefinite).
+
+4. Tense: Verbs are marked for tense, including:
+   - Present: -no
+   - Past: -sal
+   - Future: -le
+
+5. Person and number agreement on verbs:
+   - First person singular: -rin
+   - Second person singular: -da
+   - Third person singular: -le
+   - First person plural: -ri
+   - Third person plural: -din
+
+6. Other notable morphemes:
+   - Comparative: -ras
+   - Superlative: -ler
+   - Active voice: -na
+   - Passive voice: -lin
+   - Subordinate clause marker: -nu
+
+Etlanese also features a system of numeral classifiers, though specific examples are not provided in the given lexicon.
+
+SYNTAX
+
+Etlanese follows a VSO (Verb-Subject-Object) word order in main clauses. This is relatively uncommon among the world's languages and gives Etlanese a distinctive syntactic flavor. Other word order features include:
+
+1. Adjective-Noun: Etlanese uses a noun-adjective (NA) order, with adjectives following the nouns they modify.
+
+2. Adposition-Noun: The language employs prepositions (PN order), with adpositions preceding their noun complements.
+
+3. Relative clauses: Introduced by the relative pronoun 'rar' and follow the noun they modify.
+
+4. Negation: The negative particle 'san' typically precedes the verb.
+
+5. Subordinate clauses: Often marked by the subordinate suffix -nu on the verb.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various features of Etlanese:
+
+1. Etnanole etla nuenlases rar eplulersesrona alle nusadoses issanes.
+   be-PRES-3SG he DEF-student-SING REL smart-SUP-SING-NOM-DEF in DEF-school-SING we-GEN
+   "He is the smartest student in our school."
+
+2. Ijsenodinna nulidira ollli nunaniranes alle lodines.
+   fall-PRES-3PL-ACT DEF-leaf-PLUR from DEF-tree-PLUR-GEN in autumn-GEN
+   "The leaves fall from the trees in autumn."
+
+3. Redenolena san rodaro larises asnesesrasnon.
+   like-PRES-3SG-ACT NEG she-NOM food-SING spicy-SING-ACC-INDEF
+   "She doesn't like spicy food."
+
+These examples demonstrate the VSO word order, case marking, tense marking, and the use of relative clauses and negation in Etlanese.
+
+LEXICON
+
+Etlanese has a rich lexicon, with words for various concepts. Here's a small sample from the provided lexicon:
+
+aflu: house
+dini: bread
+emni: friend
+lari: food
+nani: tree
+otsa: cat
+rele: book
+sara: go
+sedo: dog
+ulle: country
+
+The lexicon shows a mix of simple roots and more complex derived forms, reflecting the agglutinative nature of Etlanese morphology.

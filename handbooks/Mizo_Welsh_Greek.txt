@@ -1,0 +1,93 @@
+TITLE: A Grammar and Handbook of Neokosmos
+
+PHONOLOGY
+
+Neokosmos has a rich phonemic inventory consisting of 26 consonants and 15 vowels:
+
+Consonants: p, t, k, b, d, g, m, n, ŋ, f, θ, s, ʃ, χ, v, ð, l, r, w, j, tʃ, dʒ, ɬ, h, ɬ̥, r̥
+
+The language features several uncommon consonants, including the voiceless lateral fricative ɬ, its devoiced counterpart ɬ̥, and a devoiced trill r̥. These sounds add a unique flavor to the language's phonetic profile.
+
+Vowels: a, ɛ, e, i, ɪ, ɔ, o, u, ʊ, ə, ɨ, aɪ, aʊ, ɔɪ, æ
+
+The vowel system includes both monophthongs and diphthongs, providing a wide range of vocalic distinctions. The presence of both tense and lax vowels (e.g., i/ɪ, u/ʊ) allows for subtle phonemic contrasts.
+
+ORTHOGRAPHY
+
+Neokosmos uses a modified Greek alphabet for its orthography, with some unique adaptations:
+
+- Most consonants have straightforward Greek letter equivalents (e.g., π for p, τ for t).
+- Some digraphs are used for complex sounds (e.g., τς for tʃ, τζ for dʒ).
+- Vowels generally follow Greek conventions, with some extensions (e.g., οϋ for u).
+- Diacritics are used in specific contexts, such as the diaeresis (ϋ) to mark certain vowel sequences.
+- The final sigma rule is applied, with ς used word-finally instead of σ.
+
+This orthographic system allows for a visually distinct writing system while maintaining some familiarity for those acquainted with the Greek alphabet.
+
+MORPHOSYNTAX
+
+Neokosmos exhibits an ergative-absolutive case system, which is relatively uncommon among the world's languages. The main cases are:
+
+- Ergative (ERG): Marks the subject of transitive verbs
+- Absolutive (ABS): Marks the object of transitive verbs and the subject of intransitive verbs
+- Genitive (GEN): Indicates possession
+- Instrumental (INS): Marks the instrument used in an action
+
+Case is marked using postpositional words, rather than affixes or prefixes.
+
+Verbs show agreement with both ergative and absolutive arguments, distinguishing person and number. For example:
+
+- 1SGERG: First person singular ergative
+- 3PLABS: Third person plural absolutive
+
+The language does not mark tense or aspect on verbs, relying instead on context or temporal adverbs to convey such information.
+
+Neokosmos also employs a classifier system, adding an extra layer of nominal categorization.
+
+SYNTAX
+
+The basic word order in Neokosmos is OSV (Object-Subject-Verb), which is quite rare among the world's languages. This order is consistently applied in both main and subordinate clauses.
+
+Adjectives follow the nouns they modify (NA order), and adpositions are postpositions, coming after the noun phrase they govern (NP order).
+
+These syntactic features combine to create a highly head-final language structure, where modifiers and complements generally precede their heads.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing the unique features of Neokosmos:
+
+1. Θρκοϋς μεν χεσε νυχαι ναβ πλιωβ μοϋ φλδεννω στμαμ μοϋ ρεδοϋ σνπορ γωνεγγ λαϋβεν.
+   smart COMP student we ERG school ABS in-REL he ABS is with first singular
+   "We are smarter than the student who is in school."
+
+2. Ωεσοϋ γωριτ σκτςιδ κρλλωμνω γεση δυφι θργιχι γεγ γεση λονε μοϋ ρεδοϋ σνπορ γρναιμ λαϋβεν.
+   new phone old model-REL as twice expensive EQU as the ABS is with third singular
+   "The new phone is twice as expensive as the old model."
+
+3. Τςατςο ςιθο κρσυβ νυχαι ναβ ρηκωλλ θερε νονυ νολι σνπορ γρναιμ λαϋβεν.
+   climate change country we ERG together address needs to with third singular
+   "We need to address climate change in our country together."
+
+These examples demonstrate the OSV word order, postpositional case marking, and the use of relational particles like -νω (REL) and comparative constructions.
+
+LEXICON
+
+A small sample of the Neokosmos lexicon:
+
+θρκοϋς - smart
+χεσε - student
+πλιωβ - school
+ρεδοϋ - is
+γωνεγγ - first
+λαϋβεν - singular
+ωεσοϋ - new
+γωριτ - phone
+σκτςιδ - old
+θργιχι - expensive
+τςατςο - climate
+ςιθο - change
+κρσυβ - country
+ρηκωλλ - together
+θερε - address
+
+This lexicon showcases the unique phonological and orthographic features of Neokosmos, with its blend of familiar and exotic sounds represented in the modified Greek script.

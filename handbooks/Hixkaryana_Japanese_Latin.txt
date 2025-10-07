@@ -1,0 +1,119 @@
+TITLE: A Grammar and Handbook of Zohulang
+
+PHONOLOGY
+
+Zohulang has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows for both open and closed syllables, with a preference for CV structure. Consonant clusters are limited, primarily occurring across syllable boundaries.
+
+Notable features:
+- The presence of both /s/ and /ʃ/ (represented as 'sh' in orthography)
+- The affricate /tʃ/ (represented as 'ch' in orthography)
+- The approximants /j/ and /w/ (represented as 'y' and 'w' respectively)
+
+ORTHOGRAPHY
+
+Zohulang uses a modified Latin alphabet. Most sounds correspond directly to their IPA equivalents, with a few exceptions:
+
+- /k/ is written as 'c'
+- /ʃ/ is written as 'sh'
+- /tʃ/ is written as 'ch'
+- /j/ is written as 'y'
+
+There is one special orthographic rule for vowel combinations:
+- The sequence 'ou' represents /o u/
+
+Example: /ko.zu/ is written as "cozu"
+
+MORPHOSYNTAX
+
+Zohulang exhibits an agglutinative morphology with a rich system of suffixes. Key features include:
+
+1. Nominal marking:
+   - Number: Singular (-a) and Plural (-son)
+   - No case marking
+
+2. Verbal marking:
+   - Tense-aspect: Non-past (-re), Immediate past (-ni), Recent past (-u), Remote past (-o)
+   - Person agreement: Ergative-Absolutive alignment
+     1SG: -ho, 2SG: -sun, 3SG: -ron, 1PL: -a, 3PL: -ta
+   - Other verbal suffixes: Negative (-go), Relative clause marker (-i)
+
+3. Inclusive-Exclusive distinction in first person plural:
+   - 1PLINCL: a
+   - 1PLEXCL: son
+
+4. No grammatical gender
+
+5. Numeral classifiers are used, though specific examples are not provided in the lexicon
+
+Other notable morphemes:
+- Comparative: me
+- Equative: a
+- Superlative: e
+
+SYNTAX
+
+Zohulang has an OVS (Object-Verb-Subject) main word order, which is typologically rare. Other word order features include:
+
+- Adjective-Noun (AN): Adjectives precede the nouns they modify
+- Preposition-Noun (PN): Prepositions come before their object nouns
+
+The language uses postpositions for subordinate clauses, as evidenced by the relative clause marker -i appearing at the end of the verb.
+
+EXAMPLE TEXT
+
+Here are two example sentences from the provided text:
+
+1. Goze ceza me wucaa chete tehe conea teayo cuhoreroni cuhoreron.
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG
+   "The smart student in our school is he."
+
+2. Tinda hosa goze cazua cemureron.
+   strongly today the wind-SING blow-NPAST-3SG
+   "The wind blows strongly today."
+
+3. Nore yonu shoce negaa son ragirea, tace pacu were giziraa cagoreron.
+   to a new office-SING 1PLEXCL move-NPAST-1PL, but here your department-SING stay-NPAST-3SG
+   "We are moving to a new office, but your department is staying here."
+
+These examples demonstrate the OVS word order, the use of suffixes for tense and person agreement, and the placement of adjectives before nouns.
+
+LEXICON
+
+A small sample of the Zohulang lexicon:
+
+Nouns:
+wuca - student
+cone - school
+cazu - wind
+nega - office
+gizira - department
+
+Verbs:
+cuho - be
+cemu - blow
+ragi - move
+cago - stay
+
+Adjectives:
+ceza - smart
+shoce - new
+
+Adverbs:
+tinda - strongly
+
+Pronouns:
+teayo - he
+son - we (exclusive)
+were - your
+
+Other:
+chete - in
+tace - but
+nore - to
+goze - the
+yonu - a

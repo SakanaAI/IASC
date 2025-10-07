@@ -1,0 +1,83 @@
+TITLE: A Grammar and Handbook of Elythrian
+
+PHONOLOGY
+
+Elythrian has a relatively simple phonological system consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language includes some less common sounds like the palatal nasal ɲ, palatal lateral ʎ, and palatal fricative ʝ. It also distinguishes between a tap ɾ and trill r.
+
+ORTHOGRAPHY
+
+Elythrian uses a modified Greek alphabet for its orthography. Most letters correspond directly to their IPA equivalents, with a few exceptions:
+
+- ου represents /u/
+- τσ represents /tʃ/
+- νι represents /ɲ/
+- λι represents /ʎ/
+- ρρ represents /r/ (trill)
+- γι represents /ʝ/
+
+Word-final sigma is written as ς instead of σ.
+
+MORPHOSYNTAX
+
+Elythrian is a highly agglutinative language with a rich system of suffixes. Nouns are marked for number (singular/plural) and case (nominative, accusative, dative, genitive, ablative, locative, instrumental). Verbs are marked for tense (present, past, future), aspect (perfective/imperfective), mood (indicative, conditional), person, and number.
+
+Some notable features:
+- No gender system
+- Extensive use of case marking
+- Complex verb conjugation system
+- Use of classifiers with numbers
+
+Examples of morphological markers:
+- Plural: -σα
+- Nominative: -ρεν
+- Accusative: -νε
+- Past tense: -λα
+- Future tense: -λεν
+- 3rd person singular: -σαλ
+
+SYNTAX
+
+Elythrian follows an SOV (Subject-Object-Verb) word order. Other syntactic features include:
+
+- Adjectives precede nouns (AN order)
+- Postpositions are used instead of prepositions (NP order)
+- Relative clauses are formed using the suffix -νεν on the verb
+- Subordinate clauses generally precede the main clause
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthography, gloss, and English translation:
+
+1. Αδνερεν ατνισε νουλοσαλε σι ορνι εβρουσαρεν αλισουρεν σασεσοσασαλραλ.
+   he-NOM we-GEN school-SING-LOC COMP smart student-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "He is the smartest student in our school."
+
+2. Ιρρορεν επσοσασε αλισουσε νερε νανε ουλλο δο αγισα αχνασαρεν αλισουρεν σασεσοσασαλραλ.
+   today-NOM year-SING-GEN the-GEN of so far SUP hot day-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "Today is the hottest day of the year so far."
+
+3. Νανοσαρεν αλισουρεν λολουλε αγρασαρουρ αλισουρουρ οβρι οδνισοσαδιραλ.
+   leaf-PLUR-NOM the-NOM autumn-LOC tree-PLUR-ABL the-ABL from fall-PRES-IND-3PL-ACT
+   "The leaves fall from the trees in autumn."
+
+LEXICON
+
+A small sample of the Elythrian lexicon:
+
+αχνα (axna) - day
+νουλο (nulo) - school
+ορνι (orni) - smart
+εβρου (ebru) - student
+επσο (epso) - year
+αγισα (agisa) - hot
+νανο (nano) - leaf
+λολου (lolu) - autumn
+αγρα (agra) - tree
+οδνι (odni) - fall (verb)
+σασε (sase) - be
+αλισου (alisu) - the (definite article)

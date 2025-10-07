@@ -1,0 +1,102 @@
+TITLE: A Grammar and Handbook of Koshanese
+
+PHONOLOGY
+
+Koshanese has a relatively simple phonological system consisting of 16 consonants and 5 vowels:
+
+Consonants: k, s, t, n, h, m, r, g, z, d, b, p, ʃ, tʃ, j, w
+Vowels: a, o, u, e, i
+
+The language allows for consonant clusters and diphthongs. Syllable structure is typically CV or CVC, though more complex structures are possible.
+
+Notable features:
+- The presence of both /ʃ/ and /tʃ/ allows for a distinction between these similar sounds.
+- The inclusion of both /j/ and /w/ provides for glide consonants.
+- The five-vowel system is symmetrical and common among world languages.
+
+ORTHOGRAPHY
+
+Koshanese uses a Cyrillic-based orthography, with a one-to-one correspondence between phonemes and graphemes:
+
+к с т н х м р г з д б п ш ч й в
+k s t n h m r g z d b p ʃ tʃ j w
+
+а о у е и
+a o u e i
+
+This orthography allows for easy reading and writing, with each sound represented by a single letter. The use of Cyrillic script gives Koshanese a distinctive appearance while maintaining phonetic transparency.
+
+MORPHOSYNTAX
+
+Koshanese exhibits a rich morphological system with both nominal and verbal inflection:
+
+Nominal Marking:
+- Number: Singular (-tu) and Plural (-tu)
+- Case: Nominative (-zo), Accusative (-a), Dative (-u), Genitive (-pu), Ablative (-u), Locative (-go), Instrumental (-u)
+
+Verbal Marking:
+- Tense-Aspect: Present (-o), Past (-i), Future (-a)
+- Person Agreement: 1SG (-a), 2SG (-i), 3SG (-ten), 1PL (-ten), 2PL (-ten), 3PL (-a)
+- Voice: Active (-se), Passive (-a)
+- Mood: Indicative (-o), Conditional (-ton)
+
+Additional morphemes:
+- Negation: -u
+- Relative clause marker: -mo
+
+Koshanese also employs numeral classifiers, though the specific forms are not provided in the given information.
+
+SYNTAX
+
+Koshanese follows an SOV (Subject-Object-Verb) word order for main clauses. Modifiers generally precede the words they modify:
+
+- Adjective-Noun: AN (Adjective before Noun)
+- Adposition-Noun: NP (Noun before Postposition)
+
+This consistent head-final structure is typical of many SOV languages.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showing the orthography, gloss, and English translation:
+
+1. Вохузо дуку нугипу кансатуго пага хакоотенсе хошу, хиса кититузо комезо като решаатонтенсе.
+   wo.hu-zo du.ku nu.gi-pu ka.nsa-tu-go pa.ga ha.ko-o-ten-se ho.ʃu , hi.sa ki.ti-tu-zo ko.me-zo ka.to re.ʃa-a-ton-ten-se .
+   we-NOM next week-GEN vacation-SING-LOC on go-PRES-1PL-ACT are , so office-SING-NOM the-NOM closed be-FUT-COND-3SG-ACT .
+   "We are going on vacation next week, so the office will be closed."
+
+2. Кешизо дате шукутуа курауоотенсе.
+   ke.ʃi-zo da.te ʃu.ku-tu-a ku.ra-u-o-o-ten-se .
+   she-NOM spicy food-SING-ACC like-NEG-PRES-IND-3SG-ACT .
+   "She doesn't like spicy food."
+
+3. Созутузо комезо риту шукутуа доувууатонтенсе.
+   so.zu-tu-zo ko.me-zo ri.tu ʃu.ku-tu-a douwu-u-a-ton-ten-se .
+   cat-SING-NOM the-NOM its food-SING-ACC eat-NEG-FUT-COND-3SG-ACT .
+   "The cat might not eat its food."
+
+These examples demonstrate the SOV word order, case marking, and complex verbal morphology of Koshanese.
+
+LEXICON
+
+A small sample of the Koshanese lexicon:
+
+куки (ku.ki) - I
+сепи (se.pi) - you
+тате (ta.te) - he
+кеши (ke.ʃi) - she
+воху (wo.hu) - we
+шедо (ʃe.do) - they
+хако (ha.ko) - go
+реша (re.ʃa) - be
+доуву (douwu) - eat
+кура (ku.ra) - like
+нима (ni.ma) - have
+саша (sa.ʃa) - want
+хиги (hi.gi) - see
+мону (mo.nu) - write
+гина (gi.na) - year
+саки (sa.ki) - day
+дама (da.ma) - night
+меава (meawa) - house
+муде (mu.de) - school
+рага (ra.ga) - job

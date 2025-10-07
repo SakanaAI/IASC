@@ -1,0 +1,106 @@
+TITLE: A Grammar and Handbook of Neosyllabic
+
+PHONOLOGY
+
+Neosyllabic has a relatively simple phonological system consisting of 20 consonants and 5 vowels:
+
+Consonants: p, b, t, d, k, g, f, θ, s, x, tʃ, m, n, ɲ, l, ʎ, ɾ, r, j, ʝ
+Vowels: a, e, i, o, u
+
+The language features both voiced and voiceless plosives, as well as a range of fricatives including the dental fricative θ. It has a palatal nasal ɲ and lateral ʎ, which are somewhat uncommon cross-linguistically. The presence of both a tap ɾ and trill r is also noteworthy.
+
+The vowel system is a standard five-vowel system common to many languages worldwide.
+
+ORTHOGRAPHY
+
+Neosyllabic uses a modified Greek alphabet for its orthography. Some key correspondences include:
+
+- ου represents /u/
+- τσ represents /tʃ/
+- νι represents /ɲ/
+- λι represents /ʎ/
+- ρρ represents /r/ (trill)
+- γι represents /ʝ/
+
+The orthography is largely phonemic, with each sound having a unique representation. One notable rule is the use of final ς instead of σ at the end of words.
+
+MORPHOSYNTAX
+
+Neosyllabic has a rich system of verbal morphology but relatively simple nominal morphology.
+
+Nouns are marked for number (singular -νο, plural -ρι) but not for case.
+
+Verbs are marked for tense-aspect and person agreement. The tense-aspect system includes:
+
+- Non-past (-σα)
+- Immediate past (-ρο)
+- Recent past (-σα)
+- Remote past (-σι)
+
+Person agreement is marked for both subject and object, following an ergative-absolutive pattern:
+
+Subject (ergative):
+1SG: -δο, 2SG: -λι, 3SG: -σο, 1PL: -ρα, 3PL: -νος
+
+Object (absolutive):
+1SG: -δο, 2SG: -λι, 3SG: -σο, 1PL: -ρα, 3PL: -νος
+
+Other notable morphemes include:
+- Negation: -ραν
+- Relative clause marker: -λες
+
+The language distinguishes between inclusive (σι) and exclusive (νερ) first person plural pronouns.
+
+Neosyllabic uses numeral classifiers, which are placed between the noun and the number.
+
+SYNTAX
+
+Neosyllabic has an unusual Object-Verb-Subject (OVS) word order for main clauses. This is a rare word order, found in only about 1% of the world's languages.
+
+Adjectives precede the nouns they modify (AN order), and adpositions precede their noun phrases (PN order).
+
+EXAMPLE TEXT
+
+Here are a few example sentences from the provided text:
+
+1. Σοδι δενο ρε εσσανο σολο οβρο σονανο ουγνα νοσασασολες νοσασασο.
+   so.di de.no ɾe es.sa-no so.lo ob.ɾo so.na-no ug.na no.sa-sa-so-les no.sa-sa-so .
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG .
+   "The smartest student in our school is he."
+
+2. Σοδι νασδι να εγιρανο ερνο οσνισαδολες ουνλα νοσασασο.
+   so.di nas.di na eʝ.ɾa-no eɾ.no os.ni-sa-do-les un.la no.sa-sa-so .
+   the delicious SUP cake-SING i taste-RECPAST-1SG-REL this be-NPAST-3SG .
+   "This is the most delicious cake I have tasted."
+
+3. Νασα δουσινο ουπδα ριραρανσασο.
+   na.sa du.si-no up.da ɾi.ɾa-ɾan-sa-so .
+   spicy food-SING she like-NEG-NPAST-3SG .
+   "Spicy food, she doesn't like."
+
+These examples showcase the OVS word order, the use of superlatives (να), and the negation marker (-ραν).
+
+LEXICON
+
+A small sample of the Neosyllabic lexicon:
+
+νερ - 1PLEXCL (we, exclusive)
+σι - 1PLINCL (we, inclusive)
+ρε - COMP (comparative)
+ρο - EQU (equative)
+να - SUP (superlative)
+νανι - a
+ουιδε - address
+ερδα - always
+εσρι - and
+ραδου - as
+νολο - at
+αλλι - attic
+οινι - autumn
+αρνο - backyard
+ραλα - bake
+νοσα - be
+σοσο - bicycle
+ετνε - bloom
+σασα - blow
+σερο - blue

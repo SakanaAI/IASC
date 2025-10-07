@@ -1,0 +1,97 @@
+TITLE: A Grammar and Handbook of Sérulang
+
+PHONOLOGY
+
+Sérulang has a rich phonological inventory with 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, as well as rounded front vowels (y, ø, œ) which are typologically less common. The consonant inventory includes the uvular fricative /ʁ/ and the labio-palatal approximant /ɥ/, adding to the language's distinctive sound.
+
+ORTHOGRAPHY
+
+Sérulang uses a Latin-based alphabet with some digraphs and diacritics:
+
+Consonants:
+p, b, t, d, c (for /k/), g, f, v, s, z, ch (for /ʃ/), j (for /ʒ/), 
+m, n, gn (for /ɲ/), l, r (for /ʁ/), y (for /j/), ü (for /ɥ/), w
+
+Vowels:
+i, u (for /y/), ou (for /u/), é, e (for /ə/), o, è (for /ɛ/), 
+eu (for both /œ/ and /ø/), a, an (for /ɑ̃/), on (for /ɔ̃/), in (for /ɛ̃/)
+
+This orthography allows for a relatively close correspondence between spelling and pronunciation, with some exceptions like the dual use of "eu" for both /œ/ and /ø/.
+
+MORPHOSYNTAX
+
+Sérulang exhibits a rich morphological system, particularly in its verbal inflections:
+
+1. Nominal marking:
+   - Number: Singular (-ét) and Plural (-ou) suffixes
+   - No case marking
+
+2. Verbal marking:
+   - Tense-aspect: Nonpast (-üat), Immediate past (-èn), Recent past (-ém), Remote past (-ca)
+   - Person agreement: Ergative-Absolutive alignment
+     Ergative suffixes: -yéc (1SG), -o (2SG), -é (3SG), -bén (1PL), -rem (3PL)
+     Absolutive suffixes are not explicitly shown in the examples
+
+3. Other morphemes:
+   - Negation: -eus
+   - Relative clause marker: -è
+
+4. Inclusive-Exclusive distinction:
+   1PLINCL: cheu
+   1PLEXCL: rim
+
+5. No grammatical gender
+
+6. Numeral classifiers are used, but not shown in the provided examples
+
+SYNTAX
+
+Sérulang has the following word order characteristics:
+
+1. Main clause order: OVS (Object-Verb-Subject)
+2. Adjective-Noun order: AN (Adjective precedes Noun)
+3. Adposition-Noun order: PN (Preposition precedes Noun)
+
+This combination of word orders is typologically rare, making Sérulang quite distinctive in its syntax.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthographic transcription, gloss, and English translation:
+
+1. Wadi sèse cas nizéét peuré blfer grderét drtan séruüatéè séruüaté.
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG
+   "The smartest student in our school is he."
+
+2. Clnim wadi glpénou peuré tèdé wadi grjinmou sptosüatrem.
+   from the tree-PLUR in autumn the leaf-PLUR fall-NPAST-3PL
+   "From the trees in autumn, the leaves fall."
+
+3. Trral prgnal tayiét prgnal scderét drtan tivoémé.
+   to his cousin-SING his bicycle-SING he lend-RECPAST-3SG
+   "To his cousin, his bicycle he lent."
+
+These examples demonstrate the OVS word order, the use of tense-aspect suffixes, and the placement of prepositions before nouns.
+
+LEXICON
+
+A small sample of the Sérulang lexicon:
+
+blpic: go
+séru: be
+wadi: the
+sncer: a
+cas: COMP (comparative)
+as: EQU (equative)
+é: SUP (superlative)
+peuré: in
+trral: to
+neurou: with
+tédo: but
+toucè: and
+clnim: from
+blvèt: on

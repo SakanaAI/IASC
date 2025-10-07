@@ -1,0 +1,130 @@
+TITLE: A Grammar and Handbook of Nèsalą
+
+PHONOLOGY
+
+Nèsalą has a rich phonemic inventory consisting of 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, which is relatively uncommon cross-linguistically. The consonant inventory includes the uvular fricative /ʁ/ and the labio-palatal approximant /ɥ/, both of which are somewhat marked sounds.
+
+Nèsalą allows fairly complex syllable structures, with consonant clusters permitted in both onset and coda positions.
+
+ORTHOGRAPHY
+
+Nèsalą uses a Latin-based alphabet with some diacritics. The orthography is largely phonemic, with a few digraphs and special characters:
+
+Consonants:
+p, b, t, d, c, g, f, v, s, z, ch, j, m, n, ń, l, r, y, ü, w
+
+Vowels:
+i, u, ou, é, e, o, è, oe, ò, a, ą, ǫ, ę, eu
+
+Some notable correspondences:
+/k/ -> c
+/ʃ/ -> ch
+/ʒ/ -> j
+/ɲ/ -> ń
+/ʁ/ -> r
+/y/ -> u
+/u/ -> ou
+/ə/ -> e
+/œ/ -> oe
+/ɑ̃/ -> ą
+/ɔ̃/ -> ǫ
+/ɛ̃/ -> ę
+/ø/ -> eu
+
+The orthography includes rules to avoid certain sequences, such as replacing "ii" with "iy" and "ouou" with "ouw".
+
+MORPHOSYNTAX
+
+Nèsalą exhibits a rich morphological system with both nominal and verbal inflection.
+
+Nouns are marked for number (singular -cé, plural -chą) and case. The case system includes:
+- Nominative (-cęs)
+- Accusative (-èm)
+- Dative (-chér)
+- Genitive (-ò)
+- Ablative (-o)
+- Locative (-a)
+- Instrumental (-e)
+
+Verbs are marked for tense (present -i, past -nǫl, future -cè), mood (indicative -oul, conditional -dat), and person/number agreement. The agreement system distinguishes between ergative and absolutive arguments:
+
+Ergative:
+1SG: -ma
+2SG: -rą
+3SG: -lac
+1PL: -ser
+3PL: -él
+
+Absolutive markers are not provided in the lexicon.
+
+Additional verbal markers include:
+- Active voice: -out
+- Passive voice: -é
+- Negative: -é (homophonous with passive)
+- Relative clause marker: -loen
+
+Nèsalą also employs a classifier system, though specific classifiers are not provided in the lexicon.
+
+SYNTAX
+
+Nèsalą follows an SOV (Subject-Object-Verb) word order for main clauses. Adjectives precede the nouns they modify (AN), and the language uses postpositions rather than prepositions (NP).
+
+Example of basic word order:
+brtét-cęs yusi-cé-èm clcér-i-oul-ma-out
+I-NOM bread-SING-ACC eat-PRES-IND-1SG-ACT
+"I eat bread"
+
+Modifiers typically precede the head noun:
+prnòn drral-cé-cęs
+new phone-SING-NOM
+"the new phone"
+
+Postpositional phrase:
+ramé-cé-a sire
+school-SING-LOC in
+"in the school"
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, with orthographic transcription, gloss, and English translation:
+
+1. Fryiscęs wèròò ramécéa eu gami bodécécęs ribécęs dènòioullacout.
+   he-NOM we-GEN school-SING-LOC COMP smart student-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "He is the smartest student in our school."
+
+2. Larè spséccęs téré pisacéò ribéò sire sel nępè lecècécęs ribécęs dènòioullacout.
+   this exercise-NOM whole book-SING-GEN the-GEN in SUP easy one-SING-NOM the-NOM be-PRES-IND-3SG-ACT
+   "This exercise is the easiest one in the whole book."
+
+3. Wèròcęs prnòn todeucéa répoua tisa scliliserout yètò, mésa ńitéò génougécécęs vrrin clrorcèdatlacout.
+   we-NOM new office-SING-LOC a-LOC to move-PRES-1PL-ACT are, but you-GEN department-SING-NOM here stay-FUT-COND-3SG-ACT
+   "We are moving to a new office, but your department will stay here."
+
+LEXICON
+
+A small selection from the provided lexicon:
+
+-1SG: -ma (first person singular marker)
+-3SG: -lac (third person singular marker)
+-ACC: -èm (accusative case marker)
+-FUT: -cè (future tense marker)
+-PAST: -nǫl (past tense marker)
+-PRES: -i (present tense marker)
+bake: sarè
+book: pisa
+child: nésę
+delicious: eneuna
+eat: clcér
+friend: bèrou
+go: doesu
+house: snbén
+i: brtét
+new: prnòn
+school: ramé
+smart: gami
+student: bodé

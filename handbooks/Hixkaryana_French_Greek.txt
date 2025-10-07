@@ -1,0 +1,103 @@
+TITLE: A Grammar and Handbook of Aetherios
+
+PHONOLOGY
+
+Aetherios has a rich phonemic inventory consisting of 20 consonants and 14 vowels:
+
+Consonants: p, b, t, d, k, g, f, v, s, z, ʃ, ʒ, m, n, ɲ, l, ʁ, j, ɥ, w
+Vowels: i, y, u, e, ə, o, ɛ, œ, ɔ, a, ɑ̃, ɔ̃, ɛ̃, ø
+
+The language features both oral and nasal vowels, as well as rounded and unrounded front vowels. The consonant inventory includes a uvular fricative /ʁ/ and a labio-palatal approximant /ɥ/, which are relatively uncommon cross-linguistically.
+
+ORTHOGRAPHY
+
+Aetherios uses a modified Greek alphabet for its orthography. Some notable features include:
+
+- The use of 'ου' to represent /u/
+- Diacritics to represent different vowel qualities (e.g., 'ε̆' for /ə/, 'ο̈' for /œ/)
+- The use of 'ς' for /ʃ/ and 'ζ̧' for /ʒ/
+- Nasal vowels represented by adding a tilde to the vowel (e.g., 'α̃' for /ɑ̃/)
+
+This orthography allows for a unique visual representation of the language while maintaining a connection to the Greek alphabet.
+
+MORPHOSYNTAX
+
+Aetherios exhibits a rich morphological system with several notable features:
+
+1. Nominal marking:
+   - Singular and plural number distinctions
+   - No grammatical case system
+
+2. Verbal marking:
+   - Four-way tense distinction: nonpast, immediate past, recent past, and remote past
+   - Tense is marked by suffixes
+   - Person agreement for both ergative and absolutive arguments
+
+3. Inclusive-exclusive distinction in first-person plural pronouns
+
+4. No grammatical gender
+
+5. Numeral classifiers are used with numbers
+
+Verbs are heavily marked, carrying information about tense, person, and number. For example:
+
+blpik-ῠat-ben (go-NPAST-1PL) "we go"
+σερυ-κα-ιεκ (be-REMPAST-1SG) "I was (long ago)"
+
+SYNTAX
+
+Aetherios has an OVS (Object-Verb-Subject) main word order, which is relatively rare among the world's languages. This creates sentences like:
+
+ωαδι σκβυμετ δειοῠατε
+wa.di skvym-et de.jɔ-ɥat-e
+the movie-SING start-NPAST-3SG
+"The movie starts"
+
+Other syntactic features include:
+
+- Adjective-Noun order (AN)
+- Preposition-Noun order (PN)
+
+These features combine to create a unique syntactic structure that sets Aetherios apart from many natural languages.
+
+EXAMPLE TEXT
+
+Here are a few examples from the provided text, showcasing various features of Aetherios:
+
+1. Ωαδι σεσε̆ κασ νιζεετ πο̊ρε βλφε̆ρ γρδε̆ρετ δρταν σερυῠατεε σερυῠατε.
+   wa.di sɛ.sə kas ni.ze-et pø.ʁe blfəʁ gʁdəʁ-et dʁtan se.ʁy-ɥat-e-ɛ se.ʁy-ɥat-e
+   the smart COMP student-SING in our school-SING he be-NPAST-3SG-REL be-NPAST-3SG
+   "He is the smartest student in our school."
+
+This example showcases the OVS word order, the comparative marker 'κασ', and the relative clause construction.
+
+2. Κλνιμ ωαδι γλπενου πο̊ρε τεδε ωαδι γρζ̧ε̃μου σπτοσῠατρε̆μ.
+   klnim wa.di glpen-u pø.ʁe tɛ.de wa.di gʁʒɛ̃m-u sptɔs-ɥat-ʁəm
+   from the tree-PLUR in autumn the leaf-PLUR fall-NPAST-3PL
+   "The leaves fall from the trees in autumn."
+
+This sentence demonstrates the use of plural marking, prepositions, and verb agreement with a plural subject.
+
+3. Νο̈ρου σνκε̆ρ ζενο γλδεσετ ωαδι λε̆μεετ βρφο̊μ πλσερεμε.
+   nœ.ʁu snkəʁ zɛ.nɔ gldes-et wa.di lə.me-et vʁføm plseʁ-em-e
+   with a blue pen-SING the letter-SING she write-RECPAST-3SG
+   "She wrote the letter with a blue pen."
+
+This example shows the use of the instrumental preposition, adjective-noun order, and recent past tense marking.
+
+LEXICON
+
+A small sample of the Aetherios lexicon:
+
+βλπικ (blpik) - go
+σερυ (se.ʁy) - be
+κασ (kas) - COMP (comparative marker)
+ωαδι (wa.di) - the
+πο̊ρε (pø.ʁe) - in
+νο̈ρου (nœ.ʁu) - with
+σνκε̆ρ (snkəʁ) - a/an
+τρραλ (tʁʁal) - to
+κλνιμ (klnim) - from
+δρνο̃λ (dʁnɔ̃l) - for
+
+This lexicon showcases some of the basic vocabulary and grammatical particles used in Aetherios, reflecting its unique phonological and orthographic systems.
