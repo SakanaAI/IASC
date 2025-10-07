@@ -53,7 +53,8 @@ secret acces key>`.  If you are using conda (which we use), also consider adding
 the environment variables in the virtual environment by `conda env config vars
 set AWS_ACCESS_KEY_ID=<your access key id>` etc.
 
-For OpenAI and Gemini you will need to pass your API key as a command-line argument.
+For OpenAI and Gemini you will need to pass your API key as a command-line argument (though `eval_morphosyntax.py`
+reads the OpenAI key from the environment variable OPEN_AI_API_KEY).
 
 # Getting Started
 
