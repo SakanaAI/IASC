@@ -1,0 +1,8 @@
+absl-py
+boto3
+jinja2
+jiwer
+jsonlines
+openai
+pandas
+vllm
