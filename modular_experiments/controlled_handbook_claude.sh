@@ -6,12 +6,11 @@
 MODEL=claude
 OUTPUT_DIR=modular_experiment_outputs_controlled
 python3 modular_experiments/run_handbook.py \
-	--model="${MODEL}" \
-	--languages=Japanese \
-	--morphosyntax_language=turkish \
-	--scripts=Cyrillic \
-	--story=grammatical_test_sentences \
-	--modular_experiment_outputs="${OUTPUT_DIR}" \
-	--run_commands \
-	--one_grammar_output_only
-	# --storydir=sentence_design_output \
+        --model="${MODEL}" \
+        --languages=Japanese \
+        --morphosyntax_language=turkish \
+        --scripts=Cyrillic \
+        --story=grammatical_test_sentences \
+        --modular_experiment_outputs="${OUTPUT_DIR}" \
+        --run_commands \
+        --one_grammar_output_only
