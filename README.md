@@ -82,9 +82,6 @@ Examples for various language configurations are given below:
 . ./modular_experiment_outputs_controlled/claude/turkish/metascripts/morphosyntax_0_0_0.sh
 . ./modular_experiment_outputs_controlled/claude/turkish/metascripts/morphosyntax_0_1_0.sh
 . ./modular_experiment_outputs_controlled/claude/turkish/metascripts/morphosyntax_0_2_0.sh
-. ./modular_experiment_outputs_controlled/claude/french/metascripts/evaluation_0_0.sh
-. ./modular_experiment_outputs_controlled/claude/french/metascripts/evaluation_0_1.sh
-. ./modular_experiment_outputs_controlled/claude/french/metascripts/evaluation_0_2.sh
 . ./modular_experiments/controlled_corpus_creation_claude_0.sh
 . ./modular_experiments/controlled_orthography_claude.sh
 . ./modular_experiments/controlled_corpus_creation_claude_1.sh
