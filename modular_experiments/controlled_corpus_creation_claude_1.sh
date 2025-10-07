@@ -12,7 +12,7 @@ python3 modular_experiments/run_corpus_creation.py \
         --script=Cyrillic \
         --storydir=sentence_design_output \
         --story=grammatical_test_sentences \
-        --translation=sentence_design_output \
+        --translation=grammatical_test_sentences \
         --morphosyntax_language="${MORPHOSYNTAX_LANGUAGE}" \
         --modular_experiment_outputs="${OUTPUT_DIR}" \
         --run_commands

@@ -199,7 +199,7 @@ Finally, add the newly added model name to the `--model` argument in the argumen
 
 ## Run translation
 `modular_experiments/controlled_translation_claude.sh` gives an illustration of how to translate a new text into the target language. This can then
-be followed by `modular_experiments/controlled_corpus_creation_claude_3.sh`, which will add new words to the lexicon and produce a written
+be followed by `modular_experiments/controlled_corpus_creation_claude_2.sh`, which will add new words to the lexicon and produce a written
 corpus of the new translation using the language's orthography. This assumes you
 have created a language with Japanese-like phonology, Arabic-like morphosyntax, and
 which uses the Latin script.
