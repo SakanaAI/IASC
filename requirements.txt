@@ -6,3 +6,5 @@ jsonlines
 openai
 pandas
 vllm
+google-genai
+sacrebleu

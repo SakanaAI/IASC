@@ -18,8 +18,9 @@ import jiwer
 # ^ I'm ditching torchmetrics because it's super heavy and takes time to import
 import sacrebleu
 import json
+from collections import Counter
 
-from typing import List, Dict, Set, Literal, Tuple, Sequence
+from typing import List, Dict, Set, Literal, Tuple, Sequence, Optional
 import unittest
 
 # local imports
@@ -495,7 +496,7 @@ class MorphosyntaxMetrics:
                 total_denom_tokens += denom_i
 
         if average == "micro":
-            return (total_edits / total_denom_tokens) if total_denom_tokens > 0 else 0.0
+            return (total_edits / total_denom_tokens) * 100 if total_denom_tokens > 0 else 0.0
         else:  # macro
             return sum(sent_scores) / len(sent_scores) * 100
 
@@ -516,7 +517,7 @@ class MorphosyntaxMetrics:
         """
         return alpha * self.compute_ser(hyp=hyp, ref=ref) + (1 - alpha) * self.compute_mfer(
             hyp=hyp, ref=ref
-        ) * 100
+        )
 
     def count_morphological_edits(
         self, hyp: Dict[str, Set[str]], ref: Dict[str, Set[str]]
@@ -971,6 +972,7 @@ class TestMTER(unittest.TestCase):
 
 def eval_output(model_output_file: str,
                 label_file: str,
+                results_file: Optional[str] = None,
                 source_sentences_file: str = "sentence_design_output/grammatical_test_sentences.txt",
                 eval_user_prompt_file: str = "evaluation/eval_user_prompt_template.txt",
                 skip_structuralize: bool = False) -> None:
