@@ -92,7 +92,7 @@ def get_args() -> argparse.Namespace:
         action="store_true",
         help="If set, the structuralization step will be skipped."
     )
-    
+
     return parser.parse_args()
 
 
@@ -102,8 +102,8 @@ class MorphosyntaxMetrics:
     def __init__(self):
         """Initialize the MorphosyntaxMetrics class."""
         pass
-    
-    
+
+
     def compute_all_metrics(self,
                             hyps: List[str] | str,
                             refs: List[List[str]] | str,
@@ -120,7 +120,7 @@ class MorphosyntaxMetrics:
         # morph_acc = self.morpheme_accuracy(hyps, refs)
         # word_acc = self.word_accuracy(hyps, refs)
         lemma_prec, lemma_rec, lemma_f1 = self.compute_lemmaf1(hyps, refs)
-        
+
         if print_scores:
             print(f"BLEU: {bleu_score}")
             print(f"ChrF++: {chrf_score}")
@@ -135,7 +135,7 @@ class MorphosyntaxMetrics:
             print(f"LEMMA PRECISION: {lemma_prec}")
             print(f"LEMMA RECALL: {lemma_rec}")
             print(f"LEMMA F1: {lemma_f1}")
-        
+
         return {
             "BLEU": bleu_score,
             "ChrF++": chrf_score,
@@ -151,7 +151,7 @@ class MorphosyntaxMetrics:
             "Lemma recall": lemma_rec,
             "Lemma F1": lemma_f1,
         }
-    
+
 
     def morpheme_accuracy(self, hyp: List[str] | str, ref: List[List[str]] | str) -> float:
         """
@@ -161,7 +161,7 @@ class MorphosyntaxMetrics:
             hyp_morphemes = [self.strip_punctuation(h).replace("-", " ").split() for h in hyp]
         else:
             hyp_morphemes = self.strip_punctuation(hyp).replace("-", " ").split()
-        
+
         if isinstance(ref, list):
             ref_morphemes = [self.strip_punctuation(r[0]).replace("-", " ").split() for r in ref]
             # use the first ref sentence for now...
@@ -169,7 +169,7 @@ class MorphosyntaxMetrics:
             ref_morphemes = self.strip_punctuation(ref).replace("-", " ").split()
 
         correct_morphemes = 0
-        
+
         for ref_morph, pred_morph in zip(ref_morphemes, hyp_morphemes):
             if ref_morph == pred_morph:
                 correct_morphemes += 1
@@ -185,7 +185,7 @@ class MorphosyntaxMetrics:
             hyp_words = [self.strip_punctuation(h).split() for h in hyp]
         else:
             hyp_words = self.strip_punctuation(hyp).split()
-            
+
         if isinstance(ref, list):
             ref_words = [self.strip_punctuation(r[0]).split() for r in ref]
             # use the first ref sentence for now...
@@ -306,7 +306,7 @@ class MorphosyntaxMetrics:
             ref = [[r] for r in ref]  # make it a list of list
         if isinstance(hyp, str):
             hyp = [hyp]
-        
+
         # for debugging
         # print("--- INPUT ---")
         # print("ref:", ref[0])
@@ -316,7 +316,7 @@ class MorphosyntaxMetrics:
             [label.replace("-", " ").split() for label in labels] for labels in ref
         ]  # replace hyphens with spaces
         hyp = [h.replace("-", " ").split() for h in hyp]
-        
+
         # print("--- ORIGINAL ---")
         # print("ref:", ref[0])
         # print("hyp:", hyp[0])
@@ -333,17 +333,17 @@ class MorphosyntaxMetrics:
             ]  # upper-case morphemes are features
             for h_tokens in hyp
         ]
-        
+
         # print("--- STEMS ---")
         # print("ref:", ref_stems[0])
         # print("hyp:", hyp_stems[0])
 
         ref_stems_str = [[" ".join(label) for label in labels] for labels in ref_stems]
         hyp_stems_str = [" ".join(h) for h in hyp_stems]
-        
+
         # print("ref:", ref_stems_str[0])
         # print("hyp:", hyp_stems_str[0])
-        
+
         return sacrebleu.corpus_ter(hyp_stems_str,
                                     ref_stems_str,
                                     normalized=normalized,
@@ -355,7 +355,7 @@ class MorphosyntaxMetrics:
         #     return ter(hyp_stems_str, ref_stems_str)[0].item()
         # else:
         #     return ter(hyp_stems_str, ref_stems_str).item()
-        
+
     def _mfer_edits_against_one_ref(self, hyp: str, ref: str) -> Tuple[float, int]:
         """
         Return: (raw_edit_mass, ref_token_count) for a single reference string.
@@ -511,7 +511,7 @@ class MorphosyntaxMetrics:
 
         Returns:
             float: The percentage of edits required to transform the reference translation into the hypothesis translation.
-            
+
         Note that SER returns a percentage (0-100), while MFER returns a ratio (0-1).
         Therefore, we multiply MFER by 100 to align the scales before combining them.
         """
@@ -608,7 +608,7 @@ class MorphosyntaxMetrics:
         """
         # Replace all punctuation except for those inside parentheses or within glosses
         return re.sub(r"[^\w\s\(\)-]", "", gloss)
-    
+
     # BLEU, ChrF++, WER, CER
     def compute_bleu(self,
                      hyp: str | List[str],
@@ -620,7 +620,7 @@ class MorphosyntaxMetrics:
         if isinstance(hyp, str):
             hyp = [hyp]
         return sacrebleu.corpus_bleu(hyp, ref).score
-    
+
     def compute_chrf(self,
                      hyp: str | List[str],
                      ref: str | List[List[str]]
@@ -631,7 +631,7 @@ class MorphosyntaxMetrics:
         if isinstance(hyp, str):
             hyp = [hyp]
         return sacrebleu.corpus_chrf(hyp, ref).score
-    
+
     def compute_wer(self,
                     hyp: str | List[str],
                     ref: str | List[List[str]],
@@ -643,12 +643,12 @@ class MorphosyntaxMetrics:
         else:
             if isinstance(ref[0], list):
                 ref = [r[0] for r in ref]
-            
+
         if isinstance(hyp, str):
             hyp = [hyp]
-        
+
         return jiwer.wer(ref, hyp) * 100
-    
+
     def compute_cer(self,
                     hyp: str | List[str],
                     ref: str | List[str]
@@ -660,43 +660,43 @@ class MorphosyntaxMetrics:
         else:
             if isinstance(ref[0], list):
                 ref = [r[0] for r in ref]
-            
+
         if isinstance(hyp, str):
             hyp = [hyp]
-        
+
         return jiwer.cer(ref, hyp) * 100
-    
+
     def compute_lemmaf1(self,
                         ref: str | List[str],
                         hyp: str | List[str],
                         average: Literal["micro", "macro", "weighted"] = "macro"
                         ) -> Tuple[float, float, float]:
         """Compute Lemma F1 score.
-        
+
         Args:
             ref (str | List[str]): Reference gloss or list of glosses.
             hyp (str | List[str]): Hypothesis gloss or list of glosses.
-            
+
         Returns:
             tuple: (precision, recall, f1)
         """
         def _lemmatize(gloss: str) -> List[str]:
             """A simple lemmatizer that removes morphological features from a gloss."""
             return [m for m in gloss.replace("-", " ").split() if m.islower()]
-        
+
         def _get_lemma_counts(lemmas_list: List[List[str]]) -> Dict[str, int]:
             """Get lemma counts from a list of lemma lists."""
             all_lemmas = []
             for lemmas in lemmas_list:
                 all_lemmas.extend(lemmas)
             return Counter(all_lemmas)
-        
+
         if isinstance(ref, str):
             ref = [ref]
         if isinstance(hyp, str):
             hyp = [hyp]
-            
-        # ref: List[List[str]] -> List[str]  # list of reference glosses 
+
+        # ref: List[List[str]] -> List[str]  # list of reference glosses
         # hyp: List[str]  # list of hypothesis glosses
         # For now, we only use the first reference gloss if multiple are provided
         ref = [r[0] if isinstance(r, list) else r for r in ref]
@@ -705,89 +705,89 @@ class MorphosyntaxMetrics:
             # Micro-averaging: aggregate counts across all sentences
             ref_counter = _get_lemma_counts([_lemmatize(r) for r in ref])
             hyp_counter = _get_lemma_counts([_lemmatize(h) for h in hyp])
-            
+
             # Calculate true positives, false positives, false negatives
             true_positives = 0
             for lemma, count in hyp_counter.items():
                 true_positives += min(count, ref_counter.get(lemma, 0))
-                
+
             false_positives = sum(hyp_counter.values()) - true_positives
             false_negatives = sum(ref_counter.values()) - true_positives
-            
+
             precision = true_positives / (true_positives + false_positives) if (true_positives + false_positives) > 0 else 0.0
             recall = true_positives / (true_positives + false_negatives) if (true_positives + false_negatives) > 0 else 0.0
             f1 = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0.0
-            
+
             return precision * 100, recall * 100, f1 * 100
-            
+
         elif average == "macro":
             # Macro-averaging: calculate F1 for each sentence and average
             precisions = []
             recalls = []
             f1s = []
-            
+
             for r, h in zip(ref, hyp):
                 r_counter = _get_lemma_counts([_lemmatize(r)])
                 h_counter = _get_lemma_counts([_lemmatize(h)])
-                
+
                 tp = 0
                 for lemma, count in h_counter.items():
                     tp += min(count, r_counter.get(lemma, 0))
-                
+
                 fp = sum(h_counter.values()) - tp
                 fn = sum(r_counter.values()) - tp
-                
+
                 precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
                 recall = tp / (tp + fn) if (tp + fn) > 0 else 0.0
                 f1 = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0.0
-                
+
                 precisions.append(precision)
                 recalls.append(recall)
                 f1s.append(f1)
-            
+
             precision = sum(precisions) / len(precisions) if precisions else 0.0
             recall = sum(recalls) / len(recalls) if recalls else 0.0
             f1 = sum(f1s) / len(f1s) if f1s else 0.0
-            
+
             return precision * 100, recall * 100, f1 * 100
-            
+
         elif average == "weighted":
             # Weighted averaging: macro-average weighted by support (number of true lemmas)
             sentence_weights = [len(r) for r in ref]
             total_weight = sum(sentence_weights)
-            
+
             weighted_precision = 0.0
             weighted_recall = 0.0
             weighted_f1 = 0.0
-            
+
             for r, h, weight in zip(ref, hyp, sentence_weights):
                 r_counter = _get_lemma_counts([_lemmatize(r)])
                 h_counter = _get_lemma_counts([_lemmatize(h)])
-                
+
                 tp = 0
                 for lemma, count in h_counter.items():
                     tp += min(count, r_counter.get(lemma, 0))
-                
+
                 fp = sum(h_counter.values()) - tp
                 fn = sum(r_counter.values()) - tp
-                
+
                 precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
                 recall = tp / (tp + fn) if (tp + fn) > 0 else 0.0
                 f1 = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0.0
-                
+
                 weighted_precision += precision * weight
                 weighted_recall += recall * weight
                 weighted_f1 += f1 * weight
-            
+
             precision = weighted_precision / total_weight if total_weight > 0 else 0.0
             recall = weighted_recall / total_weight if total_weight > 0 else 0.0
             f1 = weighted_f1 / total_weight if total_weight > 0 else 0.0
-            
+
             return precision * 100, recall * 100, f1 * 100
-            
+
         else:
             raise ValueError("average must be 'micro', 'macro', or 'weighted'.")
-        
+
 
 class TestMTER(unittest.TestCase):
     """Unit tests for MorphosyntaxMetrics class."""
@@ -949,7 +949,7 @@ class TestMTER(unittest.TestCase):
     #     reference = "cat-NOM sit-PAST"
     #     hypothesis = "cat-NOM stand-PAST"
     #     self.assertEqual(self.morph_metrics.word_accuracy(reference, hypothesis), 0.5)
-        
+
     def test_lemmaf1(self):
         # Test case 1: Identical glosses
         reference = "DEF-cat sit-PAST on DEF-mat"
@@ -968,7 +968,7 @@ class TestMTER(unittest.TestCase):
         hypothesis = "dog run FUT in house"
         precision, recall, f1 = self.morph_metrics.compute_lemmaf1(reference, hypothesis)
         self.assertEqual((precision, recall, f1), (0.0, 0.0, 0.0))
-        
+
 
 def eval_output(model_output_file: str,
                 label_file: str,
@@ -981,46 +981,46 @@ def eval_output(model_output_file: str,
         model_output_dir = model_output_file.split("/")[-2]
         idx = os.path.splitext(model_output_dir)[0].split("_")[-1]
         results_file = f"evaluation/translation_results_0_{idx}.csv"
-    
+
     # if args.results_file is None and results_file is None:
     #     model_output_dir = model_output_file.split("/")[-2]
     #     idx = os.path.splitext(model_output_dir)[0].split("_")[-1]
     #     results_file = f"evaluation/translation_results_0_{idx}.csv"
     # else:
     #     results_file = args.results_file
-        
+
     if not skip_structuralize:
         print("Structuralizing the model outputs...")
-        client = openai.OpenAI()
-        
+        client = openai.OpenAI(api_key=os.getenv("OPEN_AI_API_KEY"))
+
         # Read the source sentences
         with open(source_sentences_file, "r") as f:
             source_sentences = f.read().strip()
-        
+
         # Read the structuralization user prompt
         with open(eval_user_prompt_file, "r") as f:
             eval_user_prompt = f.read().strip()
-        
+
         with open(model_output_file, "r") as f:
             model_output = f.read().strip()
-            
+
         if label_file.endswith(".csv"):
             labels_df = pd.read_csv(label_file)
             labels = labels_df["label"].tolist()
-        elif label_file.endswith(".txt"):    
+        elif label_file.endswith(".txt"):
             with open(label_file, "r") as f:
                 labels = f.read().strip()
         else:
             raise ValueError("Label file must be a .csv or .txt file")
-            
+
         # format the user prompt
         input_text = f"### Source sentences\n{source_sentences}\n\n### Translation glosses\n{model_output}"
 
         if not eval_user_prompt.endswith("\n"):
             eval_user_prompt += "\n"
-            
+
         user_prompt = eval_user_prompt + input_text
-        
+
         # structuralize the output
         print(f"Structuralizing the output with {args.model}...")
         sentence_pair_list = structuralize(
@@ -1032,13 +1032,13 @@ def eval_output(model_output_file: str,
             temperature=0.0
         )
         print(f"Structuralization completed. Found {len(sentence_pair_list)} sentence pairs.")
-        
+
         # check if the number of sentence pairs matches the number of labels
         assert len(sentence_pair_list) == len(labels), (
             f"Number of structuralized sentence pairs ({len(sentence_pair_list)}) does not match "
             f"the number of labels ({len(labels)})."
         )
-        
+
         with open(results_file, "w") as f:
             f.write("source_sentence,translation_gloss,label\n")
             for i, pair in enumerate(sentence_pair_list):
@@ -1049,20 +1049,20 @@ def eval_output(model_output_file: str,
                     print("-" * 40)
 
                 f.write(f'"{pair.source_sentence}","{pair.translation_gloss}","{labels[i]}"\n')
-        
+
         print(f"Structuralized output saved to {results_file}")
-        
+
     assert os.path.exists(results_file), f"Results file {results_file} does not exist."
-    
+
     if label_file.endswith(".csv"):
         labels_df = pd.read_csv(label_file)
         labels = labels_df["label"].tolist()
-    elif label_file.endswith(".txt"):    
+    elif label_file.endswith(".txt"):
         with open(label_file, "r") as f:
             labels = f.read().strip()
     else:
         raise ValueError("Label file must be a .csv or .txt file")
-    
+
     # Now, run the evaluation.
     model_outputs_df = pd.read_csv(results_file)
     # source_sentences = model_outputs_df.source_sentence.tolist()
@@ -1072,7 +1072,7 @@ def eval_output(model_output_file: str,
     references = labels
     print("predictions:", predictions)
     print("references:", references)
-    
+
     metrics = MorphosyntaxMetrics()
     scores = metrics.compute_all_metrics(predictions, references)
     return scores
@@ -1113,7 +1113,7 @@ def main(args: argparse.Namespace) -> None:
 
     print(f"Word Error Rate (WER): {wer_score:.4f}")
     print(f"Character Error Rate (CER): {cer_score:.4f}")
-    
+
 
 def main_example():
     """Main function for running an example."""
@@ -1121,38 +1121,38 @@ def main_example():
     refs = df["label"].tolist()
     refs = [[ref] for ref in refs]
     hyp = df["prediction_example"].tolist()
-    
+
     metric = MorphosyntaxMetrics()
-    
+
     # TER
     ter_score = metric.compute_ter(hyp, refs, normalized=False, no_punct=True, case_sensitive=False)
     print(f"TER: {ter_score.score:.4f}")
-    
+
     # SER
     ser_score = metric.compute_ser(hyp, refs, normalized=False, no_punct=True, case_sensitive=False)
     print(f"SER: {ser_score.score:.4f}")
-    
+
     # MFER
     mfer_score = metric.compute_mfer(hyp, refs, average="macro", multi_ref_denominator="best")
     print(f"MFER: {mfer_score:.4f}")
-    
+
     # MTER
     mter_score = metric.compute_mser(hyp, refs, alpha=0.5)
     print(f"MTER: {mter_score:.4f}")
-    
+
     # BLEU
     bleu_score = metric.compute_bleu(hyp, refs)
     print(f"BLEU: {bleu_score:.4f}")
-    
+
     # ChrF++
     chrf_score = metric.compute_chrf(hyp, refs)
     print(f"ChrF++: {chrf_score:.4f}")
-    
+
     # WER and CER
     refs = [ref[0] for ref in refs]  # flatten the list of lists
     wer_score = metric.compute_wer(hyp, refs)
     print(f"WER: {wer_score:.4f}")
-    
+
     # CER
     cer_score = metric.compute_cer(hyp, refs)
     print(f"CER: {cer_score:.4f}")
@@ -1172,7 +1172,7 @@ if __name__ == "__main__":
         with open(args.scores_file, "w") as f:
             json.dump(scores, f, indent=4)
         print("Results saved to ", args.scores_file)
-            
+
     elif args.test:
         print("Running unit tests...")
         unittest.main(argv=[""])
