@@ -252,6 +252,10 @@ def sample_params_french():
 ```
 -->
 
+# Example handbooks
+
+See the subdirectory `handbooks` for a variety of handbooks for different ConLangs created by the system.
+
 # Publication
 
 Chihiro Taguchi and Richard Sproat. 2025. ``IASC: Interactive Agentic System for ConLangs''. arXiv.
