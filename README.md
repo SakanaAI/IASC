@@ -98,13 +98,20 @@ The example below uses Claude as the LLM and the French-like feature sets.
 - `./modular_experiment_outputs_controlled/claude/french/metascripts/morphosyntax_0_1_0.sh`
 - `./modular_experiment_outputs_controlled/claude/french/metascripts/morphosyntax_0_2_0.sh`
 
-A metascript `morphosyntax_0_0_0.sh` includes the following shell scripts (for now):
-- `./modular_experiment_outputs_controlled/claude/inclusive_exclusive_0_0_0/script.sh`
-- `./modular_experiment_outputs_controlled/claude/number_0_0_0/script.sh`
-- `./modular_experiment_outputs_controlled/claude/case_marking_0_0_0/script.sh`
-- `./modular_experiment_outputs_controlled/claude/tense_aspect_0_0_0/script.sh`
-- `./modular_experiment_outputs_controlled/claude/person_agreement_0_0_0/script.sh`
-- `./modular_experiment_outputs_controlled/claude/extras_0_0_0/script.sh`
+A metascript `morphosyntax_0_0_0.sh`, e.g. for French, includes the following shell scripts (for now):
+
+- `./modular_experiment_outputs_controlled/claude/french/negation_0_0_0/script.sh`
+- `./modular_experiment_outputs_controlled/claude/french/nominal_number_0_0_0/script.sh`
+- `./modular_experiment_outputs_controlled/claude/french/definiteness_0_0_0/script.sh`
+- `./modular_experiment_outputs_controlled/claude/french/pro_drop_0_0_0/script.sh`
+- `./modular_experiment_outputs_controlled/claude/french/adjective_agreement_0_0_0/script.sh`
+- `./modular_experiment_outputs_controlled/claude/french/comparative_0_0_0/script.sh`
+- `./modular_experiment_outputs_controlled/claude/french/mood_0_0_0/script.sh`
+- `./modular_experiment_outputs_controlled/claude/french/tense_aspect_0_0_0/script.sh`
+- `./modular_experiment_outputs_controlled/claude/french/person_0_0_0/script.sh`
+- `./modular_experiment_outputs_controlled/claude/french/voice_0_0_0/script.sh`
+- `./modular_experiment_outputs_controlled/claude/french/relativization_0_0_0/script.sh`
+- `./modular_experiment_outputs_controlled/claude/french/infinitive_0_0_0/script.sh`
 
 To run an evaluation,
 - `./modular_experiment_outputs_controlled/claude/french/metascripts/evaluation_0_0.sh`
