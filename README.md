@@ -75,6 +75,7 @@ Examples for various language configurations are given below:
 ## Run everything (example)
 - Japanese-like phonology
 - Turkish-like morphosyntax
+- Cyrillic-based orthography
 ```
 . ./modular_experiments/controlled_phonology_claude.sh
 . ./modular_experiments/controlled_morphosyntax/claude/turkish.sh
