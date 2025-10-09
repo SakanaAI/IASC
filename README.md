@@ -263,3 +263,7 @@ See the subdirectory `handbooks` for a variety of handbooks for different ConLan
 Please cite this work as:
 
 Chihiro Taguchi and Richard Sproat. 2025. "IASC: Interactive Agentic System for ConLangs". arXiv.
+
+# Name
+
+<em>Iasc</em> is Irish Gaelic for 'fish', which seemed appropriate for [Sakana.ai](https://sakana.ai/).
