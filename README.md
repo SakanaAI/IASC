@@ -262,7 +262,7 @@ See the subdirectory `handbooks` for a variety of handbooks for different ConLan
 
 Please cite this work as:
 
-Chihiro Taguchi and Richard Sproat. 2025. "IASC: Interactive Agentic System for ConLangs". arXiv.
+Chihiro Taguchi and Richard Sproat. 2025. "IASC: Interactive Agentic System for ConLangs". https://arxiv.org/abs/2510.07591.
 
 # Name
 
