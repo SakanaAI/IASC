@@ -34,6 +34,26 @@ OVS: "water drink animals"
 OSV: "water animals drink"
 </subject_object_verb>
 
+<object_oblique_verb>
+Next, we consider the order of Object (O), Oblique (X), and Verb (V) in a sentence.
+Oblique arguments may include adverbial phrases, adpositional phrases, etc.
+If the original English has
+
+"drink water today"
+
+then depending on the word order specification in the left hand column, one would transform the sentence as in the righthand column:
+
+VOX: "drink water today"
+VXO: "drink today water"
+XVO: "today drink water"
+XOV: "today water drink"
+OXV: "water today drink"
+OVX: "water drink today"
+
+If there is an ambiguity in the order of Subject (S) and Oblique (X), you can safely assume that S comes first.
+Thus, if we have a language with VOS ("drink water animals") and VOX orders ("drink water today"), we will have VOSX ("drink water animals today").
+</object_oblique_verb>
+
 <noun_adjective>
 Next, we consider the order of adjectives and nouns, which may be Noun-Adjective ("NA") or Adjective-Noun ("AN"). If the original English phrase is
 
