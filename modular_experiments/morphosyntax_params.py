@@ -647,7 +647,7 @@ def sample_params_mizo():
             pro_drop="pro-drop",
             case=Case(
                 case_marking=["ergative", "absolutive", "genitive", "instrumental"],
-                case_marking_strategy="postpositional word",
+                case_marking_strategy="suffix",
                 oblique_case_marking="absolutive"
             ),
             gender=None,
