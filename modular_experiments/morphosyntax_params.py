@@ -8,6 +8,10 @@ class Syntax(BaseModel):
         "VSO",
         description="The main word order of subject, object, and verb in the language.",
     )
+    oblique_word_order = Literal["VOX", "VXO", "XOV", "XVO", "OVX", "OXV"] = Field(
+        "VOX",
+        description="The word order of object, oblique, and verb in the language."
+    )
     adj_noun_word_order: Literal["AN", "NA"] = Field(
         "NA",
         description="The word order of adjectives and nouns in the language.",
@@ -263,6 +267,7 @@ def sample_params_ainu():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="SOV",
+            oblique_word_order="XOV",
             adj_noun_word_order="AN",
             posspron_noun_word_order="PossN",
             num_noun_word_order="NumN",
@@ -306,6 +311,7 @@ def sample_params_turkish():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="SOV",
+            oblique_word_order="XOV",
             adj_noun_word_order="AN",
             adposition_noun_word_order="NP",
             posspron_noun_word_order="PossN",
@@ -371,6 +377,7 @@ def sample_params_french():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="SVO",
+            oblique_word_order="VOX",
             adj_noun_word_order="NA",
             posspron_noun_word_order="PossN",
             num_noun_word_order="NumN",
@@ -439,6 +446,7 @@ def sample_params_arabic():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="VSO",
+            oblique_word_order="VOX",
             adj_noun_word_order="NA",
             posspron_noun_word_order="NPoss",
             num_noun_word_order="NumN",
@@ -513,6 +521,7 @@ def sample_params_welsh():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="VSO",
+            oblique_word_order="VOX",
             adj_noun_word_order="NA",
             posspron_noun_word_order="NPoss",
             num_noun_word_order="NumN",
@@ -573,6 +582,7 @@ def sample_params_vietnamese():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="SVO",
+            oblique_word_order="VOX",
             adj_noun_word_order="NA",
             posspron_noun_word_order="NPoss",
             num_noun_word_order="NumN",
@@ -618,13 +628,14 @@ def sample_params_mizo():
     expressed as an ergative noun phrase, which comes before the absolutive
     object.
     For this conlang project, we experimentally change the word order to OSV
-    for convenience.
+    for convenience. 
 
     Reference: http://sealang.net/sala/archives/pdf8/chhangte1989grammar.pdf
     """
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="OSV",
+            oblique_word_order="XOV",
             adj_noun_word_order="NA",
             posspron_noun_word_order="PossN",
             num_noun_word_order="NNum",
@@ -674,12 +685,16 @@ def sample_params_fijian():
     """Sample feature set like Fijian.
     Fijian is a SVO language with ergative-absolutive alignment.
     It has no inflectional morphology, so it is isolating.
+    Also, for `oblique_word_order`, WALS reports that Mizo
+    has no dominat order; for convenience, we borrow Malagasy's config (VOX)
+    which is also a VOS language.
 
     Reference: http://www.aa.tufs.ac.jp/elib/ltext/fji/pdf/a.pdf
     """
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="VOS",
+            oblique_word_order="VOX",
             adj_noun_word_order="NA",
             posspron_noun_word_order="NPoss",
             num_noun_word_order="NumN",
@@ -742,6 +757,7 @@ def sample_params_hixkaryana():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="OVS",
+            oblique_word_order="OVX",
             adj_noun_word_order="AN",
             posspron_noun_word_order="PossN",
             num_noun_word_order="NumN",
@@ -834,6 +850,7 @@ def sample_params_hard():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="OSV",
+            oblique_word_order="OXV",
             adj_noun_word_order="NA",
             posspron_noun_word_order="NPoss",
             num_noun_word_order="NNum",
