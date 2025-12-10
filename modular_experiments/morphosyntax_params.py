@@ -648,7 +648,7 @@ def sample_params_mizo():
             case=Case(
                 case_marking=["ergative", "absolutive", "genitive", "instrumental"],
                 case_marking_strategy="postpositional word",
-                oblique_case_marking=None
+                oblique_case_marking="absolutive"
             ),
             gender=None,
             definiteness=None,
