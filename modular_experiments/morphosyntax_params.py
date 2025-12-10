@@ -706,7 +706,7 @@ def sample_params_fijian():
             pro_drop="non-pro-drop",
             case=None,
             gender=None,
-            definiteness=None,
+            definiteness=["definite"],
             definiteness_marking_strategy=None,
             adjective_agreement=None,
             comparative=Comparative(
