@@ -1,46 +1,46 @@
-sentence,label,prediction_example
-He is the smartest student in our school.,he-NOM our school-SING-LOC smart-SUPER student-SING-NOM be-PRES-3SGNOM.,he-NOM our school-SING-LOC-DEF in smart-SUPER student-SING-NOM be-PRES-3SGNOM.
-The new phone is twice as expensive as the old model.,new phone-SING-NOM old model-SING-NOM as twice expensive be-PRES-3SGNOM.,new phone-SING-NOM-DEF old model-SING-ACC-DEF as twice expensive-COMP be-PRES-3SGNOM.
-Today is the hottest day of the year so far.,today-NOM so far year-SING-GEN hot-SUPER day-SING-NOM be-PRES-3SGNOM.,today-NOM year-SING-GEN-DEF of so far hot-SUPER day-SING-NOM be-PRES-3SGNOM.
-This exercise is the easiest one in the whole book.,this exercise-SING-NOM whole book-SING-LOC easy-SUPER one-SING-NOM be-PRES-3SGNOM.,this exercise-SING-NOM whole book-SING-LOC-DEF in easy-SUPER one-SING-NOM be-PRES-3SGNOM.
-This is the most delicious cake I've ever tasted.,this-NOM i-NOM ever taste-PAST-1SGNOM delicious-SUPER cake-SING-NOM be-PRES-3SGNOM.,this-NOM i-NOM ever taste-PRES-PERF-1SGNOM have delicious-SUPER cake-SING-NOM be-PRES-3SGNOM.
-The leaves fall from the trees in autumn.,leaf-PLUR-NOM autumn-SING-LOC tree-PLUR-ABL fall-ACT-PRES-3PLNOM.,leaf-PLUR-NOM autumn-SING-LOC in tree-PLUR-ABL-DEF from fall-PRES-3PLNOM.
-The children played in the park.,child-PLUR-NOM park-SING-LOC play-ACT-PAST-3PLNOM.,child-PLUR-NOM-DEF park-SING-LOC-DEF in play-PAST-IMPF-3PLNOM.
-The wind blows strongly today.,wind-SING-NOM today strongly blow-ACT-PRES-3SGNOM.,wind-SING-NOM-DEF today strongly blow-PRES-3SGNOM.
-He lent his bicycle to his cousin.,he-NOM he-GEN cousin-SING-DAT he-GEN bicycle-SING-ACC lend-ACT-PAST-3SGNOM.,he-NOM his cousin-SING-DAT to his bicycle-SING-ACC lend-PAST-IMPF-3SGNOM.
-The movie starts at eight o'clock.,movie-SING-NOM eight o'clock-LOC start-ACT-PRES-3SGNOM.,movie-SING-NOM-DEF eight o'clock at start-PRES-3SGNOM.
-"We're going on vacation next week, so the office will be closed.","we-NOM next week vacation-SING-DAT go-ACT-FUT-1PLNOM, so office-SING-NOM closed be-FUT-3SGNOM.","we-NOM next week-SING vacation-SING-ACC on go-PRES-IMPF-1PLNOM, so office-SING-NOM-DEF closed be-FUT-IMPF-3SGNOM."
-We've decided to go with a different contractor for this project.,we-NOM this project-SING-GEN for different contractor-SING-INS go-ACT-INF decide-ACT-PAST-1PLNOM.,we-NOM this project-SING-DAT for INDEF-different contractor-SING-ACC with go to decide-PRES-PERF-1PLNOM.
-Our country needs to address climate change together.,we-GEN country-SING-NOM climate change-SING-ACC together address-ACT-INF need-ACT-PRES-3SGNOM.,our country-SING-NOM climate change-SING-ACC together address to need-PRES-3SGNOM.
-"We're moving to a new office, but your department will stay here.","we-NOM new office-SING-DAT move-ACT-PRES-1PLNOM, but you-GEN department-SING-NOM here stay-ACT-FUT-3SGNOM.","we-NOM INDEF-new office-SING-ACC to move-PRES-IMPF-1PLNOM, but your department-SING-NOM here stay-FUT-IMPF-3SGNOM."
-"We're going to the movies later, want to join us?","we-NOM later movie-PLUR-DAT go-ACT-FUT-1PLNOM, we-ACC join-ACT-INF want-ACT-PRES-2PLNOM?","we-NOM later movie-PLUR-ACC to go-PRES-IMPF-1PLNOM, us-ACC join to want-PRES-2PLNOM?"
-She doesn't like spicy food.,she-NOM spicy food-SING-ACC like-ACT-NEG-PRES-3SGNOM.,she-NOM spicy food-SING-ACC like-PRES-3SGNOM don't.
-He isn't interested in playing sports.,he-NOM sport-PLUR-ACC play-ACT-INF interested be-NEG-PRES-3SGNOM.,he-NOM sport-PLUR-LOC playing in interested be-PRES-IMPF-3SGNOM isn't.
-I can't swim very well.,i-NOM very well swim-ACT-INF can-NEG-PRES-1SGNOM.,i-NOM very well swim can't-1SGNOM.
-The cat won't eat its food.,cat-SING-NOM it-GEN food-SING-ACC eat-ACT-NEG-FUT-3SGNOM.,cat-SING-NOM-DEF its food-SING-ACC eat won't-3SGNOM.
-The plants don't get enough sunlight here.,plant-PLUR-NOM here enough sunlight-SING-ACC get-ACT-NEG-PRES-3PLNOM.,plant-PLUR-NOM-DEF here enough sunlight-SING-ACC get-PRES-3PLNOM don't.
-The leaves rustled in the wind.,leaf-PLUR-NOM wind-SING-LOC rustle-ACT-PAST-3PLNOM.,leaf-PLUR-NOM-DEF wind-SING-LOC-DEF in rustle-PAST-IMPF-3PLNOM.
-Many flowers bloom in the garden.,many flower-PLUR-NOM garden-SING-LOC bloom-ACT-PRES-3PLNOM.,many flower-PLUR-NOM garden-SING-LOC-DEF in bloom-PRES-3PLNOM.
-We bought two loaves of bread.,we-NOM bread-SING-GEN two loaf-PLUR-ACC buy-ACT-PAST-1PLNOM.,we-NOM bread-SING-GEN of two loaf-PLUR-ACC buy-PAST-IMPF-1PLNOM.
-The stars twinkled in the night sky.,star-PLUR-NOM night sky-SING-LOC twinkle-ACT-PAST-3PLNOM.,star-PLUR-NOM-DEF night sky-SING-LOC-DEF in twinkle-PAST-IMPF-3PLNOM.
-We planted two tomato plants in the garden.,we-NOM garden-SING-LOC two tomato plant-PLUR-ACC plant-ACT-PAST-1PLNOM.,we-NOM garden-SING-LOC-DEF in two tomato plant-PLUR-ACC plant-PAST-IMPF-1PLNOM.
-We found a treasure map in the attic.,we-NOM attic-SING-LOC treasure map-SING-ACC find-ACT-PAST-1PLNOM.,we-NOM attic-SING-LOC-DEF in INDEF-treasure map-SING-ACC find-PAST-IMPF-1PLNOM.
-She wrote the letter with a blue pen.,she-NOM blue pen-SING-INS letter-SING-ACC write-ACT-PAST-1PLNOM.,she-NOM INDEF-blue pen-SING-INS with letter-SING-ACC-DEF write-PAST-IMPF-3SGNOM.
-They built the sandcastle with plastic shovels.,they-NOM plastic shovel-PLUR-INS sandcastle-ACC build-ACT-PAST-3PLNOM.,they-NOM plastic shovel-PLUR-INS with sandcastle-SING-ACC-DEF build-PAST-IMPF-3PLNOM.
-The old man lived in a small cottage.,old man-SING-NOM small cottage-SING-LOC live-ACT-PAST-3SGNOM.,old man-SING-NOM-DEF INDEF-small cottage-SING-LOC in live-PAST-IMPF-3SGNOM.
-We had a picnic in the sunny meadow.,we-NOM sunny meadow-SING-LOC picnic-SING-ACC have-ACT-PAST-1PLNOM.,we-NOM sunny meadow-SING-LOC-DEF in INDEF-picnic-SING-ACC have-PAST-IMPF-1PLNOM.
-"The children built a snowman, and it melted the next day.","child-PLUR-NOM snowman-SING-ACC build-ACT-PAST-3PLNOM, and it-NOM next day-SING-LOC melt-ACT-PAST-3SGNOM.","child-PLUR-NOM-DEF INDEF-snowman-SING-ACC build-PAST-IMPF-3PLNOM, and it-NOM next day-SING-LOC melt-PAST-IMPF-3SGNOM."
-"Thou art a true friend, always there when I need thee.","thou-NOM true friend-SING-NOM be-PRES-2SGNOM, i-NOM thou-ACC need-ACT-PRES-1SGNOM when always there be-PRES-2SGNOM.","thou-NOM INDEF-true friend-SING-NOM be-PRES-2SGNOM, i-NOM thee-ACC need-PRES-1SGNOM when always there."
-The cat chased the mouse until it ran into a small hole.,cat-SING-NOM mouse-ACC it-NOM small hole-SING-GEN into run-ACT-PAST-3SGNOM until chase-ACT-PAST-3SGNOM.,cat-SING-NOM-DEF it-NOM INDEF-small hole-SING-ACC into run-PAST-IMPF-3SGNOM until mouse-SING-ACC-DEF chase-PAST-IMPF-3SGNOM.
-We saw them at the grocery store while shopping for vegetables.,we-NOM vegetable-PLUR-ACC shop-ACT-INF while grocery store-SING-LOC they-ACC see-ACT-PAST-1PLNOM.,we-NOM them-ACC vegetable-PLUR-DAT for shopping while grocery store-SING-LOC-DEF at see-PAST-IMPF-1PLNOM.
-They invited us to their house for a delicious dinner party.,they-NOM we-ACC delicious dinner party-SING-GEN for they-GEN house-SING-DAT invite-ACT-PAST-3PLNOM.,they-NOM us-ACC INDEF-delicious dinner party-SING-DAT for their house-SING-ACC to invite-PAST-IMPF-3PLNOM.
-I have been waiting for the bus for 30 minutes.,i-NOM bus-SING-ACC 30 minute-PLUR-GEN for wait-ACT-PRES-1SGNOM.,i-NOM 30 minute-PLUR-ACC for bus-SING-DAT-DEF for wait-PRES-PERF-1SGNOM been have-PRES-1SGNOM.
-I am going to start a new job next month.,i-NOM next month-SING-LOC new job-SING-ACC start-ACT-FUT-1SGNOM.,i-NOM next month-SING-LOC INDEF-new job-SING-ACC start to go-PRES-IMPF-1SGNOM.
-I used to play the piano when I was younger.,i-NOM young-COMP be-PAST-1SGNOM when i-NOM piano-SING-ACC play-ACT-PAST-1SGNOM.,i-NOM younger be-PAST-IMPF-1SGNOM i-NOM when piano-SING-ACC-DEF play to use-PAST-IMPF-1SGNOM.
-We went to the movies last night.,we-NOM last night-SING-LOC movie-PLUR-DAT go-ACT-PAST-1PLNOM.,we-NOM last night-SING-LOC movie-PLUR-ACC to go-PAST-IMPF-1PLNOM.
-They are playing soccer in the park.,they-NOM park-SING-LOC soccer-SING-ACC play-ACT-PRES-3PLNOM.,they-NOM park-SING-LOC-DEF in soccer-SING-ACC play-PRES-IMPF-3PLNOM.
-A new species of frog was discovered by the scientist.,frog-SING-GEN new species-SING-NOM scientist-SING-GEN by discover-PASS-PAST-3SGNOM.,INDEF-new frog species-SING-NOM scientist-SING-ABL-DEF by discover-PAST-IMPF-3SGNOM was.
-The teacher graded the tests last night.,teacher-SING-NOM last night-SING-LOC test-PLUR-ACC grade-ACT-PAST-3SGNOM.,teacher-SING-NOM-DEF last night-SING-LOC test-PLUR-ACC-DEF grade-PAST-IMPF-3SGNOM.
-The dog buried the bone in the backyard.,dog-SING-NOM backyard-SING-LOC bone-SING-ACC bury-ACT-PAST-3SGNOM.,dog-SING-NOM-DEF backyard-SING-LOC-DEF in bone-SING-ACC-DEF bury-PAST-IMPF-3SGNOM.
-Sarah baked a delicious cake for the party.,Sarah-NOM party-SING-GEN for delicious cake-SING-ACC bake-ACT-PAST-3SGNOM.,Sarah-NOM party-SING-DAT-DEF for INDEF-delicious cake-SING-ACC bake-PAST-IMPF-3SGNOM.
-The students elected Sarah as class president.,student-PLUR-NOM Sarah-ACC class president-SING-GEN as elect-ACT-PAST-3PLNOM.,student-PLUR-NOM-DEF Sarah-ACC class president-SING-ACC as elect-PAST-IMPF-3PLNOM.
+sentence,label
+He is the smartest student in our school.,he-NOM our school-SING-LOC smart-SUPER student-SING-NOM be-PRES-3SGNOM.
+The new phone is twice as expensive as the old model.,new phone-SING-NOM old model-SING-NOM as twice expensive be-PRES-3SGNOM.
+Today is the hottest day of the year so far.,today-NOM so far year-SING-GEN hot-SUPER day-SING-NOM be-PRES-3SGNOM.
+This exercise is the easiest one in the whole book.,this exercise-SING-NOM whole book-SING-LOC easy-SUPER one-SING-NOM be-PRES-3SGNOM.
+This is the most delicious cake I've ever tasted.,this-NOM i-NOM ever taste-PAST-1SGNOM delicious-SUPER cake-SING-NOM be-PRES-3SGNOM.
+The leaves fall from the trees in autumn.,leaf-PLUR-NOM autumn-SING-LOC tree-PLUR-ABL fall-ACT-PRES-3PLNOM.
+The children played in the park.,child-PLUR-NOM park-SING-LOC play-ACT-PAST-3PLNOM.
+The wind blows strongly today.,wind-SING-NOM today strongly blow-ACT-PRES-3SGNOM.
+He lent his bicycle to his cousin.,he-NOM he-GEN cousin-SING-DAT he-GEN bicycle-SING-ACC lend-ACT-PAST-3SGNOM.
+The movie starts at eight o'clock.,movie-SING-NOM eight o'clock-LOC start-ACT-PRES-3SGNOM.
+"We're going on vacation next week, so the office will be closed.","we-NOM next week vacation-SING-DAT go-ACT-FUT-1PLNOM, so office-SING-NOM closed be-FUT-3SGNOM."
+We've decided to go with a different contractor for this project.,we-NOM this project-SING-GEN for different contractor-SING-INS go-ACT-INF decide-ACT-PAST-1PLNOM.
+Our country needs to address climate change together.,we-GEN country-SING-NOM climate change-SING-ACC together address-ACT-INF need-ACT-PRES-3SGNOM.
+"We're moving to a new office, but your department will stay here.","we-NOM new office-SING-DAT move-ACT-PRES-1PLNOM, but you-GEN department-SING-NOM here stay-ACT-FUT-3SGNOM."
+"We're going to the movies later, want to join us?","we-NOM later movie-PLUR-DAT go-ACT-FUT-1PLNOM, we-ACC join-ACT-INF want-ACT-PRES-2PLNOM?"
+She doesn't like spicy food.,she-NOM spicy food-SING-ACC like-ACT-NEG-PRES-3SGNOM.
+He isn't interested in playing sports.,he-NOM sport-PLUR-ACC play-ACT-INF interested be-NEG-PRES-3SGNOM.
+I can't swim very well.,i-NOM very well swim-ACT-INF can-NEG-PRES-1SGNOM.
+The cat won't eat its food.,cat-SING-NOM it-GEN food-SING-ACC eat-ACT-NEG-FUT-3SGNOM.
+The plants don't get enough sunlight here.,plant-PLUR-NOM here enough sunlight-SING-ACC get-ACT-NEG-PRES-3PLNOM.
+The leaves rustled in the wind.,leaf-PLUR-NOM wind-SING-LOC rustle-ACT-PAST-3PLNOM.
+Many flowers bloom in the garden.,many flower-PLUR-NOM garden-SING-LOC bloom-ACT-PRES-3PLNOM.
+We bought two loaves of bread.,we-NOM bread-SING-GEN two loaf-PLUR-ACC buy-ACT-PAST-1PLNOM.
+The stars twinkled in the night sky.,star-PLUR-NOM night sky-SING-LOC twinkle-ACT-PAST-3PLNOM.
+We planted two tomato plants in the garden.,we-NOM garden-SING-LOC two tomato plant-PLUR-ACC plant-ACT-PAST-1PLNOM.
+We found a treasure map in the attic.,we-NOM attic-SING-LOC treasure map-SING-ACC find-ACT-PAST-1PLNOM.
+She wrote the letter with a blue pen.,she-NOM blue pen-SING-INS letter-SING-ACC write-ACT-PAST-1PLNOM.
+They built the sandcastle with plastic shovels.,they-NOM plastic shovel-PLUR-INS sandcastle-ACC build-ACT-PAST-3PLNOM.
+The old man lived in a small cottage.,old man-SING-NOM small cottage-SING-LOC live-ACT-PAST-3SGNOM.
+We had a picnic in the sunny meadow.,we-NOM sunny meadow-SING-LOC picnic-SING-ACC have-ACT-PAST-1PLNOM.
+"The children built a snowman, and it melted the next day.","child-PLUR-NOM snowman-SING-ACC build-ACT-PAST-3PLNOM, and it-NOM next day-SING-LOC melt-ACT-PAST-3SGNOM."
+"Thou art a true friend, always there when I need thee.","thou-NOM true friend-SING-NOM be-PRES-2SGNOM, i-NOM thou-ACC need-ACT-PRES-1SGNOM when always there be-PRES-2SGNOM."
+The cat chased the mouse until it ran into a small hole.,cat-SING-NOM mouse-ACC it-NOM small hole-SING-GEN into run-ACT-PAST-3SGNOM until chase-ACT-PAST-3SGNOM.
+We saw them at the grocery store while shopping for vegetables.,we-NOM vegetable-PLUR-ACC shop-ACT-INF while grocery store-SING-LOC they-ACC see-ACT-PAST-1PLNOM.
+They invited us to their house for a delicious dinner party.,they-NOM we-ACC delicious dinner party-SING-GEN for they-GEN house-SING-DAT invite-ACT-PAST-3PLNOM.
+I have been waiting for the bus for 30 minutes.,i-NOM bus-SING-ACC 30 minute-PLUR-GEN for wait-ACT-PRES-1SGNOM.
+I am going to start a new job next month.,i-NOM next month-SING-LOC new job-SING-ACC start-ACT-FUT-1SGNOM.
+I used to play the piano when I was younger.,i-NOM young-COMP be-PAST-1SGNOM when i-NOM piano-SING-ACC play-ACT-PAST-1SGNOM.
+We went to the movies last night.,we-NOM last night-SING-LOC movie-PLUR-DAT go-ACT-PAST-1PLNOM.
+They are playing soccer in the park.,they-NOM park-SING-LOC soccer-SING-ACC play-ACT-PRES-3PLNOM.
+A new species of frog was discovered by the scientist.,frog-SING-GEN new species-SING-NOM scientist-SING-GEN by discover-PASS-PAST-3SGNOM.
+The teacher graded the tests last night.,teacher-SING-NOM last night-SING-LOC test-PLUR-ACC grade-ACT-PAST-3SGNOM.
+The dog buried the bone in the backyard.,dog-SING-NOM backyard-SING-LOC bone-SING-ACC bury-ACT-PAST-3SGNOM.
+Sarah baked a delicious cake for the party.,Sarah-NOM party-SING-GEN for delicious cake-SING-ACC bake-ACT-PAST-3SGNOM.
+The students elected Sarah as class president.,student-PLUR-NOM class president-SING-GEN as Sarah-ACC elect-ACT-PAST-3PLNOM.

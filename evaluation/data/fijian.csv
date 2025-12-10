@@ -1,46 +1,46 @@
-sentence,label,prediction_example
-He is the smartest student in our school.,3SGNOM be student smart SUP he in school our.,PRES-be-3SGNOM student-SING-DEF REL PRES-be-3SGNOM smart-SUP he in school-SING we.
-The new phone is twice as expensive as the old model.,3SGNOM be twice expensive as model old phone new.,PRES-be-3SGNOM phone-SING-DEF new REL PRES-be-3SGNOM twice expensive-COMP as model-SING-DEF old.
-Today is the hottest day of the year so far.,3SGNOM be day hot SUP year so far today.,PRES-be-3SGNOM day-SING-DEF REL PRES-be-3SGNOM hot-SUP today of year-SING-DEF so far.
-This exercise is the easiest one in the whole book.,3SGNOM be easy SUP in book whole exercise this.,PRES-be-3SGNOM exercise-SING-DEF REL PRES-be-3SGNOM easy-SUP this one-SING in book-SING-DEF whole.
-This is the most delicious cake I've ever tasted.,3SGNOM be cake delicious SUP 1SGNOM taste ever i this.,PRES-be-3SGNOM cake-SING-DEF REL PRES-be-3SGNOM delicious-SUP this i PRES-have-1SGNOM ever eat-PAST.
-The leaves fall from the trees in autumn.,3PLNOM fall leaf from tree in autumn.,PRES-fall-3PLNOM leaf-PLUR-DEF from tree-PLUR-DEF in autumn.
-The children played in the park.,3PLNOM play child in park.,play-PAST-3PLNOM child-PLUR-DEF in park-SING-DEF.
-The wind blows strongly today.,3SGNOM blow wind strongly today.,PRES-blow-3SGNOM wind-SING-DEF strongly today.
-He lent his bicycle to his cousin.,3SGNOM lend bicycle his he to cousin his.,lend-PAST-3SGNOM bicycle-SING-DEF he he to cousin-SING he.
-The movie starts at eight o'clock.,3SGNOM start movie at eight o'clock.,PRES-start-3SGNOM movie-SING-DEF at o'clock eight.
-"We're going on vacation next week, so the office will be closed.","1PLNOM go on vacation week next, so 3SGNOM be closed office.","FUT-go-1PLNOM we on vacation-SING next week, so FUT-be-3SGNOM close-PAST office-SING-DEF."
-We've decided to go with a different contractor for this project.,1PLNOM decide we go with contractor different for project this.,PRES-decide-1PLNOM we to go with contractor-SING different for project-SING this.
-Our country needs to address climate change together.,3SGNOM need country our address change climate together.,PRES-need-3SGNOM country-SING we to address change-SING climate together.
-"We're moving to a new office, but your department will stay here.","1PLNOM move we to office new, but 3SGNOM stay department your here.","PRES-move-1PLNOM we to office-SING new, but FUT-stay-3SGNOM department-SING you here."
-"We're going to the movies later, want to join us?","1PLNOM go we to movie later, 2SGNOM want you join we?","PRES-go-1PLNOM we to movie-PLUR later, PRES-want-2PLNOM to join we?"
-She doesn't like spicy food.,NEG 3SGNOM like food spicy she.,PRES-like-3SGNOM she NEG food-SING spicy.
-He isn't interested in playing sports.,NEG 3SGNOM be interested he in play sport.,PRES-be-3SGNOM he NEG interested in play sport-PLUR.
-I can't swim very well.,NEG 1SGNOM can i swim very well.,can't-1SGNOM i swim very well.
-The cat won't eat its food.,NEG 3SGNOM eat food its cat.,won't-3SGNOM eat cat-SING-DEF food-SING it.
-The plants don't get enough sunlight here.,NEG 3PLNOM get sunlight enough plant here.,PRES-get-3PLNOM plant-PLUR-DEF NEG enough sunlight here.
-The leaves rustled in the wind.,3PLNOM rustle leaf in wind.,rustle-PAST-3PLNOM leaf-PLUR-DEF in wind-SING-DEF.
-Many flowers bloom in the garden.,3PLNOM bloom flower many in garden.,PRES-bloom-3PLNOM flower-PLUR many in garden-SING-DEF.
-We bought two loaves of bread.,1PLNOM buy two loaf bread we.,buy-PAST-1PLNOM we loaf-DUAL of bread-SING.
-The stars twinkled in the night sky.,3PLNOM twinkle star in sky night.,twinkle-PAST-3PLNOM star-PLUR-DEF in sky-SING-DEF night.
-We planted two tomato plants in the garden.,1PLNOM plant two plant tomato we in garden.,plant-PAST-1PLNOM we plant-DUAL tomato in garden-SING-DEF.
-We found a treasure map in the attic.,1PLNOM find map treasure we in attic.,find-PAST-1PLNOM we map-SING treasure in attic-SING-DEF.
-She wrote the letter with a blue pen.,3SGNOM write letter she with pen blue.,write-PAST-3SGNOM letter-SING-DEF she with pen-SING blue.
-They built the sandcastle with plastic shovels.,3PLNOM build sandcastle they with shovel plastic.,build-PAST-3PLNOM sandcastle-SING-DEF they with shovel-PLUR plastic.
-The old man lived in a small cottage.,3SGNOM live man old in cottage small.,live-PAST-3SGNOM man-SING-DEF old in cottage-SING small.
-We had a picnic in the sunny meadow.,1PLNOM have picnic we in meadow sunny.,have-PAST-1PLNOM picnic-SING we in meadow-SING-DEF sunny.
-"The children built a snowman, and it melted the next day.","3PLNOM build snowman child, and 3SGNOM melt it day next.","build-PAST-3PLNOM snowman-SING child-PLUR-DEF, and melt-PAST-3SGNOM it day-SING-DEF next."
-"Thou art a true friend, always there when I need thee.","2SGNOM friend true thou, always there when 1SGNOM need thou i.","PRES-be-2SGNOM friend-SING true thou, always there when PRES-need-1SGNOM i thou."
-The cat chased the mouse until it ran into a small hole.,3SGNOM chase mouse cat until 3SGNOM run it into hole small.,chase-PAST-3SGNOM cat-SING-DEF mouse-SING-DEF until run-PAST-3SGNOM it into hole-SING small.
-We saw them at the grocery store while shopping for vegetables.,1PLNOM see they we at store grocery while 1PLNOM shop vegetable we.,see-PAST-1PLNOM they we at store-SING-DEF grocery while shop-PROG for vegetable-PLUR.
-They invited us to their house for a delicious dinner party.,3PLNOM invite we they to house they for party dinner delicious.,invite-PAST-3PLNOM we they to house-SING they for party-SING dinner delicious.
-I have been waiting for the bus for 30 minutes.,1SGNOM wait i for bus for 30 minute.,PRES-have-1SGNOM be wait-PROG i for bus-SING-DEF for minute-PLUR 30.
-I am going to start a new job next month.,1SGNOM start job new i month next.,PRES-be-1SGNOM go-PROG i to start job-SING new next month.
-I used to play the piano when I was younger.,1SGNOM play piano i when 1SGNOM be young COMP i.,PAST-use-1SGNOM to play i piano-SING-DEF when be-PAST-1SGNOM i young-COMP.
-We went to the movies last night.,1PLNOM go we to movie night last.,go-PAST-1PLNOM we to movie-PLUR last night.
-They are playing soccer in the park.,3PLNOM play soccer they in park.,PRES-be-3PLNOM play-PROG they soccer in park-SING-DEF.
-A new species of frog was discovered by the scientist.,3SGNOM discover species new frog scientist.,PAST-be-3SGNOM discover-PAST species-SING new of frog-SING by scientist-SING-DEF.
-The teacher graded the tests last night.,3SGNOM grade test teacher night last.,grade-PAST-3SGNOM test-PLUR-DEF teacher-SING-DEF last night.
-The dog buried the bone in the backyard.,3SGNOM bury bone dog in backyard.,bury-PAST-3SGNOM bone-SING-DEF dog-SING-DEF in backyard-SING-DEF.
-Sarah baked a delicious cake for the party.,3SGNOM bake cake delicious Sarah for party.,bake-PAST-3SGNOM cake-SING delicious Sarah for party-SING-DEF.
-The students elected Sarah as class president.,3PLNOM elect Sarah student as president class.,elect-PAST-3PLNOM student-PLUR-DEF Sarah as president-SING class-SING-DEF.
+sentence,label
+He is the smartest student in our school.,PRES-be-3SGNOM student-SING-DEF REL PRES-be-3SGNOM smart-SUP he in school-SING we.
+The new phone is twice as expensive as the old model.,PRES-be-3SGNOM phone-SING-DEF new REL PRES-be-3SGNOM twice expensive-COMP as model-SING-DEF old.
+Today is the hottest day of the year so far.,PRES-be-3SGNOM day-SING-DEF REL PRES-be-3SGNOM hot-SUP today of year-SING-DEF so far.
+This exercise is the easiest one in the whole book.,PRES-be-3SGNOM exercise-SING-DEF REL PRES-be-3SGNOM easy-SUP this one-SING in book-SING-DEF whole.
+This is the most delicious cake I've ever tasted.,PRES-be-3SGNOM cake-SING-DEF REL PRES-be-3SGNOM delicious-SUP this i PRES-have-1SGNOM ever eat-PAST.
+The leaves fall from the trees in autumn.,PRES-fall-3PLNOM leaf-PLUR-DEF from tree-PLUR-DEF in autumn.
+The children played in the park.,play-PAST-3PLNOM child-PLUR-DEF in park-SING-DEF.
+The wind blows strongly today.,PRES-blow-3SGNOM wind-SING-DEF strongly today.
+He lent his bicycle to his cousin.,lend-PAST-3SGNOM bicycle-SING-DEF he he to cousin-SING he.
+The movie starts at eight o'clock.,PRES-start-3SGNOM movie-SING-DEF at o'clock eight.
+"We're going on vacation next week, so the office will be closed.","FUT-go-1PLNOM we on vacation-SING next week, so FUT-be-3SGNOM close-PAST office-SING-DEF."
+We've decided to go with a different contractor for this project.,PRES-decide-1PLNOM we to go with contractor-SING different for project-SING this.
+Our country needs to address climate change together.,PRES-need-3SGNOM country-SING we to address change-SING climate together.
+"We're moving to a new office, but your department will stay here.","PRES-move-1PLNOM we to office-SING new, but FUT-stay-3SGNOM department-SING you here."
+"We're going to the movies later, want to join us?","PRES-go-1PLNOM we to movie-PLUR later, PRES-want-2PLNOM to join we?"
+She doesn't like spicy food.,PRES-like-3SGNOM she NEG food-SING spicy.
+He isn't interested in playing sports.,PRES-be-3SGNOM he NEG interested in play sport-PLUR.
+I can't swim very well.,can't-1SGNOM i swim very well.
+The cat won't eat its food.,won't-3SGNOM eat cat-SING-DEF food-SING it.
+The plants don't get enough sunlight here.,PRES-get-3PLNOM plant-PLUR-DEF NEG enough sunlight here.
+The leaves rustled in the wind.,rustle-PAST-3PLNOM leaf-PLUR-DEF in wind-SING-DEF.
+Many flowers bloom in the garden.,PRES-bloom-3PLNOM flower-PLUR many in garden-SING-DEF.
+We bought two loaves of bread.,buy-PAST-1PLNOM we loaf-DUAL of bread-SING.
+The stars twinkled in the night sky.,twinkle-PAST-3PLNOM star-PLUR-DEF in sky-SING-DEF night.
+We planted two tomato plants in the garden.,plant-PAST-1PLNOM we plant-DUAL tomato in garden-SING-DEF.
+We found a treasure map in the attic.,find-PAST-1PLNOM we map-SING treasure in attic-SING-DEF.
+She wrote the letter with a blue pen.,write-PAST-3SGNOM letter-SING-DEF she with pen-SING blue.
+They built the sandcastle with plastic shovels.,build-PAST-3PLNOM sandcastle-SING-DEF they with shovel-PLUR plastic.
+The old man lived in a small cottage.,live-PAST-3SGNOM man-SING-DEF old in cottage-SING small.
+We had a picnic in the sunny meadow.,have-PAST-1PLNOM picnic-SING we in meadow-SING-DEF sunny.
+"The children built a snowman, and it melted the next day.","build-PAST-3PLNOM snowman-SING child-PLUR-DEF, and melt-PAST-3SGNOM it day-SING-DEF next."
+"Thou art a true friend, always there when I need thee.","PRES-be-2SGNOM friend-SING true thou, always there when PRES-need-1SGNOM i thou."
+The cat chased the mouse until it ran into a small hole.,chase-PAST-3SGNOM cat-SING-DEF mouse-SING-DEF until run-PAST-3SGNOM it into hole-SING small.
+We saw them at the grocery store while shopping for vegetables.,see-PAST-1PLNOM they we at store-SING-DEF grocery while shop-PROG for vegetable-PLUR.
+They invited us to their house for a delicious dinner party.,invite-PAST-3PLNOM we they to house-SING they for party-SING dinner delicious.
+I have been waiting for the bus for 30 minutes.,PRES-have-1SGNOM be wait-PROG i for bus-SING-DEF for minute-PLUR 30.
+I am going to start a new job next month.,PRES-be-1SGNOM go-PROG i to start job-SING new next month.
+I used to play the piano when I was younger.,PAST-use-1SGNOM to play i piano-SING-DEF when be-PAST-1SGNOM i young-COMP.
+We went to the movies last night.,go-PAST-1PLNOM we to movie-PLUR last night.
+They are playing soccer in the park.,PRES-be-3PLNOM play-PROG they soccer in park-SING-DEF.
+A new species of frog was discovered by the scientist.,PAST-be-3SGNOM discover-PAST species-SING new of frog-SING by scientist-SING-DEF.
+The teacher graded the tests last night.,grade-PAST-3SGNOM test-PLUR-DEF teacher-SING-DEF last night.
+The dog buried the bone in the backyard.,bury-PAST-3SGNOM bone-SING-DEF dog-SING-DEF in backyard-SING-DEF.
+Sarah baked a delicious cake for the party.,bake-PAST-3SGNOM cake-SING delicious Sarah for party-SING-DEF.
+The students elected Sarah as class president.,elect-PAST-3PLNOM student-PLUR-DEF Sarah as president-SING class-SING-DEF.
