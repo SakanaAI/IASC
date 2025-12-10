@@ -706,8 +706,11 @@ def sample_params_fijian():
             pro_drop="non-pro-drop",
             case=None,
             gender=None,
-            definiteness=["definite"],
-            definiteness_marking_strategy=None,
+            definiteness=Definiteness(
+                definiteness=["definite"],
+                definiteness_marking_strategy="prepositional word",
+                definiteness_agreement=None,
+            ),
             adjective_agreement=None,
             comparative=Comparative(
                 comparative=["comparative", "superlative"],
