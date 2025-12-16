@@ -1,9 +1,9 @@
 sentence,label
-He is the smartest student in our school.,he-NOM our school-SING-LOC smart-SUPER student-SING-NOM be-PRES-3SGNOM.
+He is the smartest student in our school.,he-NOM our school-SING-LOC smart-SUP student-SING-NOM be-PRES-3SGNOM.
 The new phone is twice as expensive as the old model.,new phone-SING-NOM old model-SING-NOM as twice expensive be-PRES-3SGNOM.
-Today is the hottest day of the year so far.,today-NOM so far year-SING-GEN hot-SUPER day-SING-NOM be-PRES-3SGNOM.
+Today is the hottest day of the year so far.,today-NOM so far year-SING-GEN hot-SUP day-SING-NOM be-PRES-3SGNOM.
 This exercise is the easiest one in the whole book.,this exercise-SING-NOM whole book-SING-LOC easy-SUPER one-SING-NOM be-PRES-3SGNOM.
-This is the most delicious cake I've ever tasted.,this-NOM i-NOM ever taste-PAST-1SGNOM delicious-SUPER cake-SING-NOM be-PRES-3SGNOM.
+This is the most delicious cake I've ever tasted.,this-NOM i-NOM ever taste-PAST-1SGNOM delicious-SUP cake-SING-NOM be-PRES-3SGNOM.
 The leaves fall from the trees in autumn.,leaf-PLUR-NOM autumn-SING-LOC tree-PLUR-ABL fall-ACT-PRES-3PLNOM.
 The children played in the park.,child-PLUR-NOM park-SING-LOC play-ACT-PAST-3PLNOM.
 The wind blows strongly today.,wind-SING-NOM today strongly blow-ACT-PRES-3SGNOM.
