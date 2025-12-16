@@ -328,7 +328,6 @@ def sample_params_turkish():
             ),
             gender=None,
             definiteness=None,
-            definiteness_marking_strategy=None,
             adjective_agreement=None,
             comparative=Comparative(
                 comparative=["comparative", "superlative"],
@@ -513,6 +512,7 @@ def sample_params_arabic():
 def sample_params_welsh():
     """Sample feature set like (Colloquial) Welsh.
     We are not considering the consonant mutation system here.
+    Also, a lot of the grammar is simplified from actual Welsh.
 
     An example of a Welsh sentence:
     Ni  roddais         i   ddim    llyfr da    i   dad     Eleri   ddoe.
@@ -570,7 +570,10 @@ def sample_params_welsh():
                 relativizer_morpheme="word", # a or y
             ),
             negation="prepositional word",
-            infinitive=None,
+            infinitive=Infinitive(
+                infinitive="infinitive", # also called verbal noun/verbnoun
+                infinitive_position="suffix"
+            ),
         )
     )
 
@@ -652,7 +655,6 @@ def sample_params_mizo():
             ),
             gender=None,
             definiteness=None,
-            definiteness_marking_strategy="postpositional word",
             adjective_agreement=None,
             comparative=Comparative(
                 comparative=["comparative", "superlative"],
@@ -773,7 +775,6 @@ def sample_params_hixkaryana():
             case=None,
             gender=None,
             definiteness=None,
-            definiteness_marking_strategy=None,
             adjective_agreement=None,
             comparative=Comparative(
                 comparative=["comparative", "superlative", "equative"],

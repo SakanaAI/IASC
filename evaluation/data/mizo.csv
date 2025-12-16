@@ -1,8 +1,8 @@
 sentence,label
-He is the smartest student in our school.,we-GEN school in student-ABS smart-SUP he-ABS 3SGABS be.
+He is the smartest student in our school.,we-GEN school in student-ABS smart SUP he-ABS 3SGABS be.
 The new phone is twice as expensive as the old model.,as model-ABS old twice expensive phone new-ABS 3SGABS be.
 Today is the hottest day of the year so far.,so far year-GEN day-ABS hot SUP today-ABS 3SGABS be.
-This exercise is the easiest one in the whole book.,book-ABS whole in easy-SUP one-ABS exercise-ABS this 3SGABS be.
+This exercise is the easiest one in the whole book.,book-ABS whole in easy SUP one-ABS exercise-ABS this 3SGABS be.
 This is the most delicious cake I've ever tasted.,cake-ABS delicious SUP ever i-ERG 1SGERG taste-REL this-ABS 3SGABS be.
 The leaves fall from the trees in autumn.,autumn-ABS in tree-ABS from leaf-ABS 3PLABS fall.
 The children played in the park.,park-ABS in child-ABS 3PLABS play.

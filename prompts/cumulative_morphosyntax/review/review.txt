@@ -1,0 +1,48 @@
+<INSTRUCTIONS>
+We are going to develop a 'translator' for our ConLang, which will 'translate' from English sentences into an abstract language that has English content words, but may mark them with additional morphosyntactic information, and where the English phrases may be reordered.
+
+Morphosyntactic markers may show up as affixes or separate words. For affixes, our convention for marking suffixes is to place a dash before the affix, and for prefixes to place a dash after the affix:
+
+"-XXX" is a suffix: when one attaches "-XXX" to "word", one gets "word-XXX"
+"XXX-" is a prefix: when one attaches "XXX-" to "word", one gets "XXX-word"
+
+In the previous stages, you have gone through stages that consider the inclusive-exclusive distinction, negation, nominal number, definiteness, adjective agreement, comparative degrees, case marking, mood, tense/aspect, verbal person agreement, voice, relativization, and infinitive.
+Our language has the following configuration (if the language does not have the morphosyntactic feature, it is shown as "NONE"):
+- Inclusive-exclusive: "{{inclusive_exclusive}}"
+- Negation is marked by "{{negation}}".
+- Nominal number distinguishes "{{nominal_number}}" number marking, marked by "{{nominal_number_marking_strategy}}".
+- Definiteness distinguishes "{{definiteness}}", marked by "{{definiteness_marking_strategy}}".
+- Adjective shows agreement for "{{adjective_agreement}}", marked by "{{adjective_agreement_marking_strategy}}".
+- Comparative degrees distinguish "{{comparative}}", marked by "{{comparative_marking_strategy}}".
+- Case markers include "{{case_marking}}", marked by "{{case_marking_strategy}}". Oblique noun phrases are marked by "{{oblique_case_marking}}".
+- Grammatical mood distinguishes "{{mood}}", marked by "{{mood_marking_strategy}}".
+- Tense/aspect distinguishes "{{tense_aspect}}", marked by "{{tense_aspect_marking_strategy}}".
+- Verbal person agreement distinguishes {{person_agreement}}", marked by "{{person_marking_strategy}}". and  "{{verbal_number_agreement}}" for verbal number agreement marked by "{{verbal_number_marking_strategy}}".
+- Voice distinguishes "{{voice}}", marked by "{{voice_marking_strategy}}".
+- Relativization is marked by (1) "{{relativization_order}}" with a (2) "{{relativization_marking}}" (3) "{{relativizer_position}}" (4) "{{relativizer_morpheme}}".
+- Infinitive is marked by "{{infinitive_marking_strategy}}".
+
+For your information, below are some examples of translation from English to our language:
+"The child did not eat the red apples yesterday." -> "{sent1}"
+"Two dogs are barking." -> "{sent2}"
+"The largest window was opened by a teacher." -> "{sent3}"
+"I want to read his book that you recommended." -> "{sent4}"
+
+Now in this stage, based on our language's morphosyntactic configuration described above, you have a chance to review your previous output sentences and correct them if needed.
+First, you will be given the original English text under ORIGINAL TEXT. Then, you will be given your previous translation under SAMPLE TEXT. Your task is to provide the final corrected translation.
+
+Place a period at the end of each sentence, as in the original text. Don't forget to translate the title, if there is one. Downcase all content words, except proper names, which are to be left capitalized. Thus "Man" would become "man", "We" would become "we", but "John" would remain "John".
+
+IMPORTANT: MAKE SURE YOU KEEP THE SAME LINE STRUCTURE AS THE SAMPLE TEXT. THAT IS IF THE SAMPLE TEXT HAS 23 LINES YOUR RESULTING OUTPUT SHOULD HAVE 23 LINES, AND THE TEXT IN LINE k IN YOUR OUTPUT SHOULD CORRESPOND TO THE TEXT IN LINE k IN THE INPUT. DO NOT ADD QUOTES AROUND YOUR OUTPUT.
+
+# ORIGINAL TEXT BEGINS
+{{original_text}}
+# ORIGINAL TEXT ENDS
+
+# SAMPLE TEXT BEGINS
+{{previous_translation}}
+# SAMPLE TEXT ENDS
+
+Please put your response within <OUTPUT></OUTPUT> tags.
+
+</INSTRUCTIONS>

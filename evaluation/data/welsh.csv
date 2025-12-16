@@ -10,10 +10,10 @@ The wind blows strongly today.,blow-PRES-3SGNOM DEF wind-SING strongly today.
 He lent his bicycle to his cousin.,lend-PAST-3SGNOM he bicycle-SING his to cousin-SING his.
 The movie starts at eight o'clock.,start-PRES-3SGNOM DEF movie-SING at eight o'clock.
 "We're going on vacation next week, so the office will be closed.","go-FUT-1PLNOM we on vacation-SING week-SING next, so be-FUT-3SGNOM DEF office-SING closed."
-We've decided to go with a different contractor for this project.,decide-PAST-1PLNOM we go with contractor-SING different for project-SING this.
-Our country needs to address climate change together.,need-PRES-3SGNOM country-SING our address change-SING climate together.
+We've decided to go with a different contractor for this project.,decide-PAST-1PLNOM we go-INF with contractor-SING different for project-SING this.
+Our country needs to address climate change together.,need-PRES-3SGNOM country-SING our address-INF change-SING climate together.
 "We're moving to a new office, but your department will stay here.","move-FUT-1PLNOM we to office-SING new, but stay-FUT-3SGNOM department-SING your here."
-"We're going to the movies later, want to join us?","go-FUT-1PLNOM we to DEF movie-PLUR later, want-PRES-2SGNOM join us?"
+"We're going to the movies later, want to join us?","go-FUT-1PLNOM we to DEF movie-PLUR later, want-PRES-2SGNOM join-INF us?"
 She doesn't like spicy food.,NEG like-PRES-3SGNOM she food-SING spicy.
 He isn't interested in playing sports.,NEG be-PRES-3SGNOM he interested in play sport-PLUR.
 I can't swim very well.,NEG can-PRES-1SGNOM i swim very well.
@@ -32,7 +32,7 @@ We had a picnic in the sunny meadow.,have-PAST-1PLNOM we picnic-SING in DEF mead
 "The children built a snowman, and it melted the next day.","build-PAST-3PLNOM DEF child-PLUR snowman-SING, and melt-PAST-3SGNOM it DEF day-SING next."
 "Thou art a true friend, always there when I need thee.","be-PRES-2SGNOM thou friend-SING true, always there when need-PRES-1SGNOM i thee."
 The cat chased the mouse until it ran into a small hole.,chase-PAST-3SGNOM DEF cat-SING DEF mouse-SING until run-PAST-3SGNOM it into hole-SING small.
-We saw them at the grocery store while shopping for vegetables.,see-PAST-1PLNOM we they at DEF store-SING grocery while shop for vegetable-PLUR.
+We saw them at the grocery store while shopping for vegetables.,see-PAST-1PLNOM we they at DEF store-SING grocery while shop-INF for vegetable-PLUR.
 They invited us to their house for a delicious dinner party.,invite-PAST-3PLNOM they we to house-SING their for party-SING dinner delicious.
 I have been waiting for the bus for 30 minutes.,wait-PRES-1SGNOM i for DEF bus-SING for 30 minute-PLUR.
 I am going to start a new job next month.,start-FUT-1SGNOM i job-SING new month-SING next.

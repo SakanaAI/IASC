@@ -132,8 +132,56 @@ COMMON_ARGS = Template("""    --model="{{model}}" \\
     --num_iterations=1"""
     )
 
-
 CREATE = "python3 create/create.py"
+LANGUAGE_TO_PARAMS = {
+    "french": morphosyntax_params.sample_params_french,
+    "turkish": morphosyntax_params.sample_params_turkish,
+    "arabic": morphosyntax_params.sample_params_arabic,
+    "welsh": morphosyntax_params.sample_params_welsh,
+    "vietnamese": morphosyntax_params.sample_params_vietnamese,
+    "mizo": morphosyntax_params.sample_params_mizo,
+    "fijian": morphosyntax_params.sample_params_fijian,
+    "hixkaryana": morphosyntax_params.sample_params_hixkaryana,
+    "hard": morphosyntax_params.sample_params_hard,
+    "ainu": morphosyntax_params.sample_params_ainu,
+}
+STAGES = [
+    "inclusive_exclusive",
+    "negation",
+    "nominal_number",
+    "definiteness",
+    "adjective_agreement",
+    "comparative",
+    "case",
+    "mood",
+    "tense_aspect",
+    "person",
+    "voice",
+    "relativization",
+    "infinitive",
+    "extras",
+    "review"
+]
+STAGE_FLAGS = {
+    "inclusive_exclusive": "inclusive_exclusive",
+    "negation": "negation",
+    "nominal_number": "nominal_number",
+    "definiteness": "definiteness",
+    "adjective_agreement": "adjective_agreement",
+    "case": "case",
+    "tense_aspect": "tense_aspect_marking",
+    "mood": "mood",
+    "person": "person",
+    "voice": "voice",
+    "relativization": "relativization",
+    "infinitive": "infinitive",
+    "comparative": "comparative",
+    "extras": None,
+    "review": "review",
+}
+# the values correspond to the file names.
+# each stage needs to have a corresponding prompt txt file. Make sure to have it ready
+assert set(STAGES) == set(STAGE_FLAGS.keys())
 
 
 def create_common_args(open_ai_api_key: Optional[str],
@@ -231,20 +279,6 @@ def create_script(directory: str,
     # group and others can read and execute the file, but not write.
 
     return script
-
-
-LANGUAGE_TO_PARAMS = {
-    "french": morphosyntax_params.sample_params_french,
-    "turkish": morphosyntax_params.sample_params_turkish,
-    "arabic": morphosyntax_params.sample_params_arabic,
-    "welsh": morphosyntax_params.sample_params_welsh,
-    "vietnamese": morphosyntax_params.sample_params_vietnamese,
-    "mizo": morphosyntax_params.sample_params_mizo,
-    "fijian": morphosyntax_params.sample_params_fijian,
-    "hixkaryana": morphosyntax_params.sample_params_hixkaryana,
-    "hard": morphosyntax_params.sample_params_hard,
-    "ainu": morphosyntax_params.sample_params_ainu,
-}
 
 
 def run_word_order_experiment(story: str,
@@ -345,44 +379,6 @@ def run_word_order_experiment(story: str,
     return word_order_params
 
 
-STAGES = [
-    "inclusive_exclusive",
-    "negation",
-    "nominal_number",
-    "definiteness",
-    "adjective_agreement",
-    "comparative",
-    "case",
-    "mood",
-    "tense_aspect",
-    "person",
-    "voice",
-    "relativization",
-    "infinitive",
-    "extras",
-]
-
-STAGE_FLAGS = {
-    "inclusive_exclusive": "inclusive_exclusive",
-    "negation": "negation",
-    "nominal_number": "nominal_number",
-    "definiteness": "definiteness",
-    "adjective_agreement": "adjective_agreement",
-    "case": "case",
-    "tense_aspect": "tense_aspect_marking",
-    "mood": "mood",
-    "person": "person",
-    "voice": "voice",
-    "relativization": "relativization",
-    "infinitive": "infinitive",
-    "comparative": "comparative",
-    "extras": None,
-}
-# the values correspond to the file names.
-# each stage needs to have a corresponding prompt txt file. Make sure to have it ready
-
-
-# TODO: Maybe modify this?
 def get_flag(stage: str) -> str:
     """Look up the relevant flag for this stage:
 
@@ -403,6 +399,7 @@ def run_stage(stage: str,
               params: Dict[str, Any],
               previous_params: Dict[str, Any],
               storydir: str,
+              premade_params_language: str,
               open_ai_api_key: str | None = None,
               run_commands: bool = False) -> Tuple[Dict[str, Any], str, str]:
     """Runs an individual stage in the grammar construction.
@@ -416,6 +413,7 @@ def run_stage(stage: str,
         params: Params specific to this stage.
         previous_params: Cumulated parameters up to now.
         storydir: Directory containing the stories.
+        premade_params_language: Language name of the params used here. Necessary for choosing the correct review prompt file.
         open_ai_api_key: OpenAI API key for the model.
         run_commands: Whether to actually run the commands.
     Returns:
@@ -432,7 +430,11 @@ def run_stage(stage: str,
                         storydir=new_directory)
     output_full = story_path(story=f"{story}_full",
                              storydir=new_directory)
-    user_prompt = f"prompts/cumulative_morphosyntax/{stage}.txt"
+    
+    if stage == "review":
+        user_prompt = f"prompts/cumulative_morphosyntax/{stage}/{stage}_{premade_params_language}.txt"
+    else:
+        user_prompt = f"prompts/cumulative_morphosyntax/{stage}.txt"
     user_prompt_dump = f"{new_directory}/user_prompt.txt"
     stage_params = params[stage] # this can also be another BaseModel
     # if stage_params is BaseModel, it has to be passed to `cmd` later as a a string.
@@ -523,6 +525,7 @@ def run_rest(story: str,
                     params=features,
                     previous_params=previous_params,
                     storydir=storydir,
+                    premade_params_language=premade_params_language,
                     open_ai_api_key=open_ai_api_key,
                     run_commands=run_commands
                 )
