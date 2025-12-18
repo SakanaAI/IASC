@@ -105,6 +105,11 @@ MAIN_WORD_ORDER = flags.DEFINE_string(
     "VSO",
     "Main word ordering.",
 )
+OBLIQUE_WORD_ORDER = flags.DEFINE_string(
+    "oblique_word_order",
+    "VOX",
+    "The word order of object, oblique, and verb."
+)
 ADJ_NOUN_WORD_ORDER = flags.DEFINE_string(
     "adj_noun_word_order",
     "NA",
@@ -199,6 +204,11 @@ COMPARATIVE = flags.DEFINE_string(
     "comparative",
     "comparative=['comparative', 'superlative'] comparative_marking_strategy='suffix'",
     "Comparative and superlative marking used in the language.",
+)
+REVIEW = flags.DEFINE_string(
+    "review",
+    "True",
+    "Review stage with few-shot in-context learning."
 )
 
 MORPHOSYNTAX_MODULES = flags.DEFINE_list(
@@ -836,14 +846,13 @@ def cumulative_morphosyntax_params():
 
 def parse_str_to_dict(input_str: str) -> Dict[str, Any]:
     """
-    Parses a string representation of a BaseModel and returns an instance of the model.
+    Parses a string representation of a BaseModel and returns a Python dict.
 
     Args:
         input_str: The string representation of the BaseModel.
             It looks like `"category='example' value=1"` for `BaseModel(category='example', value=1)`.
 
-    Returns:
-        An instance of the BaseModel.
+    Returns: dict
     """
     pattern = re.compile(r"(\w+)=((?:\[[^\]]*\])|(?:'[^']*')|(?:\"[^\"]*\")|\S+)")
     result = {}

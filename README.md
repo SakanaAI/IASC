@@ -118,6 +118,9 @@ A metascript `morphosyntax_0_0_0.sh`, e.g. for French, includes the following sh
 To run an evaluation,
 - `./modular_experiment_outputs_controlled/claude/french/metascripts/evaluation_0_0.sh`
 
+### Enable the in-context learning review stage
+To enable the in-context learning review stage before the final output, you can simply add the `--do_review` option in the first morphosyntax script (e.g. `./modular_experiments/controlled_morphosyntax/claude/french.sh`).
+
 ## The outputs
 - After you run `modular_experiment_outputs_controlled/claude/metascripts/word_order.sh`, you get the
   intermediate output in `modular_experiment_outputs_controlled/claude/word_order_0_{j}/sentence_design_output.txt`.

@@ -8,7 +8,7 @@ class Syntax(BaseModel):
         "VSO",
         description="The main word order of subject, object, and verb in the language.",
     )
-    oblique_word_order = Literal["VOX", "VXO", "XOV", "XVO", "OVX", "OXV"] = Field(
+    oblique_word_order: Literal["VOX", "VXO", "XOV", "XVO", "OVX", "OXV"] = Field(
         "VOX",
         description="The word order of object, oblique, and verb in the language."
     )
@@ -872,7 +872,7 @@ def sample_params_hard():
             gender=None,
             definiteness=Definiteness(
                 definiteness=["definite", "indefinite"],
-                definiteness_marking_strategy="suffix",
+                definiteness_marking_strategy="prefix",
                 definiteness_agreement=None,
             ),
             adjective_agreement=AdjectiveAgreement(

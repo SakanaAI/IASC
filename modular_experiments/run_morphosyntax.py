@@ -108,6 +108,11 @@ def get_args() -> argparse.Namespace:
         required=False,
         help="Path to the reference glosses file for evaluation.",
     )
+    parser.add_argument(
+        "--do_review",
+        action="store_true",
+        help="If set, a review stage with few-shot in-context learning will be done at the end of the morphosyntax pipeline."
+    )
 
     return parser.parse_args()
 
@@ -330,6 +335,7 @@ def run_word_order_experiment(story: str,
     for setting_number, features in enumerate(stage_params):
         # `params` are already model_dump()-ed; of type dict
         main_word_order = features["main_word_order"]
+        oblique_word_order = features["oblique_word_order"]
         adj_noun_word_order = features["adj_noun_word_order"]
         posspron_noun_word_order = features["posspron_noun_word_order"]
         num_noun_word_order = features["num_noun_word_order"]
@@ -361,6 +367,7 @@ def run_word_order_experiment(story: str,
                 f'    --user_prompt_dump="{user_prompt_dump}"',
                 '    --previous_translation=""',
                 f'    --main_word_order="{main_word_order}"',
+                f'    --oblique_word_order="{oblique_word_order}"',
                 f'    --adj_noun_word_order="{adj_noun_word_order}"',
                 f'    --posspron_noun_word_order="{posspron_noun_word_order}"',
                 f'    --num_noun_word_order="{num_noun_word_order}"',
@@ -433,13 +440,15 @@ def run_stage(stage: str,
     
     if stage == "review":
         user_prompt = f"prompts/cumulative_morphosyntax/{stage}/{stage}_{premade_params_language}.txt"
+        params["review"] = True # Placeholder
+        # When it is the review stage, we need to pass all of the parameters to create.py.
     else:
         user_prompt = f"prompts/cumulative_morphosyntax/{stage}.txt"
     user_prompt_dump = f"{new_directory}/user_prompt.txt"
     stage_params = params[stage] # this can also be another BaseModel
     # if stage_params is BaseModel, it has to be passed to `cmd` later as a a string.
     # for example, if it looks like `stage_params = Sample(category='example', value=1)`, then
-    # str(stage_params) will give us 'category=example, value=1'.
+    # str(stage_params) will give us 'category=example value=1'.
     # then, later in create.py, we will have to reconstruct the original dict in the cumulative_morphosyntax_params(),
     # which maps the cmd flag name to the actual parameter and will be called in create.py().
 
@@ -464,7 +473,22 @@ def run_stage(stage: str,
         f'   --previous_translation="{previous_translation}"',
     ]
     if flag:
-        cmd.append(f'    --{flag}="{str(stage_params)}"')  # This is typically added for morphological stages.
+        if stage == "review":
+            # Pass all the morphosyntactic parameters.
+            for stg, param in params.items():
+                print(stg, param)
+                # key is the stage name, param is the parameter value
+                try:
+                    flag = get_flag(stg)
+                    if flag is None or str(param) == "None":
+                        print(f"Skipping the review stage for stage {stg} because either the flag or the parm is None.")
+                        continue
+                    cmd.append(f'    --{flag}="{str(param)}"')
+                except:
+                    print(f"Skipping the review stage for stage {stg} because it is not defined in STAGE_FLAGS.")
+                    continue
+        else:
+            cmd.append(f'    --{flag}="{str(stage_params)}"')  # This is typically added for morphological stages.
     cmd = " \\\n".join(cmd)
     if run_commands:
         os.system(cmd)
@@ -472,7 +496,6 @@ def run_stage(stage: str,
     return previous_params, output, script
 
 
-# TODO: Modify
 def run_rest(story: str,
              storydir: str,
              model: str,
@@ -480,7 +503,8 @@ def run_rest(story: str,
              metascript_dir: str,
              premade_params_language: str,
              open_ai_api_key: Optional[str] = None,
-             run_commands: bool = False) -> None:
+             run_commands: bool = False,
+             do_review: bool = False) -> None:
     """Run the rest of the morphosyntactic construction.
 
     Args:
@@ -491,6 +515,7 @@ def run_rest(story: str,
         metascript_dir: Directory to store the metascripts.
         open_ai_api_key: OpenAI API key for the model.
         run_commands: Whether to actually run the commands.
+        do_review: Whether to run the review stage (few-shot ICL).
     """
     try:
         params = LANGUAGE_TO_PARAMS[premade_params_language]().model_dump()
@@ -513,9 +538,12 @@ def run_rest(story: str,
             scripts = []
             for stage in STAGES:
                 # print(features)
-                if features[stage] is None:
-                    print(f"Skipping stage {stage} as it has no parameters.")
-                    continue
+                if features.get(stage) is None:
+                    if do_review and stage == "review":
+                        print("review stage found.")
+                    else:
+                        print(f"Skipping stage {stage} as it has no parameters.")
+                        continue
                 previous_params, previous_translation, script = run_stage(
                     stage=stage,
                     story=story,
@@ -633,6 +661,7 @@ def main(args: argparse.Namespace) -> None:
         word_order_params=word_order_params,
         metascript_dir=metascript_dir,
         premade_params_language=args.premade_params_language,
+        do_review=args.do_review,
     )
 
     run_evaluation(
