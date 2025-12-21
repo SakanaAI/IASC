@@ -365,7 +365,7 @@ def sample_params_turkish():
             negation="suffix",
             infinitive=Infinitive(
                 infinitive="infinitive",
-                infinitive_position="suffix"  # -mek/-mak
+                infinitive_marking_strategy="suffix"  # -mek/-mak
             ),
         )
     )
@@ -434,7 +434,7 @@ def sample_params_french():
             negation="postpositional word", # pas
             infinitive=Infinitive(
                 infinitive="infinitive",
-                infinitive_position="suffix"  # -er
+                infinitive_marking_strategy="suffix"  # -er
             ),
         )
     )
@@ -572,7 +572,7 @@ def sample_params_welsh():
             negation="prepositional word",
             infinitive=Infinitive(
                 infinitive="infinitive", # also called verbal noun/verbnoun
-                infinitive_position="suffix"
+                infinitive_marking_strategy="suffix"
             ),
         )
     )
@@ -915,7 +915,7 @@ def sample_params_hard():
             negation="suffix",
             infinitive=Infinitive(
                 infinitive="infinitive",
-                infinitive_position="prefix"
+                infinitive_marking_strategy="prefix"
             ),
         )
     )

@@ -1,0 +1,9 @@
+. ./experiments/claude-3-5-sonnet/icl/arabic.sh
+. ./experiments/claude-3-5-sonnet/icl/fijian.sh
+. ./experiments/claude-3-5-sonnet/icl/french.sh
+. ./experiments/claude-3-5-sonnet/icl/hard.sh
+. ./experiments/claude-3-5-sonnet/icl/hixkaryana.sh
+. ./experiments/claude-3-5-sonnet/icl/mizo.sh
+. ./experiments/claude-3-5-sonnet/icl/turkish.sh
+. ./experiments/claude-3-5-sonnet/icl/vietnamese.sh
+. ./experiments/claude-3-5-sonnet/icl/welsh.sh

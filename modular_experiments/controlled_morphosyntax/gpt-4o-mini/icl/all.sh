@@ -1,0 +1,9 @@
+. ./experiments/gpt-4o-mini/icl/arabic.sh
+. ./experiments/gpt-4o-mini/icl/fijian.sh
+. ./experiments/gpt-4o-mini/icl/french.sh
+. ./experiments/gpt-4o-mini/icl/hard.sh
+. ./experiments/gpt-4o-mini/icl/hixkaryana.sh
+. ./experiments/gpt-4o-mini/icl/mizo.sh
+. ./experiments/gpt-4o-mini/icl/turkish.sh
+. ./experiments/gpt-4o-mini/icl/vietnamese.sh
+. ./experiments/gpt-4o-mini/icl/welsh.sh

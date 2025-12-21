@@ -40,7 +40,8 @@ def get_args() -> argparse.Namespace:
         "-m",
         "--model",
         type=str,
-        choices=["claude", "gpt5nano", "gpt-5", "gpt-5-mini", "gpt-5-nano", "gpt-4o-mini", "gemini-2.5-flash", "gemini-2.5-pro"],
+        choices=["claude", "claude-3-5-sonnet", "claude-sonnet-3-5", "claude-4-5-sonnet", "claude-sonnet-4-5", # some aliases
+                 "gpt5nano", "gpt-5", "gpt-5-mini", "gpt-5-nano", "gpt-4o-mini", "gemini-2.5-flash", "gemini-2.5-pro"],
         default="claude",
         help="Model to use for the experiments.",
     )
@@ -95,6 +96,8 @@ def get_args() -> argparse.Namespace:
         "--premade_params_language",
         type=str,
         default="turkish",
+        choices=["turkish", "french", "arabic", "welsh", "vietnamese", "mizo", "fijian", "hixkaryana", "hard",
+                 "ainu"],
         help="Language to use for the premade parameters. Options: 'turkish', 'french', 'arabic', 'welsh', 'vietnamese', 'mizo', 'fijian', 'hixkaryana', 'ainu'.",
     )
     parser.add_argument(
@@ -215,7 +218,8 @@ def create_output_dir(model: str,
                       stage: str,
                       setting_number: int,
                       iter_number: int,
-                      premade_params_language: Optional[str] = None) -> str:
+                      premade_params_language: Optional[str] = None,
+                      do_review: bool = False) -> str:
     """Creates the output directory for the experiment.
 
     Args:
@@ -228,10 +232,13 @@ def create_output_dir(model: str,
     Returns:
         Path to created output directory.
     """
+    lang_dir = premade_params_language if premade_params_language else "tmp"
+    if do_review:
+        lang_dir += "_icl"
     base_dir = os.path.join(
         modular_experiment_outputs,
         model,
-        premade_params_language if premade_params_language else "tmp",
+        lang_dir,
     )
     path = os.path.join(
         base_dir,
@@ -294,7 +301,8 @@ def run_word_order_experiment(story: str,
                               modular_experiment_outputs: str,
                               premade_params_language: str,
                               open_ai_api_key: Optional[str],
-                              run_commands: bool = False) -> Dict[str, Any]:
+                              do_review: bool = False,
+                              run_commands: bool = False,) -> Dict[str, Any]:
     """First stage: Run the word order experiments.
 
     Args:
@@ -347,7 +355,8 @@ def run_word_order_experiment(story: str,
                                            stage=stage,
                                            setting_number=setting_number,
                                            iter_number=it,
-                                           premade_params_language=premade_params_language,)
+                                           premade_params_language=premade_params_language,
+                                           do_review=do_review)
             output = story_path(story=story,
                                 storydir=output_dir)
             output_full = story_path(story=f"{story}_full",
@@ -404,6 +413,7 @@ def run_stage(stage: str,
               new_directory: str,
               previous_translation: str,
               params: Dict[str, Any],
+              syntax_params: Dict[str, str],
               previous_params: Dict[str, Any],
               storydir: str,
               premade_params_language: str,
@@ -418,6 +428,7 @@ def run_stage(stage: str,
         new_directory: Directory for this stage on this iteration.
         previous_translation: Path to previous translation.
         params: Params specific to this stage.
+        syntax_params: Syntax parameters to be used in the review stage.
         previous_params: Cumulated parameters up to now.
         storydir: Directory containing the stories.
         premade_params_language: Language name of the params used here. Necessary for choosing the correct review prompt file.
@@ -475,13 +486,19 @@ def run_stage(stage: str,
     if flag:
         if stage == "review":
             # Pass all the morphosyntactic parameters.
+            # syntax
+            print(syntax_params)
+            for stg, param in syntax_params.items():
+                print(stg, param)
+                cmd.append(f'    --{stg}="{str(param)}"')
+            # morphology
             for stg, param in params.items():
                 print(stg, param)
                 # key is the stage name, param is the parameter value
                 try:
                     flag = get_flag(stg)
                     if flag is None or str(param) == "None":
-                        print(f"Skipping the review stage for stage {stg} because either the flag or the parm is None.")
+                        print(f"Skipping the review stage for stage {stg} because either the flag or the param is None.")
                         continue
                     cmd.append(f'    --{flag}="{str(param)}"')
                 except:
@@ -527,6 +544,7 @@ def run_rest(story: str,
 
     # we are not setting multiple settings, so stage_params is a single-element list
     inflection_params = params["morphology"]
+    syntax_params = params["syntax"]
     if not isinstance(inflection_params, list):
         inflection_params = [inflection_params]
 
@@ -552,6 +570,7 @@ def run_rest(story: str,
                     previous_translation=previous_translation,
                     params=features,
                     previous_params=previous_params,
+                    syntax_params=syntax_params,
                     storydir=storydir,
                     premade_params_language=premade_params_language,
                     open_ai_api_key=open_ai_api_key,
@@ -572,15 +591,17 @@ def run_evaluation(output_dir: str,
                    metascript_dir: str,
                    premade_params_language: str,
                    num_iter: int,
-                   prediction_file_name: str = "grammatical_test_sentences.txt") -> None:
+                   prediction_file_name: str = "grammatical_test_sentences.txt",
+                   do_review: bool = False) -> None:
     """Create the evaluation scripts."""
     # TODO: add a subdirectory for each language.
 
     # look for the last stage directories
+    lang_dir = premade_params_language + "_icl" if do_review else premade_params_language
     script_dir = os.path.join(
         output_dir,
         model,
-        premade_params_language if premade_params_language else "tmp",
+        lang_dir,
     )
     script_files = glob.glob(script_dir + "/*")
 
@@ -596,10 +617,11 @@ def run_evaluation(output_dir: str,
         # In evaluation/eval_morphosyntax.py, add a step to structuralize the output text for output format standardization.
         # Then, based on the JSON structured data, run the evaluation.
         results_file = os.path.join(script_dir, f"structured_result_0_{i}_0.csv")
+        
         scores_file = os.path.join("evaluation",
                                    "results",
                                    model,
-                                   premade_params_language,
+                                   lang_dir,
                                    f"scores_0_{i}.json")
         if not os.path.exists(os.path.dirname(scores_file)):
             os.makedirs(os.path.dirname(scores_file), exist_ok=True)
@@ -631,15 +653,19 @@ def main(args: argparse.Namespace) -> None:
     # test
     if args.pipeline:
         assert args.reference_file, "--reference_file is required when --pipeline is set."
+        
+    lang_dir = args.premade_params_language if args.premade_params_language else "tmp"
+    if args.do_review:
+        lang_dir += "_icl" # in-context learning
 
     metascript_dir = os.path.join(
         args.modular_experiment_outputs,
         args.model,
-        args.premade_params_language if args.premade_params_language else "tmp",
+        lang_dir,
         "metascripts",
     )
     os.makedirs(metascript_dir, exist_ok=True)
-
+    
     # First, tweak the syntax (word order) parameters.
     word_order_params: dict = run_word_order_experiment(
         story=args.story,
@@ -651,6 +677,7 @@ def main(args: argparse.Namespace) -> None:
         open_ai_api_key=args.open_ai_api_key,
         run_commands=args.run_commands,
         premade_params_language=args.premade_params_language,
+        do_review=args.do_review
     )
 
     # Then, tweak the morphology parameters.
@@ -671,6 +698,7 @@ def main(args: argparse.Namespace) -> None:
         metascript_dir=metascript_dir,
         premade_params_language=args.premade_params_language,
         num_iter=args.num_iter,
+        do_review=args.do_review,
     )
 
 

@@ -1,0 +1,18 @@
+#!/bin/bash
+
+MODEL=gpt-4o-mini
+OUTPUT_DIR=modular_experiment_outputs_controlled
+python3 modular_experiments/run_morphosyntax.py \
+	--model="${MODEL}" \
+	--modular_experiment_outputs="${OUTPUT_DIR}" \
+	--story=grammatical_test_sentences \
+	--storydir=sentence_design_output \
+	--use_safe_params \
+	--num_iter=1 \
+	--premade_params_language="fijian" \
+	--reference_file="evaluation/data/fijian.csv" 
+
+. ./modular_experiment_outputs_controlled/gpt-4o-mini/fijian/metascripts/word_order.sh
+. ./modular_experiment_outputs_controlled/gpt-4o-mini/fijian/metascripts/morphosyntax_0_0_0.sh
+
+. ./modular_experiment_outputs_controlled/gpt-4o-mini/fijian/metascripts/evaluation_0_0.sh

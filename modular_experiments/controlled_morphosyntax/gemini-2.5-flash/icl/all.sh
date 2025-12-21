@@ -1,0 +1,9 @@
+. ./experiments/gemini-2.5-flash/icl/arabic.sh
+. ./experiments/gemini-2.5-flash/icl/fijian.sh
+. ./experiments/gemini-2.5-flash/icl/french.sh
+. ./experiments/gemini-2.5-flash/icl/hard.sh
+. ./experiments/gemini-2.5-flash/icl/hixkaryana.sh
+. ./experiments/gemini-2.5-flash/icl/mizo.sh
+. ./experiments/gemini-2.5-flash/icl/turkish.sh
+. ./experiments/gemini-2.5-flash/icl/vietnamese.sh
+. ./experiments/gemini-2.5-flash/icl/welsh.sh

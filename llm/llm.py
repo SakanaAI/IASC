@@ -28,11 +28,16 @@ MODEL = flags.DEFINE_enum(
         "gpt-4o-mini",
         "gpt-4o-2024-08-06",
         "gpt-4-1106-preview",
+        "gpt-4.1", # $2/1M input, $8/1M output. Snapshot gpt-4.1-2025-04-14
         "gpt5nano", #$ 0.05/1M input, $0.40/1M output
         "gpt-5-nano", # alias
         "gpt-5-mini", # $0.25/1M input, $2/1M output
         "gpt-5", # 1.250/1M input, $10.00/1M output
-        "claude",
+        "claude", # defaults to claude-sonnet-3-5
+        "claude-sonnet-3-5",
+        "claude-3-5-sonnet", # alias
+        "claude-sonnet-4-5", # $3/1M input, $15/1M output
+        "claude-4-5-sonnet", # alias
         "qwen",
         "llama",
         "gemini-2.5-flash", # 0.30/1M input, $2.50/1M output
@@ -77,8 +82,12 @@ def llm_predict(
     Returns:
       The LLM response as a string.
     """
-    if model_name == "claude":
-        model_id = "us.anthropic.claude-3-5-sonnet-20240620-v1:0"
+    if "claude" in model_name:
+    # if model_name == "claude":
+        if model_name in {"claude", "claude-3-5-sonnet", "claude-sonnet-3-5"}:
+            model_id = "us.anthropic.claude-3-5-sonnet-20240620-v1:0"
+        elif model_name in {"claude-4-5-sonnet", "claude-sonnet-4-5"}:
+            model_id = "us.anthropic.claude-sonnet-4-5-20250929-v1:0"
         # Does this do anything?
         resource_arn = f"arn:aws:bedrock:us-east-1::foundation-model/{model_id}"
         # Claude does not like conversations that start with a system/assistant
@@ -161,6 +170,7 @@ def llm_predict(
                 system_instruction=system_instruction,
                 temperature=TEMPERATURE.value,
                 # max_output_tokens=max_tokens,
+                thinking_config=genai.types.ThinkingConfig(thinking_budget=-1), # if we want to control thinking
                 top_p=1.0,
             ),
             contents=contents,
@@ -214,7 +224,7 @@ def client() -> LLMClient:
     Returns:
       The LLM client depending on the name of the model.
     """
-    if MODEL.value == "claude":
+    if "claude" in MODEL.value:
         config = Config(read_timeout=1000)
         return boto3.client(
             service_name="bedrock-runtime",
