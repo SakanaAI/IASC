@@ -170,7 +170,7 @@ def llm_predict(
                 system_instruction=system_instruction,
                 temperature=TEMPERATURE.value,
                 # max_output_tokens=max_tokens,
-                thinking_config=genai.types.ThinkingConfig(thinking_budget=-1), # if we want to control thinking
+                thinking_config=genai.types.ThinkingConfig(thinking_budget=-1), # if we want to control thinking; -1 is dynamic thinking
                 top_p=1.0,
             ),
             contents=contents,
