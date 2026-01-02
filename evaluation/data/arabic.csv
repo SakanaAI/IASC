@@ -1,46 +1,46 @@
-sentence,label,prediction_example
-He is the smartest student in our school.,be-IND-PRES-3SGNOM he-NOM DEF-student-SING DEF-smart-SING-SUP in school we-GEN.,NEG be-PRES-PERF-3SGNOM he-NOM student-SING REL smartest-SING in school-SING we-GEN.
-The new phone is twice as expensive as the old model.,be-IND-PRES-3SGNOM DEF-phone-SING-NOM DEF-new-SING-NOM expensive-SING-COMP as DEF-model-SING DEF-old-SING twice.,NEG be-PRES-PERF-3SGNOM phone-SING REL new-SING expensive-SING twice as model-SING REL old-SING.
-Today is the hottest day of the year so far.,be-IND-PRES-3SGNOM today-NOM DEF-day-SING DEF-hot-SING-SUP DEF-year-GEN so far.,NEG be-PRES-PERF-3SGNOM today day-SING REL hottest-SING of year-SING so far.
-This exercise is the easiest one in the whole book.,be-IND-PRES-3SGNOM exercise-SING-NOM this-SING-NOM DEF-easy-SING-SUP in DEF-book-GEN DEF-whole-GEN.,NEG be-PRES-PERF-3SGNOM exercise-SING REL this one-SING REL easiest-SING in book-SING REL whole-SING.
-This is the most delicious cake I've ever tasted.,be-IND-PRES-3SGNOM this-SING-NOM DEF-cake-SING-NOM DEF-delicious-SING-SUP-NOM REL taste-ACT-PAST-1SGNOM i-NOM,NEG be-PRES-PERF-3SGNOM this cake-SING REL most delicious-SING taste-PAST-PERF-1SGNOM-ACT i-NOM've ever.
-The leaves fall from the trees in autumn.,fall-ACT-IND-PRES-3PLNOM DEF-leaf-PLUR-NOM from DEF-tree-PLUR-GEN in autumn-SING-GEN.,NEG fall-PRES-HAB-3PLNOM-ACT leaf-PLUR from tree-PLUR in autumn.
-The children played in the park.,play-ACT-IND-PAST-3PLNOM DEF-child-PLUR-NOM in DEF-park-SING-GEN.,NEG play-PAST-PROG-3PLNOM-ACT child-PLUR-NOM in park-SING.
-The wind blows strongly today.,blow-ACT-IND-PRES-3SGNOM DEF-wind-SING-NOM strongly today.,NEG blow-PRES-PROG-3SGNOM-ACT wind-SING-NOM strongly today.
-He lent his bicycle to his cousin.,lend-ACT-IND-PAST-3SGNOM he-NOM bicycle-SING-ACC he-GEN to cousin-SING-GEN he-GEN.,NEG lend-PAST-PERF-3SGNOM-ACT he-NOM bicycle-SING his to cousin-DAT his.
-The movie starts at eight o'clock.,start-ACT-IND-PRES-3SGNOM DEF-movie-SING at eight o'clock.,NEG start-PRES-3SGNOM-ACT movie-SING-NOM at o'clock eight.
-"We're going on vacation next week, so the office will be closed.","go-ACT-IND-FUT-1PLNOM we-NOM on vacation-SING-GEN week next, so be-FUT-3SGNOM DEF-office-SING-NOM closed.","NEG be-PRES-PROG-1PLNOM go we-NOM on vacation-SING week-SING REL next-SING, so be-FUT-PERF-3SGNOM close office-SING."
-We've decided to go with a different contractor for this project.,decide-ACT-IND-PAST-1PLNOM we-NOM go-ACT-SUB-PRES-1PLNOM with contractor-SING-GEN different-SING-GEN for project-SING-GEN this-GEN.,NEG have-PRES-PERF-1PLNOM decide we-NOM to go with contractor-SING REL different-SING for project-SING this.
-Our country needs to address climate change together.,need-ACT-IND-PRES-3SGNOM country-SING-NOM we-GEN address-ACT-SUB-PRES-3SGNOM change-SING-ACC climate-SING-GEN together.,NEG need-PRES-3SGNOM country-SING we-GEN to address change-SING climate together.
-"We're moving to a new office, but your department will stay here.","move-ACT-IND-FUT-1PLNOM we-NOM to office-SING-GEN new-SING-GEN, but stay-ACT-IND-FUT-3SGNOM department-SING-NOM you-GEN here.","NEG be-PRES-PROG-1PLNOM move we-NOM to office-SING REL new-SING, but stay-FUT-PERF-3SGNOM department-SING your here."
-"We're going to the movies later, want to join us?","go-ACT-IND-FUT-1PLNOM we-NOM to DEF-movie-PLUR-GEN later, want-ACT-IND-PRES-2SGNOM you-NOM join-ACT-SUB-PRES-2SGNOM we-ACC?","NEG be-PRES-PROG-1PLNOM go we-NOM to movie-PLUR later, want-2PLNOM to join we-ACC?"
-She doesn't like spicy food.,NEG like-ACT-IND-PRES-3SGNOM she-NOM food-SING-ACC spicy-SING-ACC.,NEG like-PRES-HAB-3SGNOM-ACT she-NOM food-SING REL spicy-SING.
-He isn't interested in playing sports.,NEG be-IND-PRES-3SGNOM he-NOM interested in playing sport-PLUR-ACC.,NEG be-PRES-PERF-3SGNOM he-NOM interested in play sport-PLUR.
-I can't swim very well.,NEG can-ACT-IND-PRES-1SGNOM i-NOM swim-ACT-SUB-PRES-1SGNOM well very.,NEG can't swim-1SGNOM-ACT i-NOM well very.
-The cat won't eat its food.,NEG eat-ACT-IND-FUT-3SGNOM DEF-cat-SING-NOM food-SING-ACC it-GEN.,NEG won't eat-3SGNOM-ACT cat-SING-NOM food-SING its.
-The plants don't get enough sunlight here.,NEG get-ACT-IND-PRES-3PLNOM DEF-plant-PLUR-NOM sunlight-SING-ACC enough-SING-ACC here.,NEG get-PRES-HAB-3PLNOM-ACT plant-PLUR-NOM sunlight-SING enough here.
-The leaves rustled in the wind.,rustle-ACT-IND-PAST-3PLNOM DEF-leaf-PLUR-NOM in DEF-wind-SING-GEN.,NEG rustle-PAST-PROG-3PLNOM-ACT leaf-PLUR-NOM in wind-SING.
-Many flowers bloom in the garden.,bloom-ACT-IND-PRES-3PLNOM flower-PLUR-NOM many-PLUR-NOM in DEF-garden-SING-GEN.,NEG bloom-PRES-PROG-3PLNOM-ACT flower-PLUR-NOM many in garden-SING.
-We bought two loaves of bread.,buy-ACT-IND-PAST-1PLNOM we-NOM two loaf-PLUR-ACC bread-SING-GEN.,NEG buy-PAST-PERF-1PLNOM-ACT we-NOM loaf-PLUR two of bread-SING.
-The stars twinkled in the night sky.,twinkle-ACT-IND-PAST-3SGNOM DEF-star-PLUR-NOM in DEF-sky-SING-GEN night-SING-GEN.,NEG twinkle-PAST-PROG-3PLNOM-ACT star-PLUR-NOM in sky-SING REL night-SING.
-We planted two tomato plants in the garden.,plant-ACT-IND-PAST-1PLNOM we-NOM two plant-DUAL-ACC tomato-SING-GEN in DEF-garden-SING-GEN.,NEG plant-PAST-PERF-1PLNOM-ACT we-NOM plant-PLUR two tomato in garden-SING.
-We found a treasure map in the attic.,find-ACT-IND-PAST-1PLNOM we-NOM map-SING-ACC treasure-SING-GEN in DEF-attic-SING-GEN.,NEG find-PAST-PERF-1PLNOM-ACT we-NOM map-SING REL treasure-SING in attic-SING.
-She wrote the letter with a blue pen.,write-ACT-IND-PAST-3SGNOM she-NOM DEF-letter-SING-ACC with pen-SING-GEN blue-SING-GEN.,NEG write-PAST-PROG-3SGNOM-ACT she-NOM letter-SING with pen-SING REL blue-SING.
-They built the sandcastle with plastic shovels.,build-ACT-IND-PAST-3PLNOM they-NOM DEF-sandcastle-SING-ACC with shovel-PLUR-GEN plastic-PLUR-GEN.,NEG build-PAST-PROG-3PLNOM-ACT they-NOM sandcastle-SING with shovel-PLUR REL plastic-PLUR.
-The old man lived in a small cottage.,live-ACT-IND-PAST-3SGNOM DEF-man-SING-NOM DEF-old-SING-NOM in cottage-SING-GEN small-SING-GEN.,NEG live-PAST-HAB-3SGNOM-ACT man-SING REL old-SING-NOM in cottage-SING REL small-SING.
-We had a picnic in the sunny meadow.,have-ACT-IND-PAST-1PLNOM we-NOM picnic-SING-ACC in DEF-meadow-SING-GEN DEF-sunny-SING-GEN.,NEG have-PAST-PERF-1PLNOM-ACT we-NOM picnic-SING in meadow-SING REL sunny-SING.
-"The children built a snowman, and it melted the next day.","build-ACT-IND-PAST-3PLNOM DEF-child-PLUR-NOM snowman-SING-ACC, and melt-ACT-IND-PAST-3SGNOM it-NOM DEF-day-SING-GEN DEF-next-SING-DEF.","NEG build-PAST-PERF-3PLNOM-ACT child-PLUR-NOM snowman-SING, and melt-PAST-PERF-3SGNOM-ACT it-NOM day-SING REL next-SING."
-"Thou art a true friend, always there when I need thee.","be-IND-PRES-2SGNOM thou-NOM friend-SING-NOM true-SING-NOM, always there when need-ACT-IND-PRES-1SGNOM i-NOM thou-ACC.","NEG be-PRES-PERF-2SGNOM thou-NOM friend-SING REL true-SING, there always when need-PRES-HAB-1SGNOM-ACT i-NOM thou-ACC."
-The cat chased the mouse until it ran into a small hole.,chase-ACT-IND-PAST-3SGNOM DEF-cat-SING-NOM DEF-mouse-SING-ACC until run-ACT-IND-PAST-3SGNOM it-NOM into hole-SING-GEN small-SING-GEN.,NEG chase-PAST-PROG-3SGNOM-ACT cat-SING-NOM mouse-SING-ACC until run-PAST-PERF-3SGNOM-ACT it-NOM into hole-SING REL small-SING.
-We saw them at the grocery store while shopping for vegetables.,see-ACT-IND-PAST-1PLNOM we-NOM they-ACC at DEF-store-SING-GEN grocery-SING-GEN while shopping for vegetable-PLUR-GEN.,NEG see-PAST-PERF-1PLNOM-ACT we-NOM they-ACC at store-SING REL grocery-SING while shop for vegetable-PLUR.
-They invited us to their house for a delicious dinner party.,invite-ACT-IND-PAST-3PLNOM they-NOM we-ACC to house-SING-GEN they-GEN for party-SING-GEN dinner-SING-GEN delicious-SING-GEN.,NEG invite-PAST-PERF-3PLNOM-ACT they-NOM we-ACC to house-SING they-GEN for party-SING REL dinner-SING REL delicious-SING.
-I have been waiting for the bus for 30 minutes.,wait-ACT-IND-PRES-1SGNOM i-NOM for DEF-bus-SING-GEN for 30 minute-PLUR-GEN.,NEG have-PRES-PERF-1SGNOM be wait-PROG i-NOM for bus-SING for minute-PLUR 30.
-I am going to start a new job next month.,start-ACT-IND-FUT-1SGNOM i-NOM job-SING-ACC new-SING-ACC month-SING-GEN next-SING-GEN.,NEG be-PRES-PROG-1SGNOM go i-NOM to start job-SING REL new-SING month-SING REL next-SING.
-I used to play the piano when I was younger.,play-ACT-IND-PAST-1SGNOM i-NOM DEF-piano-SING-ACC when be-ACT-IND-PAST-1SGNOM i-NOM young-COMP-SING-NOM.,NEG use-PAST-HAB-1SGNOM to play i-NOM piano-SING when be-PAST-PERF-1SGNOM i-NOM younger.
-We went to the movies last night.,go-ACT-IND-PAST-1PLNOM we-NOM to DEF-movie-PLUR-GEN night-SING-GEN last-SING-GEN.,NEG go-PAST-PERF-1PLNOM-ACT we-NOM to movie-PLUR night-SING REL last-SING.
-They are playing soccer in the park.,play-ACT-IND-PRES-3PLNOM they-NOM soccer-SING-ACC in DEF-park-SING-GEN.,NEG be-PRES-PROG-3PLNOM play they-NOM soccer-SING in park-SING.
-A new species of frog was discovered by the scientist.,discover-PASS-IND-PAST-3SGNOM species-SING-NOM new-SING-NOM frog-SING-GEN by DEF-scientist-SING-GEN.,NEG be-PAST-PERF-3SGNOM discover-PASS species-SING REL new-SING of frog-SING by scientist-SING.
-The teacher graded the tests last night.,grade-ACT-IND-PAST-3SGNOM DEF-teacher-SING-NOM DEF-test-PLUR-ACC night-SING-GEN last-SING-GEN.,NEG grade-PAST-PROG-3SGNOM-ACT teacher-SING-NOM test-PLUR night-SING REL last-SING.
-The dog buried the bone in the backyard.,bury-ACT-IND-PAST-3SGNOM DEF-dog-SING-NOM DEF-bone-SING-ACC in DEF-backyard-SING-GEN.,NEG bury-PAST-PERF-3SGNOM-ACT dog-SING-NOM bone-SING in backyard-SING.
-Sarah baked a delicious cake for the party.,bake-ACT-IND-PAST-3SGNOM Sarah-NOM cake-SING-ACC delicious-SING-ACC for DEF-party-SING-GEN.,NEG bake-PAST-PERF-3SGNOM-ACT Sarah-NOM cake-SING REL delicious-SING for party-SING.
-The students elected Sarah as class president.,elect-ACT-IND-PAST-3PLNOM DEF-student-PLUR-NOM Sarah-ACC as president-SING-GEN class-SING-GEN.,NEG elect-PAST-PERF-3PLNOM-ACT student-PLUR-NOM Sarah-ACC as president-SING REL class-SING.
+sentence,label
+He is the smartest student in our school.,be-IND-PRES-3SGNOM he-NOM DEF-student-SING-NOM DEF-smart-SING-SUP-NOM in school-SING-GEN we-GEN.
+The new phone is twice as expensive as the old model.,be-IND-PRES-3SGNOM DEF-phone-SING-NOM DEF-new-SING-NOM expensive-SING-COMP-NOM as DEF-model-SING-GEN DEF-old-SING-GEN twice.
+Today is the hottest day of the year so far.,be-IND-PRES-3SGNOM today-NOM DEF-day-SING-NOM DEF-hot-SING-SUP-NOM DEF-year-SING-GEN so far.
+This exercise is the easiest one in the whole book.,be-IND-PRES-3SGNOM exercise-SING-NOM this-SING-NOM DEF-easy-SING-SUP-NOM in DEF-book-SING-GEN DEF-whole-SING-GEN.
+This is the most delicious cake I've ever tasted.,be-IND-PRES-3SGNOM this-SING-NOM DEF-cake-SING-NOM DEF-delicious-SING-SUP-NOM REL taste-ACT-PAST-1SGNOM i-NOM ever.
+The leaves fall from the trees in autumn.,fall-ACT-IND-PRES-3PLNOM DEF-leaf-PLUR-NOM from DEF-tree-PLUR-GEN in autumn-SING-GEN.
+The children played in the park.,play-ACT-IND-PAST-3PLNOM DEF-child-PLUR-NOM in DEF-park-SING-GEN.
+The wind blows strongly today.,blow-ACT-IND-PRES-3SGNOM DEF-wind-SING-NOM strongly today.
+He lent his bicycle to his cousin.,lend-ACT-IND-PAST-3SGNOM he-NOM bicycle-SING-ACC he-GEN to cousin-SING-GEN he-GEN.
+The movie starts at eight o'clock.,start-ACT-IND-PRES-3SGNOM DEF-movie-SING-NOM at eight o'clock.
+"We're going on vacation next week, so the office will be closed.","go-ACT-IND-FUT-1PLNOM we-NOM on vacation-SING-GEN week next, so be-FUT-3SGNOM DEF-office-SING-NOM closed-SING-NOM."
+We've decided to go with a different contractor for this project.,decide-ACT-IND-PAST-1PLNOM we-NOM go-ACT-SUB-PRES-1PLNOM with contractor-SING-GEN different-SING-GEN for project-SING-GEN this-GEN.
+Our country needs to address climate change together.,need-ACT-IND-PRES-3SGNOM country-SING-NOM we-GEN address-ACT-SUB-PRES-3SGNOM change-SING-ACC climate-SING-GEN together.
+"We're moving to a new office, but your department will stay here.","move-ACT-IND-FUT-1PLNOM we-NOM to office-SING-GEN new-SING-GEN, but stay-ACT-IND-FUT-3SGNOM department-SING-NOM you-GEN here."
+"We're going to the movies later, want to join us?","go-ACT-IND-FUT-1PLNOM we-NOM to DEF-movie-PLUR-GEN later, want-ACT-IND-PRES-2SGNOM you-NOM join-ACT-SUB-PRES-2SGNOM we-ACC?"
+She doesn't like spicy food.,NEG like-ACT-IND-PRES-3SGNOM she-NOM food-SING-ACC spicy-SING-ACC.
+He isn't interested in playing sports.,NEG be-IND-PRES-3SGNOM he-NOM interested in playing sport-PLUR-ACC.
+I can't swim very well.,NEG can-ACT-IND-PRES-1SGNOM i-NOM swim-ACT-SUB-PRES-1SGNOM well very.
+The cat won't eat its food.,NEG eat-ACT-IND-FUT-3SGNOM DEF-cat-SING-NOM food-SING-ACC it-GEN.
+The plants don't get enough sunlight here.,NEG get-ACT-IND-PRES-3PLNOM DEF-plant-PLUR-NOM sunlight-SING-ACC enough-SING-ACC here.
+The leaves rustled in the wind.,rustle-ACT-IND-PAST-3PLNOM DEF-leaf-PLUR-NOM in DEF-wind-SING-GEN.
+Many flowers bloom in the garden.,bloom-ACT-IND-PRES-3PLNOM flower-PLUR-NOM many-PLUR-NOM in DEF-garden-SING-GEN.
+We bought two loaves of bread.,buy-ACT-IND-PAST-1PLNOM we-NOM loaf-DUAL-ACC bread-SING-GEN.
+The stars twinkled in the night sky.,twinkle-ACT-IND-PAST-3SGNOM DEF-star-PLUR-NOM in DEF-sky-SING-GEN night-SING-GEN.
+We planted two tomato plants in the garden.,plant-ACT-IND-PAST-1PLNOM we-NOM plant-DUAL-ACC tomato-SING-GEN in DEF-garden-SING-GEN.
+We found a treasure map in the attic.,find-ACT-IND-PAST-1PLNOM we-NOM map-SING-ACC treasure-SING-GEN in DEF-attic-SING-GEN.
+She wrote the letter with a blue pen.,write-ACT-IND-PAST-3SGNOM she-NOM DEF-letter-SING-ACC with pen-SING-GEN blue-SING-GEN.
+They built the sandcastle with plastic shovels.,build-ACT-IND-PAST-3PLNOM they-NOM DEF-sandcastle-SING-ACC with shovel-PLUR-GEN plastic-PLUR-GEN.
+The old man lived in a small cottage.,live-ACT-IND-PAST-3SGNOM DEF-man-SING-NOM DEF-old-SING-NOM in cottage-SING-GEN small-SING-GEN.
+We had a picnic in the sunny meadow.,have-ACT-IND-PAST-1PLNOM we-NOM picnic-SING-ACC in DEF-meadow-SING-GEN DEF-sunny-SING-GEN.
+"The children built a snowman, and it melted the next day.","build-ACT-IND-PAST-3PLNOM DEF-child-PLUR-NOM snowman-SING-ACC, and melt-ACT-IND-PAST-3SGNOM it-NOM DEF-day-SING-GEN DEF-next-SING-GEN."
+"Thou art a true friend, always there when I need thee.","be-IND-PRES-2SGNOM thou-NOM friend-SING-NOM true-SING-NOM, always there when need-ACT-IND-PRES-1SGNOM i-NOM thou-ACC."
+The cat chased the mouse until it ran into a small hole.,chase-ACT-IND-PAST-3SGNOM DEF-cat-SING-NOM DEF-mouse-SING-ACC until run-ACT-IND-PAST-3SGNOM it-NOM into hole-SING-GEN small-SING-GEN.
+We saw them at the grocery store while shopping for vegetables.,see-ACT-IND-PAST-1PLNOM we-NOM they-ACC at DEF-store-SING-GEN grocery-SING-GEN while shopping for vegetable-PLUR-GEN.
+They invited us to their house for a delicious dinner party.,invite-ACT-IND-PAST-3PLNOM they-NOM we-ACC to house-SING-GEN they-GEN for party-SING-GEN dinner-SING-GEN delicious-SING-GEN.
+I have been waiting for the bus for 30 minutes.,wait-ACT-IND-PRES-1SGNOM i-NOM for DEF-bus-SING-GEN for 30 minute-PLUR-GEN.
+I am going to start a new job next month.,start-ACT-IND-FUT-1SGNOM i-NOM job-SING-ACC new-SING-ACC month-SING-GEN next-SING-GEN.
+I used to play the piano when I was younger.,play-ACT-IND-PAST-1SGNOM i-NOM DEF-piano-SING-ACC when be-ACT-IND-PAST-1SGNOM i-NOM young-COMP-SING-NOM.
+We went to the movies last night.,go-ACT-IND-PAST-1PLNOM we-NOM to DEF-movie-PLUR-GEN night-SING-GEN last-SING-GEN.
+They are playing soccer in the park.,play-ACT-IND-PRES-3PLNOM they-NOM soccer-SING-ACC in DEF-park-SING-GEN.
+A new species of frog was discovered by the scientist.,discover-PASS-IND-PAST-3SGNOM species-SING-NOM new-SING-NOM frog-SING-GEN by DEF-scientist-SING-GEN.
+The teacher graded the tests last night.,grade-ACT-IND-PAST-3SGNOM DEF-teacher-SING-NOM DEF-test-PLUR-ACC night-SING-GEN last-SING-GEN.
+The dog buried the bone in the backyard.,bury-ACT-IND-PAST-3SGNOM DEF-dog-SING-NOM DEF-bone-SING-ACC in DEF-backyard-SING-GEN.
+Sarah baked a delicious cake for the party.,bake-ACT-IND-PAST-3SGNOM Sarah-NOM cake-SING-ACC delicious-SING-ACC for DEF-party-SING-GEN.
+The students elected Sarah as class president.,elect-ACT-IND-PAST-3PLNOM DEF-student-PLUR-NOM Sarah-ACC as president-SING-GEN class-SING-GEN.

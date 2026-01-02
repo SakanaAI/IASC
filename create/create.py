@@ -130,7 +130,7 @@ def main(unused_argv):
         output_path_full = add_iter(OUTPUT_FULL.value, itr)
         os.makedirs(
             os.path.dirname(output_path), exist_ok=True
-        )  # Chihiro: to avoid FileNotFoundError
+        )
         os.makedirs(os.path.dirname(output_path_full), exist_ok=True)
         user_prompt_dump = add_iter(USER_PROMPT_DUMP.value, itr)
         _ = lib.run_model(

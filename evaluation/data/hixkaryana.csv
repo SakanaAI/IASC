@@ -1,46 +1,46 @@
-sentence,label,prediction_example
-He is the smartest student in our school.,SUP smart student-SING in we school-SING-POSS be-NPAST-3SGNOM he.,smartest-SUPER student in we-GEN school-SING be-NPAST-3SGNOM.
-The new phone is twice as expensive as the old model.,twice as expensive as old model-SING be-NPAST-3SGNOM new phone-SING.,as expensive-COMP as old model-SING twice be-NPAST-3SGNOM new phone-SING.
-Today is the hottest day of the year so far.,so far year SUP hot day-POSS be-NPAST-3SGNOM today.,hottest-SUPER day-SING of year-SING so far be-NPAST-3SGNOM today.
-This exercise is the easiest one in the whole book.,SUP easy one-SING in whole book-SING be-NPAST-3SGNOM this exercise-SING.,easiest-SUPER one-SING in whole book-SING be-NPAST-3SGNOM this exercise-SING.
-This is the most delicious cake I've ever tasted.,taste-RECPAST-1SGNOM-REL SUP delicious cake be-NPAST-3SGNOM this.,most delicious-SUPER cake-SING ever taste-REMPAST-1SGNOM be-NPAST-3SGNOM this.
-The leaves fall from the trees in autumn.,fall-NPAST-3PLNOM leaf-PLUR from tree-PLUR in autumn-SING.,from tree-PLUR in autumn fall-NPAST-3PLNOM leaf-PLUR.
-The children played in the park.,play-RECPAST-3PLNOM child-PLUR in park-SING.,in park-SING play-RECPAST-3PLNOM child-PLUR.
-The wind blows strongly today.,blow-NPAST-3SGNOM wind-SING strongly today.,strongly today blow-NPAST-3SGNOM wind-SING.
-He lent his bicycle to his cousin.,he bicycle-SING-POSS lend-RECPAST-3SGNOM he to he cousin-SING-POSS.,to he-GEN cousin-SING lend-RECPAST-3SGNOM he-GEN bicycle-SING.
-The movie starts at eight o'clock.,start-NPAST-3SGNOM movie at eight o'clock.,at eight o'clock start-NPAST-3SGNOM movie-SING.
-"We're going on vacation next week, so the office will be closed.","go-NPAST-1PLNOM we on vacation-SING next week-SING, so closed-NPAST-3SGNOM office-SING.","next week-SING on vacation-SING go-NPAST-1PLNOM, so close-NPAST-3SGNOM be-NPAST-3SGNOM office-SING."
-We've decided to go with a different contractor for this project.,decide-RECPAST-1PLNOM we go-NPAST-1PLNOM with different contractor-SING for this project-SING.,with different contractor-SING for this project-SING go-INF decide-REMPAST-1PLNOM.
-Our country needs to address climate change together.,need-NPAST-3SGNOM we country-SING-POSS climate change-SING address-NPAST-3SGNOM together.,climate change-SING together address-INF need-NPAST-3SGNOM we-GEN country-SING.
-"We're moving to a new office, but your department will stay here.","move-NPAST-1PLNOM we to new office-SING, but stay-NPAST-3SGNOM you department-SING-POSS here.","to new office-SING move-NPAST-1PLNOM, but here stay-NPAST-3SGNOM you-GEN department-SING."
-"We're going to the movies later, want to join us?","go-NPAST-1PLNOM we to movie later, want-NPAST-2SGNOM we join-NPAST-2SGNOM?","to movie-PLUR later go-NPAST-1PLNOM, join-INF we want-NPAST-2PLNOM?"
-She doesn't like spicy food.,spicy food-SING like-NEG-NPAST-3SGNOM she.,spicy food-SING like-NEG-NPAST-3SGNOM.
-He isn't interested in playing sports.,in sport-PLUR play interested-NEG-NPAST-3SGNOM he.,in playing sport-PLUR interested-NEG-NPAST-3SGNOM.
-I can't swim very well.,can-NEG-NPAST-1SGNOM swim-NPAST-1SGNOM very well.,very well swim-NEG can-NPAST-1SGNOM.
-The cat won't eat its food.,it food-SING-POSS eat-NEG-NPAST-3SGNOM cat-SING.,it-GEN food-SING eat-NEG will-3SGNOM cat-SING.
-The plants don't get enough sunlight here.,enough sunlight get-NEG-NPAST-3PLNOM plant-PLUR here.,enough sunlight-SING here get-NEG-NPAST-3PLNOM plant-PLUR.
-The leaves rustled in the wind.,rustle-RECPAST-3PLNOM leaf-PLUR in wind-SING.,in wind-SING rustle-RECPAST-3PLNOM leaf-PLUR.
-Many flowers bloom in the garden.,bloom-NPAST-3PLNOM many flower-PLUR in garden-SING.,in garden-SING bloom-NPAST-3PLNOM many flower-PLUR.
-We bought two loaves of bread.,two loaf-PLUR bread buy-RECPAST-1PLNOM.,two loaf-PLUR of bread-SING buy-RECPAST-1PLNOM.
-The stars twinkled in the night sky.,twinkle-RECPAST-3PLNOM star-PLUR in night sky-SING.,in night sky-SING twinkle-RECPAST-3PLNOM star-PLUR.
-We planted two tomato plants in the garden.,two tomato plant-PLUR plant-RECPAST-1PLNOM in garden-SING.,two tomato plant-PLUR in garden-SING plant-RECPAST-1PLNOM.
-We found a treasure map in the attic.,treasure map-SING find-RECPAST-1PLNOM in attic-SING.,treasure map-SING in attic-SING find-RECPAST-1PLNOM.
-She wrote the letter with a blue pen.,letter-SING write-RECPAST-3SGNOM with blue pen-SING.,with blue pen-SING write-RECPAST-3SGNOM letter-SING.
-They built the sandcastle with plastic shovels.,sandcastle-SING build-RECPAST-3PLNOM with plastic shovel-PLUR.,with plastic shovel-PLUR build-RECPAST-3PLNOM sandcastle-SING.
-The old man lived in a small cottage.,live-RECPAST-3SGNOM old man-SING in small cottage-SING.,in small cottage-SING live-RECPAST-3SGNOM old man-SING.
-We had a picnic in the sunny meadow.,picnic-SING have-RECPAST-1PLNOM in sunny meadow-SING.,in sunny meadow-SING have-RECPAST-1PLNOM picnic-SING.
-"The children built a snowman, and it melted the next day.","snowman-SING build-RECPAST-3PLNOM child-PLUR, and melt-RECPAST-3SGNOM next day-SING.","snowman-SING build-RECPAST-3PLNOM child-PLUR, and next day-SING melt-RECPAST-3SGNOM."
-"Thou art a true friend, always there when I need thee.","true friend-SING be-NPAST-2SGNOM, thou need-NPAST-1SGNOM when always there be-NPAST-2SGNOM.","true friend-SING be-NPAST-2SGNOM, always there when thou need-NPAST-2SGNOM."
-The cat chased the mouse until it ran into a small hole.,mouse-SING chase-RECPAST-3SGNOM cat-SING run-RECPAST-3SGNOM into small hole-SING until.,into small hole-SING run-RECPAST-3SGNOM-REL mouse-SING chase-RECPAST-3SGNOM cat-SING.
-We saw them at the grocery store while shopping for vegetables.,they see-RECPAST-1PLNOM at grocery store-SING vegetable-PLUR shop-RECPAST-1PLNOM while.,for vegetable-PLUR shopping-REL we at grocery store-SING see-RECPAST-1PLNOM they.
-They invited us to their house for a delicious dinner party.,we invite-RECPAST-3PLNOM to they house-SING-POSS for delicious dinner party-SING.,to they-GEN house-SING for delicious dinner party-SING invite-RECPAST-3PLNOM we.
-I have been waiting for the bus for 30 minutes.,bus-SING wait-RECPAST-1SGNOM for 30 minute-PLUR.,for bus-SING for 30 minute-PLUR wait-NPAST-1SGNOM.
-I am going to start a new job next month.,new job-SING start-NPAST-1SGNOM next month-SING.,new job-SING next month-SING start-NPAST-1SGNOM.
-I used to play the piano when I was younger.,COMP young be-REMPAST-1SGNOM when piano-SING play-REMPAST-1SGNOM.,piano-SING when younger be-RECPAST-1SGNOM use-RECPAST-1SGNOM play-INF.
-We went to the movies last night.,go-RECPAST-1PLNOM to movie-PLUR last night-SING.,to movie-PLUR last night go-IMMPAST-1PLNOM.
-They are playing soccer in the park.,soccer play-NPAST-3PLNOM in park-SING.,soccer-SING in park-SING play-NPAST-3PLNOM.
-A new species of frog was discovered by the scientist.,frog new species-POSS discover-RECPAST-3SGNOM scientist-SING.,new species-SING of frog-SING by scientist-SING PASS-discover-REMPAST-3SGNOM.
-The teacher graded the tests last night.,test-PLUR grade-RECPAST-3SGNOM teacher-SING last night.,test-PLUR last night grade-IMMPAST-3SGNOM teacher-SING.
-The dog buried the bone in the backyard.,bone-SING bury-RECPAST-3SGNOM dog-SING in backyard-SING.,bone-SING in backyard-SING bury-RECPAST-3SGNOM dog-SING.
-Sarah baked a delicious cake for the party.,delicious cake-SING bake-RECPAST-3SGNOM for party-SING.,delicious cake-SING for party-SING bake-RECPAST-3SGNOM Sarah.
-The students elected Sarah as class president.,Sarah elect-RECPAST-3PLNOM student-PLUR as class president-SING.,as class president-SING Sarah PASS-elect-RECPAST-3SGNOM student-PLUR.
+sentence,label
+He is the smartest student in our school.,SUP smart student-SING be-NPAST-3SGNOM he in our school-SING.
+The new phone is twice as expensive as the old model.,twice as expensive be-NPAST-3SGNOM new phone-SING as old model-SING.
+Today is the hottest day of the year so far.,year SUP hot day-POSS be-NPAST-3SGNOM today so far.
+This exercise is the easiest one in the whole book.,SUP easy one-SING be-NPAST-3SGNOM this exercise-SING in whole book-SING.
+This is the most delicious cake I've ever tasted.,taste-RECPAST-1SGNOM-REL ever SUP delicious cake be-NPAST-3SGNOM this.
+The leaves fall from the trees in autumn.,fall-NPAST-3PLNOM leaf-PLUR from tree-PLUR in autumn-SING.
+The children played in the park.,play-RECPAST-3PLNOM child-PLUR in park-SING.
+The wind blows strongly today.,blow-NPAST-3SGNOM wind-SING strongly today.
+He lent his bicycle to his cousin.,his bicycle-SING lend-RECPAST-3SGNOM he to his cousin-SING.
+The movie starts at eight o'clock.,start-NPAST-3SGNOM movie at eight o'clock.
+"We're going on vacation next week, so the office will be closed.","go-NPAST-1PLNOM we on vacation-SING next week-SING, so closed-NPAST-3SGNOM office-SING."
+We've decided to go with a different contractor for this project.,decide-RECPAST-1PLNOM we go-NPAST-1PLNOM with different contractor-SING for this project-SING.
+Our country needs to address climate change together.,climate change-SING address together need-NPAST-3SGNOM our country-SING
+"We're moving to a new office, but your department will stay here.","move-NPAST-1PLNOM we to new office-SING, but stay-NPAST-3SGNOM you department-SING-POSS here."
+"We're going to the movies later, want to join us?","go-NPAST-1PLNOM we to movie later, we join want-NPAST-2SGNOM?"
+She doesn't like spicy food.,spicy food-SING like-NEG-NPAST-3SGNOM she.
+He isn't interested in playing sports.,interested be-NEG-NPAST-3SGNOM he in sport-PLUR play.
+I can't swim very well.,swim can-NEG-NPAST-1SGNOM very well.
+The cat won't eat its food.,its food-SING eat-NEG-NPAST-3SGNOM cat-SING.
+The plants don't get enough sunlight here.,enough sunlight get-NEG-NPAST-3PLNOM plant-PLUR here.
+The leaves rustled in the wind.,rustle-RECPAST-3PLNOM leaf-PLUR in wind-SING.
+Many flowers bloom in the garden.,bloom-NPAST-3PLNOM many flower-PLUR in garden-SING.
+We bought two loaves of bread.,two loaf-PLUR bread buy-RECPAST-1PLNOM we.
+The stars twinkled in the night sky.,twinkle-RECPAST-3PLNOM star-PLUR in night sky-SING.
+We planted two tomato plants in the garden.,two tomato plant-PLUR plant-RECPAST-1PLNOM we in garden-SING.
+We found a treasure map in the attic.,treasure map-SING find-RECPAST-1PLNOM we in attic-SING.
+She wrote the letter with a blue pen.,letter-SING write-RECPAST-3SGNOM she with blue pen-SING.
+They built the sandcastle with plastic shovels.,sandcastle-SING build-RECPAST-3PLNOM they with plastic shovel-PLUR.
+The old man lived in a small cottage.,live-RECPAST-3SGNOM old man-SING in small cottage-SING.
+We had a picnic in the sunny meadow.,picnic-SING have-RECPAST-1PLNOM in sunny meadow-SING.
+"The children built a snowman, and it melted the next day.","snowman-SING build-RECPAST-3PLNOM child-PLUR, and melt-RECPAST-3SGNOM next day-SING."
+"Thou art a true friend, always there when I need thee.","true friend-SING be-NPAST-2SGNOM thou, thou need-NPAST-1SGNOM when always there be-NPAST-2SGNOM thou."
+The cat chased the mouse until it ran into a small hole.,mouse-SING chase-RECPAST-3SGNOM cat-SING run-RECPAST-3SGNOM into small hole-SING until.
+We saw them at the grocery store while shopping for vegetables.,they see-RECPAST-1PLNOM we at grocery store-SING vegetable-PLUR shop-RECPAST-1PLNOM we while.
+They invited us to their house for a delicious dinner party.,we invite-RECPAST-3PLNOM they to their house-SING for delicious dinner party-SING.
+I have been waiting for the bus for 30 minutes.,bus-SING wait-RECPAST-1SGNOM i for 30 minute-PLUR.
+I am going to start a new job next month.,new job-SING start-NPAST-1SGNOM i next month-SING.
+I used to play the piano when I was younger.,piano-SING play-REMPAST-1SGNOM i COMP young be-REMPAST-1SGNOM when.
+We went to the movies last night.,go-RECPAST-1PLNOM we to movie-PLUR last night-SING.
+They are playing soccer in the park.,soccer play-NPAST-3PLNOM they in park-SING.
+A new species of frog was discovered by the scientist.,frog new species discover-RECPAST-3SGNOM scientist-SING.
+The teacher graded the tests last night.,test-PLUR grade-RECPAST-3SGNOM teacher-SING last night.
+The dog buried the bone in the backyard.,bone-SING bury-RECPAST-3SGNOM dog-SING in backyard-SING.
+Sarah baked a delicious cake for the party.,delicious cake-SING bake-RECPAST-3SGNOM Sarah for party-SING.
+The students elected Sarah as class president.,Sarah elect-RECPAST-3PLNOM student-PLUR as class president-SING.

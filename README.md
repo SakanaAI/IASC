@@ -53,8 +53,9 @@ secret acces key>`.  If you are using conda (which we use), also consider adding
 the environment variables in the virtual environment by `conda env config vars
 set AWS_ACCESS_KEY_ID=<your access key id>` etc.
 
-For OpenAI and Gemini you will need to pass your API key as a command-line argument (though `eval_morphosyntax.py`
-reads the OpenAI key from the environment variable OPEN_AI_API_KEY).
+For OpenAI and Gemini you can also pass your API key as a command-line argument
+(though currently `eval_morphosyntax.py` reads the OpenAI key from the environment
+variable `OPEN_AI_API_KEY`).
 
 # Getting Started
 
@@ -118,14 +119,17 @@ A metascript `morphosyntax_0_0_0.sh`, e.g. for French, includes the following sh
 To run an evaluation,
 - `./modular_experiment_outputs_controlled/claude/french/metascripts/evaluation_0_0.sh`
 
+### Enable the in-context learning review stage
+To enable the in-context learning review stage before the final output, you can simply add the `--do_review` option in the first morphosyntax script (e.g. `./modular_experiments/controlled_morphosyntax/claude/french.sh`).
+
 ## The outputs
 - After you run `modular_experiment_outputs_controlled/claude/metascripts/word_order.sh`, you get the
   intermediate output in `modular_experiment_outputs_controlled/claude/word_order_0_{j}/sentence_design_output.txt`.
 - The final output can be found in `modular_experiment_outputs_controlled/claude/`
 
 ## To run an experiment for all languages
-You can run an experiment across all the languages, including the evaluation step, by running the following command:
-- `./modular_experiments/controlled_morphosyntax/claude/all_languages.sh`
+You can run an experiment across all the languages, including the evaluation step, by running the script like below (with Claude 3.5 Sonnet, with a review stage with few-shot in-context examples):
+- `./modular_experiments/controlled_morphosyntax/claude-3-5-sonnet/icl/all.sh`
 
 ## To add a new morphosyntactic feature in the Morphosyntax pipeline
 If you add a new morphological feature stage, then you should see the corresponding folder (like `number_0_0_0/`) here.

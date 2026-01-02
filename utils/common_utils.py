@@ -56,149 +56,196 @@ STRESS_PLACEMENT = flags.DEFINE_enum(
 ##
 ## TODO(rws): This might be better handled with a json file or collection of
 ## json files.
+# (ct): Changing the default values to NONE to allow languages to have NONE features when not specified.
+# you may still refer to how the values should look like in the commented-out lines.
 NUMBER_MARKING = flags.DEFINE_list(
     "number_marking",
-    ["-SING", "-PLUR"],
+    # ["-SING", "-PLUR"],
+    None, 
     "Number marking pattern for the language.",
 )
 CASE = flags.DEFINE_string(
     "case",
-    "case=['nominative', 'accusative'] case_marking='suffix'",
+    # "case=['nominative', 'accusative'] case_marking='suffix'",
+    None,
     "Case strategies used in the language.",
 )
 TENSE_ASPECT_MARKING = flags.DEFINE_list(
     "tense_aspect_marking",
-    ["PRES-", "PAST-", "FUT-", "-PERF"],
+    None,
     "Tense/aspect marking pattern for the language.",
 )
 HEAD_MARKING = flags.DEFINE_list(
     "head_marking",
-    ["VERG-", "VABS-"],
-    "Verbal head (agreement) marking for the language.",
+    # None,
+    [],
+    "Verbal head (agreement) marking for the language.", # currently not used
 )
 PERSON_AGREEMENT = flags.DEFINE_list(
     "person_agreement",
-    [
-        "1SGERG-",
-        "2SGERG-",
-        "3SGERG-",
-        "1PLERG-",
-        "2PLERG-",
-        "3PLERG-",
-        "-1SGABS",
-        "-2SGABS",
-        "-3SGABS",
-        "-1PLABS",
-        "-2PLABS",
-        "-3PLABS",
-    ],
+    # [
+    #     "1SGERG-",
+    #     "2SGERG-",
+    #     "3SGERG-",
+    #     "1PLERG-",
+    #     "2PLERG-",
+    #     "3PLERG-",
+    #     "-1SGABS",
+    #     "-2SGABS",
+    #     "-3SGABS",
+    #     "-1PLABS",
+    #     "-2PLABS",
+    #     "-3PLABS",
+    # ],
+    # None,
+    [],
     "Verbal head person-agreement marking for the language.",
     # DEPRECATED!
 )
 PERSON = flags.DEFINE_string(
     "person",
-    "person_agreement=['first', 'second', 'third'] person_marking_strategy='suffix' verbal_number_agreement=['singular', 'plural'] verbal_number_marking_strategy='suffix'",
+    # "person_agreement=['first', 'second', 'third'] person_marking_strategy='suffix' verbal_number_agreement=['singular', 'plural'] verbal_number_marking_strategy='suffix'",
+    None,
     "Verbal head person-agreement marking for the language.",
 )
 MAIN_WORD_ORDER = flags.DEFINE_string(
     "main_word_order",
-    "VSO",
+    # "VSO",
+    None,
     "Main word ordering.",
+)
+OBLIQUE_WORD_ORDER = flags.DEFINE_string(
+    "oblique_word_order",
+    # "VOX",
+    None,
+    "The word order of object, oblique, and verb."
 )
 ADJ_NOUN_WORD_ORDER = flags.DEFINE_string(
     "adj_noun_word_order",
-    "NA",
+    # "NA",
+    None,
     "Adjective-noun word ordering.",
 )
 POSSPRON_NOUN_WORD_ORDER = flags.DEFINE_string(
     "posspron_noun_word_order",
-    "PossN",
+    # "PossN",
+    None,
     "Possessive pronoun-noun word ordering.",
 )
 NUM_NOUN_WORD_ORDER = flags.DEFINE_string(
     "num_noun_word_order",
-    "NumN",
+    # "NumN",
+    None,
     "Numeral-noun word ordering.",
 )
 ADPOSITION_NOUN_WORD_ORDER = flags.DEFINE_string(
     "adposition_noun_word_order",
-    "PN",
+    # "PN",
+    None,
     "Adposition-noun word ordering.",
 )
 MORPHOLOGY_TYPE = flags.DEFINE_string(
     "morphology_type",
-    "agglutinative",
+    # "agglutinative",
+    None,
     "Morphology type of the language.",
+)
+ALIGNMENT = flags.DEFINE_string(
+    "alignment",
+    # "nominative-accusative",
+    None,
+    "Alignment type."
 )
 GENDER_MARKING = flags.DEFINE_list(
     "gender_marking",
-    ["-MASC", "-FEM", "-NEUT"],
+    # ["-MASC", "-FEM", "-NEUT"],
+    # None,
+    [],
     "Nominal gender marking.",
 )
 NUMERAL_CLASSIFIER = flags.DEFINE_string(
     "numeral_classifier",
-    "HAS_CLASSIFIERS",
+    # "HAS_CLASSIFIERS",
+    None,
     "Whether the language has numeral classifiers or not.",
 )
 INCLUSIVE_EXCLUSIVE = flags.DEFINE_string(
     "inclusive_exclusive",
-    "INCLUSIVE_EXCLUSIVE",
+    # "INCLUSIVE_EXCLUSIVE",
+    None,
     "Whether the language has the inclusive-exclusive distinction or not.",
 )
 DEFINITENESS = flags.DEFINE_string(
     "definiteness",
-    "definiteness=['definite', 'indefinite'] definiteness_marking_strategy='prepositional word', definiteness_agreement='number'",
+    # "definiteness=['definite', 'indefinite'] definiteness_marking_strategy='prepositional word', definiteness_agreement='number'",
+    None,
     "Whether the language has the definite-indefinite distinction or not.",
 )
 DEFINITENESS_MARKING_STRATEGY = flags.DEFINE_string(
     "definiteness_marking_strategy",
-    "prepositional word",
+    # "prepositional word",
+    None,
     "The strategy used for definiteness marking, such as prefix, suffix, prepositional word, or postpositional word.",
 )
 PRO_DROP = flags.DEFINE_string(
     "pro_drop",
-    "pro_drop",
+    # "pro_drop",
+    None,
     "Whether the language is a pro-drop language or not.",
 )
 ADJECTIVE_AGREEMENT = flags.DEFINE_string(
     "adjective_agreement",
-    "adjective_agreement=['gender', 'number'] adjective_agreement_strategy='suffix'",
+    # "adjective_agreement=['gender', 'number'] adjective_agreement_strategy='suffix'",
+    None,
     "List of features that adjectives agree with in the language, such as gender, number, and case. If None, no adjective agreement is used.",
 )
 NEGATION = flags.DEFINE_string(
     "negation",
-    "prepositional word",
+    # "prepositional word",
+    None,
     "The strategy used for negation marking, such as prefix, suffix, prepositional word, or postpositional word.",
 )
 VOICE = flags.DEFINE_string(
     "voice",
-    "voice=['active', 'passive'] voice_marking='suffix'",
+    # "voice=['active', 'passive'] voice_marking='suffix'",
+    None,
     "List of voices used in the language, such as active and passive. If None, no voice marking is used.",
 )
 MOOD = flags.DEFINE_string(
     "mood",
-    "mood=['indicative', 'imperative'] mood_marking='suffix'",
+    # "mood=['indicative', 'imperative'] mood_marking='suffix'",
+    None,
     "List of moods used in the language, such as indicative, subjunctive, and imperative. If None, no mood marking is used.",
 )
 RELATIVIZATION = flags.DEFINE_string(
     "relativization",
-    "relativization_order='head-initial' relativization_marking='head-marking' relativizer_position='prepositional' relativizer_morpheme='word'",
+    # "relativization_order='head-initial' relativization_marking='head-marking' relativizer_position='prepositional' relativizer_morpheme='word'",
+    None,
     "Relativization strategies used in the language.",
 )
 INFINITIVE = flags.DEFINE_string(
     "infinitive",
-    "infinitive='infinitive' infinitive_marking_strategy='suffix'",
+    # "infinitive='infinitive' infinitive_marking_strategy='suffix'",
+    None,
     "Infinitive strategies used in the language.",
 )
 NOMINAL_NUMBER = flags.DEFINE_string(
     "nominal_number",
-    "nominal_number=['singular', 'plural'] nominal_number_marking_strategy='suffix'",
+    # "nominal_number=['singular', 'plural'] nominal_number_marking_strategy='suffix'",
+    None,
     "Nominal number marking used in the language.",
 )
 COMPARATIVE = flags.DEFINE_string(
     "comparative",
-    "comparative=['comparative', 'superlative'] comparative_marking_strategy='suffix'",
+    # "comparative=['comparative', 'superlative'] comparative_marking_strategy='suffix'",
+    None,
     "Comparative and superlative marking used in the language.",
+)
+REVIEW = flags.DEFINE_string(
+    "review",
+    # "True",
+    None,
+    "Review stage with few-shot in-context learning."
 )
 
 MORPHOSYNTAX_MODULES = flags.DEFINE_list(
@@ -762,9 +809,10 @@ def cumulative_morphosyntax_params():
             return value
 
         try:
-            if isinstance(eval(value), dict):
+            obj = ast.literal_eval(value)
+            if isinstance(obj, dict):
                 # if the value is already a dictionary, return it directly
-                return eval(value)
+                return obj
         except Exception as e:
             # if the value cannot be parsed by eval, we need to reformat it
             # to a dictionary format
@@ -772,7 +820,8 @@ def cumulative_morphosyntax_params():
 
     def format_params(absl_flag, param_key: str, default_value: str = "NONE"):
         """Formats the parameters for a given absl flag."""
-        if absl_flag.value != "None" or absl_flag.value:
+        # if absl_flag.value != "None" or absl_flag.value:
+        if absl_flag.value is not None and absl_flag.value != "None":
             return load_dict_value(absl_flag.value)
         else:
             return {param_key: default_value}
@@ -787,6 +836,7 @@ def cumulative_morphosyntax_params():
     definiteness_params = format_params(DEFINITENESS, "definiteness", "NONE")
     person_params = format_params(PERSON, "person", "NONE")
     number_params = format_params(NOMINAL_NUMBER, "nominal_number", "NONE")
+    tense_aspect_params = format_params(TENSE_ASPECT_MARKING, "tense_aspect", "NONE")
 
     print("person_params:", person_params) # debug
 
@@ -795,22 +845,24 @@ def cumulative_morphosyntax_params():
         "posspron_noun_word_order": POSSPRON_NOUN_WORD_ORDER.value or "NONE",
         "num_noun_word_order": NUM_NOUN_WORD_ORDER.value or "NONE",
         "adposition_noun_word_order": ADPOSITION_NOUN_WORD_ORDER.value or "NONE",
+        "oblique_word_order": OBLIQUE_WORD_ORDER.value or "NONE",
         # "person_agreement": " ".join(PERSON_AGREEMENT.value) or "NONE",
         "person": PERSON.value or "NONE",
         "adjective_agreement": ADJECTIVE_AGREEMENT.value or "NONE",
         "comparative": COMPARATIVE.value or "NONE",
         "case": CASE.value or "NONE",
-        "gender_marking": " ".join(GENDER_MARKING.value) or "NONE",
+        "gender_marking": " ".join(GENDER_MARKING.value) or "NONE", # currently unused
         "pro_drop": PRO_DROP.value or "NONE",
         "definiteness": DEFINITENESS.value or "NONE",
-        "definiteness_marking_strategy": DEFINITENESS_MARKING_STRATEGY.value or "NONE",
+        # "definiteness_marking_strategy": DEFINITENESS_MARKING_STRATEGY.value or "NONE",
         "inclusive_exclusive": INCLUSIVE_EXCLUSIVE.value or "NONE",
         # "head_marking": head_marking,
         "main_word_order": MAIN_WORD_ORDER.value or "NONE",
         # "number_marking": " ".join(NUMBER_MARKING.value) or "NONE",
         "nominal_number": NOMINAL_NUMBER.value or "NONE",
         "numeral_classifier": NUMERAL_CLASSIFIER.value or "NONE",
-        "tense_aspect": " ".join(TENSE_ASPECT_MARKING.value) or "NONE",
+        # "tense_aspect": " ".join(TENSE_ASPECT_MARKING.value) or "NONE",
+        # "tense_aspect": TENSE_ASPECT_MARKING.value or "NONE",
         "voice": VOICE.value or "NONE",
         "mood": MOOD.value or "NONE",
         "negation": NEGATION.value or "NONE",
@@ -830,20 +882,23 @@ def cumulative_morphosyntax_params():
     params.update(definiteness_params)
     params.update(person_params)
     params.update(number_params)
+    try:
+        params.update(tense_aspect_params)
+    except:
+        print("Error: dictionary update sequence element #0 has length 27; 2 is required", tense_aspect_params)
 
     return params
 
 
 def parse_str_to_dict(input_str: str) -> Dict[str, Any]:
     """
-    Parses a string representation of a BaseModel and returns an instance of the model.
+    Parses a string representation of a BaseModel and returns a Python dict.
 
     Args:
         input_str: The string representation of the BaseModel.
             It looks like `"category='example' value=1"` for `BaseModel(category='example', value=1)`.
 
-    Returns:
-        An instance of the BaseModel.
+    Returns: dict
     """
     pattern = re.compile(r"(\w+)=((?:\[[^\]]*\])|(?:'[^']*')|(?:\"[^\"]*\")|\S+)")
     result = {}

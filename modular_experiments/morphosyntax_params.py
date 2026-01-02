@@ -8,6 +8,10 @@ class Syntax(BaseModel):
         "VSO",
         description="The main word order of subject, object, and verb in the language.",
     )
+    oblique_word_order: Literal["VOX", "VXO", "XOV", "XVO", "OVX", "OXV"] = Field(
+        "VOX",
+        description="The word order of object, oblique, and verb in the language."
+    )
     adj_noun_word_order: Literal["AN", "NA"] = Field(
         "NA",
         description="The word order of adjectives and nouns in the language.",
@@ -263,6 +267,7 @@ def sample_params_ainu():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="SOV",
+            oblique_word_order="XOV",
             adj_noun_word_order="AN",
             posspron_noun_word_order="PossN",
             num_noun_word_order="NumN",
@@ -306,6 +311,7 @@ def sample_params_turkish():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="SOV",
+            oblique_word_order="XOV",
             adj_noun_word_order="AN",
             adposition_noun_word_order="NP",
             posspron_noun_word_order="PossN",
@@ -322,7 +328,6 @@ def sample_params_turkish():
             ),
             gender=None,
             definiteness=None,
-            definiteness_marking_strategy=None,
             adjective_agreement=None,
             comparative=Comparative(
                 comparative=["comparative", "superlative"],
@@ -360,7 +365,7 @@ def sample_params_turkish():
             negation="suffix",
             infinitive=Infinitive(
                 infinitive="infinitive",
-                infinitive_position="suffix"  # -mek/-mak
+                infinitive_marking_strategy="suffix"  # -mek/-mak
             ),
         )
     )
@@ -371,6 +376,7 @@ def sample_params_french():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="SVO",
+            oblique_word_order="VOX",
             adj_noun_word_order="NA",
             posspron_noun_word_order="PossN",
             num_noun_word_order="NumN",
@@ -428,7 +434,7 @@ def sample_params_french():
             negation="postpositional word", # pas
             infinitive=Infinitive(
                 infinitive="infinitive",
-                infinitive_position="suffix"  # -er
+                infinitive_marking_strategy="suffix"  # -er
             ),
         )
     )
@@ -439,6 +445,7 @@ def sample_params_arabic():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="VSO",
+            oblique_word_order="VOX",
             adj_noun_word_order="NA",
             posspron_noun_word_order="NPoss",
             num_noun_word_order="NumN",
@@ -505,6 +512,7 @@ def sample_params_arabic():
 def sample_params_welsh():
     """Sample feature set like (Colloquial) Welsh.
     We are not considering the consonant mutation system here.
+    Also, a lot of the grammar is simplified from actual Welsh.
 
     An example of a Welsh sentence:
     Ni  roddais         i   ddim    llyfr da    i   dad     Eleri   ddoe.
@@ -513,6 +521,7 @@ def sample_params_welsh():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="VSO",
+            oblique_word_order="VOX",
             adj_noun_word_order="NA",
             posspron_noun_word_order="NPoss",
             num_noun_word_order="NumN",
@@ -561,7 +570,10 @@ def sample_params_welsh():
                 relativizer_morpheme="word", # a or y
             ),
             negation="prepositional word",
-            infinitive=None,
+            infinitive=Infinitive(
+                infinitive="infinitive", # also called verbal noun/verbnoun
+                infinitive_marking_strategy="suffix"
+            ),
         )
     )
 
@@ -573,6 +585,7 @@ def sample_params_vietnamese():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="SVO",
+            oblique_word_order="VOX",
             adj_noun_word_order="NA",
             posspron_noun_word_order="NPoss",
             num_noun_word_order="NumN",
@@ -618,13 +631,14 @@ def sample_params_mizo():
     expressed as an ergative noun phrase, which comes before the absolutive
     object.
     For this conlang project, we experimentally change the word order to OSV
-    for convenience.
+    for convenience. 
 
     Reference: http://sealang.net/sala/archives/pdf8/chhangte1989grammar.pdf
     """
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="OSV",
+            oblique_word_order="XOV",
             adj_noun_word_order="NA",
             posspron_noun_word_order="PossN",
             num_noun_word_order="NNum",
@@ -636,12 +650,11 @@ def sample_params_mizo():
             pro_drop="pro-drop",
             case=Case(
                 case_marking=["ergative", "absolutive", "genitive", "instrumental"],
-                case_marking_strategy="postpositional word",
-                oblique_case_marking=None
+                case_marking_strategy="suffix",
+                oblique_case_marking="absolutive"
             ),
             gender=None,
             definiteness=None,
-            definiteness_marking_strategy="postpositional word",
             adjective_agreement=None,
             comparative=Comparative(
                 comparative=["comparative", "superlative"],
@@ -674,12 +687,16 @@ def sample_params_fijian():
     """Sample feature set like Fijian.
     Fijian is a SVO language with ergative-absolutive alignment.
     It has no inflectional morphology, so it is isolating.
+    Also, for `oblique_word_order`, WALS reports that Mizo
+    has no dominat order; for convenience, we borrow Malagasy's config (VOX)
+    which is also a VOS language.
 
     Reference: http://www.aa.tufs.ac.jp/elib/ltext/fji/pdf/a.pdf
     """
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="VOS",
+            oblique_word_order="VOX",
             adj_noun_word_order="NA",
             posspron_noun_word_order="NPoss",
             num_noun_word_order="NumN",
@@ -691,8 +708,11 @@ def sample_params_fijian():
             pro_drop="non-pro-drop",
             case=None,
             gender=None,
-            definiteness=None,
-            definiteness_marking_strategy=None,
+            definiteness=Definiteness(
+                definiteness=["definite"],
+                definiteness_marking_strategy="prepositional word",
+                definiteness_agreement=None,
+            ),
             adjective_agreement=None,
             comparative=Comparative(
                 comparative=["comparative", "superlative"],
@@ -742,6 +762,7 @@ def sample_params_hixkaryana():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="OVS",
+            oblique_word_order="OVX",
             adj_noun_word_order="AN",
             posspron_noun_word_order="PossN",
             num_noun_word_order="NumN",
@@ -754,7 +775,6 @@ def sample_params_hixkaryana():
             case=None,
             gender=None,
             definiteness=None,
-            definiteness_marking_strategy=None,
             adjective_agreement=None,
             comparative=Comparative(
                 comparative=["comparative", "superlative", "equative"],
@@ -834,6 +854,7 @@ def sample_params_hard():
     return Morphosyntax(
         syntax=Syntax(
             main_word_order="OSV",
+            oblique_word_order="OXV",
             adj_noun_word_order="NA",
             posspron_noun_word_order="NPoss",
             num_noun_word_order="NNum",
@@ -851,7 +872,7 @@ def sample_params_hard():
             gender=None,
             definiteness=Definiteness(
                 definiteness=["definite", "indefinite"],
-                definiteness_marking_strategy="suffix",
+                definiteness_marking_strategy="prefix",
                 definiteness_agreement=None,
             ),
             adjective_agreement=AdjectiveAgreement(
@@ -894,7 +915,7 @@ def sample_params_hard():
             negation="suffix",
             infinitive=Infinitive(
                 infinitive="infinitive",
-                infinitive_position="prefix"
+                infinitive_marking_strategy="prefix"
             ),
         )
     )

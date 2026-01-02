@@ -1,0 +1,9 @@
+. ./experiments/gpt-5/no-icl/arabic.sh
+. ./experiments/gpt-5/no-icl/fijian.sh
+. ./experiments/gpt-5/no-icl/french.sh
+. ./experiments/gpt-5/no-icl/hard.sh
+. ./experiments/gpt-5/no-icl/hixkaryana.sh
+. ./experiments/gpt-5/no-icl/mizo.sh
+. ./experiments/gpt-5/no-icl/turkish.sh
+. ./experiments/gpt-5/no-icl/vietnamese.sh
+. ./experiments/gpt-5/no-icl/welsh.sh
