@@ -14,7 +14,33 @@ from openai import OpenAI # for GPT models
 from google import genai # for Gemini models
 from time import sleep
 from typing import Union, Optional
-from vllm import LLM, SamplingParams
+if torch.cuda.is_available():
+    from vllm import LLM, SamplingParams
+else:
+    LLM = None
+    SamplingParams = None
+
+AVAILABLE_MODELS = [
+    "gpt-4o-mini",
+    "gpt-4o-2024-08-06",
+    "gpt-4-1106-preview",
+    "gpt-4.1", # $2/1M input, $8/1M output. Snapshot gpt-4.1-2025-04-14
+    "gpt5nano", #$ 0.05/1M input, $0.40/1M output
+    "gpt-5-nano", # alias
+    "gpt-5-mini", # $0.25/1M input, $2/1M output
+    "gpt-5", # 1.250/1M input, $10.00/1M output
+    "claude", # defaults to claude-sonnet-3-5
+    "claude-sonnet-3-5",
+    "claude-3-5-sonnet", # alias
+    "claude-sonnet-4-5", # $3/1M input, $15/1M output
+    "claude-4-5-sonnet", # alias
+    "gemini-2.5-flash", # 0.30/1M input, $2.50/1M output
+    "gemini-2.5-pro",
+]
+
+if LLM is not None:
+    AVAILABLE_MODELS += ["qwen", "llama"]
+
 
 CLAUDE_WAIT_TIME = flags.DEFINE_integer(
     "claude_wait_time",
@@ -24,25 +50,7 @@ CLAUDE_WAIT_TIME = flags.DEFINE_integer(
 MODEL = flags.DEFINE_enum(
     "model",
     "claude",
-    [
-        "gpt-4o-mini",
-        "gpt-4o-2024-08-06",
-        "gpt-4-1106-preview",
-        "gpt-4.1", # $2/1M input, $8/1M output. Snapshot gpt-4.1-2025-04-14
-        "gpt5nano", #$ 0.05/1M input, $0.40/1M output
-        "gpt-5-nano", # alias
-        "gpt-5-mini", # $0.25/1M input, $2/1M output
-        "gpt-5", # 1.250/1M input, $10.00/1M output
-        "claude", # defaults to claude-sonnet-3-5
-        "claude-sonnet-3-5",
-        "claude-3-5-sonnet", # alias
-        "claude-sonnet-4-5", # $3/1M input, $15/1M output
-        "claude-4-5-sonnet", # alias
-        "qwen",
-        "llama",
-        "gemini-2.5-flash", # 0.30/1M input, $2.50/1M output
-        "gemini-2.5-pro"
-    ],
+    AVAILABLE_MODELS,
     "Model to use for eval",
 )
 OPEN_AI_API_KEY = flags.DEFINE_string(
@@ -56,11 +64,21 @@ QWEN_PATH = "Qwen/Qwen2.5-72B-Instruct-GPTQ-Int4"
 
 LLAMA_PATH = "unsloth/Llama-3.3-70B-Instruct-bnb-4bit"
 
-LLMClient = Union[LLM, OpenAI, botocore.client.BaseClient]
+LLMClient = Union[
+    LLM if LLM else type(LLM),
+    OpenAI,
+    botocore.client.BaseClient,
+]
 
 model_names = {
     "gpt5nano": "gpt-5-nano-2025-08-07",
 }
+
+
+def _check_cuda(model):
+    if LLM is None:
+        msg = f"CUDA must be available for {model}"
+        raise ValueError(msg)
 
 
 def llm_predict(
@@ -137,6 +155,7 @@ def llm_predict(
 
         return wrap_claude_call(messages, model_id, max_tokens)
     elif model_name in ["qwen", "llama"]:
+        _check_cuda(model_name)
         tokenizer = client.get_tokenizer()
         sampling_params = SamplingParams(
             temperature=TEMPERATURE.value,
@@ -232,8 +251,10 @@ def client() -> LLMClient:
             config=config,
         )
     elif MODEL.value == "qwen":
+        _check_cuda(MODEL.value)
         return LLM(model=QWEN_PATH, quantization="gptq_marlin")
     elif MODEL.value == "llama":
+        _check_cuda(MODEL.value)
         return LLM(
             model=LLAMA_PATH,
             dtype=torch.bfloat16,
