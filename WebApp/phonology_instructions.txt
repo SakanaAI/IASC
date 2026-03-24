@@ -1,0 +1,64 @@
+INTRO
+
+We are going to develop an interactive web app based on the Interactive Agentic
+System for ConLangs.
+
+PHONOTACTICS
+
+We will start with the phonotactics component, where the system will help the
+user design the phonotactics for the language based on a target language.
+
+A sample script can be found in
+
+modular_experiments/controlled_phonology_claude.sh
+
+which calls the setup script in
+
+modular_experiments/run_phonology.py
+
+This controls the target language upon which to model the phonotactics, the
+interface to the LLM, and the number of refinement iterations to use.
+
+You will first need to read that code to understand how it works.
+
+Then create a web interface where the user can input a target language, the
+number of iterations to run for (set a reasonable default such as 10), and an
+interface for the user to provide details (securely!) for LLM keys and so
+forth. Note that the current interface to Anthropic models uses BotoCore.  See
+llm/llm.py for details on the current setup.
+
+Note that each iteration will output a text file, e.g.
+
+phonotactics_00.txt
+
+and (unless there was an error), the corresponding python file
+
+phonotactics_00.py
+
+The text file will generally contain some information about the model's
+reasoning, and at later stages what it decided to change.
+
+See, e.g.,
+
+other_experiments_for_paper/outputs/claude/phonology/Welsh
+
+for examples.
+
+WHAT SHOULD BE RETURNED TO THE USER
+
+In what gets returned to the user, the output should show the set of phonemes,
+arranged neatly into consonants and vowels, along with some discussion (based on
+the LLM's responses) of why the system arrived at the set that it did.
+
+A list of sample words should also be returned, based on the final Python file.
+
+Ultimately we'd like to make it interactive so that users can edit the output if
+they are not happy with one or another feature, and for that we will need a way
+to update the Python generator.
+
+One caveat is that the user may not be an expert linguist, so you should bear
+that in mind when constructing the user-facing parts.
+
+WHERE TO PUT THE CODE
+
+All code should be placed in the directory WebApp.

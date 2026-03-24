@@ -1,0 +1,19 @@
+There are several improvements needed in this interface.
+
+First of all the display of the phonemes looks very ugly. See the screenshot in
+"scratch/ugly.jpg" for an example of what I am talking about.
+
+Second for the logo at the top, please use the PNG file "redfish.png".
+
+For the main title for the word IASC use the logo in the parent directory
+"iasc.png".
+
+Since the user is only using one LLM at a time, can you change the access key
+boxes so that the user has a box for entering credentials for only the LLM they
+are currently using?
+
+At the bottom, under "generation process". Can you separate out the LLM's output
+into two panels.
+
+1) The LLM's notes (if any) which appear outside the <OUTPUT></OUTPUT> tags.
+2) The Python code (inside the <OUTPUT></OUTPUT>) tags.

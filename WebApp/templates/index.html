@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IASC Phonotactics Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo-section">
+                <img src="{{ url_for('static', filename='redfish.png') }}" alt="Logo" class="header-logo">
+            </div>
+            <h1>
+                <img src="{{ url_for('static', filename='iasc.png') }}" alt="IASC" class="title-logo">
+                Phonotactics Generator
+            </h1>
+            <p class="subtitle">Create phonological systems for constructed languages using AI</p>
+        </header>
+
+        <div class="main-content">
+            <!-- Configuration Panel -->
+            <div class="panel config-panel">
+                <h2>Configuration</h2>
+
+                <div class="form-group">
+                    <label for="language">Target Language</label>
+                    <select id="language" class="form-control">
+                        {% for lang in languages %}
+                        <option value="{{ lang }}">{{ lang }}</option>
+                        {% endfor %}
+                    </select>
+                    <small class="help-text">The phonological system will be modeled after this language</small>
+                </div>
+
+                <div class="form-group">
+                    <label for="iterations">Number of Iterations</label>
+                    <div class="number-input-wrapper">
+                        <input type="number" id="iterations" class="form-control" value="10" min="1" max="50">
+                        <div class="number-controls">
+                            <button type="button" class="number-btn" onclick="incrementIterations()">▲</button>
+                            <button type="button" class="number-btn" onclick="decrementIterations()">▼</button>
+                        </div>
+                    </div>
+                    <small class="help-text">More iterations = more refinement (1-50)</small>
+                </div>
+
+                <div class="form-group">
+                    <label for="model">Language Model</label>
+                    <select id="model" class="form-control">
+                        <option value="claude">Claude (Anthropic)</option>
+                        <option value="gpt-4o-mini">GPT-4o Mini</option>
+                        <option value="gpt-5">GPT-5</option>
+                        <option value="gemini-2.5-flash">Gemini 2.5 Flash</option>
+                        <option value="gemini-2.5-pro">Gemini 2.5 Pro</option>
+                    </select>
+                </div>
+
+                <!-- API Keys Section (Collapsible) -->
+                <div class="api-keys-section">
+                    <button type="button" class="btn-link" id="toggleApiKeys">
+                        🔑 Configure API Keys (Optional)
+                    </button>
+
+                    <div id="apiKeysPanel" class="api-keys-panel" style="display: none;">
+                        <p class="info-box">
+                            <strong>Note:</strong> API keys can be provided here or via environment variables.
+                            Keys entered here are only used for this session and are not stored.
+                        </p>
+
+                        <!-- Claude API Keys -->
+                        <div id="claudeKeys" class="api-key-group">
+                            <h4 class="api-key-header">Claude (via AWS Bedrock)</h4>
+                            <div class="form-group">
+                                <label for="awsAccessKey">AWS Access Key ID</label>
+                                <input type="password" id="awsAccessKey" class="form-control" placeholder="Optional">
+                            </div>
+
+                            <div class="form-group">
+                                <label for="awsSecretKey">AWS Secret Access Key</label>
+                                <input type="password" id="awsSecretKey" class="form-control" placeholder="Optional">
+                            </div>
+                        </div>
+
+                        <!-- OpenAI API Keys -->
+                        <div id="openaiKeys" class="api-key-group" style="display: none;">
+                            <h4 class="api-key-header">OpenAI (GPT Models)</h4>
+                            <div class="form-group">
+                                <label for="openaiKey">OpenAI API Key</label>
+                                <input type="password" id="openaiKey" class="form-control" placeholder="Optional">
+                            </div>
+                        </div>
+
+                        <!-- Gemini API Keys -->
+                        <div id="geminiKeys" class="api-key-group" style="display: none;">
+                            <h4 class="api-key-header">Google Gemini</h4>
+                            <div class="form-group">
+                                <label for="geminiKey">Gemini API Key</label>
+                                <input type="password" id="geminiKey" class="form-control" placeholder="Optional">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <button id="generateBtn" class="btn btn-primary">
+                    Generate Phonotactics
+                </button>
+
+                <div id="progressArea" class="progress-area" style="display: none;">
+                    <div class="spinner"></div>
+                    <p id="progressText">Generating phonotactics...</p>
+                    <small id="progressDetail">This may take several minutes</small>
+                </div>
+            </div>
+
+            <!-- Results Panel -->
+            <div class="panel results-panel" id="resultsPanel" style="display: none;">
+                <h2>Results</h2>
+
+                <!-- Phoneme Inventory -->
+                <div class="result-section">
+                    <h3>📝 Phoneme Inventory</h3>
+
+                    <div class="phoneme-tables">
+                        <div class="phoneme-table-container">
+                            <h4>Consonants</h4>
+                            <table class="phoneme-table" id="consonantsTable">
+                                <thead>
+                                    <tr>
+                                        <th>Phoneme</th>
+                                        <th>Frequency</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="consonants"></tbody>
+                            </table>
+                        </div>
+
+                        <div class="phoneme-table-container">
+                            <h4>Vowels</h4>
+                            <table class="phoneme-table" id="vowelsTable">
+                                <thead>
+                                    <tr>
+                                        <th>Phoneme</th>
+                                        <th>Frequency</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="vowels"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Sample Words -->
+                <div class="result-section">
+                    <h3>🎲 Sample Words</h3>
+                    <div id="sampleWords" class="sample-words"></div>
+                </div>
+
+                <!-- LLM Reasoning -->
+                <div class="result-section">
+                    <h3>🧠 Generation Process</h3>
+                    <div class="tabs">
+                        <div class="tab-buttons" id="iterationTabs"></div>
+
+                        <!-- Two-panel display for notes and code -->
+                        <div class="output-panels">
+                            <div class="output-panel">
+                                <h4>💭 LLM Notes & Reasoning</h4>
+                                <div class="tab-content notes-content" id="iterationNotes"></div>
+                            </div>
+                            <div class="output-panel">
+                                <h4>📝 Generated Python Code</h4>
+                                <div class="tab-content code-content" id="iterationCode"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Download Section -->
+                <div class="result-section">
+                    <h3>💾 Download Files</h3>
+                    <p>Download the generated Python phonotactics generator:</p>
+                    <button id="downloadBtn" class="btn btn-secondary">
+                        Download Final Generator (.py)
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>
+                IASC: Interactive Agentic System for ConLangs |
+                <a href="https://arxiv.org/abs/2510.07591" target="_blank">Research Paper</a>
+            </p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
