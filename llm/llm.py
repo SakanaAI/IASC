@@ -29,11 +29,11 @@ AVAILABLE_MODELS = [
     "gpt-5-nano", # alias
     "gpt-5-mini", # $0.25/1M input, $2/1M output
     "gpt-5", # 1.250/1M input, $10.00/1M output
-    "claude", # defaults to claude-sonnet-3-5
-    "claude-sonnet-3-5",
-    "claude-3-5-sonnet", # alias
+    "claude", # defaults to claude-sonnet-4-5
     "claude-sonnet-4-5", # $3/1M input, $15/1M output
     "claude-4-5-sonnet", # alias
+    "claude-sonnet-4-6", #
+    "claude-4-6-sonnet", #
     "gemini-2.5-flash", # 0.30/1M input, $2.50/1M output
     "gemini-2.5-pro",
 ]
@@ -101,11 +101,10 @@ def llm_predict(
       The LLM response as a string.
     """
     if "claude" in model_name:
-    # if model_name == "claude":
-        if model_name in {"claude", "claude-3-5-sonnet", "claude-sonnet-3-5"}:
-            model_id = "us.anthropic.claude-3-5-sonnet-20240620-v1:0"
-        elif model_name in {"claude-4-5-sonnet", "claude-sonnet-4-5"}:
-            model_id = "us.anthropic.claude-sonnet-4-5-20250929-v1:0"
+        if model_name in {"claude", "claude-4-5-sonnet", "claude-sonnet-4-5"}:
+            model_id = "global.anthropic.claude-sonnet-4-5-20250929-v1:0"
+        elif model_name in {"claude-4-6-sonnet", "claude-sonnet-4-6"}:
+            model_id = "global.anthropic.claude-sonnet-4-6"
         # Does this do anything?
         resource_arn = f"arn:aws:bedrock:us-east-1::foundation-model/{model_id}"
         # Claude does not like conversations that start with a system/assistant
@@ -136,7 +135,8 @@ def llm_predict(
                         messages=messages,
                         inferenceConfig={
                             "maxTokens": max_tokens,
-                            "temperature": TEMPERATURE.value,
+                            # Can't have both temp and topP w/ later Claude models
+                            # "temperature": TEMPERATURE.value,
                             "topP": 1.0,
                         },
                     )
