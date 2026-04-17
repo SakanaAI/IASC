@@ -234,6 +234,40 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str) ->
             font-weight: 700;
         }
 
+        .authors {
+            display: flex;
+            gap: 60px;
+            justify-content: center;
+            margin: 25px 0;
+            flex-wrap: wrap;
+        }
+
+        .author {
+            text-align: center;
+        }
+
+        .author-name {
+            font-size: 1.1em;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            margin-bottom: 5px;
+        }
+
+        .author-name a {
+            color: #1a1a1a;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .author-name a:hover {
+            color: #667eea;
+        }
+
+        .author-affiliation {
+            font-size: 0.9em;
+            color: #666;
+        }
+
         .links {
             margin-top: 25px;
             display: flex;
@@ -479,6 +513,16 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str) ->
         <header>
             <img src="{logo_data_uri}" alt="IASC Logo" class="logo">
             <h1>IASC: Interactive Agentic System for ConLangs</h1>
+            <div class="authors">
+                <div class="author">
+                    <div class="author-name"><a href="https://ctaguchi.github.io/" target="_blank">Chihiro Taguchi</a></div>
+                    <div class="author-affiliation">Sakana AI, Notre Dame University</div>
+                </div>
+                <div class="author">
+                    <div class="author-name"><a href="https://rws.xoba.com" target="_blank">Richard Sproat</a></div>
+                    <div class="author-affiliation">Sakana AI</div>
+                </div>
+            </div>
             <div class="links">
                 <a href="https://github.com/SakanaAI/IASC/" target="_blank">📦 GitHub Repository</a>
                 <a href="https://arxiv.org/abs/2510.07591" target="_blank">📄 arXiv Paper</a>
