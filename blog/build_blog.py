@@ -182,7 +182,7 @@ def format_handbook_section(section_name: str, content: str) -> str:
     return html
 
 
-def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str) -> str:
+def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, redfish_data_uri: str) -> str:
     """Generate the complete HTML page"""
 
     html = """<!DOCTYPE html>
@@ -223,6 +223,12 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str) ->
 
         .logo {
             width: 150px;
+            height: auto;
+            margin-bottom: 20px;
+        }
+
+        .redfish-logo {
+            width: 100px;
             height: auto;
             margin-bottom: 20px;
         }
@@ -535,6 +541,7 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str) ->
     <div class="container">
         <header>
             <img src="{logo_data_uri}" alt="IASC Logo" class="logo">
+            <img src="{redfish_data_uri}" alt="Redfish Logo" class="redfish-logo">
             <h1>IASC: Interactive Agentic System for ConLangs</h1>
             <div class="authors">
                 <div class="author">
@@ -618,8 +625,9 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str) ->
 </html>
 """
 
-    # Replace the logo placeholder with the actual data URI
+    # Replace the logo placeholders with the actual data URIs
     html = html.replace('{logo_data_uri}', logo_data_uri)
+    html = html.replace('{redfish_data_uri}', redfish_data_uri)
 
     return html
 
@@ -630,11 +638,13 @@ def main():
     handbooks_dir = repo_root / 'handbooks'
     readme_path = repo_root / 'README.md'
     logo_path = repo_root / 'iasc.png'
+    redfish_path = Path(__file__).parent / 'redfish.png'
     output_path = Path(__file__).parent / 'index.html'
 
-    # Convert logo to base64 data URI
-    print("Embedding logo...")
+    # Convert logos to base64 data URIs
+    print("Embedding logos...")
     logo_data_uri = image_to_base64(str(logo_path))
+    redfish_data_uri = image_to_base64(str(redfish_path))
 
     # Extract intro text
     intro_text = extract_intro_text(str(readme_path))
@@ -653,7 +663,7 @@ def main():
     print(f"Found {len(handbooks)} handbooks")
 
     # Generate HTML
-    html = generate_html(intro_text, handbooks, logo_data_uri)
+    html = generate_html(intro_text, handbooks, logo_data_uri, redfish_data_uri)
 
     # Write output
     with open(output_path, 'w', encoding='utf-8') as f:
