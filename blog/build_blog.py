@@ -199,7 +199,7 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, re
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+            font-family: Georgia, 'Times New Roman', Times, serif;
             line-height: 1.6;
             color: #333;
             background: linear-gradient(135deg, #fafbfc 0%, #f0f4f8 100%);
@@ -234,6 +234,7 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, re
         }
 
         h1 {
+            font-family: Georgia, 'Times New Roman', Times, serif;
             font-size: 2.5em;
             color: #1a1a1a;
             margin-bottom: 20px;
