@@ -228,7 +228,7 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, re
         }
 
         .redfish-logo {
-            width: 100px;
+            width: 50px;
             height: auto;
             margin-bottom: 20px;
         }
