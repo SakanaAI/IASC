@@ -20,7 +20,7 @@ languages.
 Or, second, one might think of fantasy languages, such as the languages of
 Tolkien’s Middle Earth---Elvish (Quenya) or the language of Mordor. Again, these
 are artificial languages that nonetheless bear a strong resemblance to natural
-languages. Quenya, for example, looks very Finno-Ugri: see
+languages. Quenya, for example, looks very Finno-Ugric: see
 [https://en.wikipedia.org/wiki/Finnish_influences_on_Tolkien](https://en.wikipedia.org/wiki/Finnish_influences_on_Tolkien).
 
 A third category are invented alien languages, such as Klingon or Vulcan from
