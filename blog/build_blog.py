@@ -611,7 +611,7 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, re
     html += """        </div>
 
         <footer>
-            <p>© 2024 Sakana AI. Generated with IASC.</p>
+            <p>© 2026 and onwards Sakana AI.</p>
         </footer>
     </div>
 
