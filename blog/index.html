@@ -171,8 +171,31 @@
             user-select: none;
         }
 
+        /* Rainbow colors for handbook headers */
+        .handbook:nth-child(7n+1) .handbook-header {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); /* Pink-Red */
+        }
+        .handbook:nth-child(7n+2) .handbook-header {
+            background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); /* Pink-Yellow */
+        }
+        .handbook:nth-child(7n+3) .handbook-header {
+            background: linear-gradient(135deg, #ffd89b 0%, #19547b 100%); /* Yellow-Blue */
+        }
+        .handbook:nth-child(7n+4) .handbook-header {
+            background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); /* Cyan-Pink */
+        }
+        .handbook:nth-child(7n+5) .handbook-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); /* Purple */
+        }
+        .handbook:nth-child(7n+6) .handbook-header {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); /* Blue-Cyan */
+        }
+        .handbook:nth-child(7n+7) .handbook-header {
+            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); /* Green-Cyan */
+        }
+
         .handbook-header:hover {
-            background: linear-gradient(135deg, #5568d3 0%, #6a4291 100%);
+            opacity: 0.9;
         }
 
         .handbook-title {
