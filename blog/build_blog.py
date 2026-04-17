@@ -539,7 +539,13 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str) ->
     # Add intro paragraphs
     for para in intro_text.split('\n\n'):
         if para.strip():
-            html += f"            <p>{para.strip()}</p>\n"
+            # Convert markdown links [text](url) to HTML <a href="url">text</a>
+            para_html = re.sub(
+                r'\[([^\]]+)\]\(([^\)]+)\)',
+                r'<a href="\2" target="_blank">\1</a>',
+                para.strip()
+            )
+            html += f"            <p>{para_html}</p>\n"
 
     html += """        </div>
 
