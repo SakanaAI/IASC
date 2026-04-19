@@ -560,6 +560,7 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, re
             <div class="links">
                 <a href="https://github.com/SakanaAI/IASC/" target="_blank">📦 GitHub Repository</a>
                 <a href="https://arxiv.org/abs/2510.07591" target="_blank">📄 arXiv Paper</a>
+                <a href="https://huggingface.co/datasets/ctaguchi/conlang_eval_dataset" target="_blank">🤗 HuggingFace Dataset</a>
             </div>
         </header>
 
