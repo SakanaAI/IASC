@@ -182,7 +182,7 @@ def format_handbook_section(section_name: str, content: str) -> str:
     return html
 
 
-def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, redfish_data_uri: str) -> str:
+def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, redfish_data_uri: str, diagram_data_uri: str) -> str:
     """Generate the complete HTML page"""
 
     html = """<!DOCTYPE html>
@@ -315,19 +315,19 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, re
             color: #444;
         }
 
-        .diagram-placeholder {
-            background: linear-gradient(135deg, #e0e7ff 0%, #cfe0ff 100%);
-            padding: 80px 40px;
-            border-radius: 12px;
+        .diagram-container {
             text-align: center;
             margin-bottom: 40px;
-            border: 2px dashed #667eea;
+            padding: 20px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 20px rgba(0,0,0,0.08);
         }
 
-        .diagram-placeholder p {
-            color: #667eea;
-            font-size: 1.2em;
-            font-weight: 500;
+        .diagram-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
         }
 
         .handbooks-section {
@@ -560,8 +560,8 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, re
             </div>
         </header>
 
-        <div class="diagram-placeholder">
-            <p>🔧 System Diagram Placeholder</p>
+        <div class="diagram-container">
+            <img src="{diagram_data_uri}" alt="ConLang Generation Flow Diagram" class="diagram-image">
         </div>
 
         <div class="intro">
@@ -626,9 +626,10 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, re
 </html>
 """
 
-    # Replace the logo placeholders with the actual data URIs
+    # Replace the placeholders with the actual data URIs
     html = html.replace('{logo_data_uri}', logo_data_uri)
     html = html.replace('{redfish_data_uri}', redfish_data_uri)
+    html = html.replace('{diagram_data_uri}', diagram_data_uri)
 
     return html
 
@@ -640,12 +641,14 @@ def main():
     readme_path = repo_root / 'README.md'
     logo_path = repo_root / 'iasc.png'
     redfish_path = Path(__file__).parent / 'redfish.png'
+    diagram_path = Path(__file__).parent / 'conlang_flow.png'
     output_path = Path(__file__).parent / 'index.html'
 
-    # Convert logos to base64 data URIs
-    print("Embedding logos...")
+    # Convert images to base64 data URIs
+    print("Embedding images...")
     logo_data_uri = image_to_base64(str(logo_path))
     redfish_data_uri = image_to_base64(str(redfish_path))
+    diagram_data_uri = image_to_base64(str(diagram_path))
 
     # Extract intro text
     intro_text = extract_intro_text(str(readme_path))
@@ -664,7 +667,7 @@ def main():
     print(f"Found {len(handbooks)} handbooks")
 
     # Generate HTML
-    html = generate_html(intro_text, handbooks, logo_data_uri, redfish_data_uri)
+    html = generate_html(intro_text, handbooks, logo_data_uri, redfish_data_uri, diagram_data_uri)
 
     # Write output
     with open(output_path, 'w', encoding='utf-8') as f:
