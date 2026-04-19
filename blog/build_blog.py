@@ -322,10 +322,13 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, re
             background: white;
             border-radius: 12px;
             box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
         }
 
         .diagram-image {
-            max-width: 75%;
+            width: 100%;
             height: auto;
             border-radius: 8px;
         }
