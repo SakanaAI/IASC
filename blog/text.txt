@@ -36,15 +36,15 @@ language</a>.
 
 <p>
 
-This paper introduces IASC, an <em>Interactive Agentic System for ConLangs</em>,
-a system that enables users to customize linguistic parameters to design their
-own ConLang with a large language model (LLM). The system consists of modules
-for phonology, morphosyntax, lexicon creation, orthography, and grammatical
-handbook writing, with each module being responsible for generating linguistic
-rules or transformed output that follow high-level specifications given by the
-user. For some modules, the output can be refined agentically using
-automatically generated feedback on a previous step. The system's workflow is
-illustrated in the above figure.
+We introduce IASC, an <em>Interactive Agentic System for ConLangs</em>, a system
+that enables users to customize linguistic parameters to design their own
+ConLang with a large language model (LLM). The system consists of modules for
+phonology, morphosyntax, lexicon creation, orthography, and grammatical handbook
+writing, with each module being responsible for generating linguistic rules or
+transformed output that follow high-level specifications given by the user. For
+some modules, the output can be refined agentically using automatically
+generated feedback on a previous step. The system's workflow is illustrated in
+the above figure.
 
 </p>
 
