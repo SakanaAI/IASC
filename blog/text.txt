@@ -28,7 +28,8 @@ the Star Trek franchise which, at least in principle, were designed to be
 somewhat unlike typical human languages in their construction.  Finally, there
 is a fourth category of languages that are supposed to be based on "logical"
 principles, such as LogLan or John Wilkins' <a
-href="https://en.wikipedia.org/wiki/An_Essay_Towards_a_Real_Character,_and_a_Philosophical_Language">philosophical
+href="https://en.wikipedia.org/wiki/An_Essay_Towards_a_Real_Character,_and_a_Philosophical_Language"
+target="_blank">philosophical
 language</a>.
 
 </p>
