@@ -1,0 +1,9 @@
+<h2>tl;dr</h2>
+
+<p>
+
+We present IASC, an <em>Interactive Agentic System for ConLangs</em>
+(constructed languages). We use the system as a benchmark for probing the
+metalinguistic abilities of Large Language Models.
+
+</p>

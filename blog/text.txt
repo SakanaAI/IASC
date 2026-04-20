@@ -1,0 +1,87 @@
+<p>
+
+The term 'Constructed Language'&mdash;often shortened to 'ConLang'&mdash;is used
+to refer to any artificially created language that is intended, in principle, to
+be as expressive as naturally evolved human languages. The latter restriction is
+important since ConLangs are to be distinguished from artificial languages, such
+as mathematical symbology, which are artificial languages (at least in the
+formal sense of language) to be sure, but which are much more limited in the
+kinds of messages they can convey.
+
+</p>
+
+<p>
+
+When people think of ConLangs, the first things that come to mind may be
+languages like Esperanto or Interlingua, which are artificial languages designed
+to be like natural languages, though with fewer of the grammaical complexities
+one often finds in real natural languages. ConLangs in this category were
+intended by their creators to serve as substitutes for naturally evolved
+languages.  Or, second, one might think of fantasy languages, such as the
+languages of Tolkien’s Middle Earth&mdash;Elvish (Quenya) or the language of
+Mordor. Again, these are artificial languages that nonetheless bear a strong
+resemblance to natural languages. Quenya, for example, looks very Finno-Ugric:
+see <a href="https://en.wikipedia.org/wiki/Finnish_influences_on_Tolkien"
+target="_blank">https://en.wikipedia.org/wiki/Finnish_influences_on_Tolkien</a>.
+A third category are invented alien languages, such as Klingon or Vulcan from
+the Star Trek franchise which, at least in principle, were designed to be
+somewhat unlike typical human languages in their construction.  Finally, there
+is a fourth category of languages that are supposed to be based on "logical"
+principles, such as LogLan or John Wilkins' <a
+href="https://en.wikipedia.org/wiki/An_Essay_Towards_a_Real_Character,_and_a_Philosophical_Language">philosophical
+language</a>.
+
+</p>
+
+<p>
+
+This paper introduces IASC, an <em>Interactive Agentic System for ConLangs</em>,
+a system that enables users to customize linguistic parameters to design their
+own ConLang with a large language model (LLM). The system consists of modules
+for phonology, morphosyntax, lexicon creation, orthography, and grammatical
+handbook writing, with each module being responsible for generating linguistic
+rules or transformed output that follow high-level specifications given by the
+user. For some modules, the output can be refined agentically using
+automatically generated feedback on a previous step. The system's workflow is
+illustrated in the above figure.
+
+</p>
+
+<p>
+
+IASC presents a unique challenge for LLMs as the workflow requires deep
+metalinguistic knowledge for each module. That is, the model needs not only to
+know encyclopedic facts about languages and linguistic features but also to
+explicitly understand abstract linguistic concepts and manipulate language based
+on grammatical rules. For example, suppose that a user wants to construct a
+language with a Verb-Subject-Object word order and has an input sentence <em>the
+cat caught the fish.</em> Then, the morphosyntax module of the system should
+ideally output <em>caught the cat the fish.</em> This sort of linguistic
+transformation requires strong metalinguistic reasoning skills beyond mere
+encyclopedic knowledge about languages.
+
+</p>
+
+<p>
+
+We present IASC as an engaging, flexible, and reproducible tool for designing
+pand generating unique ConLangs. Second, given the challenging nature of IASC's
+linguistic transformations, we use the morphosyntax module of the system as a
+benchmark to probe and evaluate the metalinguistic grammatical knowledge of
+LLMs. Breaking down the problem into targeted tasks, such as setting word order
+and case marking, makes it easy to evaluate whether LLMs can be induced to
+produce outputs that conform to expectations. For this task, we construct an
+evaluation dataset that tests nine different morphosyntactic configurations with
+typologically diverse sets of features. As we will see, LLMs show a range of
+abilities that to some degree seem to relate to how frequent and well-documented
+a linguistic phenomenon is in the published literature, and how well the feature
+is likely to be supported in the system's training data.
+
+</p>
+
+<p>
+
+Below we present some examples of the handbooks written for languages we have
+generated using IASC.
+
+</p>

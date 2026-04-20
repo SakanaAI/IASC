@@ -32,19 +32,10 @@ def image_to_base64(image_path: str) -> str:
     return f'data:{mime_type};base64,{encoded}'
 
 
-def extract_intro_text(readme_path: str) -> str:
-    """Extract the intro text from README.md"""
-    with open(readme_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-
-    # Extract text from "# IASC: Interactive Agentic System for ConLangs" section
-    # until the next # heading
-    pattern = r'# IASC: Interactive Agentic System for ConLangs\n\n(.*?)\n\n#'
-    match = re.search(pattern, content, re.DOTALL)
-
-    if match:
-        return match.group(1).strip()
-    return ""
+def read_text_file(filepath: str) -> str:
+    """Read a text file and return its contents"""
+    with open(filepath, 'r', encoding='utf-8') as f:
+        return f.read().strip()
 
 
 def parse_handbook_filename(filename: str) -> Tuple[str, str, str]:
@@ -182,7 +173,7 @@ def format_handbook_section(section_name: str, content: str) -> str:
     return html
 
 
-def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, redfish_data_uri: str, diagram_data_uri: str) -> str:
+def generate_html(intro_text: str, tldr_text: str, handbooks: List[Dict], logo_data_uri: str, redfish_data_uri: str, diagram_data_uri: str) -> str:
     """Generate the complete HTML page"""
 
     html = """<!DOCTYPE html>
@@ -299,6 +290,28 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, re
         .links a:hover {
             transform: translateY(-2px);
             box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        .tldr {
+            background: white;
+            padding: 30px 40px;
+            border-radius: 12px;
+            margin-bottom: 40px;
+            box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+            line-height: 1.8;
+        }
+
+        .tldr h2 {
+            text-align: center;
+            font-size: 1.3em;
+            margin-bottom: 20px;
+            color: #667eea;
+            font-weight: 600;
+        }
+
+        .tldr p {
+            margin-bottom: 15px;
+            color: #444;
         }
 
         .intro {
@@ -564,6 +577,14 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, re
             </div>
         </header>
 
+        <div class="tldr">
+"""
+
+    # Add tldr content (it already contains HTML)
+    html += tldr_text
+
+    html += """        </div>
+
         <div class="diagram-container">
             <img src="{diagram_data_uri}" alt="ConLang Generation Flow Diagram" class="diagram-image">
         </div>
@@ -571,16 +592,8 @@ def generate_html(intro_text: str, handbooks: List[Dict], logo_data_uri: str, re
         <div class="intro">
 """
 
-    # Add intro paragraphs
-    for para in intro_text.split('\n\n'):
-        if para.strip():
-            # Convert markdown links [text](url) to HTML <a href="url">text</a>
-            para_html = re.sub(
-                r'\[([^\]]+)\]\(([^\)]+)\)',
-                r'<a href="\2" target="_blank">\1</a>',
-                para.strip()
-            )
-            html += f"            <p>{para_html}</p>\n"
+    # Add intro content (it already contains HTML)
+    html += intro_text
 
     html += """        </div>
 
@@ -642,10 +655,11 @@ def main():
     # Paths
     repo_root = Path(__file__).parent.parent
     handbooks_dir = repo_root / 'handbooks'
-    readme_path = repo_root / 'README.md'
     logo_path = repo_root / 'iasc.png'
     redfish_path = Path(__file__).parent / 'redfish.png'
     diagram_path = Path(__file__).parent / 'conlang_flow.png'
+    text_path = Path(__file__).parent / 'text.txt'
+    tldr_path = Path(__file__).parent / 'tldr.txt'
     output_path = Path(__file__).parent / 'index.html'
 
     # Convert images to base64 data URIs
@@ -654,8 +668,9 @@ def main():
     redfish_data_uri = image_to_base64(str(redfish_path))
     diagram_data_uri = image_to_base64(str(diagram_path))
 
-    # Extract intro text
-    intro_text = extract_intro_text(str(readme_path))
+    # Read text content
+    intro_text = read_text_file(str(text_path))
+    tldr_text = read_text_file(str(tldr_path))
 
     # Parse all handbooks
     handbooks = []
@@ -671,7 +686,7 @@ def main():
     print(f"Found {len(handbooks)} handbooks")
 
     # Generate HTML
-    html = generate_html(intro_text, handbooks, logo_data_uri, redfish_data_uri, diagram_data_uri)
+    html = generate_html(intro_text, tldr_text, handbooks, logo_data_uri, redfish_data_uri, diagram_data_uri)
 
     # Write output
     with open(output_path, 'w', encoding='utf-8') as f:
