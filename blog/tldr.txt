@@ -9,5 +9,5 @@ metalinguistic abilities of Large Language Models.
 </p>
 
 <p>
-Fun fact: <em>iasc</em> is `fish' in Irish.
+Fun fact: <em>iasc</em> is <em>fish</em>/魚/<em>sakana</em> in Irish.
 </p>
